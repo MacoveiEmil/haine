@@ -1,0 +1,12 @@
+/*
+Theme Name: Hainute
+Theme URI: https://hainute.ro
+Author: hainute.ro
+Description: Custom lightweight theme for the hainute.ro kids' clothing & footwear aggregator. Display layer only — data lives in the hainute-core plugin.
+Version: 0.2.0
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+Text Domain: hainute
+*/
+
+/* Styles are enqueued from assets/css/main.css — this file exists for the theme header. */

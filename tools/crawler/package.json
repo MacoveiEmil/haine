@@ -1,0 +1,14 @@
+{
+  "name": "hainute-crawler",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Îmbogățire mărimi/disponibilitate din paginile magazinelor (JSON-LD) pentru hainute.ro",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test-answear.js",
+    "crawl": "node answear.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^23.0.0"
+  }
+}

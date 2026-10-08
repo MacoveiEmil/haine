@@ -1,0 +1,202 @@
+<?php
+/**
+ * Monitorizare utilizatori: vizite (ce pagini), sursa traficului (facebook,
+ * instagram, google...), click-uri pe magazine (afiliate + externe).
+ *
+ * Conversiile (comenzile) NU se pot urmări pe site-ul nostru — se întâmplă pe
+ * site-ul magazinului. Ele vin din dashboard-ul rețelei de afiliere (CJ/2P/
+ * Profitshare) sau printr-un postback dacă rețeaua îl suportă. Aici măsurăm ce
+ * putem: intrări, sursă și click-uri outbound (intenția de cumpărare).
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
+function hainute_events_table() {
+	global $wpdb;
+	return $wpdb->prefix . 'hainute_events';
+}
+
+/** Creează tabelul de evenimente (o dată). */
+function hainute_analytics_install() {
+	global $wpdb;
+	$table   = hainute_events_table();
+	if ( get_option( 'hainute_events_installed' ) === '1' && $wpdb->get_var( "SHOW TABLES LIKE '$table'" ) === $table ) {
+		return;
+	}
+	require_once ABSPATH . 'wp-admin/includes/upgrade.php';
+	$charset = $wpdb->get_charset_collate();
+	dbDelta(
+		"CREATE TABLE $table (
+			id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
+			created_at DATETIME NOT NULL,
+			session VARCHAR(40) NOT NULL DEFAULT '',
+			type VARCHAR(20) NOT NULL DEFAULT 'view',
+			source VARCHAR(40) NOT NULL DEFAULT '',
+			referer VARCHAR(255) NOT NULL DEFAULT '',
+			path VARCHAR(255) NOT NULL DEFAULT '',
+			product_id BIGINT UNSIGNED NOT NULL DEFAULT 0,
+			store VARCHAR(80) NOT NULL DEFAULT '',
+			PRIMARY KEY (id),
+			KEY created_at (created_at),
+			KEY type (type),
+			KEY source (source),
+			KEY product_id (product_id)
+		) $charset;"
+	);
+	update_option( 'hainute_events_installed', '1' );
+}
+add_action( 'init', 'hainute_analytics_install' );
+
+/** Derivă sursa din utm_source sau din host-ul referer-ului. */
+function hainute_analytics_source( $referer, $utm ) {
+	$utm = strtolower( trim( (string) $utm ) );
+	if ( '' !== $utm ) {
+		return substr( preg_replace( '/[^a-z0-9_-]/', '', $utm ), 0, 40 );
+	}
+	$host = strtolower( (string) wp_parse_url( (string) $referer, PHP_URL_HOST ) );
+	if ( '' === $host ) {
+		return 'direct';
+	}
+	$map = array(
+		'facebook' => 'facebook', 'fb.' => 'facebook', 'fb.me' => 'facebook', 'l.facebook' => 'facebook',
+		'instagram' => 'instagram', 'l.instagram' => 'instagram',
+		'google' => 'google', 'bing' => 'bing', 'yahoo' => 'yahoo', 'duckduckgo' => 'duckduckgo',
+		'tiktok' => 'tiktok', 'youtube' => 'youtube', 'youtu.be' => 'youtube',
+		't.co' => 'twitter', 'twitter' => 'twitter', 'x.com' => 'twitter',
+		'pinterest' => 'pinterest', 'whatsapp' => 'whatsapp', 'telegram' => 'telegram', 't.me' => 'telegram',
+	);
+	foreach ( $map as $needle => $src ) {
+		if ( false !== strpos( $host, $needle ) ) {
+			return $src;
+		}
+	}
+	// Referer din propriul site → intern (nu-l numărăm ca sursă nouă).
+	if ( false !== strpos( $host, (string) wp_parse_url( home_url(), PHP_URL_HOST ) ) ) {
+		return 'intern';
+	}
+	return substr( preg_replace( '/^www\./', '', $host ), 0, 40 );
+}
+
+/** REST: primește un eveniment de la front-end. Public (tracking). */
+function hainute_analytics_register_routes() {
+	register_rest_route(
+		'hainute/v1',
+		'/track',
+		array(
+			'methods'             => 'POST',
+			'callback'            => 'hainute_rest_track',
+			'permission_callback' => '__return_true',
+		)
+	);
+}
+add_action( 'rest_api_init', 'hainute_analytics_register_routes' );
+
+function hainute_rest_track( WP_REST_Request $request ) {
+	global $wpdb;
+	$b       = $request->get_json_params();
+	$type    = in_array( ( $b['type'] ?? '' ), array( 'view', 'click' ), true ) ? $b['type'] : 'view';
+	$referer = (string) ( $request->get_header( 'referer' ) ?: ( $b['referer'] ?? '' ) );
+	$source  = hainute_analytics_source( $b['referer'] ?? $referer, $b['utm'] ?? '' );
+	$sid     = substr( preg_replace( '/[^a-zA-Z0-9]/', '', (string) ( $b['sid'] ?? '' ) ), 0, 40 );
+
+	$wpdb->insert(
+		hainute_events_table(),
+		array(
+			'created_at' => current_time( 'mysql' ),
+			'session'    => $sid,
+			'type'       => $type,
+			'source'     => $source,
+			'referer'    => substr( esc_url_raw( (string) ( $b['referer'] ?? $referer ) ), 0, 255 ),
+			'path'       => substr( sanitize_text_field( (string) ( $b['path'] ?? '' ) ), 0, 255 ),
+			'product_id' => (int) ( $b['product_id'] ?? 0 ),
+			'store'      => substr( sanitize_text_field( (string) ( $b['store'] ?? '' ) ), 0, 80 ),
+		)
+	);
+	return rest_ensure_response( array( 'ok' => true ) );
+}
+
+/** Scriptul de tracking pe front-end (beacon la vizită + click pe magazine). */
+function hainute_analytics_enqueue() {
+	if ( is_admin() ) {
+		return;
+	}
+	$pid = ( is_singular( 'product' ) ) ? get_queried_object_id() : 0;
+	$js  = "(function(){
+		function sid(){var m=document.cookie.match(/hnt_sid=([^;]+)/);if(m)return m[1];var s=Math.random().toString(36).slice(2)+Date.now().toString(36);document.cookie='hnt_sid='+s+';path=/;max-age='+(60*60*24*30);return s;}
+		function firstSrc(ref,utm){var m=document.cookie.match(/hnt_src=([^;]+)/);if(m)return decodeURIComponent(m[1]);var v=utm||ref||'';document.cookie='hnt_src='+encodeURIComponent(v)+';path=/;max-age='+(60*60*24*30);return v;}
+		var params=new URLSearchParams(location.search);var utm=params.get('utm_source')||'';
+		var src=firstSrc(document.referrer,utm);
+		function send(d){d.sid=sid();d.utm=utm;d.referer=document.referrer;d.path=location.pathname;try{navigator.sendBeacon('".esc_url_raw( rest_url( 'hainute/v1/track' ) )."',new Blob([JSON.stringify(d)],{type:'application/json'}));}catch(e){}}
+		send({type:'view',product_id:".$pid."});
+		document.addEventListener('click',function(e){var a=e.target.closest('a.offer-cta');if(!a)return;var row=a.closest('[data-store-row]');var st=row?(row.querySelector('.offer-store')||{}).textContent:'';send({type:'click',product_id:".$pid.",store:(st||'').trim()});},true);
+	})();";
+	wp_register_script( 'hainute-analytics', '', array(), HAINUTE_CORE_VERSION, true );
+	wp_enqueue_script( 'hainute-analytics' );
+	wp_add_inline_script( 'hainute-analytics', $js );
+}
+add_action( 'wp_enqueue_scripts', 'hainute_analytics_enqueue' );
+
+// ---- Dashboard admin --------------------------------------------------------
+
+function hainute_analytics_menu() {
+	add_menu_page( __( 'Hainute Analytics', 'hainute' ), __( 'Analytics', 'hainute' ), 'manage_options', 'hainute-analytics', 'hainute_analytics_page', 'dashicons-chart-area', 58 );
+}
+add_action( 'admin_menu', 'hainute_analytics_menu' );
+
+function hainute_analytics_page() {
+	global $wpdb;
+	$t    = hainute_events_table();
+	$days = isset( $_GET['days'] ) ? max( 1, min( 365, (int) $_GET['days'] ) ) : 30;
+	$since = gmdate( 'Y-m-d H:i:s', time() - $days * DAY_IN_SECONDS );
+
+	$views  = (int) $wpdb->get_var( $wpdb->prepare( "SELECT COUNT(*) FROM $t WHERE type='view' AND created_at>=%s", $since ) );
+	$vis    = (int) $wpdb->get_var( $wpdb->prepare( "SELECT COUNT(DISTINCT session) FROM $t WHERE created_at>=%s", $since ) );
+	$clicks = (int) $wpdb->get_var( $wpdb->prepare( "SELECT COUNT(*) FROM $t WHERE type='click' AND created_at>=%s", $since ) );
+
+	echo '<div class="wrap"><h1>' . esc_html__( 'Hainute — Analytics', 'hainute' ) . '</h1>';
+	echo '<p>';
+	foreach ( array( 7, 30, 90 ) as $d ) {
+		echo '<a class="button ' . ( $d === $days ? 'button-primary' : '' ) . '" href="?page=hainute-analytics&days=' . $d . '">' . $d . ' zile</a> ';
+	}
+	echo '</p>';
+	echo '<div style="display:flex;gap:16px;margin:16px 0">';
+	foreach ( array( __( 'Vizite', 'hainute' ) => $views, __( 'Vizitatori unici', 'hainute' ) => $vis, __( 'Click-uri magazine', 'hainute' ) => $clicks ) as $lbl => $val ) {
+		echo '<div style="background:#fff;border:1px solid #ccd0d4;padding:14px 22px;border-radius:8px"><div style="font-size:12px;color:#666">' . esc_html( $lbl ) . '</div><div style="font-size:26px;font-weight:700">' . esc_html( number_format_i18n( $val ) ) . '</div></div>';
+	}
+	echo '</div>';
+
+	$blocks = array(
+		__( 'Surse trafic', 'hainute' )       => $wpdb->get_results( $wpdb->prepare( "SELECT source AS k, COUNT(*) AS c FROM $t WHERE type='view' AND created_at>=%s GROUP BY source ORDER BY c DESC LIMIT 15", $since ) ),
+		__( 'Top pagini', 'hainute' )          => $wpdb->get_results( $wpdb->prepare( "SELECT path AS k, COUNT(*) AS c FROM $t WHERE type='view' AND created_at>=%s GROUP BY path ORDER BY c DESC LIMIT 15", $since ) ),
+		__( 'Click-uri per magazin', 'hainute' ) => $wpdb->get_results( $wpdb->prepare( "SELECT store AS k, COUNT(*) AS c FROM $t WHERE type='click' AND created_at>=%s GROUP BY store ORDER BY c DESC LIMIT 15", $since ) ),
+	);
+	echo '<div style="display:flex;gap:20px;flex-wrap:wrap">';
+	foreach ( $blocks as $title => $rows ) {
+		echo '<div style="flex:1;min-width:280px"><h2>' . esc_html( $title ) . '</h2><table class="widefat striped"><tbody>';
+		if ( $rows ) {
+			foreach ( $rows as $r ) {
+				echo '<tr><td>' . esc_html( $r->k ?: '—' ) . '</td><td style="text-align:right;font-weight:600">' . esc_html( number_format_i18n( $r->c ) ) . '</td></tr>';
+			}
+		} else {
+			echo '<tr><td>' . esc_html__( 'Încă fără date', 'hainute' ) . '</td></tr>';
+		}
+		echo '</tbody></table></div>';
+	}
+	echo '</div>';
+
+	// Top produse click-uite.
+	$tp = $wpdb->get_results( $wpdb->prepare( "SELECT product_id AS pid, COUNT(*) AS c FROM $t WHERE type='click' AND product_id>0 AND created_at>=%s GROUP BY product_id ORDER BY c DESC LIMIT 15", $since ) );
+	echo '<h2 style="margin-top:24px">' . esc_html__( 'Top produse (click-uri către magazine)', 'hainute' ) . '</h2><table class="widefat striped"><tbody>';
+	foreach ( $tp as $r ) {
+		echo '<tr><td><a href="' . esc_url( get_edit_post_link( $r->pid ) ) . '">' . esc_html( get_the_title( $r->pid ) ?: ( '#' . $r->pid ) ) . '</a></td><td style="text-align:right;font-weight:600">' . esc_html( $r->c ) . '</td></tr>';
+	}
+	if ( ! $tp ) {
+		echo '<tr><td>' . esc_html__( 'Încă fără click-uri', 'hainute' ) . '</td></tr>';
+	}
+	echo '</tbody></table>';
+
+	echo '<p style="margin-top:20px;color:#666"><strong>' . esc_html__( 'Comenzile', 'hainute' ) . ':</strong> ' . esc_html__( 'nu se pot urmări pe site-ul nostru (se întâmplă pe site-ul magazinului). Le vezi în dashboard-ul rețelei de afiliere (CJ / 2Performant / Profitshare), corelate cu click-urile de aici.', 'hainute' ) . '</p>';
+	echo '</div>';
+}

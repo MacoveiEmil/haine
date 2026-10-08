@@ -1,0 +1,36 @@
+# Dependențe (se reinstalează cu `npm install`)
+tools/crawler/node_modules/
+
+# Runtime crawlere (profile Chrome, log-uri, CSV-uri generate)
+tools/crawler/.*-profile/
+tools/crawler/*.log
+tools/crawler/*-matches.csv
+tools/crawler/refresh-*.log
+
+# Secrete — NU comita niciodată chei/credentiale reale
+wp-config.php
+tools/feed-audit/config.php
+*.secret
+secrets.txt
+
+# Dump-uri DB — ignorate implicit; excepție pentru snapshot-ul de migrare.
+# db/hainute.sql se produce DOAR cu docker/export-db.sh (sanitizat, repo public).
+*.sql
+*.sql.gz
+!db/hainute.sql
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrete Docker
+docker/secrets.env
+
+# Rapoarte crawler cross-check
+tools/crawler/*report*.json
+
+# Raport cross-check (artefact de revizuire)
+cross-check-rezultat.csv
+
+# Cache local pentru pozele http (se regenerează)
+wp-content/uploads/

@@ -1,0 +1,81 @@
+# Mediu de testare hainute.ro — WordPress + MySQL, fara Local.
+# Pornire:  docker compose up -d   ->  http://localhost:8090
+# Prima pornire importa automat db/hainute.sql (dureaza ~1 min).
+#
+# Nu are nevoie de secretele de afiliere: catalogul se vede din DB,
+# iar imaginile de produs sunt hotlink (vin de pe magazine). Cheile
+# API trebuie doar pentru sync/crawl nou, nu pentru vizualizare.
+
+services:
+  db:
+    image: mysql:8.0
+    command: --default-authentication-plugin=mysql_native_password
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: local
+    volumes:
+      - db:/var/lib/mysql
+      - ./db/hainute.sql:/docker-entrypoint-initdb.d/01-hainute.sql:ro
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "-uroot", "-proot"]
+      interval: 8s
+      timeout: 5s
+      retries: 20
+
+  wp:
+    image: wordpress:php8.2-apache
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8090:80"
+    # Secrete opționale (secret de sync, ID-uri CJ): docker/secrets.env, după
+    # modelul docker/secrets.env.example. Fără el site-ul merge, doar fără sync/crawl.
+    env_file:
+      - path: ./docker/secrets.env
+        required: false
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: root
+      WORDPRESS_DB_PASSWORD: root
+      WORDPRESS_DB_NAME: local
+      WORDPRESS_TABLE_PREFIX: wp_
+      # Fortam URL-ul pe localhost:8090 => nu mai redirecteaza la hainutero.local
+      # si nu e nevoie de search-replace in DB.
+      # URL-ul site-ului = adresa prin care e accesat (localhost:8090 sau linkul
+      # public din tunel), deci nu e nevoie de search-replace. ($$ = $ în compose)
+      # Pe adresa publică wp-admin și login-ul sunt închise.
+      WORDPRESS_CONFIG_EXTRA: |
+        $$__h = $$_SERVER['HTTP_X_FORWARDED_HOST'] ?? ($$_SERVER['HTTP_HOST'] ?? 'localhost:8090');
+        if ( ( $$_SERVER['HTTP_X_FORWARDED_PROTO'] ?? '' ) === 'https' ) { $$_SERVER['HTTPS'] = 'on'; }
+        $$__s = ( ! empty( $$_SERVER['HTTPS'] ) && 'off' !== $$_SERVER['HTTPS'] ) ? 'https' : 'http';
+        define('WP_HOME', $$__s . '://' . $$__h);
+        define('WP_SITEURL', $$__s . '://' . $$__h);
+        $$__k = (string) getenv( 'HAINUTE_ADMIN_KEY' );
+        if ( '' !== $$__k && isset( $$_GET['acces'] ) && hash_equals( $$__k, (string) $$_GET['acces'] ) ) { setcookie( 'hnt_adm', hash( 'sha256', $$__k ), time() + 43200, '/', '', true, true ); header( 'Location: /wp-admin/' ); exit; }
+        $$__ok = '' !== $$__k && isset( $$_COOKIE['hnt_adm'] ) && hash_equals( hash( 'sha256', $$__k ), (string) $$_COOKIE['hnt_adm'] );
+        if ( ! $$__ok && ! preg_match( '/^(localhost|127\.0\.0\.1)(:\d+)?$$/', $$__h ) && preg_match( '#^/(wp-admin|wp-login\.php)#', $$_SERVER['REQUEST_URI'] ?? '' ) ) { http_response_code( 403 ); exit( 'Indisponibil pe adresa publica de test.' ); }
+        define('FS_METHOD','direct');
+        define('HAINUTE_EUR_RON','4.97');
+    volumes:
+      - wp:/var/www/html
+      - ./wp-content/plugins/hainute-core:/var/www/html/wp-content/plugins/hainute-core
+      - ./wp-content/themes/hainute:/var/www/html/wp-content/themes/hainute
+      - ./docker/.htaccess:/var/www/html/.htaccess
+
+  # Link public temporar pentru testare (Cloudflare quick tunnel, fără cont):
+  #   docker compose --profile share up -d tunnel
+  #   docker compose logs tunnel   -> adresa https://....trycloudflare.com
+  # Merge cât rulează containerul; „docker compose stop tunnel" îl închide.
+  tunnel:
+    image: cloudflare/cloudflared:latest
+    profiles: ["share"]
+    depends_on: [ wp ]
+    command: tunnel --no-autoupdate --url http://wp:80
+    restart: unless-stopped
+
+volumes:
+  db:
+  wp:
