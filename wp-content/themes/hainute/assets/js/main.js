@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			rows.forEach(function (li) {
 				var p = pick(li);
 				var priceEl = li.querySelector('.offer-price'), linkEl = li.querySelector('.offer-cta'), statusEl = li.querySelector('.offer-status-label');
-				li._rank = !p ? 3 : (!p.in_stock ? 2 : (state.size && !p.sizes.length ? 1 : 0));
+				li._rank = !p ? 2 : (!p.in_stock ? 3 : (state.size && !p.sizes.length ? 1 : 0));
 				if (!p) {
 					li.classList.add('sm-dim', 'stock-out'); li.classList.remove('stock-in');
 					// Mărime care există la magazin dar s-a terminat ≠ mărime pe care n-o are deloc.
@@ -412,5 +412,14 @@ document.addEventListener('DOMContentLoaded', function () {
 		img.replaceWith(ph);
 	}
 	document.addEventListener('error', function (e) { if (e.target && e.target.tagName === 'IMG') broken(e.target); }, true);
-	document.querySelectorAll('img').forEach(function (img) { if (img.complete && img.getAttribute('src') && !img.naturalWidth) broken(img); });
+	// Poze care au eșuat înainte să se încarce scriptul: după load, le confirmăm cu o
+	// încercare nouă (o poză încă în descărcare nu e „moartă").
+	window.addEventListener('load', function () {
+		document.querySelectorAll('img').forEach(function (img) {
+			if (!img.complete || img.naturalWidth || !img.getAttribute('src') || img.loading === 'lazy') return;
+			var probe = new Image();
+			probe.onerror = function () { broken(img); };
+			probe.src = img.currentSrc || img.src;
+		});
+	});
 })();

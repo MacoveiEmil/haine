@@ -119,6 +119,11 @@ function hainute_ensure_how_it_works_page() {
 	if ( get_option( 'hainute_hiw_page_v1' ) ) {
 		return;
 	}
+	// Blocare: două cereri simultane ar crea pagina de două ori. add_option eșuează
+	// dacă opțiunea există deja, deci doar prima cerere continuă.
+	if ( ! add_option( 'hainute_hiw_page_lock', time(), '', false ) ) {
+		return;
+	}
 	$page = get_page_by_path( 'cum-functioneaza' );
 	if ( ! $page ) {
 		$id = wp_insert_post(

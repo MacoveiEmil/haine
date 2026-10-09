@@ -951,7 +951,7 @@ function hainute_the_size_alternative( $product_id, $visible ) {
 	}
 	$label = sprintf(
 		/* translators: 1: category, 2: gender */
-		__( 'Vezi alte %1$s%2$s', 'hainute' ),
+		__( 'Vezi %1$s%2$s', 'hainute' ), // fără „alte/alți": genul gramatical diferă pe categorii
 		mb_strtolower( html_entity_decode( $leaf->name ) ),
 		$gname ? ' ' . mb_strtolower( $gname ) : ''
 	);
