@@ -94,7 +94,7 @@ if ( $latest->have_posts() ) :
 			<div class="step">
 				<span class="step-num">2</span>
 				<h3><?php esc_html_e( 'Alegi magazinul', 'hainute' ); ?></h3>
-				<p><?php esc_html_e( 'Vezi dintr-o privire în ce magazine e mărimea ta și unde e stoc pe terminate.', 'hainute' ); ?></p>
+				<p><?php esc_html_e( 'Vezi dintr-o privire în ce magazine e mărimea ta pe stoc.', 'hainute' ); ?></p>
 			</div>
 			<div class="step">
 				<span class="step-num">3</span>

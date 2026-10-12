@@ -1,0 +1,171 @@
+[
+ {
+  "id": 8566,
+  "cod_produs": "J36FWB.01454", "seed_variatie": 4, "index_pool_link": 31, "gen_text": "neutru (magazinul: „sneakers pentru copii”)",
+  "tip_deschidere_folosit": "4: vremea, apoi produsul", "pozitie_interlinkuri": "categorie: ultima propoziție din P1; brand: prima propoziție din P3",
+  "varsta_orientativa": "4-11 ani", "entitati_cautare_folosite": ["vârstă orientativă", "culoare (sneakerșii roz)", "cu arici", "școală"],
+  "interlink_categorie": {"ancora": "încălțăminte fete", "url_slug": "/categorie/incaltaminte-fete/"},
+  "interlink_brand": {"ancora": "Geox", "url_slug": "/brand/geox/"},
+  "paragrafe": [
+   "În zilele calde, când piciorul se încălzește repede în pantof, sneakerșii roz Geox J Sprintye vin cu partea de sus din plasă textilă ușoară, cu inserții din imitație de piele. Talpa din spumă dă o senzație moale la fiecare pas, pe tot parcursul unei zile de școală. Pentru [[cat:încălțămintea fete]] pe care copilul o încalță singur, șireturile elastice și închiderea cu arici scurtează mult pregătirea de dimineață.",
+   "Branțul textil se scoate, așa că se poate usca separat după o zi lungă, iar interiorul textil ține pantoful mai ușor de păstrat curat. Bucla de la călcâi ajută la încălțat, fără ca spatele pantofului să fie călcat. Călcâiul rigid ține piciorul pe loc în timpul alergatului, iar vârful rotund lasă degetele să se așeze liber, fără presiune.",
+   "Modelul are sistemul Respira, tehnologia proprie [[brand:Geox]]: talpa e construită din trei straturi, cu perforații prin care aerul circulă, ca interiorul să rămână mai uscat. Pentru o pereche purtată de dimineață până seara, ventilarea face diferența la confort.",
+   "Mărimile modelului merg de la 28 la 35 și acoperă orientativ copiii de 4-11 ani, de la grupa mare până în primii ani de gimnaziu. După ce alegi mărimea, lista de magazine se filtrează și rămân doar cele care o au."
+  ],
+  "specificatii_tehnice": {"Model": "Geox J Sprintye", "Material": "exterior din material sintetic și plasă textilă, interior textil, talpă din spumă", "Caracteristici": "sistem Geox Respira, șireturi elastice, închidere cu arici, branț textil detașabil, buclă la călcâi, călcâi rigid", "Cod produs": "J36FWB.01454"},
+  "missing_data": [],
+  "confidence_notes": ["Magazinul afișează și culoarea „turcoaz” la atribute, dar titlul paginii spune „culoarea roz”; am folosit roz, ca în titlu și poză.", "Lungimea branțului (22 cm la mărimea 35) e pe pagină, dar nu am inclus-o: regula interzice recomandări de mărime."]
+ },
+ {
+  "id": 8791,
+  "cod_produs": "IB0IB02168", "seed_variatie": 8, "index_pool_link": 21, "gen_text": "neutru (magazinul: „geacă copii”)",
+  "tip_deschidere_folosit": "8: un detaliu de construcție (gluga detașabilă), apoi contextul", "pozitie_interlinkuri": "categorie: prima propoziție din P1; brand: mijlocul P3",
+  "varsta_orientativa": "8-16 ani", "entitati_cautare_folosite": ["glugă detașabilă", "culoare (gecii negre)", "sezon (zilele reci)", "școală", "vârstă orientativă"],
+  "interlink_categorie": {"ancora": "îmbrăcăminte fete", "url_slug": "/categorie/imbracaminte-fete/"},
+  "interlink_brand": {"ancora": "Calvin Klein Jeans", "url_slug": "/brand/calvin-klein-jeans/"},
+  "paragrafe": [
+   "Gluga detașabilă a gecii negre Calvin Klein Jeans rezolvă ce cauți la [[cat:îmbrăcămintea fete]] ușor de adaptat vremii: o prinzi când bate vântul și o scoți când nu mai e nevoie de ea. Geaca e matlasată, cu umplutură din poliester și guler ridicat, potrivită pentru zilele reci, pe drumul spre școală.",
+   "Gulerul ridicat acoperă gâtul pe vânt, iar mânecile se termină în manșete care țin frigul departe de încheieturi. Închiderea cu fermoar se face repede, iar buzunarele exterioare se închid, așa că mănușile sau cheile nu cad pe drum. Fasonul e drept, iar exteriorul matlasat are un aspect simplu, ușor de purtat în fiecare zi.",
+   "Materialul de bază, căptușeala și umplutura sunt din poliester. Pe acest model, [[brand:Calvin Klein Jeans]] folosește fibra REPREVE, obținută din sticle de plastic reciclate. Pentru părinții atenți la ce materiale cumpără, e un detaliu verificabil pe eticheta modelului.",
+   "Geaca vine în cinci mărimi, între 128 și 176, adică orientativ pentru copiii de 8-16 ani. La mărimea 152, lungimea gecii este de 77 cm, iar mâneca are 52 cm. Disponibilitatea pe fiecare mărime o vezi în listă, după ce o selectezi."
+  ],
+  "specificatii_tehnice": {"Model": "IB0IB02168", "Material": "exterior, căptușeală și umplutură 100% poliester, fibră REPREVE din sticle reciclate", "Caracteristici": "glugă detașabilă, guler ridicat, matlasată, închidere cu fermoar, manșete, buzunare exterioare închise", "Cod produs": "IB0IB02168"},
+  "missing_data": [],
+  "confidence_notes": ["Măsurile (77 cm lungime, 52 cm mânecă) sunt date de magazin pentru mărimea 152 și sunt incluse ca atare."]
+ },
+ {
+  "id": 11350,
+  "cod_produs": "J66M4E.05402", "seed_variatie": 2, "index_pool_link": 37, "gen_text": "neutru (magazinul: „sneakers pentru copii”)",
+  "tip_deschidere_folosit": "2: o caracteristică fizică (talpa cu lumini), apoi produsul", "pozitie_interlinkuri": "categorie: prima propoziție din P1; brand: mijlocul P3",
+  "varsta_orientativa": "4-7 ani", "entitati_cautare_folosite": ["culoare (sneakerșii bleumarin)", "cu arici", "grădiniță", "vârstă orientativă"],
+  "interlink_categorie": {"ancora": "încălțăminte băieți", "url_slug": "/categorie/incaltaminte-baieti/"},
+  "interlink_brand": {"ancora": "Geox", "url_slug": "/brand/geox/"},
+  "paragrafe": [
+   "Talpa cu lumini încorporate completează bine imprimeul cu Lilo & Stitch, iar la [[cat:încălțămintea băieți]] cu personaje asta face perechea vizibilă și când se întunecă devreme. Sneakerșii bleumarin Geox Fadinlight au șireturi elastice și închidere cu arici, așa că se încalță repede, fără legat, în diminețile cu drum spre grădiniță.",
+   "Partea de sus combină imitația de piele cu materialul sintetic, ușor de întreținut după joaca de afară, iar interiorul textil lasă aerul să circule în jurul piciorului. Călcâiul întărit ține piciorul așezat corect în pantof. Talpa plată dă stabilitate și aderență pe suprafețe diferite, iar luminile din ea se aprind la fiecare pas, pe ritmul joacei. Imprimeul decorativ cu Lilo & Stitch dă perechii un aer de poveste, pe care copiii îl recunosc imediat.",
+   "Modelul are sistemul Respira, care ajută la eliminarea umidității, ca interiorul să rămână mai uscat. Respira este tehnologia proprie [[brand:Geox]] și aici lucrează împreună cu interiorul textil. Așa, perechea rămâne confortabilă și după câteva ore de joacă, nu doar în primele minute.",
+   "Modelul se găsește în mărimile de la 28 la 31 și acoperă orientativ copiii de 4-7 ani, între grupa mare și primele clase. Selectezi mărimea, iar lista arată imediat unde e disponibilă."
+  ],
+  "specificatii_tehnice": {"Model": "Geox Fadinlight Lilo & Stitch", "Material": "exterior din imitație de piele și material sintetic, interior textil", "Caracteristici": "sistem Geox Respira, lumini în talpă, șireturi elastice, închidere cu arici, călcâi întărit, talpă plată", "Cod produs": "J66M4E.05402"},
+  "missing_data": [],
+  "confidence_notes": ["Talpa: textul magazinului spune „din cauciuc”, iar compoziția spune „material sintetic”. CONTRADICTORY: materialul tălpii a fost omis din text."]
+ },
+ {
+  "id": 10248,
+  "cod_produs": "505811", "seed_variatie": 1, "index_pool_link": 25, "gen_text": "neutru (magazinul: „geacă copii”)",
+  "tip_deschidere_folosit": "1: numele complet și tipul, apoi ce rezolvă", "pozitie_interlinkuri": "categorie: ultima propoziție din P1; brand: prima propoziție din P3",
+  "varsta_orientativa": "2-10 ani", "entitati_cautare_folosite": ["culoare (geacă maro)", "glugă detașabilă", "grădiniță", "vârstă orientativă"],
+  "interlink_categorie": {"ancora": "îmbrăcăminte fete", "url_slug": "/categorie/imbracaminte-fete/"},
+  "interlink_brand": {"ancora": "Didriksons", "url_slug": "/brand/didriksons/"},
+  "paragrafe": [
+   "Didriksons Roxen Kids este o geacă maro, matlasată, cu izolație sintetică, pentru zilele în care frigul și vântul fac drumul spre grădiniță mai greu. Are glugă detașabilă și guler ridicat, cu protecție pentru bărbie. Orificiile pentru degetul mare țin mânecile pe loc, ceea ce o face practică printre piesele de [[cat:îmbrăcăminte fete]] pentru vârsta grădiniței și a școlii.",
+   "Fermoarul pe toată lungimea are o clapă interioară care oprește vântul să treacă printre dinți. Mânecile și tivul de jos sunt finisate ca să țină frigul afară. Cele două buzunare laterale păstrează mănușile la îndemână, iar elementele reflectorizante îl fac pe copil mai ușor de văzut când se întunecă devreme.",
+   "Pe acest model, [[brand:Didriksons]] folosește poliester reciclat pentru căptușeală și umplutură, iar materialul exterior este din poliester. Două dintre cele trei straturi ale gecii vin astfel din fibre reciclate, un detaliu concret pentru părinții atenți la hainele pe care le cumpără des, pe măsură ce copilul crește.",
+   "Mărimile sunt notate din 10 în 10 centimetri, de la 90 la 140, deci șase opțiuni care acoperă orientativ copiii de 2-10 ani, de la grupa mică până în clasa a patra."
+  ],
+  "specificatii_tehnice": {"Model": "Didriksons Roxen Kids", "Material": "exterior 100% poliester, căptușeală și umplutură 100% poliester reciclat", "Caracteristici": "izolată, matlasată, glugă detașabilă, guler ridicat, protecție pentru bărbie, fermoar cu clapă, orificii pentru degetul mare, două buzunare laterale, elemente reflectorizante", "Cod produs": "505811"},
+  "missing_data": ["impermeabilitate"],
+  "confidence_notes": ["Specificațiile vechi aveau „membrană impermeabilă”, dar pagina magazinului nu o menționează (atribut „Membrană: altele”). Am scos-o."]
+ },
+ {
+  "id": 10749,
+  "cod_produs": "KB0KB10473", "seed_variatie": 3, "index_pool_link": 19, "gen_text": "neutru (magazinul: „polo pentru copii”)",
+  "tip_deschidere_folosit": "3: profilul copilului, apoi produsul", "pozitie_interlinkuri": "categorie: propoziția 2 din P1; brand: P1 (fără paragraf de brand)",
+  "varsta_orientativa": "8-16 ani", "entitati_cautare_folosite": ["culoare (tricoul polo bleumarin)", "școală", "vârstă orientativă"],
+  "interlink_categorie": {"ancora": "îmbrăcăminte băieți", "url_slug": "/categorie/imbracaminte-baieti/"},
+  "interlink_brand": {"ancora": "Tommy Hilfiger", "url_slug": "/brand/tommy-hilfiger/"},
+  "paragrafe": [
+   "Pentru un copil de școală care vrea să arate îngrijit, dar se mișcă mult în pauze, tricoul polo bleumarin [[brand:Tommy Hilfiger]] e o variantă la îndemână. Bumbacul 100% e motivul pentru care modelul merită pus pe lista de [[cat:îmbrăcăminte băieți]] pentru zilele de școală și ieșirile de weekend. Gulerul cu închidere la decolteu, dungile și logoul brodat dau tricoului un aspect clasic.",
+   "Croiala regulară lasă loc de mișcare la joacă, fără senzația că tricoul strânge pe corp. Materialul are elasticitate, deci tricoul urmează mișcările copilului la alergat. Bumbacul e plăcut la contactul cu pielea și lasă pielea să respire în zilele calde. Închiderea de la decolteu se deschide, așa că tricoul se trage ușor peste cap.",
+   "Tricoul vine în cinci mărimi, între 128 și 176, ceea ce acoperă orientativ copiii de 8-16 ani. Mărimile sunt date în centimetri de înălțime, din 12 în 12, deci alegerea pornește de la înălțimea copilului din acest moment."
+  ],
+  "specificatii_tehnice": {"Model": "KB0KB10473", "Material": "100% bumbac", "Caracteristici": "croială regulară, guler polo cu închidere, dungi, logo brodat", "Cod produs": "KB0KB10473"},
+  "missing_data": ["fapte de brand pe model (paragraful 3 a fost sărit)"],
+  "confidence_notes": ["Text de ~170 de cuvinte, sub minimul de 180: faptele de pe pagină s-au epuizat și regula spune să nu completez cu umplutură."]
+ },
+ {
+  "id": 12359,
+  "cod_produs": "J9420G.000KC", "seed_variatie": 0, "index_pool_link": 19, "gen_text": "neutru (magazinul: „bocanci copii”)",
+  "tip_deschidere_folosit": "0: situația concretă, apoi produsul", "pozitie_interlinkuri": "categorie: propoziția 2 din P1; brand: ultima propoziție din P3",
+  "varsta_orientativa": "12 ani și peste", "entitati_cautare_folosite": ["școală", "culoare (bocanci bleumarin)", "fermoar lateral", "sezon (toamnă, primăvară)", "vârstă orientativă"],
+  "interlink_categorie": {"ancora": "încălțăminte băieți", "url_slug": "/categorie/incaltaminte-baieti/"},
+  "interlink_brand": {"ancora": "Geox", "url_slug": "/brand/geox/"},
+  "paragrafe": [
+   "Pe drumul spre școală, după o zi cu noroi pe trotuare, contează ca încălțămintea să se curețe repede seara. Partea de sus din material sintetic neporos e motivul pentru care acești bocanci bleumarin Geox merită puși pe lista de [[cat:încălțăminte băieți]] pentru școală: se șterg cu o cârpă umedă. Se închid cu șiret, dar au și fermoar lateral, deci se încalță fără să desfaci nodul de fiecare dată.",
+   "Vârful rotund e întărit, iar contrafortul rigid ține călcâiul pe loc, ca piciorul să nu alunece în bocanc la mers. Bucla din spate ajută la încălțat și la descălțat, iar interiorul textil e confortabil și ușor de păstrat curat. Talpa exterioară este durabilă, potrivită pentru purtat zilnic.",
+   "Modelul are sistemul Respira: talpa are trei straturi și perforații care îmbunătățesc ventilarea, ca piciorul să stea mai uscat într-o zi lungă. Bocancii nu sunt izolați, așa că se potrivesc mai bine pentru toamnă și primăvară decât pentru ger. Respira este tehnologia proprie a mărcii [[brand:Geox]].",
+   "Mărimile modelului sunt 36, 37, 38 și 39, deci acoperă orientativ copiii de 12 ani și peste. Mărimea potrivită o alegi din listă, unde rămân doar magazinele care o au."
+  ],
+  "specificatii_tehnice": {"Model": "J9420G", "Material": "exterior sintetic, interior textil", "Caracteristici": "sistem Geox Respira, șiret și fermoar lateral, vârf rotund întărit, contrafort rigid, buclă la spate, neizolați", "Cod produs": "J9420G.000KC"},
+  "missing_data": [],
+  "confidence_notes": ["Talpa: „din cauciuc” în text și „material sintetic” în compoziție. CONTRADICTORY: materialul tălpii a fost omis.", "Lungimea branțului (22,5 cm la mărimea 36) e pe pagină, dar nu am inclus-o: regula interzice recomandări de mărime."]
+ },
+ {
+  "id": 14334,
+  "cod_produs": "5400157B-3610", "seed_variatie": 0, "index_pool_link": 37, "gen_text": "neutru (magazinul: „încălțăminte barefoot pentru copii”)",
+  "tip_deschidere_folosit": "0: situația concretă, apoi produsul", "pozitie_interlinkuri": "categorie: propoziția 2 din P1; brand: P1 (fără paragraf de brand)",
+  "varsta_orientativa": "4-9 ani", "entitati_cautare_folosite": ["sezon (zilele calde)", "grădiniță", "culoare (sandalele roz)", "vârstă orientativă"],
+  "interlink_categorie": {"ancora": "încălțăminte fete", "url_slug": "/categorie/incaltaminte-fete/"},
+  "interlink_brand": {"ancora": "Reima", "url_slug": "/brand/reima/"},
+  "paragrafe": [
+   "În zilele calde, la joaca din parc sau din curtea grădiniței, piciorul copilului are nevoie de spațiu și de o talpă care se îndoaie odată cu el. La [[cat:încălțămintea fete]] de tip barefoot, talpa flexibilă din cauciuc completează bine dropul zero de la călcâi, iar sandalele roz Valoa de la [[brand:Reima]] le au pe amândouă. Vârful e lat, cu spațiu suplimentar, ca degetele să nu fie înghesuite.",
+   "Partea de sus e tricotată din poliester elastic și respirabil, deci se adaptează la forma piciorului și lasă aerul să circule când e cald. Șiretul elastic face încălțatul rapid, fără nod de legat, iar copilul se poate descălța singur. Branțul se scoate, așa că se curăță și se usucă separat. Modelul este vegan, iar greutatea indicată este de 200 g.",
+   "Mărimile modelului merg de la 28 la 33, ceea ce acoperă orientativ copiii de 4-9 ani. Alegi mărimea copilului din listă, iar acolo rămân doar magazinele care o au."
+  ],
+  "specificatii_tehnice": {"Model": "Reima Valoa", "Material": "față din poliester tricotat, talpă din cauciuc", "Caracteristici": "barefoot, drop zero, vârf lat, șiret elastic, branț detașabil, vegan, 200 g", "Cod produs": "5400157B-3610"},
+  "missing_data": ["fapte de brand pe model (paragraful 3 a fost sărit)"],
+  "confidence_notes": ["Magazinul le numește „sandale barefoot”, iar titlul de pe site spune „Pantofi”. Textul folosește „sandale”, ca magazinul; titlul ar trebui corectat.", "Pagina vorbește de „poziție sănătoasă”; am omis-o (beneficiu medical).", "Text de ~170 de cuvinte, sub 180, fără umplutură."]
+ },
+ {
+  "id": 14784,
+  "cod_produs": "143648", "seed_variatie": 8, "index_pool_link": 33, "gen_text": "neutru (magazinul: „geacă schi copii”)",
+  "tip_deschidere_folosit": "8: un detaliu de construcție (cusături lipite, membrană), apoi contextul", "pozitie_interlinkuri": "categorie: prima propoziție din P1; brand: mijlocul P3",
+  "varsta_orientativa": "5-14 ani", "entitati_cautare_folosite": ["impermeabil", "zăpadă", "culoare (geaca portocalie)", "vârstă orientativă"],
+  "interlink_categorie": {"ancora": "îmbrăcăminte băieți", "url_slug": "/categorie/imbracaminte-baieti/"},
+  "interlink_brand": {"ancora": "LOAP", "url_slug": "/brand/loap/"},
+  "paragrafe": [
+   "Cusăturile critice lipite și membrana impermeabilă AQUA PRO, cu o coloană de apă de 3000 mm, sunt un avantaj concret la [[cat:îmbrăcămintea băieți]] folosită zi de zi pe pârtie sau în zăpadă. Geaca de schi portocalie LOAP Cuwielo are glugă și o croială mulată, cu spatele puțin mai lung, care acoperă spatele când copilul se apleacă.",
+   "Mânecile se strâng cu bandă cu arici și au manșete elastice cu orificiu pentru degetul mare, deci nu urcă pe braț la căzături sau la joaca în zăpadă. Fermoarul principal are o clapă care ferește bărbia de metalul rece. Geaca are trei buzunare: două laterale cu fermoar și unul pe antebrațul stâng. Respirabilitatea de 3000 g/m²/24 h ajută transpirația să iasă în timpul efortului.",
+   "Materialul exterior STORMEX rezistă la ploaie și vânt, iar căptușeala e din tafta 100% poliester. Pe acest model, [[brand:LOAP]] folosește umplutură din fibre tubulare POLYTHERM, care își păstrează bine forma. Fibrele au memorie a formei, deci umplutura revine la volumul inițial după ce geaca a stat strânsă în rucsac.",
+   "Modelul are cinci mărimi duble, de la 112-116 la 158-164, deci acoperă orientativ copiii de 5-14 ani. Disponibilitatea pe fiecare mărime o vezi în listă, după ce alegi mărimea."
+  ],
+  "specificatii_tehnice": {"Model": "LOAP Cuwielo", "Material": "exterior STORMEX, căptușeală tafta 100% poliester, umplutură din fibre POLYTHERM", "Caracteristici": "membrană AQUA PRO, coloană de apă 3000 mm, respirabilitate 3000 g/m²/24 h, cusături critice lipite, glugă, manșete cu arici și orificiu pentru deget, protecție pentru bărbie, 3 buzunare", "Cod produs": "143648"},
+  "missing_data": ["codul producătorului (pagina arată doar codul magazinului 143648)"],
+  "confidence_notes": ["Prima încercare de citire a paginii a fost blocată de protecția anti-bot; a doua a reușit."]
+ },
+ {
+  "id": 12075,
+  "cod_produs": "5757287-7", "seed_variatie": 7, "index_pool_link": 0, "gen_text": "feminin (magazinul: „pentru fete”)",
+  "tip_deschidere_folosit": "7: problema pe care o rezolvă (vântul), apoi produsul", "pozitie_interlinkuri": "categorie: ultima propoziție din P1; brand: P1 (fără paragraf de brand)",
+  "varsta_orientativa": "8-14 ani", "entitati_cautare_folosite": ["culoare (jacheta softshell roz)", "glugă", "sport", "vârstă orientativă"],
+  "interlink_categorie": {"ancora": "îmbrăcăminte fete", "url_slug": "/categorie/imbracaminte-fete/"},
+  "interlink_brand": {"ancora": "4F", "url_slug": "/brand/4f/"},
+  "paragrafe": [
+   "Vântul rece e cel care o face pe cea mică să înghețe pe terenul de sport, chiar și în zilele fără ploaie. Jacheta softshell roz [[brand:4F]] are material rezistent la vânt și glugă. Când alegi [[cat:îmbrăcăminte fete]] pentru sport sau joacă afară, merită verificat cum se comportă materialul la umezeală, iar aici poliesterul are finisaj hidrofob.",
+   "Gluga acoperă capul și urechile când bate vântul, iar materialul rezistent la vânt oprește curentul rece la piept și la spate. Finisajul hidrofob al poliesterului respinge stropii de ploaie măruntă, așa că jacheta rămâne utilă și în zilele cu umezeală. Culoarea roz o face ușor de reperat pe terenul de joacă.",
+   "Jacheta vine în mărimile de la 128 la 164, orientativ pentru fetițele de 8-14 ani. Mărimile sunt date în centimetri de înălțime, așa că alegerea pornește de la înălțimea fetiței."
+  ],
+  "specificatii_tehnice": {"Model": "4F jachetă softshell", "Material": "poliester cu finisaj hidrofob", "Caracteristici": "softshell, rezistentă la vânt, glugă"},
+  "date_insuficiente": false,
+  "missing_data": ["compoziție exactă", "detalii de construcție (buzunare, manșete, fermoar)", "codul producătorului"],
+  "completat_prin_cautare": {"cod model 4F": "căutare „4F jacheta softshell fete 5757287”: nicio pagină cu acest cod (e cod intern al magazinului). Nimic adăugat."},
+  "confidence_notes": ["Doar 5 fapte, toate din titlul produsului de pe pagina magazinului. Text scurt intenționat (~150 de cuvinte), fără umplutură.", "„Hidrofob” nu înseamnă impermeabil; textul nu spune impermeabilă."]
+ },
+ {
+  "id": 13584,
+  "cod_produs": "KS104970", "seed_variatie": 0, "index_pool_link": 26, "gen_text": "neutru (magazinul: „jeans copii”)",
+  "tip_deschidere_folosit": "0: situația concretă, apoi produsul", "pozitie_interlinkuri": "categorie: propoziția 2 din P1; brand: ultima propoziție din P3",
+  "varsta_orientativa": "1-10 ani", "entitati_cautare_folosite": ["grădiniță", "culoare (blugii albi)", "vârstă orientativă"],
+  "interlink_categorie": {"ancora": "îmbrăcăminte băieți", "url_slug": "/categorie/imbracaminte-baieti/"},
+  "interlink_brand": {"ancora": "Konges Sløjd", "url_slug": "/brand/konges-slojd/"},
+  "paragrafe": [
+   "La joaca de pe covor, la grădiniță sau în parc, pantalonii unui copil mic se îndoaie și se murdăresc mult într-o singură zi. Pentru un copil mic, [[cat:îmbrăcămintea băieți]] trebuie să fie comodă la mișcare, iar blugii albi Konges Sløjd Magot au fason lejer și bandă elastică în talie. Talia e înaltă, cu o croială baggy.",
+   "Banda elastică din talie se adaptează corpului, deci pantalonii stau pe loc fără curea. Buzunarele sunt oblice, ușor de folosit și pentru mâini mici. Denimul e din bumbac organic 100%, confortabil la purtat, iar croiala lejeră lasă loc pentru genunchi la cățărat și la stat pe vine.",
+   "Bumbacul are certificare GOTS, menționată chiar în numele modelului, și provine din culturi fără plante modificate genetic, îngrășăminte sau pesticide. Pentru părinții care vor materiale cu origine verificabilă, certificarea e un criteriu concret. Detaliul vine de la [[brand:Konges Sløjd]], care marchează modelul ca GOTS chiar în denumire.",
+   "Modelul acoperă mărimile 86, 92, 98, 104, 110 și 116, plus 122-128 și 134-140, adică orientativ copiii de 1-10 ani. Mărimea potrivită o alegi din lista de mai jos, unde rămân doar magazinele care o au."
+  ],
+  "specificatii_tehnice": {"Model": "Konges Sløjd Magot", "Material": "100% bumbac organic certificat GOTS", "Caracteristici": "fason lejer, talie înaltă, bandă elastică în talie, buzunare oblice", "Cod produs": "KS104970"},
+  "missing_data": [],
+  "confidence_notes": ["Numele modelului e „MAGOT FRILL PANTS” (cu volane), iar pe site produsul e la Băieți. Textul e neutru, ca magazinul; încadrarea pe gen ar trebui verificată."]
+ }
+]

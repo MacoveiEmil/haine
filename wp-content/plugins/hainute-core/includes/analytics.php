@@ -124,8 +124,20 @@ function hainute_analytics_enqueue() {
 	}
 	$pid = ( is_singular( 'product' ) ) ? get_queried_object_id() : 0;
 	$js  = "(function(){
-		function sid(){var m=document.cookie.match(/hnt_sid=([^;]+)/);if(m)return m[1];var s=Math.random().toString(36).slice(2)+Date.now().toString(36);document.cookie='hnt_sid='+s+';path=/;max-age='+(60*60*24*30);return s;}
-		function firstSrc(ref,utm){var m=document.cookie.match(/hnt_src=([^;]+)/);if(m)return decodeURIComponent(m[1]);var v=utm||ref||'';document.cookie='hnt_src='+encodeURIComponent(v)+';path=/;max-age='+(60*60*24*30);return v;}
+		/* Cookie-urile de statistică (hnt_sid, hnt_src) DOAR cu acordul vizitatorului
+		   (Legea 506/2004). Fără acord: evenimente anonime, fără nimic stocat în browser. */
+		function ok(){return /(?:^|; )hnt_consent=1/.test(document.cookie);}
+		function sid(){if(!ok())return '';var m=document.cookie.match(/hnt_sid=([^;]+)/);if(m)return m[1];var s=Math.random().toString(36).slice(2)+Date.now().toString(36);document.cookie='hnt_sid='+s+';path=/;max-age='+(60*60*24*30)+';SameSite=Lax';return s;}
+		function firstSrc(ref,utm){var v=utm||ref||'';if(!ok())return v;var m=document.cookie.match(/hnt_src=([^;]+)/);if(m)return decodeURIComponent(m[1]);document.cookie='hnt_src='+encodeURIComponent(v)+';path=/;max-age='+(60*60*24*30)+';SameSite=Lax';return v;}
+		function banner(){
+			var old=document.getElementById('hnt-cookies');if(old)old.remove();
+			var b=document.createElement('div');b.id='hnt-cookies';b.className='cookie-banner';b.setAttribute('role','dialog');b.setAttribute('aria-label','Cookie-uri');
+			b.innerHTML='<p>Folosim cookie-uri proprii de statistică (fără Google sau Facebook), ca să vedem ce pagini sunt utile. Le punem doar dacă ești de acord. <a href=\"".esc_url( home_url( '/politica-cookies/' ) )."\">Politica de cookie-uri</a></p><div class=\"cookie-actions\"><button type=\"button\" data-c=\"0\">Refuz</button><button type=\"button\" data-c=\"1\">Accept</button></div>';
+			b.addEventListener('click',function(e){var x=e.target.closest('[data-c]');if(!x)return;var c=x.getAttribute('data-c');document.cookie='hnt_consent='+c+';path=/;max-age='+(60*60*24*180)+';SameSite=Lax';if(c!=='1'){document.cookie='hnt_sid=;path=/;max-age=0';document.cookie='hnt_src=;path=/;max-age=0';}b.remove();});
+			document.body.appendChild(b);
+		}
+		if(!/(?:^|; )hnt_consent=/.test(document.cookie))banner();
+		document.addEventListener('click',function(e){if(e.target.closest('[data-cookie-settings]')){e.preventDefault();banner();}});
 		var params=new URLSearchParams(location.search);var utm=params.get('utm_source')||'';
 		var src=firstSrc(document.referrer,utm);
 		function send(d){d.sid=sid();d.utm=utm;d.referer=document.referrer;d.path=location.pathname;try{navigator.sendBeacon('".esc_url_raw( rest_url( 'hainute/v1/track' ) )."',new Blob([JSON.stringify(d)],{type:'application/json'}));}catch(e){}}

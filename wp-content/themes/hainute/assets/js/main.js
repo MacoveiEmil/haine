@@ -133,12 +133,35 @@ document.addEventListener('DOMContentLoaded', function () {
 		function variantsOf(li) { try { return JSON.parse(li.getAttribute('data-variants') || '[]'); } catch (e) { return []; } }
 		// Activează/dezactivează butonul „Vezi în magazin": fără link funcțional când
 		// mărimea aleasă nu e disponibilă la acel magazin.
+		// Fără mărime/stoc la acel magazin → butonul nu rămâne mort: duce la aceeași
+		// categorie (gen + mărimea aleasă), ca la linkul „Vezi … în mărimea X".
+		function altUrl() {
+			var altBox = m.querySelector('[data-size-alt]');
+			if (!altBox) return '';
+			var u = new URL(altBox.getAttribute('data-base'), location.href);
+			if (state.size) u.searchParams.set('marime', state.size);
+			return u.toString();
+		}
 		function setCta(a, enabled, url) {
 			if (!a) return;
+			if (!a.dataset.label) a.dataset.label = a.textContent;
+			a.classList.remove('is-disabled');
+			a.removeAttribute('aria-disabled');
 			if (enabled && url) {
 				a.setAttribute('href', url);
-				a.classList.remove('is-disabled');
-				a.removeAttribute('aria-disabled');
+				a.setAttribute('target', '_blank');
+				a.setAttribute('rel', 'sponsored nofollow noopener');
+				a.classList.remove('is-alt');
+				a.textContent = a.dataset.label;
+				return;
+			}
+			var alt = altUrl();
+			if (alt) {
+				a.setAttribute('href', alt);
+				a.removeAttribute('target');
+				a.removeAttribute('rel');
+				a.classList.add('is-alt');
+				a.textContent = 'Vezi alternative \u2192';
 			} else {
 				a.removeAttribute('href');
 				a.classList.add('is-disabled');
@@ -203,7 +226,7 @@ document.addEventListener('DOMContentLoaded', function () {
 				// Linkul e activ doar dacă produsul e cumpărabil la mărimea aleasă.
 				// Fără mărime selectată → link general. Cu mărime indisponibilă la acel
 				// magazin (fără variantă sau fără stoc) → link dezactivat.
-				setCta(linkEl, p && (!state.size || p.in_stock), p ? p.url : '');
+				setCta(linkEl, !!(p && p.in_stock), p ? p.url : ''); // fără stoc → alternative, nu magazinul
 				});
 
 				// Magazinele care AU mărimea aleasă primele, apoi cele neconfirmate, apoi

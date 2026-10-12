@@ -46,7 +46,7 @@ function hainute_color_to_ro( $c ) {
 		'roșu' => 'rosu', 'coniac' => 'maro', 'caramel' => 'maro', 'chestnut' => 'maro', 'camel' => 'maro',
 		'lila' => 'mov', 'lavender' => 'mov', 'lavandă' => 'mov', 'bleu' => 'albastru', 'marine' => 'bleumarin',
 		'ivory' => 'crem', 'ecru' => 'crem', 'olive' => 'kaki', 'oliv' => 'kaki', 'fucsia' => 'roz', 'rose' => 'roz',
-		'antracit' => 'gri', 'anthracite' => 'gri', 'charcoal' => 'gri', 'taupe' => 'bej', 'sand' => 'bej', 'nisip' => 'bej',
+		'forest' => 'verde', 'mint' => 'verde', 'lime' => 'verde', 'teal' => 'turcoaz', 'coral' => 'roz', 'fuchsia' => 'roz', 'wine' => 'bordo', 'antracit' => 'gri', 'anthracite' => 'gri', 'charcoal' => 'gri', 'taupe' => 'bej', 'sand' => 'bej', 'nisip' => 'bej',
 	);
 	// „albastru marin" / „navy blue" = bleumarin (nu albastru).
 	if ( preg_match( '/albastru[\s-]+marin|navy|bleumarin/u', $c ) ) {

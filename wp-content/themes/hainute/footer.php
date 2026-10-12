@@ -22,6 +22,7 @@
 	</div>
 
 	<div class="container footer-note">
+		<p class="footer-cookie"><a href="#" data-cookie-settings><?php esc_html_e( 'Setări cookie-uri', 'hainute' ); ?></a></p>
 		<p class="footer-legal"><?php bloginfo( 'name' ); ?> <?php esc_html_e( 'este administrat de', 'hainute' ); ?> <strong>FAIR CLICK S.R.L.</strong> &middot; CUI 54682438 &middot; J2026031574004 &middot; <?php esc_html_e( 'București, Sector 1, Drumul Pădurea Neagră nr. 24, Corp A, Bl. OX01/1, Etaj 1, Ap. 6.', 'hainute' ); ?></p>
 		<p>&copy; <?php echo esc_html( gmdate( 'Y' ) ); ?> <?php bloginfo( 'name' ); ?> &middot; <?php esc_html_e( 'Linkurile către magazine sunt afiliate, fără niciun cost în plus pentru tine.', 'hainute' ); ?> <a href="<?php echo esc_url( home_url( '/declaratie-afiliere/' ) ); ?>"><?php esc_html_e( 'Detalii', 'hainute' ); ?></a></p>
 	</div>

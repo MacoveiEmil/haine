@@ -7,7 +7,7 @@
  *     ORICE crawl de disponibilitate (Answear/FD/various-brands/extern).
  *  2. Popularitate — numărăm vizualizările (all-time + fereastră recentă) ca să
  *     știm care produse sunt „fierbinți" → recrawl prioritar.
- *  3. „X utilizatori se uită acum" — dovadă socială: dummy realist la început
+ *  3. Vizualizări reale recente ale produsului (fără valori inventate)
  *     (nu exagerat, variază puțin la refresh), înlocuit automat de datele reale
  *     pe măsură ce audiența crește.
  */
@@ -110,10 +110,7 @@ function hainute_is_hot( $pid ) {
  * Când traficul real depășește dummy-ul, preia valoarea reală.
  */
 function hainute_viewers_now( $pid ) {
-	$pid    = (int) $pid;
-	$bucket = (int) floor( time() / 600 ); // se schimbă lent (la 10 min)
-	$base   = 2 + ( abs( crc32( $pid . '-' . $bucket ) ) % 9 ); // 2..10
-	$jitter = function_exists( 'wp_rand' ) ? wp_rand( 0, 2 ) : mt_rand( 0, 2 );
-	$dummy  = $base + $jitter; // ~2..12, variază puțin la fiecare încărcare
-	return max( $dummy, hainute_recent_views( $pid ) );
+	// DOAR date reale: un număr inventat de vizitatori e practică comercială
+	// înșelătoare (Legea 363/2007). Fără trafic real, elementul nu se afișează.
+	return hainute_recent_views( (int) $pid );
 }

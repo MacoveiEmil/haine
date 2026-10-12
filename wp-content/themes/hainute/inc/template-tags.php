@@ -222,13 +222,14 @@ function hainute_the_social_proof( $product_id ) {
 	if ( ! function_exists( 'hainute_viewers_now' ) ) {
 		return;
 	}
+	// Vizualizări reale ale paginii în ultimele 15 minute (afișate de la 3 în sus).
 	$n = (int) hainute_viewers_now( $product_id );
-	if ( $n < 2 ) {
+	if ( $n < 3 ) {
 		return;
 	}
 	echo '<p class="social-proof" aria-live="polite">';
 	echo '<span class="social-proof-dot" aria-hidden="true"></span>';
-	echo esc_html( hainute_ro_count( $n, 'persoană', 'persoane' ) . ' se uită la acest produs acum' );
+	echo esc_html( hainute_ro_count( $n, 'vizualizare', 'vizualizări' ) . ' în ultimele 15 minute' );
 	echo '</p>';
 }
 
