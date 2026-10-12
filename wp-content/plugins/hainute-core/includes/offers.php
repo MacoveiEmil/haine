@@ -285,7 +285,21 @@ function hainute_refresh_buyable( $product_id ) {
 * proprie, magazinele cross, variantele de culoare verificate în ultimele 7 zile),
 * ca „, 28, 30, ". Pe ea se bazează filtrul de mărime din listări.
 */
+/** Produsul e îmbrăcăminte (are o categorie sub „Îmbrăcăminte")? */
+function hainute_is_clothing( $product_id ) {
+	foreach ( (array) wp_get_post_terms( $product_id, 'product_cat', array( 'fields' => 'ids' ) ) as $cid ) {
+		foreach ( array_merge( array( $cid ), get_ancestors( $cid, 'product_cat' ) ) as $a ) {
+			$t = get_term( $a, 'product_cat' );
+			if ( $t && ! is_wp_error( $t ) && 0 === strpos( $t->slug, 'imbracaminte' ) ) {
+				return true;
+			}
+		}
+	}
+	return false;
+}
+
 function hainute_refresh_instock_sizes( $product_id ) {
+	$clothing = hainute_is_clothing( $product_id );
 	$hidden = get_post_meta( $product_id, '_hainute_hidden_stores', true );
 	$hidden = is_array( $hidden ) ? array_map( 'intval', $hidden ) : array();
 	$store  = get_post_meta( $product_id, '_hainute_store_sizes', true );
@@ -300,7 +314,7 @@ function hainute_refresh_instock_sizes( $product_id ) {
 		}
 		$own  = in_array( $o->network, array( 'cj', 'profitshare', '2performant' ), true );
 		$list = $own ? ( function_exists( 'hainute_resolve_sizes' ) ? hainute_resolve_sizes( $product_id )['labels'] : array() ) : (array) ( $store[ (int) $o->store_id ] ?? array() );
-		foreach ( hainute_norm_sizes( $list ) as $sz ) {
+		foreach ( hainute_norm_sizes( $list, $clothing ) as $sz ) {
 			$sizes[ $sz ] = 1;
 		}
 	}
@@ -309,7 +323,7 @@ function hainute_refresh_instock_sizes( $product_id ) {
 		if ( empty( $v['in_stock'] ) || empty( $v['checked'] ) || time() - (int) $v['checked'] > 7 * DAY_IN_SECONDS ) {
 			continue;
 		}
-		foreach ( hainute_norm_sizes( explode( ',', (string) ( $v['sizes'] ?? '' ) ) ) as $sz ) {
+		foreach ( hainute_norm_sizes( explode( ',', (string) ( $v['sizes'] ?? '' ) ), $clothing ) as $sz ) {
 			$sizes[ $sz ] = 1;
 		}
 	}
@@ -321,6 +335,23 @@ function hainute_refresh_instock_sizes( $product_id ) {
 * Eticheta de mărime în formatul comun între magazine: „128 CM" → „128",
  * „110 Mărimi normale" → „110", „36 EU" → „36", „7_8Y" → „7-8Y".
  */
+/**
+* Îmbrăcăminte: mărimi pe vârstă („8Y", „7-8Y", „8 ani") → înălțimea în cm din
+* tabelul standard (8Y = 128), ca toate magazinele să folosească același sistem.
+* NU se aplică la încălțăminte („3Y" poate fi mărime US de pantof).
+*/
+function hainute_age_size_to_cm( $s ) {
+	$map = array( 1 => 86, 2 => 92, 3 => 98, 4 => 104, 5 => 110, 6 => 116, 7 => 122, 8 => 128, 9 => 134, 10 => 140, 11 => 146, 12 => 152, 13 => 158, 14 => 164, 15 => 170, 16 => 176 );
+	if ( preg_match( '/^(\d{1,2})(?:\s*-\s*(\d{1,2}))?\s*(y|ani|an)$/iu', trim( (string) $s ), $m ) ) {
+		$a = (int) $m[1];
+		$b = isset( $m[2] ) && '' !== $m[2] ? (int) $m[2] : 0;
+		if ( isset( $map[ $a ] ) && ( ! $b || isset( $map[ $b ] ) ) ) {
+			return $b ? $map[ $a ] . '-' . $map[ $b ] : (string) $map[ $a ];
+		}
+	}
+	return $s;
+}
+
 function hainute_norm_size( $s ) {
 	$s = trim( preg_replace( '/\s+/u', ' ', (string) $s ) );
 	$s = preg_replace( '/\s*(cm|eu|mărimi normale|marimi normale)\.?$/iu', '', $s );
@@ -328,10 +359,13 @@ function hainute_norm_size( $s ) {
 }
 
 /** Normalizează o listă de mărimi (fără duplicate, ordinea păstrată). */
-function hainute_norm_sizes( $list ) {
+function hainute_norm_sizes( $list, $clothing = false ) {
 	$out = array();
 	foreach ( (array) $list as $s ) {
 		$n = hainute_norm_size( $s );
+		if ( $clothing ) {
+			$n = hainute_age_size_to_cm( $n );
+		}
 		if ( '' !== $n && ! in_array( $n, $out, true ) ) {
 			$out[] = $n;
 		}

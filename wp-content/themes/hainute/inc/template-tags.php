@@ -825,6 +825,16 @@ function hainute_the_product_intro( $product_id ) {
 
 function hainute_shop_listings_build( $product_id ) {
 	$out         = array();
+	// Îmbrăcăminte → mărimile pe vârstă (8Y) se convertesc în cm (128), ca la restul.
+	$clothing    = false;
+	foreach ( (array) wp_get_post_terms( $product_id, 'product_cat', array( 'fields' => 'ids' ) ) as $cid ) {
+		foreach ( array_merge( array( $cid ), get_ancestors( $cid, 'product_cat' ) ) as $a ) {
+			$t = get_term( $a, 'product_cat' );
+			if ( $t && ! is_wp_error( $t ) && 0 === strpos( $t->slug, 'imbracaminte' ) ) {
+				$clothing = true;
+			}
+		}
+	}
 	$store_sizes = get_post_meta( $product_id, '_hainute_store_sizes', true );
 	if ( ! is_array( $store_sizes ) ) {
 		$store_sizes = array();
@@ -881,8 +891,8 @@ function hainute_shop_listings_build( $product_id ) {
 			$out[] = array(
 				'store'    => $o->store ? $o->store->name : '',
 				'color'    => $own ? $prim_color : (string) ( $ext_color[ (int) $o->store_id ] ?? '' ),
-				'sizes'    => hainute_norm_sizes( $own ? $prim_sizes : (array) ( $store_sizes[ (int) $o->store_id ] ?? array() ) ),
-				'unavail'  => hainute_norm_sizes( $own ? $prim_unavail : (array) ( $store_unavail[ (int) $o->store_id ] ?? array() ) ),
+				'sizes'    => hainute_norm_sizes( $own ? $prim_sizes : (array) ( $store_sizes[ (int) $o->store_id ] ?? array() ), $clothing ),
+				'unavail'  => hainute_norm_sizes( $own ? $prim_unavail : (array) ( $store_unavail[ (int) $o->store_id ] ?? array() ), $clothing ),
 				'url'      => $o->affiliate_url,
 				'price'    => (float) $o->price,
 				'in_stock' => 'out_of_stock' !== $o->stock_status,
@@ -908,8 +918,8 @@ function hainute_shop_listings_build( $product_id ) {
 			$out[] = array(
 				'store'    => $st ? $st->name : ( $prim_img ? 'Answear.ro' : '' ),
 				'color'    => (string) ( $v['color'] ?? '' ),
-				'sizes'    => $fresh ? hainute_norm_sizes( explode( ',', (string) ( $v['sizes'] ?? '' ) ) ) : array(),
-				'unavail'  => $fresh ? hainute_norm_sizes( explode( ',', (string) ( $v['unavail'] ?? '' ) ) ) : array(),
+				'sizes'    => $fresh ? hainute_norm_sizes( explode( ',', (string) ( $v['sizes'] ?? '' ) ), $clothing ) : array(),
+				'unavail'  => $fresh ? hainute_norm_sizes( explode( ',', (string) ( $v['unavail'] ?? '' ) ), $clothing ) : array(),
 				'url'      => (string) ( $v['url'] ?? '' ),
 				'price'    => (float) ( $v['price'] ?? 0 ),
 				'in_stock' => ! empty( $v['in_stock'] ),
@@ -1102,7 +1112,7 @@ function hainute_the_shop_matrix( $product_id ) {
 	// doar la oferte fără stoc sunt epuizate (tăiate), nu disponibile.
 	$sizes   = array();
 	$unavail = get_post_meta( $product_id, '_hainute_sizes_unavailable', true );
-	$unavail = is_array( $unavail ) ? array_map( 'trim', $unavail ) : array();
+	$unavail = is_array( $unavail ) ? hainute_norm_sizes( $unavail ) : array(); // „128 CM" = „128"
 	foreach ( $listings as $l ) {
 		foreach ( $l['sizes'] as $s ) {
 			$s = trim( $s );
