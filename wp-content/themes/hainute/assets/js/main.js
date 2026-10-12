@@ -209,14 +209,13 @@ document.addEventListener('DOMContentLoaded', function () {
 			rows.forEach(function (li) {
 				var p = pick(li);
 				var priceEl = li.querySelector('.offer-price'), linkEl = li.querySelector('.offer-cta'), statusEl = li.querySelector('.offer-status-label');
-				li._rank = !p ? 2 : (!p.in_stock ? 3 : (state.size && !p.sizes.length ? 1 : 0));
+				li._rank = (!p || !p.in_stock) ? 2 : (state.size && !p.sizes.length ? 1 : 0);
 				if (!p) {
-					li.classList.add('sm-dim', 'stock-out'); li.classList.remove('stock-in');
-					// Mărime care există la magazin dar s-a terminat ≠ mărime pe care n-o are deloc.
-					var soldOut = state.size && poolFor(li).some(function (v) { return (v.unavail || []).indexOf(state.size) >= 0; });
-					if (statusEl) statusEl.textContent = state.size ? (soldOut ? 'Mărime epuizată aici' : 'Fără mărimea asta') : 'Indisponibil';
+					// O singură stare pentru „nu se poate cumpăra aici": același stil și același
+					// text, fie că magazinul n-are stoc deloc, fie că n-are mărimea aleasă.
+					li.classList.add('stock-out'); li.classList.remove('stock-in');
+					if (statusEl) statusEl.textContent = 'Indisponibil';
 				} else {
-					li.classList.remove('sm-dim');
 					if (priceEl) priceEl.textContent = fmt(p.price);
 					// Mărimile acestui magazin nu sunt (încă) verificate → nu promitem nimic.
 					if (statusEl) statusEl.textContent = !p.in_stock ? 'Indisponibil' : (state.size && !p.sizes.length ? 'Mărime neconfirmată' : 'Disponibil');

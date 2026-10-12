@@ -803,7 +803,6 @@ h1, h2, h3 { line-height: 1.2; font-weight: 800; }
 .sm-size:hover { border-color: var(--ink); }
 .sm-size.is-active { background: var(--accent); border-color: var(--accent-dark); }
 
-.sm-listings .offer.sm-dim { opacity: 0.3; }
 .sm-listings .offer.sm-hide { display: none; }
 /* Internal links pe brand, sub descriere. */
 .brand-links { margin-top: 1rem; font-size: 0.9rem; color: var(--muted); }
