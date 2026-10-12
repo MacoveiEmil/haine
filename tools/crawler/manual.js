@@ -220,6 +220,8 @@ function pageExtract() {
       best.arr.forEach((x) => add(String(x.name), x.variation.availability !== 'OUT_OF_STOCK'));
       out.method = 'state-answear';
       out.complete = true;
+      // Genul după magazin: G = fete, B = băieți, K = unisex.
+      out.gender = ({ G: 'fete', B: 'baieti', K: 'unisex' })[best.parent.sex] || '';
       if (!out.sizes.length) out.soldOut = true;
     }
   }
@@ -313,11 +315,11 @@ async function preparePage(page, host) {
     if (document.querySelector('[data-gtm-size],.p-select,li[data-productsize-name],select.super-attribute-select,select[name^="option"]')) return true;
     return [...document.querySelectorAll('script[type="application/ld+json"]')].some((s) => /"Product(Group)?"/.test(s.textContent));
   }, { timeout: 10000 }).catch(() => {});
-  // Answear: deschide dropdown-ul de mărimi (lista apare doar după click).
+  // Answear: mărimile și genul vin din starea paginii (__REACT_QUERY_STATE__);
+  // nu mai așteptăm lista derulantă (costa până la 16 s pe pagină).
   if (/answear\.ro$/.test(host)) {
-    await page.waitForSelector('button[class*="BaseSelectDropdown__selectTrigger"]', { timeout: 8000 }).catch(() => {});
-    await page.click('button[class*="BaseSelectDropdown__selectTrigger"]').catch(() => page.evaluate(() => { const b = document.querySelector('button[class*="BaseSelectDropdown__selectTrigger"]'); if (b) b.click(); }).catch(() => {}));
-    await page.waitForSelector('li[class*="BaseSelectItem__listItem"]', { timeout: 6000 }).catch(() => {});
+    await page.waitForFunction(() => !!window.__REACT_QUERY_STATE__, { timeout: 8000 }).catch(() => {});
+    return;
   }
   // various-brands: consent-wall Cookiebot; fără acord, orice produs redirectează la
   // home. Acceptăm o dată (cookie-ul rămâne în context) și reîncărcăm produsul.
@@ -400,11 +402,11 @@ async function crawlHost(browser, host, items, report) {
         if (!d.price && !d.isProduct && !d.soldOut) { r.fara_pret++; console.log(`  ? ${host} #${it.product_id}: fără date (nu schimb nimic)`); }
         else {
           const known = d.sizes.length || d.unavailable.length;
-          const body = { product_id: it.product_id, sizes: d.sizes, unavailable: d.unavailable, complete: !!d.complete, price: d.price,
+          const body = { product_id: it.product_id, sizes: d.sizes, unavailable: d.unavailable, complete: !!d.complete, price: d.price, gender: d.gender || '',
             availability: d.soldOut ? 'OutOfStock' : (known ? (d.sizes.length ? 'InStock' : 'OutOfStock') : (d.in_stock ? 'InStock' : 'OutOfStock')) };
           await api('crawl-result', body);
           r.ok++; if (known) r.cu_marimi++;
-          console.log(`  ✓ ${host} #${it.product_id} ${d.price} ${body.availability} [${d.sizes.join(',')}]${d.unavailable.length ? ' epuizate:[' + d.unavailable.join(',') + ']' : ''} (${d.method})`);
+          console.log(`  ✓ ${host} #${it.product_id} ${d.price} ${body.availability}${d.gender ? ' gen:' + d.gender : ''} [${d.sizes.join(',')}]${d.unavailable.length ? ' epuizate:[' + d.unavailable.join(',') + ']' : ''} (${d.method})`);
         }
       } else if (VARIANTS) {
         await preparePage(page, host);

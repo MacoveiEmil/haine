@@ -111,9 +111,12 @@ async function postResult(payload) {
                 if (av === 'available') { avail[sz] = 1; delete unavail[sz]; }
                 else if (!avail[sz]) { unavail[sz] = 1; }
               });
-              return { sizes: Object.keys(avail), unavailable: Object.keys(unavail) };
+              // Genul după magazin: calea „FETE / Imbracaminte / …" (sau BAIETI).
+              var gm = (document.body.innerText || '').match(/\b(FETE|BAIETI|BĂIEȚI|UNISEX)\s*\/\s*(Imbracaminte|Încălțăminte|Incaltaminte|Accesorii)/i);
+              var gender = gm ? gm[1].toLowerCase().replace('ă', 'a').replace('ț', 't').replace('ă', 'a') : '';
+              return { sizes: Object.keys(avail), unavailable: Object.keys(unavail), gender: gender, title: (document.querySelector('h1') || {}).innerText || '' };
             });
-            await postResult({ product_id: item.product_id, sizes: d.sizes, unavailable: d.unavailable, in_stock: d.sizes.length > 0 });
+            await postResult({ product_id: item.product_id, sizes: d.sizes, unavailable: d.unavailable, in_stock: d.sizes.length > 0, gender: d.gender, title: d.title });
             if (d.sizes.length) live++;
           }
           done++;

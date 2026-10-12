@@ -69,6 +69,9 @@ async function acceptCookies(page) {
     try {
       const extract = () => page.evaluate(() => {
         const out = { title: document.title || '', sizes: [], unavail: [], hasCart: false };
+        // Genul după magazin: câmpul „Gen" din Caracteristici (Fete / Baieti / Unisex).
+        const gm = (document.body.innerText || '').match(/\bGen\s*\n\s*(Fete|Baieti|Băieți|Unisex)\b/i);
+        out.gender = gm ? gm[1].toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '') : '';
         out.hasCart = /adauga in cos|adaugă în coș/i.test(document.body.innerText || '');
         // Mărimi: pantofi (32, 32-33, 38.5), haine (116, 128, 164, „128 CM"),
         // litere (XS-XXL), vârstă („13-14 ani"). NU 4+ cifre (an/cod).
@@ -109,7 +112,7 @@ async function acceptCookies(page) {
       const alive = ! /home\s*page/i.test( data.title );
       const sizes = alive ? data.sizes : [];
 
-      await post({ product_id: item.product_id, store_id: item.store_id, sizes, alive });
+      await post({ product_id: item.product_id, store_id: item.store_id, sizes, alive, gender: alive ? data.gender : '', title: data.title });
       done++;
       if (!alive) { dead++; if (dead <= 20) console.log(`  #${item.product_id} MORT (HTTP ${status}${isHome ? ', home' : ', fără mărimi/coș'})`); }
       else { withSizes += sizes.length ? 1 : 0; if (done % 20 === 0 || sizes.length) console.log(`  #${item.product_id} ✓ mărimi: ${sizes.join(',') || '(fără listă, dar în stoc)'}`); }

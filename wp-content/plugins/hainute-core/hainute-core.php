@@ -28,6 +28,7 @@ require_once HAINUTE_CORE_DIR . 'includes/admin/manual-metabox.php';
 require_once HAINUTE_CORE_DIR . 'includes/crosscheck.php';
 require_once HAINUTE_CORE_DIR . 'includes/recheck.php';
 require_once HAINUTE_CORE_DIR . 'includes/img-proxy.php';
+require_once HAINUTE_CORE_DIR . 'includes/gender.php';
 require_once HAINUTE_CORE_DIR . 'includes/sync/matching.php';
 require_once HAINUTE_CORE_DIR . 'includes/sync/categories.php';
 require_once HAINUTE_CORE_DIR . 'includes/sync/importer.php';

@@ -1855,6 +1855,7 @@ function hainute_rest_crawl_vb_result( WP_REST_Request $request ) {
 	}
 	$sizes    = isset( $b['sizes'] ) && is_array( $b['sizes'] ) ? array_values( array_filter( array_map( 'sanitize_text_field', $b['sizes'] ) ) ) : array();
 	$in_stock = ! empty( $b['alive'] );
+	hainute_take_merchant_gender( $pid, $b );
 
 	if ( $sid ) {
 		$map = get_post_meta( $pid, '_hainute_store_sizes', true );
@@ -2073,6 +2074,7 @@ function hainute_rest_crawl_fd_result( WP_REST_Request $request ) {
 	$sizes    = isset( $b['sizes'] ) && is_array( $b['sizes'] ) ? array_values( array_filter( array_map( 'sanitize_text_field', $b['sizes'] ) ) ) : array();
 	$unavail  = isset( $b['unavailable'] ) && is_array( $b['unavailable'] ) ? array_values( array_filter( array_map( 'sanitize_text_field', $b['unavailable'] ) ) ) : array();
 	$in_stock = ! empty( $b['in_stock'] ) && ! empty( $sizes );
+	hainute_take_merchant_gender( $pid, $b );
 
 	if ( ! empty( $sizes ) || ! empty( $unavail ) ) {
 		update_post_meta( $pid, '_hainute_sizes', implode( ', ', $sizes ) );
@@ -2486,6 +2488,13 @@ function hainute_rest_crawl_result( WP_REST_Request $request ) {
 	if ( ! empty( $sizes ) ) {
 		update_post_meta( $pid, '_hainute_sizes', implode( ', ', $sizes ) );
 		update_post_meta( $pid, '_hainute_sizes_available', $sizes ); // pt afișare „disponibil per mărime"
+	}
+	// Genul de pe pagina magazinului (fete / baieti / unisex) → corectăm categoria/titlul.
+	if ( ! empty( $body['gender'] ) && in_array( $body['gender'], array( 'fete', 'baieti', 'unisex' ), true ) ) {
+		update_post_meta( $pid, '_hainute_merchant_gender', $body['gender'] );
+		if ( function_exists( 'hainute_apply_merchant_gender' ) ) {
+			hainute_apply_merchant_gender( $pid );
+		}
 	}
 	if ( ! empty( $body['sku'] ) ) {
 		update_post_meta( $pid, '_hainute_model_code', sanitize_text_field( $body['sku'] ) );
