@@ -178,6 +178,24 @@ function pageExtract() {
 
   // Answear: dropdown-ul de mărimi (deschis de crawler) are și mărimile EPUIZATE
   // („Raportează disponibilitatea"), deci e mai complet decât JSON-LD.
+  // various-brands: în selector apar DOAR mărimile disponibile (autoritativ);
+  // titlul „Home Page" după acord = produsul nu mai există.
+  if (/various-brands\.ro$/.test(host)) {
+  const hasCart = /adauga in cos|adaugă în coș/i.test(document.body.innerText || '');
+  const sizeRe = /^(\d{1,3}([.,\/-]\d{1,3})?(\s?(cm|ani|luni|m))?|xxs|xs|s|m|l|xl|xxl|xxxl)$/i;
+  if (/home\s*page/i.test(document.title)) { out.soldOut = true; out.method = 'dom-vb-gone'; }
+  else if (hasCart) {
+  	out.sizes = []; out.unavailable = [];
+  	document.querySelectorAll('option, [class*="tile-root"], [class*="clickable-root"]').forEach((el) => {
+  	if (el.closest('table')) return;
+  	const t = (el.textContent || '').trim();
+  	if (!sizeRe.test(t)) return;
+  	add(t, !(el.disabled || /disabled|unavail|inactive|sold|epuizat|indispon/i.test(el.className)));
+  	});
+  	out.isProduct = true; out.in_stock = true; out.method = 'dom-vb';
+  	out.complete = out.sizes.length > 0;
+  }
+  }
   // Sursa principală: starea React a paginii (__REACT_QUERY_STATE__) are TOATE
   // mărimile produsului cu availability IN_STOCK / LAST / OUT_OF_STOCK.
   if (/answear\.ro$/.test(host) && window.__REACT_QUERY_STATE__) {
@@ -300,6 +318,24 @@ async function preparePage(page, host) {
     await page.waitForSelector('button[class*="BaseSelectDropdown__selectTrigger"]', { timeout: 8000 }).catch(() => {});
     await page.click('button[class*="BaseSelectDropdown__selectTrigger"]').catch(() => page.evaluate(() => { const b = document.querySelector('button[class*="BaseSelectDropdown__selectTrigger"]'); if (b) b.click(); }).catch(() => {}));
     await page.waitForSelector('li[class*="BaseSelectItem__listItem"]', { timeout: 6000 }).catch(() => {});
+  }
+  // various-brands: consent-wall Cookiebot; fără acord, orice produs redirectează la
+  // home. Acceptăm o dată (cookie-ul rămâne în context) și reîncărcăm produsul.
+  if (/various-brands\.ro$/.test(host)) {
+  const hasConsent = await page.evaluate(() => /CookieConsent/.test(document.cookie)).catch(() => false);
+  if (!hasConsent) {
+  	const target = page.url();
+  	if (/home\s*page/i.test(await page.title().catch(() => ''))) await page.goto(target, { waitUntil: 'domcontentloaded', timeout: 30000 }).catch(() => {});
+  	await sleep(1500);
+  	await page.evaluate(() => {
+  	for (const id of ['CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll', 'CybotCookiebotDialogBodyButtonAccept', 'CybotCookiebotDialogBodyLevelButtonAccept']) { const b = document.getElementById(id); if (b) { b.click(); return; } }
+  	const b = [...document.querySelectorAll('button,a')].find((x) => /permite toate|accept all/i.test(x.textContent || ''));
+  	if (b) b.click();
+  	}).catch(() => {});
+  	await sleep(1500);
+  	await page.goto(target, { waitUntil: 'networkidle2', timeout: 35000 }).catch(() => {});
+  }
+  await page.waitForFunction(() => /adauga in cos|adaug[ăa] [îi]n co[șs]/i.test(document.body.innerText || '') || /home\s*page/i.test(document.title) || document.querySelector('option'), { timeout: 9000 }).catch(() => {});
   }
   // Magento (Sportano): opțiunile de mărime se completează prin JS după load;
   // la unele produse (pantofi) abia după ce deschizi lista → un click pe ea.

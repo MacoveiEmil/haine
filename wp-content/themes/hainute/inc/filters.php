@@ -87,20 +87,20 @@ function hainute_apply_listing_filters( $query ) {
 	// (LIKE găsea subșiruri: „24" prindea „124", „M" prindea „158 CM").
 	if ( ! empty( $_GET['marime'] ) ) {
 		$size = sanitize_text_field( wp_unslash( $_GET['marime'] ) );
+		// Doar produsele care au mărimea PE STOC la un magazin (vezi
+		// hainute_refresh_instock_sizes); formatul „, 28, 30," permite LIKE simplu.
 		$meta_query[] = array(
-			'key'     => '_hainute_sizes',
-			'value'   => '(^|,)[[:space:]]*' . preg_quote( $size ) . '[[:space:]]*(,|$)',
-			'compare' => 'REGEXP',
+			'key'     => '_hainute_sizes_instock',
+			'value'   => ', ' . $size . ',',
+			'compare' => 'LIKE',
 		);
 	}
 
 	// Produsele cu stoc primele, în orice sortare (cele fără stoc rămân, la final).
-	// NOT EXISTS păstrează și produsele încă necalculate.
-	$meta_query['hainute_stoc'] = array(
-		'relation'       => 'OR',
-		'hainute_buyable' => array( 'key' => '_hainute_buyable', 'type' => 'NUMERIC' ),
-		array( 'key' => '_hainute_buyable', 'compare' => 'NOT EXISTS' ),
-	);
+	// Un singur JOIN pe cheie (indexat). Varianta cu „OR NOT EXISTS" făcea un JOIN pe
+	// toate meta-urile și dura ~2s pe listare; toate produsele publicate au cheia
+	// (o scrie hainute_refresh_buyable la fiecare ofertă).
+	$meta_query['hainute_buyable'] = array( 'key' => '_hainute_buyable', 'type' => 'NUMERIC' );
 
 	// --- Sorting --------------------------------------------------------------
 	$sort = isset( $_GET['sortare'] ) ? sanitize_key( wp_unslash( $_GET['sortare'] ) ) : '';
@@ -121,7 +121,7 @@ add_action( 'pre_get_posts', 'hainute_apply_listing_filters' );
  * Cached 1h in a transient; invalidated naturally on expiry.
  */
 function hainute_available_sizes() {
-	$cached = get_transient( 'hainute_available_sizes_v2' );
+	$cached = get_transient( 'hainute_available_sizes_v3' );
 	if ( is_array( $cached ) ) {
 		return $cached;
 	}
@@ -130,7 +130,7 @@ function hainute_available_sizes() {
 	$rows = $wpdb->get_col(
 		"SELECT pm.meta_value FROM {$wpdb->postmeta} pm
 		 INNER JOIN {$wpdb->posts} p ON p.ID = pm.post_id
-		 WHERE pm.meta_key = '_hainute_sizes' AND pm.meta_value <> ''
+		 WHERE pm.meta_key = '_hainute_sizes_instock' AND pm.meta_value <> ''
 		   AND p.post_type = 'product' AND p.post_status = 'publish'"
 	);
 
@@ -146,7 +146,7 @@ function hainute_available_sizes() {
 	natcasesort( $sizes );
 	$sizes = array_values( $sizes );
 
-	set_transient( 'hainute_available_sizes_v2', $sizes, HOUR_IN_SECONDS );
+	set_transient( 'hainute_available_sizes_v3', $sizes, HOUR_IN_SECONDS );
 	return $sizes;
 }
 

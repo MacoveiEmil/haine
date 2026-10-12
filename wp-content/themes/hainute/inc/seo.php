@@ -43,6 +43,13 @@ add_filter( 'wp_robots', function ( $robots ) {
 	}
 	// Căutarea internă și 404 nu au ce căuta în index (conținut subțire/duplicat);
 	// `follow` rămâne ca linkurile spre produse să transmită valoare.
+	// Magazine inactive sau dubluri (ex. „Sportisimo Europe" = Sportisimo.ro): noindex.
+	if ( is_tax( 'store' ) && ! hainute_store_term_indexable( get_queried_object() ) ) {
+		unset( $robots['index'], $robots['max-image-preview'] );
+		$robots['noindex'] = true;
+		$robots['follow']  = true;
+		return $robots;
+	}
 	if ( is_search() || is_404() ) {
 		unset( $robots['index'], $robots['max-image-preview'] );
 		$robots['noindex'] = true;
@@ -103,13 +110,32 @@ add_filter(
 			} else {
 				$parts['title'] = sprintf( __( 'Haine și încălțăminte pentru %s: mărimi disponibile în magazine', 'hainute' ), mb_strtolower( $term->name ) );
 			}
+		} elseif ( is_tax( 'store' ) ) {
+			$parts['title'] = sprintf( __( 'Haine și încălțăminte copii la %s: mărimi disponibile', 'hainute' ), hainute_store_display_name( single_term_title( '', false ) ) );
 		} elseif ( is_tax( 'product_brand' ) ) {
 			$parts['title'] = sprintf( __( '%s pentru copii: mărimi disponibile în magazine', 'hainute' ), single_term_title( '', false ) );
 		} elseif ( is_singular( 'product' ) && function_exists( 'hainute_product_name_parts' ) ) {
 			// „Calvin Klein Jeans geacă fete negru: vezi ce magazine au mărimea ta".
-			$n     = hainute_product_name_parts( get_queried_object_id() );
-			$name  = trim( preg_replace( '/\s+/u', ' ', implode( ' ', array( $n['brand'], $n['model'], mb_strtolower( $n['type'] ), $n['gender'], $n['color'] ) ) ) );
-			$parts = array( 'title' => $name . ': ' . __( 'vezi ce magazine au mărimea ta', 'hainute' ) );
+			// Max ~70 caractere (altfel Google taie): renunțăm pe rând la culoare, gen,
+			// apoi la ultimele cuvinte din model.
+			$n      = hainute_product_name_parts( get_queried_object_id() );
+			$suffix = ': ' . __( 'vezi ce magazine au mărimea ta', 'hainute' );
+			$model  = preg_split( '/\s+/u', trim( $n['model'] ), -1, PREG_SPLIT_NO_EMPTY );
+			$build  = function ( $with_color, $with_gender ) use ( $n, &$model ) {
+				return trim( preg_replace( '/\s+/u', ' ', implode( ' ', array( $n['brand'], implode( ' ', $model ), mb_strtolower( $n['type'] ), $with_gender ? $n['gender'] : '', $with_color ? $n['color'] : '' ) ) ) );
+			};
+			$name = $build( true, true );
+			if ( mb_strlen( $name . $suffix ) > 70 ) {
+				$name = $build( false, true );
+			}
+			if ( mb_strlen( $name . $suffix ) > 70 ) {
+				$name = $build( false, false );
+			}
+			while ( mb_strlen( $name . $suffix ) > 70 && count( $model ) > 1 ) {
+				array_pop( $model );
+				$name = $build( false, false );
+			}
+			$parts = array( 'title' => $name . $suffix );
 		} elseif ( is_search() ) {
 			// WP e în engleză („Search Results for"); site-ul e în română.
 			$parts['title'] = sprintf( __( 'Rezultate pentru „%s"', 'hainute' ), get_search_query() );
@@ -363,3 +389,7 @@ function hainute_seo_breadcrumb_schema() {
 	echo "\n" . '<script type="application/ld+json">' . wp_json_encode( $schema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) . '</script>' . "\n";
 }
 add_action( 'wp_head', 'hainute_seo_breadcrumb_schema', 2 );
+
+// XML-RPC nu e folosit (fără aplicații externe de publicare): închis, ca suprafață de atac mai mică.
+add_filter( 'xmlrpc_enabled', '__return_false' );
+remove_action( 'wp_head', 'rsd_link' );

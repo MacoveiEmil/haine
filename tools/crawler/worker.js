@@ -13,6 +13,7 @@
  */
 const { spawn } = require('child_process');
 const path = require('path');
+const os = require('os');
 
 const SITE = process.env.SITE || 'http://hainutero.local';
 const SECRET = process.env.SECRET || '';
@@ -32,6 +33,9 @@ async function api(p, body) {
 function run(script, args, env, timeoutMs = 10 * 60 * 1000) {
   return new Promise((resolve) => {
     const p = spawn(process.execPath, [path.join(__dirname, script), ...args], { env: { ...process.env, SITE, SECRET, ...env }, stdio: ['ignore', 'pipe', 'pipe'] });
+    // Prioritate scăzută (Chrome-ul pornit de crawler o moștenește): site-ul și
+    // vizitatorii au întâietate la procesor.
+    try { os.setPriority(p.pid, os.constants.priority.PRIORITY_BELOW_NORMAL); } catch (e) {}
     let out = '';
     p.stdout.on('data', (d) => { out += d; });
     p.stderr.on('data', (d) => { out += d; });
@@ -65,14 +69,22 @@ async function recheck(item) {
 let lastCycle = 0;
 async function cycle() {
   log(`ciclu periodic (toate magazinele, la ${CYCLE_HOURS}h)`);
-  // Magazinele proprii în paralel cu cross-urile (site-uri diferite).
-  await Promise.all([
-  run('manual.js', [], { OLDER: String(CYCLE_HOURS), DELAY: '3000', CONCURRENCY: '6' }, 4 * 3600 * 1000),
-  run('manual.js', [], { OWN: '1', LIMIT: '5000', DELAY: '1500', CONCURRENCY: '3' }, 4 * 3600 * 1000)
-  	.then(() => run('manual.js', [], { VARIANTS: '1', DELAY: '1500', CONCURRENCY: '3' }, 2 * 3600 * 1000)),
-  run('sportisimo.js', [], {}, 3 * 3600 * 1000),
-  run('refresh.js', ['fd'], {}, 3600 * 1000).then(() => run('vb.js', [], {}, 3600 * 1000)),
-  ]);
+  // Lanurile PE RÂND (un singur Chrome odată): în paralel ocupau ~7 GB RAM și tot
+  // procesorul, iar site-ul răspundea în 20+ secunde. Cele mai importante primele.
+  const lanes = [
+    ['Answear', () => run('manual.js', [], { OWN: '1', LIMIT: '5000', DELAY: '1500', CONCURRENCY: '2' }, 4 * 3600 * 1000)],
+    ['Sportisimo', () => run('sportisimo.js', [], {}, 3 * 3600 * 1000)],
+    ['FashionDays', () => run('refresh.js', ['fd'], {}, 3600 * 1000)],
+    ['various-brands', () => run('vb.js', [], {}, 3600 * 1000)],
+    ['cross', () => run('manual.js', [], { OLDER: String(CYCLE_HOURS), DELAY: '3000', CONCURRENCY: '3' }, 4 * 3600 * 1000)],
+    ['variante', () => run('manual.js', [], { VARIANTS: '1', DELAY: '1500', CONCURRENCY: '2' }, 2 * 3600 * 1000)],
+  ];
+  for (const [name, fn] of lanes) {
+    const t = Date.now();
+    const r = await fn();
+    const last = r.out.trim().split('\n').filter((x) => /TERMINAT|REZUMAT|verificate|✓/.test(x)).slice(-1)[0] || '';
+    log(`  ${name}: ${Math.round((Date.now() - t) / 60000)} min, cod ${r.code} ${last.slice(0, 160)}`);
+  }
   await api('recompute-buyable').catch(() => {});
   log('ciclu periodic gata');
 }

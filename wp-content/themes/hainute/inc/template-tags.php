@@ -104,6 +104,21 @@ function hainute_offer_summary( $product_id ) {
 			$best = $o;
 		}
 	}
+	// Variantele de culoare cu stoc (aceeași pagină de produs, altă culoare) contează
+	// și ele: produsul se poate cumpăra chiar dacă culoarea principală e epuizată.
+	$variants = get_post_meta( $product_id, '_hainute_variant_offers', true );
+	foreach ( is_array( $variants ) ? $variants : array() as $v ) {
+		$sid = (int) ( $v['store_id'] ?? 0 );
+		$pr  = (float) ( $v['price'] ?? 0 );
+		if ( empty( $v['in_stock'] ) || $pr <= 0 || in_array( $sid, $hidden, true ) ) {
+			continue;
+		}
+		$st = $sid && function_exists( 'hainute_get_store' ) ? hainute_get_store( $sid ) : null;
+		$stores[ $sid ] = $stores[ $sid ] ?? ( $st ? $st->name : '' );
+		if ( ! $best || $pr < (float) $best->price ) {
+			$best = (object) array( 'price' => $pr, 'old_price' => 0, 'currency' => (string) ( $v['currency'] ?? 'RON' ), 'store' => $st, 'store_id' => $sid, 'stock_status' => 'in_stock' );
+		}
+	}
 	$cache[ $product_id ] = array(
 		'best'       => $best ? $best : $any,
 		'stores'     => count( $stores ),
@@ -582,7 +597,15 @@ function hainute_schema_size_variants( $product_id, $name, $by_store ) {
 	$listings = hainute_shop_listings( $product_id );
 	// Doar culoarea produsului (prima listare = oferta noastră principală): o altă
 	// culoare e alt produs, cu mărimile ei.
-	$primary = $listings ? hainute_ascii( mb_strtolower( trim( (string) $listings[0]['color'] ) ) ) : '';
+	// Dacă ea e epuizată, culoarea afișată implicit pe pagină = prima cu stoc.
+	$first = $listings ? $listings[0] : null;
+	foreach ( $listings as $l ) {
+		if ( ! empty( $l['in_stock'] ) && ( ! empty( $l['sizes'] ) ) ) {
+			$first = empty( $first['in_stock'] ) ? $l : $first;
+			break;
+		}
+	}
+	$primary = $first ? hainute_ascii( mb_strtolower( trim( (string) $first['color'] ) ) ) : '';
 	foreach ( $listings as $l ) {
 		$st = (string) $l['store'];
 		$c  = hainute_ascii( mb_strtolower( trim( (string) $l['color'] ) ) );
@@ -682,7 +705,7 @@ function hainute_product_name_parts( $product_id ) {
 		$lw = mb_strtolower( $w );
 		if ( preg_match( '/^(fete|băieți|baieti|copii|bebeluși|bebelusi|unisex)$/u', $lw ) ) {
 			$out['gender'] = $lw;
-		} elseif ( in_array( hainute_ascii( $lw ), $colors, true ) || preg_match( '/^(negru|alb|roșu|rosu|roz|albastru|bleumarin|verde|gri|bej|maro|galben|mov|portocaliu|multicolor|argintiu|auriu|kaki|turcoaz|crem|bordo)$/u', $lw ) ) {
+		} elseif ( in_array( hainute_ascii( $lw ), $colors, true ) || preg_match( '/^(negru|alb|roșu|rosu|roz|albastru|bleumarin|verde|gri|bej|maro|galben|mov|portocaliu|multicolor|argintiu|auriu|kaki|turcoaz|crem|bordo|inchis|închis|deschis|bleu|navy|lila|corai|mustar|muștar|khaki|nude|petrol|camel)$/u', $lw ) ) {
 			$out['color'] = trim( $out['color'] . ' ' . $lw );
 		} else {
 			$model[] = $w;
@@ -1025,8 +1048,10 @@ function hainute_the_shop_matrix( $product_id ) {
 		return;
 	}
 
-	// Culori distincte (după etichetă), fiecare cu o poză.
-	$colors = array();
+	// Culori distincte (după etichetă), fiecare cu o poză. „Principală" = culoarea
+	// produsului (prima listare = oferta noastră), nu orice variantă proprie.
+	$colors   = array();
+	$prim_key = $listings ? strtolower( trim( $listings[0]['color'] ) ) : '';
 	foreach ( $listings as $l ) {
 		$c = trim( $l['color'] );
 		if ( '' === $c ) {
@@ -1049,27 +1074,47 @@ function hainute_the_shop_matrix( $product_id ) {
 		}
 		if ( ! isset( $colors[ $k ] ) ) {
 			// Culoarea produsului nostru = cea a ofertelor din feed (nu externe).
-			$colors[ $k ] = array( 'label' => $c, 'image' => $l['image'], 'primary' => empty( $l['external'] ) );
+			$colors[ $k ] = array( 'label' => $c, 'image' => $l['image'], 'primary' => ( $k === $prim_key ), 'stock' => false );
 		} elseif ( '' === $colors[ $k ]['image'] && '' !== $l['image'] ) {
 			$colors[ $k ]['image'] = $l['image']; // alt magazin are poza acestei culori
 		}
 	}
 
-	uasort( $colors, function ( $a, $b ) { return (int) ! empty( $b['primary'] ) - (int) ! empty( $a['primary'] ); } );
+	// Culorile cu stoc primele (altfel pagina pornește pe o culoare epuizată și pare
+	// „Indisponibil" deși altă culoare se poate cumpăra); între ele, a noastră prima.
+	foreach ( $listings as $l ) {
+		$k = strtolower( trim( $l['color'] ) );
+		if ( isset( $colors[ $k ] ) && ! empty( $l['in_stock'] ) ) {
+			$colors[ $k ]['stock'] = true;
+		}
+	}
+	uasort(
+		$colors,
+		function ( $a, $b ) {
+			return ( (int) $b['stock'] - (int) $a['stock'] ) ?: ( (int) ! empty( $b['primary'] ) - (int) ! empty( $a['primary'] ) );
+		}
+	);
 
 	// Uniunea de mărimi DISPONIBILE (din listări) + INDISPONIBILE (crawluite din
 	// pagina magazinului) — pe cele indisponibile le arătăm tăiate.
-	$sizes = array();
+	// O mărime e disponibilă doar dacă o are un magazin CU STOC; mărimile care apar
+	// doar la oferte fără stoc sunt epuizate (tăiate), nu disponibile.
+	$sizes   = array();
+	$unavail = get_post_meta( $product_id, '_hainute_sizes_unavailable', true );
+	$unavail = is_array( $unavail ) ? array_map( 'trim', $unavail ) : array();
 	foreach ( $listings as $l ) {
 		foreach ( $l['sizes'] as $s ) {
 			$s = trim( $s );
-			if ( '' !== $s ) {
+			if ( '' === $s ) {
+				continue;
+			}
+			if ( ! empty( $l['in_stock'] ) ) {
 				$sizes[ $s ] = 1;
+			} else {
+				$unavail[] = $s;
 			}
 		}
 	}
-	$unavail = get_post_meta( $product_id, '_hainute_sizes_unavailable', true );
-	$unavail = is_array( $unavail ) ? array_map( 'trim', $unavail ) : array();
 	foreach ( $listings as $l ) {
 		foreach ( (array) ( $l['unavail'] ?? array() ) as $u ) {
 			$unavail[] = trim( (string) $u );
@@ -1159,8 +1204,15 @@ function hainute_the_shop_matrix( $product_id ) {
 				'in_stock' => (bool) $l['in_stock'],
 			);
 		}
+		// Rândul magazinului pornește pe prima variantă cu stoc (dacă există).
 		$def = $ls[0];
-		$ext = ! empty( $def['external'] );
+		foreach ( $ls as $cand ) {
+			if ( ! empty( $cand['in_stock'] ) ) {
+				$def = $cand;
+				break;
+			}
+		}
+		$ext = ! empty( $ls[0]['external'] );
 		echo '<li class="offer ' . ( $def['in_stock'] ? 'stock-in' : 'stock-out' ) . '" data-store-row data-external="' . ( $ext ? '1' : '0' ) . '" data-variants="' . esc_attr( wp_json_encode( $variants ) ) . '">';
 		echo '<div class="offer-head"><span class="offer-store">' . esc_html( $store_name );
 		// Culoarea specifică magazinului extern (dacă e cunoscută) — ca să fie clar

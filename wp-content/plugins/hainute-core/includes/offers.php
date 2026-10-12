@@ -272,6 +272,7 @@ function hainute_refresh_buyable( $product_id ) {
 		}
 	}
 	update_post_meta( $product_id, '_hainute_buyable', $buy );
+	hainute_refresh_instock_sizes( $product_id );
 	$min = hainute_get_min_price( $product_id );
 	if ( null !== $min ) {
 		update_post_meta( $product_id, '_hainute_min_price', $min );
@@ -280,7 +281,44 @@ function hainute_refresh_buyable( $product_id ) {
 }
 
 /**
- * Eticheta de mărime în formatul comun între magazine: „128 CM" → „128",
+* `_hainute_sizes_instock` = mărimile pe stoc la CEL PUȚIN un magazin (oferta
+* proprie, magazinele cross, variantele de culoare verificate în ultimele 7 zile),
+* ca „, 28, 30, ". Pe ea se bazează filtrul de mărime din listări.
+*/
+function hainute_refresh_instock_sizes( $product_id ) {
+	$hidden = get_post_meta( $product_id, '_hainute_hidden_stores', true );
+	$hidden = is_array( $hidden ) ? array_map( 'intval', $hidden ) : array();
+	$store  = get_post_meta( $product_id, '_hainute_store_sizes', true );
+	$store  = is_array( $store ) ? $store : array();
+	$sizes  = array();
+	foreach ( hainute_get_offers( $product_id ) as $o ) {
+		if ( HAINUTE_STOCK_OUT === $o->stock_status || in_array( (int) $o->store_id, $hidden, true ) ) {
+			continue;
+		}
+		if ( function_exists( 'hainute_offer_is_stale' ) && hainute_offer_is_stale( $product_id, $o ) ) {
+			continue;
+		}
+		$own  = in_array( $o->network, array( 'cj', 'profitshare', '2performant' ), true );
+		$list = $own ? ( function_exists( 'hainute_resolve_sizes' ) ? hainute_resolve_sizes( $product_id )['labels'] : array() ) : (array) ( $store[ (int) $o->store_id ] ?? array() );
+		foreach ( hainute_norm_sizes( $list ) as $sz ) {
+			$sizes[ $sz ] = 1;
+		}
+	}
+	$variants = get_post_meta( $product_id, '_hainute_variant_offers', true );
+	foreach ( is_array( $variants ) ? $variants : array() as $v ) {
+		if ( empty( $v['in_stock'] ) || empty( $v['checked'] ) || time() - (int) $v['checked'] > 7 * DAY_IN_SECONDS ) {
+			continue;
+		}
+		foreach ( hainute_norm_sizes( explode( ',', (string) ( $v['sizes'] ?? '' ) ) ) as $sz ) {
+			$sizes[ $sz ] = 1;
+		}
+	}
+	unset( $sizes[''] );
+	update_post_meta( $product_id, '_hainute_sizes_instock', $sizes ? ', ' . implode( ', ', array_keys( $sizes ) ) . ',' : '' );
+}
+
+/**
+* Eticheta de mărime în formatul comun între magazine: „128 CM" → „128",
  * „110 Mărimi normale" → „110", „36 EU" → „36", „7_8Y" → „7-8Y".
  */
 function hainute_norm_size( $s ) {

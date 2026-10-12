@@ -1813,7 +1813,10 @@ function hainute_rest_crawl_queue_vb( WP_REST_Request $request ) {
 	$offers = hainute_offers_table_name();
 	// `ids=1,2` → re-verifică exact acele produse (și dacă au mai fost crawluite).
 	$ids = array_filter( array_map( 'intval', explode( ',', (string) $request->get_param( 'ids' ) ) ) );
-	$where = $ids ? 'o.product_id IN (' . implode( ',', $ids ) . ')' : 'pm.meta_id IS NULL';
+	// Fără ids: neverificate + cele verificate acum mai mult de `older` ore (implicit 6),
+	// cele mai vechi primele, ca stocul să nu rămână înghețat după prima verificare.
+	$older = max( 1, (int) ( $request->get_param( 'older' ) ?: 6 ) );
+	$where = $ids ? 'o.product_id IN (' . implode( ',', $ids ) . ')' : '( pm.meta_id IS NULL OR CAST( pm.meta_value AS UNSIGNED ) < ' . ( time() - $older * HOUR_IN_SECONDS ) . ' )';
 	$rows   = $wpdb->get_results(
 		$wpdb->prepare(
 			"SELECT o.product_id, o.store_id, o.affiliate_url
@@ -1821,7 +1824,7 @@ function hainute_rest_crawl_queue_vb( WP_REST_Request $request ) {
 			INNER JOIN {$wpdb->posts} p ON p.ID = o.product_id AND p.post_status='publish'
 			LEFT JOIN {$wpdb->postmeta} pm ON pm.post_id = o.product_id AND pm.meta_key='_hainute_vb_crawled'
 			WHERE o.network='2performant' AND {$where}
-			GROUP BY o.product_id LIMIT %d",
+			GROUP BY o.product_id ORDER BY MIN( CAST( COALESCE( pm.meta_value, 0 ) AS UNSIGNED ) ) LIMIT %d",
 			$limit
 		)
 	);

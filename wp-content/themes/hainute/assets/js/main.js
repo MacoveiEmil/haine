@@ -155,7 +155,8 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 		// Varianta potrivită culorii + mărimii selectate (pt link/preț).
 		function pick(li) {
-			var pool = poolFor(li);
+			// Variantele cu stoc primele (sort stabil), apoi restul.
+			var pool = poolFor(li).slice().sort(function (a, b) { return (b.in_stock ? 1 : 0) - (a.in_stock ? 1 : 0); });
 			if (!pool.length) return null;
 			if (state.size) {
 				// Un magazin cu mărimi NECUNOSCUTE (listă goală — încă necrawluit) NU
@@ -170,7 +171,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		function apply() {
 			// Mărimile disponibile pentru culoarea activă (din toate magazinele).
 			var avail = {};
-			rows.forEach(function (li) { poolFor(li).forEach(function (v) { v.sizes.forEach(function (s) { if (s) avail[s] = 1; }); }); });
+			rows.forEach(function (li) { poolFor(li).forEach(function (v) { if (v.in_stock) v.sizes.forEach(function (s) { if (s) avail[s] = 1; }); }); });
 			// Dacă NICIUN magazin nu are date de mărime pt culoarea activă (încă
 			// necrawluită), nu tăiem nimic — mărimi „necunoscute", nu „indisponibile".
 			var known = Object.keys(avail).length > 0;
@@ -282,6 +283,8 @@ document.addEventListener('DOMContentLoaded', function () {
 		if (colorBtns.length) {
 			state.color = colorBtns[0].getAttribute('data-color');
 			colorBtns[0].classList.add('is-active');
+			// Prima culoare (cu stoc) nu e a produsului nostru → arătăm direct poza ei.
+			if (hasPrimary && !colorBtns[0].hasAttribute('data-primary')) showColorImage(colorBtns[0], false);
 		}
 		apply();
 	});

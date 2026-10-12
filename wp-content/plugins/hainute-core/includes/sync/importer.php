@@ -263,9 +263,13 @@ function hainute_resolve_sizes( $product_id ) {
 	// Mărimile crawluite din pagina magazinului (Answear) sunt LIZIBILE și
 	// autoritative (lista de mărimi disponibile) → au prioritate.
 	$avail = get_post_meta( $product_id, '_hainute_sizes_available', true );
-	if ( is_array( $avail ) && ! empty( $avail ) ) {
+	// Lista crawluită e autoritativă și când e GOALĂ (toate epuizate): nu cădem pe
+	// mărimile vechi din feed.
+	if ( is_array( $avail ) && ( ! empty( $avail ) || get_post_meta( $product_id, '_hainute_size_crawled', true ) ) ) {
 		return array( 'count' => count( $avail ), 'labels' => array_values( $avail ) );
 	}
+	$unav = get_post_meta( $product_id, '_hainute_sizes_unavailable', true );
+	$unav = is_array( $unav ) ? array_map( 'trim', $unav ) : array();
 
 	// DOAR mărimi LIZIBILE (din titlu/URL, ex. „26 EU"). Dicționarul de coduri
 	// s-a dovedit nesigur (același cod → mărimi diferite pe produse diferite, ex.
@@ -273,6 +277,7 @@ function hainute_resolve_sizes( $product_id ) {
 	// una inventată. Mărimile corecte vin din crawl (Answear) sau URL (FD footwear).
 	$labels = (string) get_post_meta( $product_id, '_hainute_sizes', true );
 	$labels = '' !== $labels ? array_values( array_unique( array_filter( array_map( 'trim', explode( ',', $labels ) ) ) ) ) : array();
+	$labels = array_values( array_diff( $labels, $unav ) ); // fără mărimile știute epuizate
 
 	return array( 'count' => count( $labels ), 'labels' => $labels );
 }

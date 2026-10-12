@@ -106,15 +106,17 @@ if ( $latest->have_posts() ) :
 </section>
 
 <?php
-$stores = get_terms( array( 'taxonomy' => 'store', 'hide_empty' => true ) );
-if ( ! is_wp_error( $stores ) && $stores ) :
+// Doar magazinele cu oferte active (cele din „Cum funcționează"), câte unul per
+// nume afișat (ex. „Sportisimo Europe" de la CJ = Sportisimo.ro).
+$stores = hainute_store_terms_active();
+if ( $stores ) :
 	?>
 	<section class="home-section stores-strip">
 		<div class="container">
 			<h2 class="home-title"><?php esc_html_e( 'Magazine partenere', 'hainute' ); ?></h2>
 			<ul class="stores-list">
 				<?php foreach ( $stores as $store ) : ?>
-					<li><a href="<?php echo esc_url( get_term_link( $store ) ); ?>"><?php echo esc_html( $store->name ); ?></a></li>
+					<li><a href="<?php echo esc_url( get_term_link( $store ) ); ?>"><?php echo esc_html( hainute_store_display_name( $store->name ) ); ?></a></li>
 				<?php endforeach; ?>
 			</ul>
 		</div>

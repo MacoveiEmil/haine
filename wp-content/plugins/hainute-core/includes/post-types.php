@@ -106,3 +106,32 @@ function hainute_register_post_types() {
 	);
 }
 add_action( 'init', 'hainute_register_post_types' );
+
+/**
+ * Genul produsului din categoria de top (Fete › … / Băieți › …): feed-urile rar
+ * dau genul separat, dar categoria îl are mereu. Fără asta filtrul „gen" și
+ * linkurile „Vezi … fete în mărimea X" găseau doar câteva produse.
+ * Rulează la orice schimbare de categorii (import, editare manuală).
+ */
+function hainute_sync_gender_from_categories( $object_id, $terms = array(), $tt_ids = array(), $taxonomy = 'product_cat' ) {
+	if ( 'product_cat' !== $taxonomy || 'product' !== get_post_type( $object_id ) ) {
+		return;
+	}
+	$genders = array();
+	foreach ( wp_get_object_terms( $object_id, 'product_cat' ) as $cat ) {
+		$anc = get_ancestors( $cat->term_id, 'product_cat' );
+		$top = $anc ? get_term( end( $anc ), 'product_cat' ) : $cat;
+		if ( $top && ! is_wp_error( $top ) && in_array( $top->slug, array( 'fete', 'baieti' ), true ) ) {
+			$genders[ $top->slug ] = $top->name;
+		}
+	}
+	foreach ( $genders as $slug => $name ) {
+		if ( ! term_exists( $slug, 'product_gender' ) ) {
+			wp_insert_term( $name, 'product_gender', array( 'slug' => $slug ) );
+		}
+	}
+	if ( $genders ) {
+		wp_set_object_terms( $object_id, array_keys( $genders ), 'product_gender', true );
+	}
+}
+add_action( 'set_object_terms', 'hainute_sync_gender_from_categories', 10, 4 );

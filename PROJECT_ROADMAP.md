@@ -45,7 +45,7 @@ verificate prin crawler).
 | `sportisimo.js` | stoc/mărimi Sportisimo (oferte proprii, `network=cj`) |
 | `refresh.js fd` | FashionDays |
 | `vb.js` | various-brands |
-| `worker.js` | orchestrator (vezi mai sus) |
+| `worker.js` | orchestrator: reverificări la cerere + ciclu complet la `CYCLE_HOURS`, lanurile PE RÂND (un singur Chrome odată, prioritate scăzută; în paralel blocau site-ul) |
 | `CRON.md` | cum se programează pe server (systemd) |
 
 Env comun: `SITE=http://localhost:8090`, `SECRET=<HAINUTE_SYNC_SECRET>`, `IDS=1,2,3`, `LIMIT`, `DELAY`, `CONCURRENCY`.
@@ -102,8 +102,8 @@ Comanda e în CLAUDE.md, secțiunea „Snapshot DB". Exportul trebuie sanitizat 
 1. **Verificare după primul ciclu complet al worker-ului**: produsele raportate (#8488 Geox
    Kalispera, #8566 Geox Sprintye, #12684 Tommy, #8791 Calvin Klein, #11929 Columbia) arată
    mărimile reale? Rulează un eșantion cu `DRYRUN=1` și compară cu magazinele.
-2. **Gen lipsă**: multe produse n-au termen `product_gender` (genul se deduce din categoria
-   de top). De completat la import, ca filtrele și linkurile „vezi alte…" să-l folosească.
+2. **Pagini fără stoc** (~230 produse fără niciun magazin cu stoc): decizie de luat
+   (rămân indexate cu linkul spre alternative, sau noindex după X zile fără stoc).
 3. **Producție**: hosting, domeniu, HTTPS, `HAINUTE_SYNC_SECRET` nou, worker ca serviciu
    systemd (`tools/crawler/CRON.md`), import feed-uri programat, `noindex` scos, sitemap în
    Search Console. Opțiunea `hainute_refresh_hours` (implicit 6) trebuie să corespundă cu
@@ -114,6 +114,15 @@ Comanda e în CLAUDE.md, secțiunea „Snapshot DB". Exportul trebuie sanitizat 
 6. **Descrieri**: nu se regenerează toate fără acordul proprietarului.
 7. **Analytics**: tabelul `wp_hainute_events` (click-uri spre magazine) e golit în snapshot;
    de conectat la un raport simplu.
+
+### Reguli de date (de știut când modifici)
+- O mărime e „disponibilă" doar dacă o are un magazin CU STOC; restul apar tăiate.
+- `_hainute_sizes_instock` („, 28, 30,") = mărimile pe stoc la orice magazin, recalculat de
+  `hainute_refresh_buyable` (și la finalul fiecărui ciclu prin `/recompute-buyable`); pe el
+  merge filtrul `?marime=`.
+- Genul (`product_gender`) se pune automat din categoria de top (Fete / Băieți) la orice
+  schimbare de categorii (`hainute_sync_gender_from_categories`).
+- Pe pagina produsului, culorile cu stoc vin primele; pagina pornește pe prima culoare cu stoc.
 
 ## 6. Probleme cunoscute
 

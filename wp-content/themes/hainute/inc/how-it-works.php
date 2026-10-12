@@ -227,3 +227,33 @@ add_action(
 	},
 	0
 );
+
+/**
+ * Termenii `store` ai magazinelor active, unul per nume afișat (cel cu cele mai
+ * multe produse), în ordinea numelor.
+ * @return WP_Term[]
+ */
+function hainute_store_terms_active() {
+	$active = hainute_active_store_names();
+	$terms  = get_terms( array( 'taxonomy' => 'store', 'hide_empty' => true ) );
+	$by     = array();
+	foreach ( is_wp_error( $terms ) ? array() : $terms as $t ) {
+		$name = hainute_store_display_name( $t->name );
+		if ( in_array( $name, $active, true ) && ( ! isset( $by[ $name ] ) || $t->count > $by[ $name ]->count ) ) {
+			$by[ $name ] = $t;
+		}
+	}
+	uksort( $by, 'strnatcasecmp' );
+	return array_values( $by );
+}
+
+/** Pagina unui magazin e indexabilă doar dacă e un magazin activ și termenul principal. */
+function hainute_store_term_indexable( $term ) {
+	foreach ( hainute_store_terms_active() as $t ) {
+		if ( (int) $t->term_id === (int) $term->term_id ) {
+			return true;
+		}
+	}
+	return false;
+}
+
