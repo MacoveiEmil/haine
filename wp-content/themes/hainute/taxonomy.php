@@ -16,9 +16,11 @@ if ( is_tax( 'store' ) && function_exists( 'hainute_store_display_name' ) ) {
 	$h1 = sprintf( __( 'Haine și încălțăminte copii la %s', 'hainute' ), hainute_store_display_name( $term->name ) );
 }
 if ( $top && ! is_wp_error( $top ) ) {
-	$h1 = sprintf( __( '%1$s pentru %2$s', 'hainute' ), $term->name, mb_strtolower( $top->name ) );
+	$h1 = 'unisex' === $top->slug
+		? sprintf( __( '%s unisex pentru copii', 'hainute' ), $term->name )
+		: sprintf( __( '%1$s pentru %2$s', 'hainute' ), $term->name, mb_strtolower( $top->name ) );
 } elseif ( is_tax( 'product_cat' ) ) {
-	$h1 = sprintf( __( 'Haine și încălțăminte pentru %s', 'hainute' ), mb_strtolower( $term->name ) );
+	$h1 = 'unisex' === $term->slug ? __( 'Haine și încălțăminte unisex pentru copii', 'hainute' ) : sprintf( __( 'Haine și încălțăminte pentru %s', 'hainute' ), mb_strtolower( $term->name ) );
 }
 ?>
 

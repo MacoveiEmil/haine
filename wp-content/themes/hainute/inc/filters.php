@@ -321,3 +321,39 @@ function hainute_the_filter_bar() {
 	</form>
 	<?php
 }
+
+/**
+ * Listările Fete / Băieți includ și produsele Unisex din aceeași categorie
+ * (Fete › Încălțăminte › Adidași arată și Unisex › Încălțăminte › Adidași):
+ * un produs unisex se potrivește ambelor genuri. Pagina rămâne a categoriei cerute.
+ */
+function hainute_include_unisex_in_listing( $query ) {
+	if ( is_admin() || ! $query->is_main_query() || ! $query->is_tax( 'product_cat' ) || ! function_exists( 'hainute_cat_by_path' ) ) {
+		return;
+	}
+	foreach ( $query->tax_query->queries as $i => $clause ) {
+		if ( ! is_array( $clause ) || 'product_cat' !== ( $clause['taxonomy'] ?? '' ) ) {
+			continue;
+		}
+		$field = $clause['field'] ?? 'term_id';
+		$add   = array();
+		foreach ( (array) $clause['terms'] as $t ) {
+			$term = get_term_by( 'slug' === $field ? 'slug' : 'id', $t, 'product_cat' );
+			if ( ! $term ) {
+				continue;
+			}
+			list( $top, $names ) = hainute_cat_path_names( $term->term_id );
+			if ( ! in_array( $top, array( 'fete', 'baieti' ), true ) ) {
+				continue;
+			}
+			$eq = $names ? hainute_cat_by_path( 'unisex', $names ) : get_term_by( 'slug', 'unisex', 'product_cat' );
+			if ( $eq && ! is_wp_error( $eq ) ) {
+				$add[] = 'slug' === $field ? $eq->slug : (int) $eq->term_id;
+			}
+		}
+		if ( $add ) {
+			$query->tax_query->queries[ $i ]['terms'] = array_merge( (array) $clause['terms'], $add );
+		}
+	}
+}
+add_action( 'parse_tax_query', 'hainute_include_unisex_in_listing' );

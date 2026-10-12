@@ -273,6 +273,9 @@ function hainute_refresh_buyable( $product_id ) {
 	}
 	update_post_meta( $product_id, '_hainute_buyable', $buy );
 	hainute_refresh_instock_sizes( $product_id );
+	if ( function_exists( 'hainute_default_unisex' ) ) {
+		hainute_default_unisex( $product_id ); // fără semnal de gen de la magazin → Unisex
+	}
 	$min = hainute_get_min_price( $product_id );
 	if ( null !== $min ) {
 		update_post_meta( $product_id, '_hainute_min_price', $min );

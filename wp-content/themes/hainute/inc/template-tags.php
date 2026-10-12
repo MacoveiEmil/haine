@@ -979,7 +979,7 @@ function hainute_the_size_alternative( $product_id, $visible ) {
 	if ( ! $gname ) {
 		$anc = get_ancestors( $leaf->term_id, 'product_cat' );
 		$top = $anc ? get_term( end( $anc ), 'product_cat' ) : null;
-		if ( $top && ! is_wp_error( $top ) && preg_match( '/^(fete|băieți|baieti|bebeluși|bebelusi)$/iu', $top->name ) ) {
+		if ( $top && ! is_wp_error( $top ) && preg_match( '/^(fete|băieți|baieti|bebeluși|bebelusi|unisex)$/iu', $top->name ) ) {
 			$gname = $top->name;
 		}
 	}

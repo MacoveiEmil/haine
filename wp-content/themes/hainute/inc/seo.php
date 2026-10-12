@@ -106,9 +106,11 @@ add_filter(
 			$top  = $anc ? get_term( end( $anc ), 'product_cat' ) : null;
 			// „Geci & jachete pentru fete: mărimi disponibile în magazine" (genul ajută la căutare).
 			if ( $top && ! is_wp_error( $top ) ) {
-				$parts['title'] = sprintf( __( '%1$s pentru %2$s: mărimi disponibile în magazine', 'hainute' ), $term->name, mb_strtolower( $top->name ) );
+				$parts['title'] = 'unisex' === $top->slug
+					? sprintf( __( '%s unisex pentru copii: mărimi disponibile în magazine', 'hainute' ), $term->name )
+					: sprintf( __( '%1$s pentru %2$s: mărimi disponibile în magazine', 'hainute' ), $term->name, mb_strtolower( $top->name ) );
 			} else {
-				$parts['title'] = sprintf( __( 'Haine și încălțăminte pentru %s: mărimi disponibile în magazine', 'hainute' ), mb_strtolower( $term->name ) );
+				$parts['title'] = 'unisex' === $term->slug ? __( 'Haine și încălțăminte unisex pentru copii: mărimi disponibile în magazine', 'hainute' ) : sprintf( __( 'Haine și încălțăminte pentru %s: mărimi disponibile în magazine', 'hainute' ), mb_strtolower( $term->name ) );
 			}
 		} elseif ( is_tax( 'store' ) ) {
 			$parts['title'] = sprintf( __( 'Haine și încălțăminte copii la %s: mărimi disponibile', 'hainute' ), hainute_store_display_name( single_term_title( '', false ) ) );

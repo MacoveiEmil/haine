@@ -123,6 +123,9 @@ function hainute_sync_gender_from_categories( $object_id, $terms = array(), $tt_
 		$top = $anc ? get_term( end( $anc ), 'product_cat' ) : $cat;
 		if ( $top && ! is_wp_error( $top ) && in_array( $top->slug, array( 'fete', 'baieti' ), true ) ) {
 			$genders[ $top->slug ] = $top->name;
+		} elseif ( $top && ! is_wp_error( $top ) && 'unisex' === $top->slug ) {
+			$genders['fete']   = 'Fete'; // unisex: apare la ambele genuri
+			$genders['baieti'] = 'Băieți';
 		}
 	}
 	foreach ( $genders as $slug => $name ) {

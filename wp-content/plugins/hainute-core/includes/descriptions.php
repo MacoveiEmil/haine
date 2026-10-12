@@ -294,7 +294,7 @@ function hainute_desc_interlinks( $pid ) {
 	if ( ! $grupa || is_wp_error( $grupa ) ) {
 		return '';
 	}
-	$anchor  = mb_strtolower( html_entity_decode( $grupa->name ) ) . ( $gen && ! is_wp_error( $gen ) ? ' pentru ' . mb_strtolower( html_entity_decode( $gen->name ) ) : '' );
+	$anchor  = mb_strtolower( html_entity_decode( $grupa->name ) ) . ( $gen && ! is_wp_error( $gen ) ? ( 'unisex' === $gen->slug ? ' unisex' : ' pentru ' . mb_strtolower( html_entity_decode( $gen->name ) ) ) : '' );
 	$cat_html = '<a href="' . esc_url( get_term_link( $grupa ) ) . '">' . esc_html( $anchor ) . '</a>';
 	$leafname = mb_strtolower( str_replace( ' & ', ' și ', html_entity_decode( $leaf->name ) ) );
 	$tip = $leafname ? 'modele de ' . $leafname : 'modele';

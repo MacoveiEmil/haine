@@ -120,8 +120,15 @@ Comanda e în CLAUDE.md, secțiunea „Snapshot DB". Exportul trebuie sanitizat 
 - `_hainute_sizes_instock` („, 28, 30,") = mărimile pe stoc la orice magazin, recalculat de
   `hainute_refresh_buyable` (și la finalul fiecărui ciclu prin `/recompute-buyable`); pe el
   merge filtrul `?marime=`.
-- Genul (`product_gender`) se pune automat din categoria de top (Fete / Băieți) la orice
-  schimbare de categorii (`hainute_sync_gender_from_categories`).
+- **Genul vine de la magazin, nu din feed** (feed-ul greșea la ~275 de produse), în `includes/gender.php`:
+  Answear `sex` G/B/K (sigur); FashionDays și various-brands doar dacă titlul magazinului confirmă
+  (la conflict câmp ↔ titlu decide titlul); numele modelului („GIRL", „BOYS", Nike „G"/„B").
+  **Fără semnal sigur → Unisex** (arborele „Unisex", oglindă după Fete/Băieți). Mutarea schimbă
+  categoria, titlul („Fete" / „Băieți" / „Unisex"), genul (unisex = ambele) și linkurile din
+  descriere; jurnal în `_hainute_gender_fix`, sursa în `_hainute_gender_source`. Bebe nu se mută.
+- Listările Fete / Băieți includ și produsele Unisex din aceeași categorie (`hainute_include_unisex_in_listing`).
+- Linkurile spre categorii din descrieri urmează mereu arborele produsului; linkurile spre categorii
+  inexistente se repară automat (`hainute_fix_content_cat_links`).
 - Pe pagina produsului, culorile cu stoc vin primele; pagina pornește pe prima culoare cu stoc.
 
 ## 6. Probleme cunoscute
