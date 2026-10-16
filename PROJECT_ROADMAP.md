@@ -1,11 +1,11 @@
-# hainute.ro: project roadmap
+# beestyle.ro: project roadmap
 
 Ultima actualizare: 2026-10-08. Documentul de pornire pentru oricine (om sau AI) preia
 proiectul pe alt laptop. Regulile de lucru pentru AI sunt în [CLAUDE.md](CLAUDE.md).
 
 ## 1. Ce este
 
-Site WordPress afiliat pentru haine și încălțăminte de copii. **Nu este comparator de
+Site-ul: **https://beestyle.ro** (numele de lucru inițial a fost hainute.ro; codul intern păstrează prefixul `hainute_`). Site WordPress afiliat pentru haine și încălțăminte de copii. **Nu este comparator de
 prețuri.** Valoarea lui: *„Găsește mărimea potrivită pentru copilul tău, direct la
 magazinul care o are."* Pentru fiecare produs arătăm ce mărimi sunt pe stoc și în ce
 magazin, cu link (afiliat) spre pagina produsului din magazin.

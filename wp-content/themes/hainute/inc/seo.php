@@ -85,7 +85,7 @@ add_filter(
 	20
 );
 
-/** Separator „|" în <title> (WP pune implicit o liniuță: „Produse – hainute.ro"). */
+/** Separator „|" în <title> (WP pune implicit o liniuță: „Produse – beestyle.ro"). */
 add_filter( 'document_title_separator', function () { return '|'; } );
 
 /**
@@ -294,7 +294,7 @@ function hainute_seo_website_schema() {
 		'@id'        => $home . '#organization',
 		'name'       => $name,
 		'url'        => $home,
-		'description' => sprintf( 'hainute.ro te ajută să găsești mărimea potrivită pentru copilul tău, direct la magazinul care o are: verifică stocul pe mărimi la %d magazine online din România, la fiecare %d ore.', count( hainute_active_store_names() ), hainute_refresh_hours() ),
+		'description' => sprintf( 'beestyle.ro te ajută să găsești mărimea potrivită pentru copilul tău, direct la magazinul care o are: verifică stocul pe mărimi la %d magazine online din România, la fiecare %d ore.', count( hainute_active_store_names() ), hainute_refresh_hours() ),
 		'legalName'  => 'FAIR CLICK S.R.L.',
 		'taxID'      => '54682438',
 		'identifier' => array(

@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Hainute Core
- * Description: Data layer for the hainute.ro aggregator — product CPT, taxonomies, per-store offers table, affiliate feed sync.
+ * Description: Data layer for the beestyle.ro aggregator — product CPT, taxonomies, per-store offers table, affiliate feed sync.
  * Version: 0.7.0
- * Author: hainute.ro
+ * Author: beestyle.ro
  * Text Domain: hainute
  * Requires PHP: 7.4
  */

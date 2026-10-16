@@ -1,4 +1,6 @@
-# CLAUDE.md: reguli pentru AI-ul care lucrează pe hainute.ro
+# CLAUDE.md: reguli pentru AI-ul care lucrează pe beestyle.ro
+
+Site-ul se numește **beestyle.ro** (fost hainute.ro; prefixul intern `hainute_` din cod rămâne). Pe server e în **pre-lansare** (încuiat, noindex): nu-l debloca fără acordul proprietarului.
 
 Citește întâi [PROJECT_ROADMAP.md](PROJECT_ROADMAP.md): ce e proiectul, setup, ce urmează.
 

@@ -69,7 +69,7 @@ add_shortcode(
 function hainute_how_it_works_content() {
 	return <<<'HTML'
 <!-- wp:paragraph -->
-<p>hainute.ro te ajută să găsești <strong>mărimea potrivită pentru copilul tău, direct la magazinul care o are</strong>. Nu vindem nimic și nu facem clasamente de prețuri: îți arătăm, pentru fiecare produs, ce mărimi sunt pe stoc și în ce magazin.</p>
+<p>beestyle.ro te ajută să găsești <strong>mărimea potrivită pentru copilul tău, direct la magazinul care o are</strong>. Nu vindem nimic și nu facem clasamente de prețuri: îți arătăm, pentru fiecare produs, ce mărimi sunt pe stoc și în ce magazin.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -138,7 +138,7 @@ function hainute_ensure_how_it_works_page() {
 		if ( ! $id || is_wp_error( $id ) ) {
 			return;
 		}
-		update_post_meta( $id, '_hainute_meta_desc', 'Cum găsești pe hainute.ro mărimea copilului la magazinul care o are pe stoc: ce verificăm, la câte magazine și cât de des actualizăm datele.' );
+		update_post_meta( $id, '_hainute_meta_desc', 'Cum găsești pe beestyle.ro mărimea copilului la magazinul care o are pe stoc: ce verificăm, la câte magazine și cât de des actualizăm datele.' );
 	} else {
 		$id = $page->ID;
 	}
@@ -188,9 +188,9 @@ add_action(
 		$home   = home_url( '/' );
 		$hiw    = get_page_by_path( 'cum-functioneaza' );
 		$lines  = array();
-		$lines[] = '# hainute.ro';
+		$lines[] = '# beestyle.ro';
 		$lines[] = '';
-		$lines[] = '> Găsește mărimea potrivită pentru copilul tău, direct la magazinul care o are. hainute.ro arată, pentru haine și încălțăminte de copii, ce mărimi sunt pe stoc și în ce magazin online din România. Nu vinde produse și nu este un site de prețuri.';
+		$lines[] = '> Găsește mărimea potrivită pentru copilul tău, direct la magazinul care o are. beestyle.ro arată, pentru haine și încălțăminte de copii, ce mărimi sunt pe stoc și în ce magazin online din România. Nu vinde produse și nu este un site de prețuri.';
 		$lines[] = '';
 		$lines[] = sprintf( '- Verificăm stocul pe mărimi la %d magazine: %s.', count( hainute_active_store_names() ), implode( ', ', hainute_active_store_names() ) );
 		$lines[] = sprintf( '- Datele se actualizează automat la fiecare %d ore; fiecare pagină de produs arată ora ultimei verificări.', hainute_refresh_hours() );
