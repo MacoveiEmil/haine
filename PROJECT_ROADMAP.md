@@ -83,6 +83,32 @@ cd tools/crawler && npm install
 ### Snapshot DB (când datele s-au schimbat și vrei să le pui în git)
 Comanda e în CLAUDE.md, secțiunea „Snapshot DB". Exportul trebuie sanitizat (repo public).
 
+## Server (beestyle.ro, pre-lansare)
+
+- VPS ROMARG RMGP-2 (Ubuntu 24.04, 2 vCPU, 4 GB RAM + 4 GB swap), IP 89.37.212.245.
+  DNS la ROMARG: `beestyle.ro` A → IP, `www` CNAME → `beestyle.ro`.
+- Acces doar cu cheie SSH (parolele sunt dezactivate): `ssh -i ~/.ssh/beestyle_ed25519 root@89.37.212.245`.
+  Firewall (22, 80, 443), fail2ban, actualizări de securitate automate.
+- Proiectul: `/opt/beestyle` (clonă din GitHub). Pornire/actualizare:
+  `cd /opt/beestyle && git pull && docker compose -f docker-compose.prod.yml up -d`
+  (WordPress + MySQL + Caddy cu HTTPS automat). Cheile sunt DOAR pe server:
+  `docker/secrets.env` (sync, admin, pre-lansare, CJ) și `.env` (parola DB); nu se comit.
+- **Pre-lansare** (`HAINUTE_PRELAUNCH=1`, logica în `docker/gate.php`): fără cookie de acces,
+  orice pagină dă „Site în pregătire” (401), `robots.txt` blochează tot, noindex peste tot.
+  Acces o dată: `https://beestyle.ro/?acces=HAINUTE_PRELAUNCH_KEY` (cookie 30 zile);
+  wp-admin: apoi `https://beestyle.ro/?admin=HAINUTE_ADMIN_KEY`. Cheile le vede proprietarul cu
+  `ssh … root@89.37.212.245 "grep -E 'PRELAUNCH_KEY|ADMIN_KEY' /opt/beestyle/docker/secrets.env"`.
+- Parola de admin WordPress (o setează proprietarul):
+  `ssh … root@89.37.212.245` apoi `cd /opt/beestyle && COMPOSE_FILE=docker-compose.prod.yml bash docker/set-admin-password.sh`.
+- Verificarea stocului: serviciul `beestyle-worker` (Node + Chrome, utilizator `crawler`,
+  prioritate scăzută, max 2,5 GB RAM). **Oprit până la decizia proprietarului.** Pornire:
+  `systemctl enable --now beestyle-worker`; log: `journalctl -u beestyle-worker -f`.
+- Backup zilnic al bazei de date la 03:30 în `/root/backups` (păstrat 14 zile).
+- **Lansarea** (doar cu acordul proprietarului): `HAINUTE_PRELAUNCH=0` în `docker/secrets.env`,
+  `docker compose -f docker-compose.prod.yml up -d`, verifică să NU mai existe noindex
+  (`curl -sI https://beestyle.ro/ | grep -i robots` gol, `robots.txt` normal), trimite
+  sitemap-ul (`/wp-sitemap.xml`) în Google Search Console, oprește tunelul de test.
+
 ## 4. Ce s-a făcut (pe scurt)
 
 - Import din feed-uri: CJ (Answear, Sportisimo), Profitshare (FashionDays), 2Performant (various-brands).

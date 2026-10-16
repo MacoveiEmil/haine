@@ -5,7 +5,7 @@ Site-ul se numește **beestyle.ro** (fost hainute.ro; prefixul intern `hainute_`
 Citește întâi [PROJECT_ROADMAP.md](PROJECT_ROADMAP.md): ce e proiectul, setup, ce urmează.
 
 ## Poziționare (obligatoriu, cerința proprietarului)
-- hainute.ro **NU este comparator**. Mesajul: „Găsește mărimea potrivită pentru copilul tău,
+- beestyle.ro **NU este comparator**. Mesajul: „Găsește mărimea potrivită pentru copilul tău,
   direct la magazinul care o are." Totul se construiește în jurul mărimilor pe stoc.
 - Interzis oriunde pe site: „compară", „comparator", „compară prețurile", „cel mai bun preț".
 - Interzis în title, meta description, H1, badge-uri și textul linkurilor: preț, reducere,
