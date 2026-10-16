@@ -42,21 +42,10 @@ services:
       WORDPRESS_DB_PASSWORD: root
       WORDPRESS_DB_NAME: local
       WORDPRESS_TABLE_PREFIX: wp_
-      # Fortam URL-ul pe localhost:8090 => nu mai redirecteaza la hainutero.local
-      # si nu e nevoie de search-replace in DB.
-      # URL-ul site-ului = adresa prin care e accesat (localhost:8090 sau linkul
-      # public din tunel), deci nu e nevoie de search-replace. ($$ = $ în compose)
-      # Pe adresa publică wp-admin și login-ul sunt închise.
+      # Adresa site-ului, pre-lansarea și accesul la wp-admin: docker/gate.php
+      # (același fișier și pe server). ($$ = $ în compose)
       WORDPRESS_CONFIG_EXTRA: |
-        $$__h = $$_SERVER['HTTP_X_FORWARDED_HOST'] ?? ($$_SERVER['HTTP_HOST'] ?? 'localhost:8090');
-        if ( ( $$_SERVER['HTTP_X_FORWARDED_PROTO'] ?? '' ) === 'https' ) { $$_SERVER['HTTPS'] = 'on'; }
-        $$__s = ( ! empty( $$_SERVER['HTTPS'] ) && 'off' !== $$_SERVER['HTTPS'] ) ? 'https' : 'http';
-        define('WP_HOME', $$__s . '://' . $$__h);
-        define('WP_SITEURL', $$__s . '://' . $$__h);
-        $$__k = (string) getenv( 'HAINUTE_ADMIN_KEY' );
-        if ( '' !== $$__k && isset( $$_GET['acces'] ) && hash_equals( $$__k, (string) $$_GET['acces'] ) ) { setcookie( 'hnt_adm', hash( 'sha256', $$__k ), time() + 43200, '/', '', true, true ); header( 'Location: /wp-admin/' ); exit; }
-        $$__ok = '' !== $$__k && isset( $$_COOKIE['hnt_adm'] ) && hash_equals( hash( 'sha256', $$__k ), (string) $$_COOKIE['hnt_adm'] );
-        if ( ! $$__ok && ! preg_match( '/^(localhost|127\.0\.0\.1)(:\d+)?$$/', $$__h ) && preg_match( '#^/(wp-admin|wp-login\.php)#', $$_SERVER['REQUEST_URI'] ?? '' ) ) { http_response_code( 403 ); exit( 'Indisponibil pe adresa publica de test.' ); }
+        require '/var/www/config/gate.php';
         define('FS_METHOD','direct');
         define('HAINUTE_EUR_RON','4.97');
     volumes:
@@ -64,6 +53,7 @@ services:
       - ./wp-content/plugins/hainute-core:/var/www/html/wp-content/plugins/hainute-core
       - ./wp-content/themes/hainute:/var/www/html/wp-content/themes/hainute
       - ./docker/.htaccess:/var/www/html/.htaccess
+      - ./docker/gate.php:/var/www/config/gate.php:ro
 
   # Link public temporar pentru testare (Cloudflare quick tunnel, fără cont):
   #   docker compose --profile share up -d tunnel

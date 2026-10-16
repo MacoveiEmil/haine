@@ -34,3 +34,6 @@ cross-check-rezultat.csv
 
 # Cache local pentru pozele http (se regenerează)
 wp-content/uploads/
+
+# Parole DB pe server
+.env

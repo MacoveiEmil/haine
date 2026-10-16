@@ -1,0 +1,17 @@
+# HTTPS automat (Let's Encrypt) pentru beestyle.ro. www → fără www.
+www.beestyle.ro {
+	redir https://beestyle.ro{uri} permanent
+}
+
+beestyle.ro {
+	encode zstd gzip
+	reverse_proxy wp:80 {
+		header_up X-Forwarded-Proto https
+	}
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		-Server
+	}
+}

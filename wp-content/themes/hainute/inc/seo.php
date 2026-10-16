@@ -21,8 +21,11 @@ function hainute_seo_active() {
 add_filter( 'language_attributes', function () { return 'lang="ro-RO"'; } );
 
 /** Robots explicit: index, follow (+ preview mare de imagine deja pus de WP). */
-/** Copie de test (link public temporar trycloudflare): niciodată în Google. */
+/** Copie de test (link trycloudflare) sau site în pre-lansare: niciodată în Google. */
 function hainute_is_test_host() {
+	if ( defined( 'HAINUTE_PRELAUNCH' ) && HAINUTE_PRELAUNCH ) {
+		return true; // vezi docker/gate.php
+	}
 	return (bool) preg_match( '/\.trycloudflare\.com$/i', (string) ( $_SERVER['HTTP_X_FORWARDED_HOST'] ?? $_SERVER['HTTP_HOST'] ?? '' ) );
 }
 add_action(

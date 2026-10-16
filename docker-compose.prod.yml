@@ -1,0 +1,71 @@
+# Server (beestyle.ro): WordPress + MySQL + Caddy (HTTPS automat, Let's Encrypt).
+# Pornire pe server, din folderul proiectului:
+#   docker compose -f docker-compose.prod.yml up -d
+# Necesită: docker/secrets.env (chei, pre-lansare) și .env (parole DB), ambele
+# generate pe server și NEcomise. Vezi PROJECT_ROADMAP.md, „Server".
+#
+# Worker-ul de verificare a stocului rulează pe server, în afara Docker
+# (Node + Chrome, serviciu systemd) și vorbește cu site-ul pe 127.0.0.1:8090.
+
+services:
+  db:
+    image: mysql:8.0
+    command: --default-authentication-plugin=mysql_native_password --innodb-buffer-pool-size=256M
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:?lipsește DB_ROOT_PASSWORD în .env}
+      MYSQL_DATABASE: local
+    volumes:
+      - db:/var/lib/mysql
+      - ./db/hainute.sql:/docker-entrypoint-initdb.d/01-hainute.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -uroot -p\"$$MYSQL_ROOT_PASSWORD\""]
+      interval: 8s
+      timeout: 5s
+      retries: 30
+
+  wp:
+    image: wordpress:php8.2-apache
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:8090:80"   # doar pentru worker-ul de pe server; public doar prin Caddy
+    env_file:
+      - ./docker/secrets.env
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: root
+      WORDPRESS_DB_PASSWORD: ${DB_ROOT_PASSWORD}
+      WORDPRESS_DB_NAME: local
+      WORDPRESS_TABLE_PREFIX: wp_
+      WORDPRESS_CONFIG_EXTRA: |
+        require '/var/www/config/gate.php';
+        define('FS_METHOD','direct');
+        define('DISALLOW_FILE_EDIT', true);
+        define('HAINUTE_EUR_RON','4.97');
+    volumes:
+      - wp:/var/www/html
+      - ./wp-content/plugins/hainute-core:/var/www/html/wp-content/plugins/hainute-core
+      - ./wp-content/themes/hainute:/var/www/html/wp-content/themes/hainute
+      - ./docker/.htaccess:/var/www/html/.htaccess
+      - ./docker/gate.php:/var/www/config/gate.php:ro
+
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    depends_on: [ wp ]
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./docker/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  db:
+  wp:
+  caddy_data:
+  caddy_config:
