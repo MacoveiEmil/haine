@@ -19,8 +19,8 @@ Citește întâi [PROJECT_ROADMAP.md](PROJECT_ROADMAP.md): ce e proiectul, setup
 - Limba site-ului: română, cu diacritice corecte (ș, ț cu virgulă).
 - **Fără liniuță lungă (em-dash „—")** în texte noi pentru site; folosește virgulă, două puncte sau punct.
 - Codul urmează stilul existent (WordPress coding standards în PHP, comentarii în română).
-- Nu regenera descrierile tuturor produselor fără acordul proprietarului
-  (promptul e în `docs/prompt-descrieri-v2.md`).
+- Descrierile se scriu prin git după `content/prompt-descrieri.md` (fluxul: `content/README.md`);
+  serverul aplică orice push în 1–2 minute.
 
 ## Git: fiecare modificare ajunge în repo
 Proprietarul testează periodic din repo, deci:

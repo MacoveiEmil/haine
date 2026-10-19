@@ -1,8 +1,8 @@
 # content/: descrierile de produs (beestyle.ro)
 
-Aici se scriu descrierile, prin git. Serverul verifică GitHub **la fiecare minut**: ia
-descrierile noi sau modificate, le trece prin verificarea automată și le publică pe site
-(în 1–2 minute de la push). Nimeni nu are nevoie de acces la server.
+Aici se scriu descrierile, prin git. Serverul verifică GitHub **la fiecare minut** și aplică
+orice push: descrierile apar pe site în 1–2 minute, iar codul (temă, plugin, crawlere,
+configurație) se aplică la fel de repede. Nimeni nu are nevoie de acces la server.
 
 ## Ce e în folder
 
@@ -12,11 +12,20 @@ descrierile noi sau modificate, le trece prin verificarea automată și le publi
 | `categorii.json` | serverul, zilnic | toate categoriile (`slug`, cale, număr de produse): sursa pentru categoria complementară |
 | `surse/{id}.json` | tu (unealta de extracție) | ce scrie pe pagina magazinului, extras acum: sursa faptelor |
 | `descrieri/{id}.json` | tu (AI-ul) | descrierea, în formatul de mai jos |
-| `raport-publicare.md` | serverul | ce s-a publicat și ce s-a respins (cu motivul), cele mai noi sus |
+| `prompt-descrieri.md` | oricine îl îmbunătățește | promptul după care se scriu descrierile |
+| `reguli-descrieri.json` | odată cu promptul | regulile verificării automate (lungimi, listă, linkuri, fraze interzise) |
+| `raport-publicare.md` | serverul | ce s-a aplicat la fiecare push și ce probleme a găsit verificarea, cele mai noi sus |
 
-**Nu modifica** `produse.json`, `categorii.json`, `raport-publicare.md` și nimic din afara
-`content/`. Serverul publică automat DOAR ce e în `content/`; orice altă modificare
-așteaptă aprobarea proprietarului.
+Poți modifica orice în repo (descrieri, prompt, reguli, cod). `produse.json`, `categorii.json`
+și `db/hainute.sql` le rescrie serverul zilnic, deci modificările manuale în ele se pierd.
+Orice push ajunge pe site în 1–2 minute: testează înainte. Revenire: `git revert <commit>` + push.
+
+## Prompt nou
+
+Schimbi `content/prompt-descrieri.md` și, ca verificarea să se potrivească, `content/reguli-descrieri.json`
+(cuvinte min/max, paragraf 1, puncte în listă, număr de linkuri, fraze interzise în plus).
+Crește și `"versiune"` (ex. `"v5"`): `tools/descrieri.py todo` va lista produsele care nu au încă
+descriere în noua versiune.
 
 ## Fluxul pentru un produs
 
@@ -24,13 +33,13 @@ așteaptă aprobarea proprietarului.
 git pull                                              # mereu întâi
 python tools/descrieri.py todo --stoc --limit 10      # ce produse nu au încă descriere v4
 node tools/crawler/desc-extract.js --ids 8566,8791    # pagina magazinului → content/surse/{id}.json
-# ... AI-ul scrie content/descrieri/{id}.json după docs/prompt-descrieri-v4.md ...
+# ... AI-ul scrie content/descrieri/{id}.json după content/prompt-descrieri.md ...
 python tools/descrieri.py check content/descrieri/8566.json   # trebuie „OK”
 git add content/surse content/descrieri && git commit -m "Descrieri v4: 8566, 8791" && git push
 ```
 
 După 1–2 minute: descrierea e pe `https://beestyle.ro{pagina}`, iar `git pull` aduce
-`content/raport-publicare.md` cu rezultatul. Dacă e „RESPINS”, corectezi și faci din nou push.
+`content/raport-publicare.md` cu rezultatul verificării. Dacă are probleme, corectezi și faci din nou push.
 
 ## Formatul `descrieri/{id}.json`
 
@@ -49,7 +58,7 @@ După 1–2 minute: descrierea e pe `https://beestyle.ro{pagina}`, iar `git pull
 
 Exemple bune: cele 9 fișiere deja existente în `descrieri/` (sunt live pe site).
 
-## Ce verifică `tools/descrieri.py check` (aceeași verificare rulează pe server)
+## Ce verifică `tools/descrieri.py check` (rulează și pe server; nu blochează publicarea, doar raportează)
 
 - fiecare `fragment` din `surse` apare pe pagina magazinului (`surse/{id}.json`);
 - 170–240 de cuvinte; paragraful 1 are 40–60; lista are 4–7 puncte, ultimul „Potrivit pentru”;
