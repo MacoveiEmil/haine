@@ -1,0 +1,71 @@
+{
+ "id": 11350,
+ "descriere_html": "<p>Adidașii bleumarin Geox Fadinlight Lilo &amp; Stitch sunt sneakerși cu lumini încorporate în talpă, buni pentru purtat zilnic și pentru drumurile de seară, pe întuneric. Aricii și șireturile elastice îi fac o pereche de <a href=\"/categorie/incaltaminte-fete/\">încălțăminte pentru fete</a> pe care copilul o încalță fără ajutor. Se potrivesc orientativ copiilor de 4-7 ani, de la grupa mijlocie până în clasele I-IV.</p><p>Iată ce declară <a href=\"/brand/geox/\">Geox</a> pentru acest model:</p><ul><li><strong>Geox Respira</strong>: tehnologie care susține eliminarea umidității, ca interiorul pantofului să rămână uscat.</li><li><strong>Lumini în talpă</strong>: adaugă vizibilitate, utile seara și pe drumurile pe întuneric.</li><li><strong>Material</strong>: exterior din imitație de piele și material sintetic, ușor de întreținut după joacă; interior textil.</li><li><strong>Închidere</strong>: șireturi elastice și arici, încălțarea se face rapid, fără legat.</li><li><strong>Călcâi</strong>: întărit, ține piciorul pe poziție în pantof.</li><li><strong>Potrivit pentru</strong>: purtat zilnic, drumuri pe seară.</li></ul><p>Pentru zilele obișnuite și pentru drumurile pe seară, luminile din talpă sunt un avantaj concret. Pe ploaie, zăpadă sau frig, modelul nu declară protecție, așa că pentru acele zile mai potrivite sunt <a href=\"/categorie/ghete-cizme/\">ghetele și cizmele pentru fete</a>.</p><p>Modelul are mărimile de la 28 la 31, orientativ pentru copiii de 4-7 ani.</p>",
+ "surse": [
+  {
+   "fapt": "nume, model",
+   "url": "answear.ro/p/…-1827763",
+   "fragment": "Geox FADINLIGHT Lilo & Stitch sneakers pentru copii"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/…-1827763",
+   "fragment": "susține eliminarea umidității, menținând interiorul pantofului uscat"
+  },
+  {
+   "fapt": "lumini",
+   "url": "answear.ro/p/…-1827763",
+   "fragment": "în talpă adaugă veselie și vizibilitate"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/…-1827763",
+   "fragment": "Călcâi întărit"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/…-1827763",
+   "fragment": "din imitație de piele și material sintetic, ușor de întreținut"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/…-1827763",
+   "fragment": "Interior din material textil"
+  },
+  {
+   "fapt": "șireturi elastice",
+   "url": "answear.ro/p/…-1827763",
+   "fragment": "Șireturi elastice"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/…-1827763",
+   "fragment": "Închidere practică cu arici"
+  },
+  {
+   "fapt": "purtat zilnic",
+   "url": "answear.ro/p/…-1827763",
+   "fragment": "de zi cu zi"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/…-1827763",
+   "fragment": "bleumarin"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox Fadinlight Lilo & Stitch",
+  "Material": "exterior din imitație de piele și material sintetic, interior textil",
+  "Caracteristici": "sistem Geox Respira, lumini în talpă, șireturi elastice, închidere cu arici, călcâi întărit, talpă plată",
+  "Cod produs": "J66M4E.05402"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/ghete-cizme/",
+  "motiv": "sneakerși fără protecție declarată la ploaie/frig; pentru acele zile, ghete"
+ },
+ "varsta_orientativa": "4-7 ani",
+ "confidence_notes": [
+  "Talpa: „din cauciuc” în text și „Material sintetic” în compoziție. CONTRADICTORY: omisă.",
+  "Pagina oficială Geox pentru J66M4E nu a fost găsită; John Lewis confirmă linia Fadinlight pentru fete, dar e sursă de tip 3 pentru alt model: nefolosită."
+ ]
+}

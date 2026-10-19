@@ -1,0 +1,66 @@
+{
+ "id": 12359,
+ "descriere_html": "<p>Bocancii bleumarin Geox J9420G sunt bocanci cu șiret și fermoar lateral, buni pentru purtat zilnic toamna și primăvara, nu pe ger, pentru că modelul nu e izolat. Partea superioară neporoasă se curăță ușor cu o cârpă umedă, un plus pentru <a href=\"/categorie/incaltaminte-fete/\">încălțămintea pentru fete</a> purtată zi de zi. Se potrivesc orientativ copiilor de 12 ani și peste, din gimnaziu.</p><p>Iată ce declară <a href=\"/brand/geox/\">Geox</a> pentru acest model:</p><ul><li><strong>Geox Respira</strong>: talpă în trei straturi, cu sistem de perforări, pe care producătorul o descrie ca îmbunătățind ventilarea.</li><li><strong>Material</strong>: exterior sintetic neporos, ușor de curățat cu o cârpă umedă; interior textil.</li><li><strong>Închidere</strong>: șiret cu fermoar lateral, bocancul se încalță fără să desfaci șiretul.</li><li><strong>Vârf și călcâi</strong>: vârf rotund întărit și contrafort rigid, care ține piciorul în bocanc la mers.</li><li><strong>Buclă la spate</strong>: ușurează încălțatul și descălțatul.</li><li><strong>Potrivit pentru</strong>: toamnă și primăvară, purtat zilnic.</li></ul><p>Pentru zilele de toamnă și primăvară, bocancii acoperă drumul zilnic. Fiind neizolați, se poartă cu un strat cald pe corp, iar o piesă din <a href=\"/categorie/geci-jachete/\">gecile și jachetele pentru fete</a> completează ținuta în zilele răcoroase.</p><p>Modelul are mărimile de la 36 la 39, orientativ pentru copiii de 12 ani și peste.</p>",
+ "surse": [
+  {
+   "fapt": "material, neporos, curățare",
+   "url": "answear.ro/p/…-1040927",
+   "fragment": "Partea superioară neporoasă, ușor de curățat cu o cârpă umedă"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/…-1040927",
+   "fragment": "datorita talpei in trei straturi cu sistemul de perforari care respira imbunatateste ventilarea"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/…-1040927",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "contrafort",
+   "url": "answear.ro/p/…-1040927",
+   "fragment": "Contorul de călcâi rigid stabilizează călcâiul și ține piciorul în pantof"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/…-1040927",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior și ajută la scoaterea acestuia"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/…-1040927",
+   "fragment": "Model cu siret cu fermoar lateral"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/…-1040927",
+   "fragment": "Interiorul textil este confortabil"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/…-1040927",
+   "fragment": "Izolare: neizolat"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/…-1040927",
+   "fragment": "culoarea albastru marin"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "J9420G",
+  "Material": "exterior sintetic, interior textil",
+  "Caracteristici": "sistem Geox Respira, șiret și fermoar lateral, vârf rotund întărit, contrafort rigid, buclă la spate, neizolați",
+  "Cod produs": "J9420G.000KC"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/geci-jachete/",
+  "motiv": "bocanci neizolați pentru tranziție; se poartă cu o geacă"
+ },
+ "varsta_orientativa": "12 ani și peste",
+ "confidence_notes": [
+  "Talpa: „din cauciuc” în text și „Material sintetic” în compoziție. CONTRADICTORY: omisă.",
+  "Galaxus listează J9420G ca „Geox Casey”, dar e o singură sursă de tip 3: numele nu e folosit."
+ ]
+}

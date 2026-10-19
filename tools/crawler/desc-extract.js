@@ -4,15 +4,26 @@
  * (titlu, descriere, detalii, compoziție, culoare, cod, mărimi) într-un JSON
  * din care se scriu apoi descrierile. Nu scrie nimic pe site.
  *
- * Rulare: node desc-extract.js produse.tsv iesire.json
+ * Rulare (pentru descrieri):  node desc-extract.js --ids 8566,8791
+ *   → citește content/produse.json, scrie content/surse/{id}.json (câte unul pe produs)
+ * Rulare veche: node desc-extract.js produse.tsv iesire.json
  *   produse.tsv: id<TAB>sursa<TAB>categorie<TAB>titlu<TAB>url
  */
 const fs = require('fs');
 const puppeteer = require('puppeteer-core');
-const CHROME = process.env.CHROME || (process.platform === 'win32' ? 'C:/Program Files/Google/Chrome/Application/chrome.exe' : '/usr/bin/google-chrome');
+const CHROME = process.env.CHROME || ({ win32: 'C:/Program Files/Google/Chrome/Application/chrome.exe', darwin: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' })[process.platform] || '/usr/bin/google-chrome';
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-const rows = fs.readFileSync(process.argv[2], 'utf8').trim().split('\n').map((l) => l.split('\t'));
+const path = require('path');
+const CONTENT = path.join(__dirname, '..', '..', 'content');
+const BY_IDS = process.argv[2] === '--ids';
+const rows = BY_IDS
+  ? (() => {
+    const want = new Set(String(process.argv[3] || '').split(',').map((x) => +x).filter(Boolean));
+    const all = JSON.parse(fs.readFileSync(path.join(CONTENT, 'produse.json'), 'utf8'));
+    return all.filter((p) => want.has(+p.id)).map((p) => [String(p.id), p.magazin, p.categorie_principala, p.titlu, p.link_afiliat]);
+  })()
+  : fs.readFileSync(process.argv[2], 'utf8').trim().split('\n').map((l) => l.split('\t'));
 const realUrl = (u) => { try { const x = new URL(u); return x.searchParams.get('redirect_to') || x.searchParams.get('url') || u; } catch (e) { return u; } };
 
 (async () => {
@@ -69,5 +80,11 @@ const realUrl = (u) => { try { const x = new URL(u); return x.searchParams.get('
     await sleep(1500);
   }
   await browser.close();
-  fs.writeFileSync(process.argv[3], JSON.stringify(out, null, 1));
+  if (BY_IDS) {
+    fs.mkdirSync(path.join(CONTENT, 'surse'), { recursive: true });
+    for (const o of out) fs.writeFileSync(path.join(CONTENT, 'surse', `${o.id}.json`), JSON.stringify({ extras_la: new Date().toISOString(), ...o }, null, 1));
+    console.log(`scrise ${out.length} fișiere în content/surse/`);
+  } else {
+    fs.writeFileSync(process.argv[3], JSON.stringify(out, null, 1));
+  }
 })();

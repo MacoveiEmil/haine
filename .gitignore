@@ -37,3 +37,6 @@ wp-content/uploads/
 
 # Parole DB pe server
 .env
+
+# Fișiere temporare ale uneltelor de descrieri
+content/*.tmp

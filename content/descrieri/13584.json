@@ -1,0 +1,66 @@
+{
+ "id": 13584,
+ "descriere_html": "<p>Blugii albi Konges Sløjd Magot sunt pantaloni de denim cu fason baggy și talie înaltă, buni pentru purtat zilnic și pentru joacă. Bumbacul organic certificat GOTS și banda elastică din talie îi fac o piesă de <a href=\"/categorie/imbracaminte-fete/\">îmbrăcăminte pentru fete</a> comodă pentru cei mici. Se potrivesc orientativ copiilor de 1-10 ani, de la antepreșcolar până în clasele I-IV.</p><p>Iată ce declară <a href=\"/brand/konges-slojd/\">Konges Sløjd</a> pentru acest model:</p><ul><li><strong>Material</strong>: 100% bumbac organic, cultivat fără îngrășăminte sau pesticide.</li><li><strong>Certificare</strong>: GOTS, menționată chiar în denumirea modelului.</li><li><strong>Talie</strong>: bandă elastică, pantalonii stau pe loc fără curea.</li><li><strong>Croială</strong>: fason lejer, baggy, cu loc de mișcare la joacă.</li><li><strong>Buzunare</strong>: oblice, ușor de folosit.</li><li><strong>Potrivit pentru</strong>: purtat zilnic, joacă.</li></ul><p>Blugii sunt piesa de bază a unei ținute de zi cu zi. Pentru o ținută completă, deasupra lor se poartă o bluză sau un hanorac din <a href=\"/categorie/bluze-tricouri-hanorace/\">bluzele, tricourile și hanoracele pentru fete</a>, ales după cât de cald e afară.</p><p>Modelul are opt mărimi între 86 și 134-140, orientativ pentru copiii de 1-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "nume, GOTS",
+   "url": "answear.ro/p/…-1701729",
+   "fragment": "MAGOT FRILL PANTS GOTS"
+  },
+  {
+   "fapt": "fason, talie",
+   "url": "answear.ro/p/…-1701729",
+   "fragment": "cu fason baggy cu talia înaltă"
+  },
+  {
+   "fapt": "denim",
+   "url": "answear.ro/p/…-1701729",
+   "fragment": "Model confecționat din denim confortabil"
+  },
+  {
+   "fapt": "bumbac organic certificat",
+   "url": "answear.ro/p/…-1701729",
+   "fragment": "cusut din bumbac organic certificat"
+  },
+  {
+   "fapt": "fără îngrășăminte, pesticide",
+   "url": "answear.ro/p/…-1701729",
+   "fragment": "fara utilizarea ingrasamintelor sau pesticidelor"
+  },
+  {
+   "fapt": "fason lejer",
+   "url": "answear.ro/p/…-1701729",
+   "fragment": "Fason lejer"
+  },
+  {
+   "fapt": "bandă elastică",
+   "url": "answear.ro/p/…-1701729",
+   "fragment": "Banda elastica in talie"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/…-1701729",
+   "fragment": "Buzunare oblice"
+  },
+  {
+   "fapt": "compoziție",
+   "url": "answear.ro/p/…-1701729",
+   "fragment": "100% Bumbac organic"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Konges Sløjd Magot",
+  "Material": "100% bumbac organic certificat GOTS",
+  "Caracteristici": "fason lejer, talie înaltă, bandă elastică în talie, buzunare oblice",
+  "Cod produs": "KS104970"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/bluze-tricouri-hanorace/",
+  "motiv": "pantaloni de bază; se poartă cu o bluză sau un hanorac"
+ },
+ "varsta_orientativa": "1-10 ani",
+ "confidence_notes": [
+  "Pagina oficială Konges Sløjd pentru KS104970 nu a fost găsită; Harrods descrie „Magot Frill Jeans”, dar fără cod: nefolosit.",
+  "Culoarea „alb” vine din datele Answear (câmpul de culoare)."
+ ]
+}

@@ -69,6 +69,13 @@ Slug-ul vine din input (categorie_principala). Ancora e gramaticala, cu "pentru"
 | /categorie/imbracaminte-baieti/ | îmbrăcăminte pentru băieți / îmbrăcămintea pentru băieți    |
 | /categorie/imbracaminte-fete/   | îmbrăcăminte pentru fete / îmbrăcămintea pentru fete        |
 | /categorie/imbracaminte-bebe/   | îmbrăcăminte pentru bebeluși / hăinuțe pentru bebeluși      |
+| /categorie/incaltaminte-bebe/   | încălțăminte pentru bebeluși                                |
+| /categorie/incaltaminte-unisex/ | încălțăminte unisex / încălțămintea unisex                  |
+| /categorie/imbracaminte-unisex/ | îmbrăcăminte unisex / îmbrăcămintea unisex                  |
+| /categorie/accesorii-fete/, /accesorii-baieti/, /accesorii-unisex/ | accesorii pentru fete / pentru băieți / unisex |
+
+(Adăugat pe beestyle.ro: categoria principală a fiecărui produs e câmpul `categorie_principala`
+din content/produse.json; produsele fără gen sigur de la magazin sunt în arborele Unisex.)
 
 Interzis: "încălțămintea fete", "îmbrăcămintea băieți" (fara "pentru").
 
