@@ -1,5 +1,18 @@
 # Raport publicare
 
+## 2026-10-20 22:59 (f32d90f, Macovei Emil)
+- PUBLICAT, verificare OK: 10507 111 cuv | OK
+- PUBLICAT, verificare OK: 12684 72 cuv | OK
+- PUBLICAT, verificare OK: 13098 92 cuv | OK
+- PUBLICAT, verificare OK: 13508 121 cuv | OK
+- PUBLICAT, verificare OK: 8523 95 cuv | OK
+- PUBLICAT, verificare OK: 8545 60 cuv | OK
+- PUBLICAT, verificare OK: 9100 84 cuv | OK
+- PUBLICAT, verificare OK: 9165 108 cuv | OK
+- PUBLICAT, verificare OK: 9191 100 cuv | OK
+- PUBLICAT, verificare OK: 9721 72 cuv | OK
+- cod/configurație actualizate: tools/descrieri-gemini.py 
+
 ## 2026-10-20 21:59 (e0b693b, Macovei Emil)
 - cod/configurație actualizate: wp-content/themes/hainute/inc/seo.php 
 
