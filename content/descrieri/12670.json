@@ -1,7 +1,7 @@
 {
  "id": 12670,
  "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T1X9-35219 sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> bleumarin, cu profil jos. Fața e din imitație de piele, ușor de ținut curată.</p><ul><li><strong>Material</strong>: partea superioară din material sintetic, interior din material textil, cu branț textil.</li><li><strong>Talpă</strong>: de cauciuc, plată.</li><li><strong>Călcâi</strong>: întărit.</li><li><strong>Închidere</strong>: arici, deci copilul se încalță fără ajutor.</li></ul><p>Mărimile merg de la 24 la 29, orientativ pentru copii de 2-5 ani.</p>",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T1X9-35219 sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> bleumarin, cu profil jos. Fața e din imitație de piele, ușor de ținut curată.</p><ul><li><strong>Material</strong>: partea superioară din material sintetic, interior din material textil, cu branț textil.</li><li><strong>Talpă</strong>: de cauciuc, plată.</li><li><strong>Călcâi</strong>: întărit.</li><li><strong>Închidere</strong>: arici, deci copilul se încalță fără ajutor.</li></ul><p>Mărimile merg de la 20 la 29, orientativ pentru copii de 1-5 ani.</p>",
  "surse": [
   {
    "fapt": "model",
@@ -56,7 +56,9 @@
   "Cod produs": "T1X9-35219"
  },
  "categorie_complementara": null,
- "varsta_orientativa": "2-5 ani",
+ "varsta_orientativa": "1-5 ani",
  "date_insuficiente": false,
- "confidence_notes": []
+ "confidence_notes": [
+  "Mărimile 20-23 apar la alt magazin cu același cod EAN."
+ ]
 }
