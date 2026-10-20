@@ -150,6 +150,9 @@ add_filter(
 		if ( $len() > 70 && isset( $parts['title'] ) ) {
 			$parts['title'] = preg_replace( '/ în magazine$/u', '', $parts['title'] );
 		}
+		if ( $len() > 70 && isset( $parts['title'] ) ) {
+			$parts['title'] = preg_replace( '/: mărimi disponibile$/u', '', $parts['title'] );
+		}
 		return $parts;
 	},
 	99
@@ -244,6 +247,25 @@ function hainute_seo_title_dupes() {
 				$map['canon'][ $id ] = $first[ $code ];
 			} else {
 				$first[ $code ] = $id;
+			}
+		}
+	}
+	// A doua trecere: titlurile scurtate la 70 de caractere (fără culoare/gen) se pot
+	// suprapune din nou; acolo intră și al doilea segment al codului („T1X9-35219").
+	$final = array();
+	foreach ( $ids as $id ) {
+		if ( ! isset( $map['canon'][ $id ] ) ) {
+			$final[ mb_strtolower( hainute_seo_product_title( $id, $map['code'][ $id ] ?? '' ) ) ][] = $id;
+		}
+	}
+	foreach ( $final as $group ) {
+		if ( count( $group ) < 2 ) {
+			continue;
+		}
+		foreach ( $group as $id ) {
+			$segs = explode( '.', strtoupper( (string) get_post_meta( $id, '_hainute_model_code', true ) ) );
+			if ( count( $segs ) > 1 && preg_match( '/^[A-Z0-9]{2,10}$/', $segs[1] ) ) {
+				$map['code'][ $id ] = trim( $segs[0] . '-' . $segs[1] . ' ' . preg_replace( '/^\S+\s*/', '', $map['code'][ $id ] ?? '' ) );
 			}
 		}
 	}
