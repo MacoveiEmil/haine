@@ -1,5 +1,8 @@
 # Raport publicare
 
+## 2026-10-20 21:51 (608dd1f, Macovei Emil)
+- cod/configurație actualizate: wp-content/themes/hainute/inc/seo.php 
+
 ## 2026-10-20 21:50 (91710ce, Macovei Emil)
 - containerele au fost repornite (configurație Docker modificată)
 - cod/configurație actualizate: docker/.htaccess docker/Caddyfile tools/server/sync-content.sh wp-content/themes/hainute/assets/css/main.css wp-content/themes/hainute/assets/img/apple-touch-icon.png wp-content/themes/hainute/assets/img/favicon-32.png wp-content/themes/hainute/assets/img/icon-512.png wp-content/themes/hainute/inc/seo.php 
