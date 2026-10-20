@@ -1,0 +1,48 @@
+{
+ "id": 12075,
+ "versiune": "v5",
+ "descriere_html": "<p><a href=\"/brand/4f/\">4F</a> propune o <a href=\"/categorie/geci-jachete/\">jachetă softshell pentru fete</a> roz, din poliester, rezistentă la vânt și cu glugă. Materialul e hidrofob, deci respinge apa la suprafață. E făcută pentru zilele cu vânt.</p><ul><li><strong>Tip</strong>: jachetă softshell.</li><li><strong>Material</strong>: poliester hidrofob.</li><li><strong>Protecție</strong>: rezistentă la vânt.</li><li><strong>Glugă</strong>: da, acoperă capul pe vânt.</li></ul><p>Mărimile merg de la 128 la 164, orientativ pentru copii de 8-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "softshell",
+   "url": "fashiondays.ro/p/jacheta-softshell-pentru-fete…p16863531-7",
+   "fragment": "Jacheta softshell pentru fete"
+  },
+  {
+   "fapt": "vânt",
+   "url": "fashiondays.ro/p/jacheta-softshell-pentru-fete…p16863531-7",
+   "fragment": "rezistenta la vant"
+  },
+  {
+   "fapt": "glugă",
+   "url": "fashiondays.ro/p/jacheta-softshell-pentru-fete…p16863531-7",
+   "fragment": "gluga"
+  },
+  {
+   "fapt": "poliester",
+   "url": "fashiondays.ro/p/jacheta-softshell-pentru-fete…p16863531-7",
+   "fragment": "poliester"
+  },
+  {
+   "fapt": "culoare",
+   "url": "fashiondays.ro/p/jacheta-softshell-pentru-fete…p16863531-7",
+   "fragment": "roz"
+  },
+  {
+   "fapt": "hidrofob",
+   "url": "fashiondays.ro/p/jacheta-softshell-pentru-fete…p16863531-7",
+   "fragment": "hidrofob"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F jachetă softshell",
+  "Material": "poliester hidrofob",
+  "Caracteristici": "softshell, rezistentă la vânt, glugă"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "FashionDays afișează doar titlul produsului: toate faptele vin de acolo."
+ ]
+}

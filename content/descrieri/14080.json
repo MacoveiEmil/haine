@@ -1,0 +1,74 @@
+{
+ "id": 14080,
+ "versiune": "v5",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> HALLAVA sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete de iarnă unisex</a>, testate pentru izolare termică până la -20°C, cu membrană impermeabilă și căptușeală din fleece. Sunt făcute pentru frig, zăpadă și zile ude.</p><ul><li><strong>Talpă</strong>: din EVA și cauciuc, flexibilă și ușoară, cu cauciuc reciclat.</li><li><strong>Cusături</strong>: cu inserție impermeabilă.</li><li><strong>Închidere</strong>: arici, deci copilul se încalță fără ajutor.</li><li><strong>Branț</strong>: cu marcajele Happy Fit, pentru alegerea mărimii.</li><li><strong>Material</strong>: față din poliester, poliuretan și cauciuc, model vegan, fără fluorocarbon și PVC.</li></ul><p>Mărimile merg de la 28 la 38, orientativ pentru copii de la 4 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "tip",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "Ghetele de iarnă pentru copii Reima HALLAVA"
+  },
+  {
+   "fapt": "-20°C",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "testate pentru izolare termică până la -20°C"
+  },
+  {
+   "fapt": "membrană",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "membrană impermeabilă"
+  },
+  {
+   "fapt": "fleece",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "căptușeala din fleece"
+  },
+  {
+   "fapt": "talpă",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "Talpa flexibilă și ușoară din EVA/cauciuc încorporează cauciuc reciclat"
+  },
+  {
+   "fapt": "cusături",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "inserție impermeabilă în cusături"
+  },
+  {
+   "fapt": "velcro",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "închidere practică cu velcro"
+  },
+  {
+   "fapt": "Happy Fit",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "branțul este imprimat cu marcaje Happy Fit, care facilitează alegerea mărimii corecte"
+  },
+  {
+   "fapt": "față",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "poliester, poliuretan, cauciuc"
+  },
+  {
+   "fapt": "vegan",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "vegan"
+  },
+  {
+   "fapt": "fără fluorocarbon",
+   "url": "sportisimo.ro/reima/hallava/1496168",
+   "fragment": "fără fluorocarbon și PVC"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima HALLAVA",
+  "Material": "față din poliester, poliuretan și cauciuc; căptușeală fleece; talpă EVA și cauciuc",
+  "Caracteristici": "izolare termică testată până la -20°C, membrană impermeabilă, cusături impermeabile, arici, vegan",
+  "Cod produs": "5400147A-1490"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 4 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pe site era la „Pantofi”; magazinul le descrie ca ghete de iarnă: mutat la Unisex › Încălțăminte › Ghete & cizme."
+ ]
+}

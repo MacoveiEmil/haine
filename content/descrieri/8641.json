@@ -1,0 +1,84 @@
+{
+ "id": 8641,
+ "versiune": "v5",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KN0KN01485 este un <a href=\"/categorie/bebe-imbracaminte-pantaloni-treninguri/\">trening pentru bebeluși</a> bleumarin, din tricot subțire și flexibil. Bluza are mânecă lungă și decolteu rotund, iar pantalonii se strâng cu șnur în talie.</p><ul><li><strong>Material</strong>: 95% bumbac, 5% elastan, cu cel puțin 50% bumbac organic.</li><li><strong>Fason</strong>: drept, cu manșete la margini.</li><li><strong>Buzunare</strong>: oblice.</li><li><strong>Model</strong>: cu print.</li></ul><p>Mărimile merg de la 56 la 92, orientativ pentru bebeluși de până la 2 ani.</p>",
+ "surse": [
+  {
+   "fapt": "tip",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "Trening copii"
+  },
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "KN0KN01485"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "culoarea albastru marin"
+  },
+  {
+   "fapt": "tricot",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "Material tricot flexibil si subtire"
+  },
+  {
+   "fapt": "mânecă",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "Maneca lunga"
+  },
+  {
+   "fapt": "decolteu",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "Decolteu rotund"
+  },
+  {
+   "fapt": "șnur",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "In talie snururi"
+  },
+  {
+   "fapt": "compoziție",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "95% Bumbac, 5% Elastan"
+  },
+  {
+   "fapt": "bumbac organic",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "fabricat din cel putin 50% bumbac organic"
+  },
+  {
+   "fapt": "fason",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "Fason drept"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "Finisaj din manseta"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "Buzunare oblice"
+  },
+  {
+   "fapt": "print",
+   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fragment": "Model: print"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger KN0KN01485",
+  "Material": "95% bumbac (minim 50% organic), 5% elastan, tricot",
+  "Caracteristici": "bluză cu mânecă lungă și decolteu rotund, pantaloni cu șnur, buzunare oblice, manșete",
+  "Cod produs": "KN0KN01485"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "0-2 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Answear marchează produsul ca „fete” (sex G); pe site e la Bebe, unde nu se mută după gen."
+ ]
+}

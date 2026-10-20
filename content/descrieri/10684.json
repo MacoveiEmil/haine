@@ -1,0 +1,72 @@
+{
+ "id": 10684,
+ "versiune": "v5",
+ "descriere_html": "<p><a href=\"/brand/adidas-originals/\">adidas Originals</a> KD5801 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de blugi unisex</a> albastră, din denim 100% bumbac, cu croială lejeră. Nu are izolație și nici căptușeală.</p><ul><li><strong>Închidere</strong>: fermoar, deci se pune și se scoate ușor.</li><li><strong>Guler</strong>: ridicat.</li><li><strong>Mâneci și tiv</strong>: finisate cu bătături.</li><li><strong>Buzunare</strong>: două laterale.</li></ul><p>Mărimile merg de la 104 la 128, orientativ pentru copii de 4-8 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "KD5801"
+  },
+  {
+   "fapt": "tip",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "Geacă de blugi pentru copii"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "albastru"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "100% Bumbac"
+  },
+  {
+   "fapt": "denim",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "Material: jeans"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "Tăiere lejeră"
+  },
+  {
+   "fapt": "neizolat, necăptușit",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "Model neizolat fara captuseala"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "Închiderea convenabilă cu fermoar îl face ușor de pus și scos"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "Gulerul ridicat"
+  },
+  {
+   "fapt": "bătături",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "Mânecile și marginea inferioară sunt finisate cu bătături"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fragment": "Două buzunare laterale"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "adidas Originals KD5801",
+  "Material": "denim, 100% bumbac",
+  "Caracteristici": "croială lejeră, fără izolație și căptușeală, fermoar, guler ridicat, două buzunare laterale",
+  "Cod produs": "KD5801"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-8 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

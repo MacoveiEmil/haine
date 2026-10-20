@@ -48,6 +48,6 @@ fi
 echo "$CHANGED" | grep -qvE '^content/' && RAP+="- cod/configurație actualizate: $(echo "$CHANGED" | grep -vE '^content/' | head -8 | tr '\n' ' ')"$'\n'
 
 # Raportul (cele mai noi sus) se trimite înapoi în git, ca autorul să vadă rezultatul.
-{ echo "# Raport publicare"; echo; echo "$RAP"; [ -f "$REPORT" ] && tail -n +3 "$REPORT"; } > "$REPORT.tmp" && mv "$REPORT.tmp" "$REPORT"
+{ echo "# Raport publicare"; echo; echo "$RAP"; if [ -f "$REPORT" ]; then tail -n +3 "$REPORT"; fi; } > "$REPORT.tmp" && mv "$REPORT.tmp" "$REPORT"
 head -c 200000 "$REPORT" > "$REPORT.tmp" && mv "$REPORT.tmp" "$REPORT"
 git add "$REPORT" && git commit -q -m "Raport publicare" && git push -q origin HEAD:main || log "push raport eșuat"

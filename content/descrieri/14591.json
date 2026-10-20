@@ -1,0 +1,70 @@
+{
+ "id": 14591,
+ "versiune": "v5",
+ "descriere_html": "<p><a href=\"/brand/loap/\">LOAP</a> OKSA este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de schi unisex</a> cu glugă, din material impermeabil STORMEX cu coloană de apă de 5000 mm. E făcută pentru pârtie, zăpadă și frig.</p><ul><li><strong>Membrană</strong>: AQUA PRO.</li><li><strong>Izolație</strong>: umplutură POLYTHERM, 100% poliester.</li><li><strong>Glugă</strong>: fixă, cu guler din blană artificială.</li><li><strong>Mâneci</strong>: ajustabile cu arici, cu manșete elastice.</li><li><strong>Interior</strong>: centură de zăpadă și tiv ajustabil.</li><li><strong>Vizibilitate</strong>: elemente reflectorizante, utile pe drumurile pe întuneric.</li></ul><p>La schi, geaca se poartă împreună cu mănuși și căciulă din <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli, mănuși și accesorii unisex</a>.</p><p>Mărimile merg de la 128 la 164, orientativ pentru copii de 8-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "geacă de schi cu glugă",
+   "url": "sportisimo.ro/loap/oksa",
+   "fragment": "Geacă de schi pentru copii Loap OKSA cu glugă"
+  },
+  {
+   "fapt": "STORMEX, coloană de apă",
+   "url": "sportisimo.ro/loap/oksa",
+   "fragment": "material impermeabil STORMEX cu o coloană de apă de 5000 mm"
+  },
+  {
+   "fapt": "membrană",
+   "url": "sportisimo.ro/loap/oksa",
+   "fragment": "Membrana AQUAPRO"
+  },
+  {
+   "fapt": "izolație",
+   "url": "sportisimo.ro/loap/oksa",
+   "fragment": "100 % poliester (Polytherm)"
+  },
+  {
+   "fapt": "glugă fixă",
+   "url": "sportisimo.ro/loap/oksa",
+   "fragment": "fixă"
+  },
+  {
+   "fapt": "blană artificială",
+   "url": "sportisimo.ro/loap/oksa",
+   "fragment": "Gluga cu guler din blană artificială"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "sportisimo.ro/loap/oksa",
+   "fragment": "mânecile ajustabile cu velcro cu manșete elastice"
+  },
+  {
+   "fapt": "tiv",
+   "url": "sportisimo.ro/loap/oksa",
+   "fragment": "Tivul de jos este ajustabil"
+  },
+  {
+   "fapt": "centură de zăpadă",
+   "url": "sportisimo.ro/loap/oksa",
+   "fragment": "centură de zăpadă"
+  },
+  {
+   "fapt": "reflectorizante",
+   "url": "sportisimo.ro/loap/oksa",
+   "fragment": "Elementele reflectorizante asigură vizibilitatea copilului"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "LOAP OKSA",
+  "Material": "exterior 100% poliester (STORMEX), izolație 100% poliester (POLYTHERM)",
+  "Caracteristici": "membrană AQUA PRO, coloană de apă 5000 mm, glugă fixă, mâneci ajustabile cu arici, centură de zăpadă, elemente reflectorizante",
+  "Cod produs": "OLK2008-M37J"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/unisex-accesorii-caciuli-manusi-accesorii/",
+  "motiv": "geacă de schi: mănușile și căciula se poartă împreună cu ea"
+ },
+ "varsta_orientativa": "8-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
