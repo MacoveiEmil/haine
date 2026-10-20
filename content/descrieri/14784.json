@@ -1,72 +1,80 @@
 {
  "id": 14784,
- "descriere_html": "<p>Geaca portocalie de schi LOAP Cuwielo este o geacă impermeabilă, cu glugă și umplutură călduroasă, bună pentru pârtie, zăpadă și zilele ude de iarnă. Membrana AQUA PRO și cusăturile lipite o fac o piesă de <a href=\"/categorie/imbracaminte-unisex/\">îmbrăcăminte unisex</a> potrivită pentru zilele petrecute afară pe zăpadă. Se potrivește orientativ copiilor de 5-14 ani, de la grupa mare până în gimnaziu.</p><p>Iată ce declară <a href=\"/brand/loap/\">LOAP</a> pentru acest model:</p><ul><li><strong>AQUA PRO</strong>: membrană impermeabilă cu coloană de apă de 3000 mm și cusături critice lipite, pentru zăpadă și ploaie.</li><li><strong>Material exterior</strong>: STORMEX, rezistent la zăpadă, ploaie și vânt.</li><li><strong>Umplutură și căptușeală</strong>: fibre tubulare POLYTHERM și căptușeală din tafta 100% poliester, pentru căldură pe frig.</li><li><strong>Mâneci</strong>: se strâng cu arici și au manșete cu orificiu pentru deget, ca zăpada să nu intre la încheieturi.</li><li><strong>Croială</strong>: mulată, cu spatele ușor alungit, care acoperă spatele când copilul se apleacă.</li><li><strong>Buzunare</strong>: două laterale cu fermoar și unul pe antebrațul stâng.</li><li><strong>Potrivit pentru</strong>: schi, zăpadă, ploaie, iarnă.</li></ul><p>Geaca protejează corpul pe pârtie, dar capul și mâinile rămân de acoperit separat. Pentru o zi întreagă pe zăpadă, completarea firească vine din <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli, mănuși și alte accesorii unisex</a>, purtate împreună cu geaca.</p><p>Geaca are cinci mărimi duble, de la 112-116 la 158-164, orientativ pentru copiii de 5-14 ani.</p>",
+ "versiune": "v5",
+ "descriere_html": "<p><a href=\"/brand/loap/\">LOAP</a> Cuwielo este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de schi unisex</a> portocalie, cu glugă, membrană impermeabilă AQUA PRO și umplutură călduroasă. E făcută pentru pârtie, zăpadă și zilele ude de iarnă.</p><ul><li><strong>Impermeabilitate</strong>: coloană de apă de 3000 mm și cusături critice lipite.</li><li><strong>Material exterior</strong>: STORMEX, rezistent la zăpadă, ploaie și vânt.</li><li><strong>Umplutură și căptușeală</strong>: fibre tubulare POLYTHERM, căptușeală din tafta de poliester.</li><li><strong>Mâneci</strong>: se strâng cu arici și au manșete cu orificiu pentru deget, ca zăpada să nu intre la încheieturi.</li><li><strong>Croială</strong>: mulată, cu spatele ușor alungit.</li><li><strong>Buzunare</strong>: două laterale cu fermoar și unul pe antebrațul stâng.</li></ul><p>Pe pârtie, capul și mâinile au nevoie de <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli și mănuși unisex</a>, purtate împreună cu geaca.</p><p>Modelul are cinci mărimi duble, de la 112-116 la 158-164, orientativ pentru copii de 5-14 ani.</p>",
  "surse": [
   {
    "fapt": "geacă de schi cu glugă",
-   "url": "sportisimo.ro/loap/cuwielo/783681",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
    "fragment": "Geaca de schi cu glugă pentru copii Loap CUWIELO"
   },
   {
-   "fapt": "coloană de apă",
-   "url": "sportisimo.ro/loap/cuwielo/783681",
-   "fragment": "coloană de apă de 3000 mm"
+   "fapt": "culoare",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "Portocaliu (portocaliu / albastru / argintiu)"
   },
   {
-   "fapt": "cusături, membrană",
-   "url": "sportisimo.ro/loap/cuwielo/783681",
-   "fragment": "cusături critice lipite și membrană AQUA PRO impermeabilă"
-  },
-  {
-   "fapt": "STORMEX",
-   "url": "sportisimo.ro/loap/cuwielo/783681",
-   "fragment": "Materialul exterior STORMEX este rezistent împotriva zăpezii, a ploii și a vântului"
-  },
-  {
-   "fapt": "căptușeală",
-   "url": "sportisimo.ro/loap/cuwielo/783681",
-   "fragment": "tafta 100% poliester"
+   "fapt": "AQUA PRO",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "membrană AQUA PRO impermeabilă"
   },
   {
    "fapt": "umplutură",
-   "url": "sportisimo.ro/loap/cuwielo/783681",
-   "fragment": "umplutura călduroasă este realizată din fibre tubulare POLYTHERM"
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "umplutura călduroasă"
   },
   {
-   "fapt": "croială",
-   "url": "sportisimo.ro/loap/cuwielo/783681",
-   "fragment": "croială mulată, cu partea din spate ușor alungită"
+   "fapt": "coloană de apă",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "coloană de apă de 3000 mm"
+  },
+  {
+   "fapt": "cusături",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "cusături critice lipite"
+  },
+  {
+   "fapt": "STORMEX",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "Materialul exterior STORMEX este rezistent împotriva zăpezii, a ploii și a vântului"
+  },
+  {
+   "fapt": "POLYTHERM",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "fibre tubulare POLYTHERM"
+  },
+  {
+   "fapt": "tafta",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "tafta 100% poliester"
   },
   {
    "fapt": "mâneci",
-   "url": "sportisimo.ro/loap/cuwielo/783681",
-   "fragment": "Mânecile se ajustează cu bandă velcro"
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "Mânecile se ajustează cu bandă velcro și au manșete elastice cu orificiu pentru deget"
   },
   {
-   "fapt": "orificiu deget",
-   "url": "sportisimo.ro/loap/cuwielo/783681",
-   "fragment": "cu orificiu pentru deget"
+   "fapt": "croială",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "croială mulată, cu partea din spate ușor alungită"
   },
   {
    "fapt": "buzunare",
-   "url": "sportisimo.ro/loap/cuwielo/783681",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
    "fragment": "două buzunare laterale cu fermoar și un buzunar pe antebrațul stâng"
   }
  ],
  "specificatii_tehnice": {
   "Model": "LOAP Cuwielo",
-  "Material": "exterior STORMEX, căptușeală tafta 100% poliester, umplutură din fibre POLYTHERM",
-  "Caracteristici": "membrană AQUA PRO, coloană de apă 3000 mm, respirabilitate 3000 g/m²/24 h, cusături critice lipite, glugă, manșete cu arici și orificiu pentru deget, protecție pentru bărbie, 3 buzunare",
+  "Material": "exterior STORMEX (100% poliester), căptușeală tafta, umplutură POLYTHERM",
+  "Caracteristici": "membrană AQUA PRO, coloană de apă 3000 mm, cusături lipite, mâneci cu arici, 3 buzunare",
   "Cod produs": "143648"
  },
  "categorie_complementara": {
-  "slug": "/categorie/baieti-accesorii-caciuli-manusi-accesorii/",
-  "motiv": "geacă de schi; capul și mâinile se acoperă separat pe pârtie"
+  "slug": "/categorie/unisex-accesorii-caciuli-manusi-accesorii/",
+  "motiv": "geacă de schi: se poartă cu căciulă și mănuși"
  },
  "varsta_orientativa": "5-14 ani",
- "confidence_notes": [
-  "Respirabilitatea (3000 g/m²/24 h) e declarată, dar formularea e pe lista v4: omisă.",
-  "Pagina oficială LOAP pentru Cuwielo nu a fost găsită.",
-  "Sportisimo nu declară genul: produsul trece la Unisex la pasul următor."
- ]
+ "date_insuficiente": false,
+ "confidence_notes": []
 }

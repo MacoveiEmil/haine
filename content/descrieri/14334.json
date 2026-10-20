@@ -1,72 +1,72 @@
 {
  "id": 14334,
- "descriere_html": "<p>Sandalele roz Reima Valoa sunt sandale barefoot, bune pentru vară și pentru activitățile în aer liber din zilele calde. Dropul zero și designul lat, cu spațiu suplimentar pentru degete, plus șiretul elastic le fac o pereche de <a href=\"/categorie/incaltaminte-unisex/\">încălțăminte unisex</a> care se încalță rapid. Se potrivesc orientativ copiilor de 4-9 ani, de la grupa mijlocie până în clasele I-IV.</p><p>Iată ce declară <a href=\"/brand/reima/\">Reima</a> pentru acest model:</p><ul><li><strong>Formă barefoot</strong>: drop zero la călcâi și vârf lat, cu spațiu suplimentar pentru degete.</li><li><strong>Material</strong>: față din poliester tricotat, model vegan.</li><li><strong>Talpă</strong>: din cauciuc, flexibilă.</li><li><strong>Închidere</strong>: șiret elastic, încălțare și descălțare rapidă.</li><li><strong>Branț</strong>: detașabil, ușor de scos pentru întreținere.</li><li><strong>Potrivit pentru</strong>: vară, zile calde, activități în aer liber.</li></ul><p>Pentru vară, sandalele acoperă joaca de afară și plimbările din zilele calde. În zilele răcoroase de primăvară sau toamnă, când piciorul are nevoie de încălțăminte închisă, care nu lasă degetele expuse, mai potriviți sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidașii unisex</a>.</p><p>Modelul are mărimile de la 28 la 33, orientativ pentru copiii de 4-9 ani.</p>",
+ "versiune": "v5",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Valoa sunt <a href=\"/categorie/unisex-incaltaminte-sandale/\">sandale unisex</a> barefoot, roz, cu fața tricotată și talpă flexibilă din cauciuc. Ca orice sandale, sunt pentru zilele calde și joaca de afară.</p><ul><li><strong>Formă barefoot</strong>: drop zero la călcâi și vârf lat, cu spațiu suplimentar pentru degete.</li><li><strong>Material</strong>: față din poliester tricotat, model vegan.</li><li><strong>Talpă</strong>: din cauciuc, flexibilă.</li><li><strong>Închidere</strong>: șiret elastic, se încalță și se descalță repede.</li><li><strong>Branț</strong>: detașabil, se scoate la curățat.</li></ul><p>În zilele răcoroase, când piciorul trebuie acoperit, mai potriviți sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidașii unisex</a>.</p><p>Mărimile merg de la 28 la 40, orientativ pentru copii de la 4 ani în sus.</p>",
  "surse": [
   {
    "fapt": "sandale barefoot",
-   "url": "sportisimo.ro/reima/valoa/1703665",
+   "url": "sportisimo.ro/reima/valoa/1703665/",
    "fragment": "Sandalele barefoot pentru copii REIMA VALOA"
   },
   {
-   "fapt": "drop zero, design lat",
-   "url": "sportisimo.ro/reima/valoa/1703665",
-   "fragment": "Dropul zero la nivelul călcâiului și designul lat cu spațiu suplimentar pentru degete"
+   "fapt": "culoare",
+   "url": "sportisimo.ro/reima/valoa/1703665/",
+   "fragment": "Roz (roz / alb)"
   },
   {
-   "fapt": "talpă",
-   "url": "sportisimo.ro/reima/valoa/1703665",
-   "fragment": "Talpa flexibilă din cauciuc"
-  },
-  {
-   "fapt": "aer liber",
-   "url": "sportisimo.ro/reima/valoa/1703665",
-   "fragment": "activităților în aer liber"
-  },
-  {
-   "fapt": "încălțare rapidă",
-   "url": "sportisimo.ro/reima/valoa/1703665",
-   "fragment": "șiret elastic pentru încălțare rapidă și ușoară"
-  },
-  {
-   "fapt": "branț",
-   "url": "sportisimo.ro/reima/valoa/1703665",
-   "fragment": "Branțul detașabil facilitează întreținerea"
-  },
-  {
-   "fapt": "vegan",
-   "url": "sportisimo.ro/reima/valoa/1703665",
-   "fragment": "vegane"
-  },
-  {
-   "fapt": "material față",
-   "url": "sportisimo.ro/reima/valoa/1703665",
+   "fapt": "tricotat",
+   "url": "sportisimo.ro/reima/valoa/1703665/",
    "fragment": "Partea superioară tricotată"
   },
   {
    "fapt": "poliester",
-   "url": "sportisimo.ro/reima/valoa/1703665",
+   "url": "sportisimo.ro/reima/valoa/1703665/",
    "fragment": "poliester"
   },
   {
-   "fapt": "culoare",
-   "url": "sportisimo.ro/reima/valoa/1703665",
-   "fragment": "Roz"
+   "fapt": "aer liber",
+   "url": "sportisimo.ro/reima/valoa/1703665/",
+   "fragment": "activităților în aer liber"
+  },
+  {
+   "fapt": "drop zero, vârf lat",
+   "url": "sportisimo.ro/reima/valoa/1703665/",
+   "fragment": "Dropul zero la nivelul călcâiului și designul lat cu spațiu suplimentar pentru degete"
+  },
+  {
+   "fapt": "vegan",
+   "url": "sportisimo.ro/reima/valoa/1703665/",
+   "fragment": "vegane"
+  },
+  {
+   "fapt": "talpă",
+   "url": "sportisimo.ro/reima/valoa/1703665/",
+   "fragment": "Talpa flexibilă din cauciuc"
+  },
+  {
+   "fapt": "șiret elastic",
+   "url": "sportisimo.ro/reima/valoa/1703665/",
+   "fragment": "șiret elastic pentru încălțare rapidă și ușoară"
+  },
+  {
+   "fapt": "branț",
+   "url": "sportisimo.ro/reima/valoa/1703665/",
+   "fragment": "Branțul detașabil facilitează întreținerea"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Reima Valoa",
   "Material": "față din poliester tricotat, talpă din cauciuc",
-  "Caracteristici": "barefoot, drop zero, vârf lat, șiret elastic, branț detașabil, vegan, 200 g",
-  "Cod produs": "5400157B-3610"
+  "Caracteristici": "barefoot, drop zero, vârf lat, șiret elastic, branț detașabil, vegan",
+  "Cod produs": "240091"
  },
  "categorie_complementara": {
-  "slug": "/categorie/adidasi/",
-  "motiv": "sandale de vară; pentru zile răcoroase, încălțăminte închisă"
+  "slug": "/categorie/unisex-incaltaminte-adidasi/",
+  "motiv": "sandale: pentru zilele răcoroase, încălțăminte închisă"
  },
- "varsta_orientativa": "4-9 ani",
+ "varsta_orientativa": "4 ani și peste",
+ "date_insuficiente": false,
  "confidence_notes": [
-  "„Respirabilă și elastică” e pe pagină, dar sunt pe lista v4 (fără elastan declarat): omise.",
-  "„Poziție sănătoasă” e pe pagină: omisă (beneficiu medical).",
-  "Greutatea de 200 g e declarată, dar nu adaugă o consecință practică: omisă din listă."
+  "Mărimi: produse.json are 28-40, descrierea v4 spunea 28-33. Am folosit produse.json, cum cere promptul."
  ]
 }

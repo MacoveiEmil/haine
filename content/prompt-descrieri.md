@@ -1,257 +1,199 @@
-Prompt descrieri de produs (v4) — hainute.ro
+# Prompt descrieri de produs (v5): beestyle.ro
 
-INPUT:
-- link_afiliat: {{url}}
-- categorie_principala: {{slug + nume}}  (din feed, ex: /categorie/incaltaminte-fete/)
-- categorii_site: {{lista slug + nume a categoriilor de pe site, inclusiv subcategorii}}
-- produse_populare: {{optional, lista: nume produs + url + categorie}}
+Scrii descrierea unui singur produs (haine sau încălțăminte pentru copii) pentru beestyle.ro.
+Site-ul arată părinților în ce magazine e pe stoc mărimea copilului. Nu e comparator de prețuri.
 
-Textul final se scrie in romana, CU diacritice.
+Textul se scrie în română, cu diacritice corecte (ș, ț cu virgulă dedesubt).
 
-==================================================
-REGULA ZERO: DATE DOAR DIN CAUTARE LIVE
-==================================================
+## De ce v5
 
-Nu folosesti nimic din memoria ta despre produs, model sau brand. Fiecare fapt din text vine dintr-o pagina deschisa ACUM, in aceasta rulare.
+v4 producea texte corecte formal, dar robotice: propoziții construite în jurul linkului
+(„…îi fac o pereche de încălțăminte pentru fete pe care…”), o „consecință” inventată după
+fiecare fapt, un paragraf de alternativă umplut cu aceeași frază pe zeci de produse și
+șabloane identice pe toate paginile („Iată ce declară X pentru acest model:”).
+v5 cere mai puțin text și mai multă informație: fapte clare, fără umplutură.
 
-- Deschizi obligatoriu pagina merchant (link_afiliat).
-- Cauti obligatoriu pagina oficiala a modelului la brand: "{brand} {cod_produs}" sau "{brand} {model}".
-- Pentru fiecare fapt folosit in text salvezi in output: URL-ul sursei + fragmentul exact de pe pagina care il confirma.
-- Fapt fara fragment = fapt care nu exista. Nu intra in text.
-- Daca nu poti deschide pagina merchant, te opresti si returnezi "eroare": "pagina_merchant_inaccesibila". Nu scrii nimic din memorie.
+## Intrări (le iei din repo)
 
-==================================================
-PASUL 1: EXTRAGERE
-==================================================
+- `content/surse/{id}.json`: pagina magazinului, extrasă acum. **Singura sursă de fapte.**
+- `content/produse.json`, produsul cu acest `id`:
+  - `categorie_frunza`: categoria linkată în paragraful 1 (dacă lipsește, `categorie_principala`);
+  - `gen`: fete / baieti / bebe / unisex (decide ancora linkului);
+  - `tip`: tipul de produs de pe site (ex. „Adidași”, „Geci & jachete”);
+  - `brand`, `brand_slug`: linkul de brand;
+  - `marimi`: mărimile modelului, așa cum le arată site-ul.
+- `content/categorii.json`: categoriile existente (pentru linkul complementar, dacă îl pui).
 
-De pe pagina merchant si de pe pagina oficiala a modelului extragi:
+## Regula zero: fapte doar din sursă
 
-- brand, model, cod produs
-- tip produs (sneakers, cizme, geaca, salopeta, balerini etc)
-- gen asa cum apare la merchant
-- culoare
-- material exterior, interior, talpa, compozitie
-- inchidere (siret, siret elastic, arici, fermoar, nasturi)
-- detalii de constructie: gluga detasabila, mansete, buzunare, cusaturi lipite, umplutura, captuseala, elemente reflectorizante, branț detasabil
-- protectii declarate: impermeabil, rezistent la apa, izolat termic, protectie UV (DOAR daca scrie explicit)
-- tehnologii cu nume propriu (Respira, GORE-TEX, Therma-FIT, REPREVE etc), DOAR daca numele apare pe pagina ACESTUI model
-- sezonul declarat de magazin sau brand
-- marimile modelului
+- Fiecare fapt din text apare în `content/surse/{id}.json`. Îl treci în `surse` cu fragmentul
+  copiat **exact** de acolo (verificarea caută fragmentul literal în fișier).
+- Fapt fără fragment = fapt care nu există. Nu folosești nimic din memoria ta despre brand sau model.
+- Nu folosești căutări web: verificarea acceptă doar fragmente din pagina extrasă.
+- Ignori textul comercial al magazinului: prețuri, reduceri, coduri promoționale, livrare, retur,
+  recenzii, „produse similare”, valori de filtru.
+- Sub 3 fapte concrete despre model: `"date_insuficiente": true`, scrii doar paragraful 1 și
+  paragraful de mărimi.
 
-Ignori valorile de filtru ale magazinului (ex: "talpa 2-4 cm"). Nu sunt fapte despre model.
+### Fapte versus reclamă
 
-Surse acceptate, in ordine:
-1. pagina merchant
-2. pagina oficiala a modelului la brand
-3. alt magazin mare (Answear, Zalando, ABOUT YOU, ePantofi, Modivo) DOAR cu acelasi cod de model, exact
-Bloguri, forumuri, recenzii, agregatoare: nu.
+Magazinele amestecă fapte cu promisiuni. Preiei doar faptul, nu promisiunea:
 
-Fapt gasit intr-o singura sursa de tip 3: se omite.
-Doua surse care se contrazic: se omite, se noteaza in confidence_notes.
-Maxim 4 cautari per produs.
+| Pe pagină scrie | Scrii |
+|---|---|
+| „talpa din spumă oferă o senzație mai moale și amortizare” | talpă din spumă |
+| „interior textil care favorizează circulația aerului” | interior textil |
+| „croiala regulară favorizează libertatea de mișcare” | croială regulară |
+| „bumbacul permite o senzație plăcută la contactul cu pielea” | 100% bumbac |
+| „talpă din cauciuc care asigură stabilitate și aderență” | talpă din cauciuc |
 
-PRAG: daca ai sub 3 fapte concrete despre model, "date_insuficiente": true si scrii doar paragraful 1 si paragraful 4.
+Excepție: o funcție tehnică declarată concret se păstrează, spusă simplu
+(„membrană impermeabilă”, „coloană de apă de 3000 mm”, „cusături lipite”,
+„elemente reflectorizante”, „izolație sintetică”, „talpă în trei straturi cu perforații pentru ventilație”).
 
-==================================================
-PASUL 2: DECIZII INAINTE DE SCRIS
-==================================================
+## Structura (60-200 de cuvinte)
 
-2.1 GEN
-Textul e MEREU neutru: copilul, cel mic, piciorul copilului. Fara "fetita", "baiatul", "ea", "el". Genul apare doar in ancora categoriei.
+Lungimea vine din fapte: un produs cu 4 fapte are un text scurt, unul cu 10 fapte are un text mai lung.
+Nu adaugi propoziții ca să atingi o lungime. Un text scurt și exact e mai bun decât unul lung și gol.
 
-2.2 ANCORA CATEGORIEI PRINCIPALE
-Slug-ul vine din input (categorie_principala). Ancora e gramaticala, cu "pentru":
+```
+<p>PARAGRAF 1</p>
+<ul><li>…</li> … </ul>
+<p>PARAGRAF COMPLEMENTAR (opțional)</p>
+<p>PARAGRAF MĂRIMI</p>
+```
 
-| Slug                            | Ancora (forme permise)                                      |
-|---------------------------------|-------------------------------------------------------------|
-| /categorie/incaltaminte-baieti/ | încălțăminte pentru băieți / încălțămintea pentru băieți    |
-| /categorie/incaltaminte-fete/   | încălțăminte pentru fete / încălțămintea pentru fete        |
-| /categorie/imbracaminte-baieti/ | îmbrăcăminte pentru băieți / îmbrăcămintea pentru băieți    |
-| /categorie/imbracaminte-fete/   | îmbrăcăminte pentru fete / îmbrăcămintea pentru fete        |
-| /categorie/imbracaminte-bebe/   | îmbrăcăminte pentru bebeluși / hăinuțe pentru bebeluși      |
-| /categorie/incaltaminte-bebe/   | încălțăminte pentru bebeluși                                |
-| /categorie/incaltaminte-unisex/ | încălțăminte unisex / încălțămintea unisex                  |
-| /categorie/imbracaminte-unisex/ | îmbrăcăminte unisex / îmbrăcămintea unisex                  |
-| /categorie/accesorii-fete/, /accesorii-baieti/, /accesorii-unisex/ | accesorii pentru fete / pentru băieți / unisex |
+### Paragraful 1: ce este și când se poartă (20-55 de cuvinte, 2-3 propoziții)
 
-(Adăugat pe beestyle.ro: categoria principală a fiecărui produs e câmpul `categorie_principala`
-din content/produse.json; produsele fără gen sigur de la magazin sunt în arborele Unisex.)
+- Prima propoziție începe cu brandul și modelul (sau codul, dacă modelul nu are nume) și spune
+  ce tip de produs e, cu linkul spre categorie pe tipul de produs. Exemplu de formă:
+  `Geox J36FWB sunt <a href="/categorie/adidasi/">adidași pentru fete</a> din plasă textilă și material sintetic, în culoarea roz.`
+- A doua propoziție: când se poartă (anotimp, vreme, activitate), dar **numai** dacă un fapt o
+  justifică (vezi „Utilizări”). Dacă nu ai un astfel de fapt, spui cel mai util detaliu concret
+  despre produs.
+- Fără vârstă aici (vârsta apare o singură dată, la mărimi).
+- Fără introduceri de atmosferă, fără „Iată”, fără întrebări.
 
-Interzis: "încălțămintea fete", "îmbrăcămintea băieți" (fara "pentru").
+**Ancora linkului de categorie** = tipul produsului + genul, ca un părinte ar căuta:
 
-2.3 UTILIZARI DERIVATE DIN FAPTE
-Fiecare utilizare (vreme, anotimp, activitate) trebuie sa aiba in spate un fapt extras. Exemple de derivare permise:
+| gen | Exemple de ancoră |
+|---|---|
+| fete | adidași pentru fete, geacă pentru fete, bocanci pentru fete, blugi pentru fete |
+| baieti | geacă pentru băieți, tricou polo pentru băieți, ghete pentru băieți |
+| bebe | salopetă pentru bebeluși, botoșei pentru bebeluși |
+| unisex | geacă de schi unisex, sandale unisex, ghete unisex |
 
-- impermeabil / GORE-TEX / cusaturi lipite -> ploaie, zapada topita, balti
-- izolat / umplutura / captuseala calda -> frig, iarna
-- plasa textila / sandale / bumbac subtire -> vara, zile calde
-- talpa cu lumini / elemente reflectorizante -> seara, drum cand se intuneca devreme
-- arici / siret elastic -> copilul se incalta singur, dimineti grabite
-- tip produs balerini / poante / echipament de dans -> balet, dans
-- talpa care nu lasa urme declarata / ghete de sala declarate -> sport indoor, sala
-- trening / tricou tehnic declarat -> ora de sport
+Ancora conține obligatoriu „pentru fete”, „pentru băieți”, „pentru bebeluși” sau „unisex”.
+Interzis fără „pentru”: „încălțămintea fete”, „îmbrăcăminte băieți”.
 
-Daca nu ai faptul, nu scrii utilizarea. "Bun pentru ploaie" fara impermeabilitate declarata = interzis.
+### Lista: ce are (3-6 puncte)
 
-2.4 CATEGORIA COMPLEMENTARA (paragraful 3)
-Alegi din categorii_site O categorie diferita de cea principala, care are sens fata de produs:
-- alternativa pentru alt anotimp sau alta vreme (sneakers din plasa -> ghete de iarna; geaca de iarna -> geaca de primavara)
-- complement purtat impreuna (geaca de iarna -> cizme de zapada; salopeta -> caciula si manusi)
-- alternativa pentru alta activitate (sneakers de oras -> pantofi de sport pentru sala)
+Fiecare punct: `<li><strong>Element</strong>: fapt.</li>`
 
-Daca produse_populare contine un produs din categoria aleasa, il poti numi si linka in locul categoriei. Altfel linkezi categoria.
-Slug-ul trebuie sa existe in categorii_site. Nu inventezi slug-uri.
+- Un fapt pe punct, spus scurt. Adaugi efectul practic **doar** dacă e evident și concret
+  (arici: „se încalță fără ajutor”; branț detașabil: „se scoate la uscat”; glugă detașabilă:
+  „se poate scoate”). Dacă efectul ar fi o laudă generală, nu-l scrii.
+- Ordinea: tehnologie numită (dacă există), material, izolație sau talpă, închidere, alte detalii.
+- Fără punct „Potrivit pentru” (utilizarea e deja în paragraful 1).
+- Linkul de brand: pe prima apariție firească a numelui brandului în text (în paragraful 1 sau
+  într-un punct al listei, ex. „tehnologia <a href="/brand/geox/">Geox</a> Respira”).
+  Brandul nu se repetă artificial ca să pui linkul.
+- Nu repeta în listă faptele spuse deja în paragraful 1, decât dacă adaugi un detaliu nou.
 
-==================================================
-PASUL 3: STRUCTURA TEXTULUI (170-240 cuvinte)
-==================================================
+### Paragraful complementar (opțional, 1-2 propoziții, maxim 45 de cuvinte)
 
-PARAGRAF 1: CE ESTE SI LA CE E BUN (40-60 cuvinte)
-Prima propozitie spune direct: ce produs e (tip, brand, model, culoare) si pentru ce e bun.
-Apoi: in ce anotimp, pe ce vreme, la ce ocazii se poarta (doar utilizari derivate cu 2.3) si pentru ce varsta (Anexa C, "orientativ").
-Linkul spre categoria principala e in acest paragraf, intr-o propozitie care spune ceva concret despre produs.
-Fara introduceri de atmosfera ("in diminetile grabite...", "intre ora de sport si parc..."). Direct la subiect.
+Îl scrii **doar** dacă există o legătură reală, bazată pe fapte:
+- limită declarată: modelul e neizolat, din plasă, sandale, fără impermeabilitate declarată
+  pentru încălțăminte de sezon rece (atunci trimiți spre ghete, geci etc.);
+- piese purtate împreună, evidente din tipul produsului (geacă de schi: căciuli și mănuși).
 
-PARAGRAF 2: CE ARE SI CE TI-AJUTA (1 propozitie + lista)
-O propozitie scurta de introducere, cu linkul de brand pe numele brandului.
-Apoi o lista de 4-7 puncte. Fiecare punct = un fapt extras + la ce foloseste concret:
+Linkul (unul singur) duce spre o categorie din `content/categorii.json`, alta decât cea din
+paragraful 1, de același gen. Dacă nu ai o legătură reală, sari peste paragraf: e mai bine
+fără el decât cu o frază de umplutură.
 
-- **{Element}**: {fapt}, {consecinta practica}.
+### Paragraful de mărimi (o singură propoziție)
 
-Ordinea punctelor: tehnologie numita (daca exista), material, talpa sau umplutura, inchidere, alte detalii de constructie, iar ultimul punct:
-- **Potrivit pentru**: {lista de vreme / anotimp / activitati, doar derivate cu 2.3}.
+Intervalul din `marimi` + vârsta orientativă (Anexa). Formă:
+- interval complet: „Mărimile merg de la 28 la 35, orientativ pentru copii de 4-11 ani.”
+- interval cu goluri: „Modelul are cinci mărimi între 128 și 176, orientativ pentru copii de 8-16 ani.”
+- mărimi duble (112-116): „de la 112-116 la 158-164”.
 
-PARAGRAF 3: ALTERNATIVA SAU COMPLEMENT (35-55 cuvinte)
-Spui clar cand produsul asta e alegerea potrivita si cand ar fi mai potrivita categoria complementara aleasa la 2.4 (sau ce se poarta impreuna cu el). Linkul spre categoria complementara (sau produsul popular) e in acest paragraf.
-Trebuie sa aiba logica reala: diferenta de anotimp, vreme sau activitate, bazata pe faptele produsului.
-Fara cuvintele "compara", "comparatie", "comparator".
+Fără etape de școală (grupa mică, clasele I-IV, gimnaziu), fără îndemnuri, fără trimitere la lista de
+magazine, fără stoc, fără preț.
 
-PARAGRAF 4: MARIMI (1-2 propozitii)
-Intervalul de marimi al modelului si varsta orientativa (Anexa C). Atat.
-Fara CTA, fara trimitere la lista de magazine, fara stoc, fara pret, fara magazine.
-Daca marimile nu sunt un interval complet: "N marimi intre X si Y", nu "marimile X-Y".
+## Utilizări permise (doar cu faptul în sursă)
 
-==================================================
-LIMBAJ
-==================================================
+- impermeabil, membrană, cusături lipite → ploaie, zăpadă, bălți
+- izolat, umplutură, izolație termică → frig, iarnă
+- plasă, sandale, bumbac subțire → zile calde, vară
+- elemente reflectorizante, lumini în talpă → drumuri pe întuneric
+- arici, șiret elastic → se încalță fără ajutor
+- geacă de schi declarată → pârtie, zăpadă
+- magazinul scrie explicit „purtat zilnic”, „casual” → purtat zilnic
 
-Ton: un parinte care stie despre ce vorbeste si iti spune direct. Fara reclama, fara literatura.
+Fără fapt, fără utilizare. „Bun pentru ploaie” fără impermeabilitate declarată = interzis.
 
-INTERZIS:
-- em dash, exclamatii, intrebari retorice, persoana I plural
-- superlative: cel mai bun, perfect, ideal, extraordinar, premium, must-have, revolutionar
-- "in concluzie", "asadar", "in plus", "de asemenea" la inceput de propozitie
-- "compara", "comparator", "comparatie", "cel mai bun pret", "reducere", "oferta"
-- formule de link goale: "intra in gama", "face parte din", "se incadreaza in", "apartine", "il gasesti in sectiunea"
-- clisee: "confort si stil", "nu va dezamagi", "ore in sir", "fara sa limiteze miscarea", "se asorteaza usor", "tine de cald fara sa fie greoaie", "pentru copiii care nu stau locului"
-- beneficii nedeclarate: respira, aerul circula, ventilatie, aderenta, amortizeaza, moale la fiecare pas, fara presiune, stabilitate, elastic (fara elastan in compozitie), ortopedic, sustine piciorul
-- afirmatii meta: "verificabil pe eticheta", "copiii il recunosc imediat", "face diferenta la confort", "se simte"
-- tara de fabricatie, procente de compozitie nedeclarate, gramaj de umplutura, lungime interioara in cm, recomandare de marime mai mare sau mai mica
-- etape de scoala in afara Anexei C
+## Limbaj
 
-==================================================
-PASUL 4: AUTO-VERIFICARE
-==================================================
+Ton: cineva care cunoaște produsul și îl descrie unui părinte grăbit. Propoziții scurte, subiect și
+predicat clare, acord gramatical corect. Citește fiecare propoziție: dacă nu ar suna normal spusă
+cu voce tare, o rescrii.
 
-Daca oricare raspuns e NU, rescrii.
+Text neutru ca gen: „copilul”, „copiii”. Fără „fetița”, „băiatul”, „cea mică”. Genul apare doar în
+ancora linkului de categorie.
 
-[ ] Fiecare fapt din text are URL + fragment in "surse"?
-[ ] Prima propozitie spune direct ce e produsul si la ce e bun?
-[ ] Fiecare utilizare (vreme, anotimp, activitate) are fapt in spate?
-[ ] Lista din paragraful 2 are 4-7 puncte, fiecare cu fapt + consecinta?
-[ ] Paragraful 3 are o logica reala (anotimp / vreme / activitate / complement)?
-[ ] Slug-ul complementar exista in categorii_site?
-[ ] Paragraful 4 are maxim 2 propozitii, fara CTA?
-[ ] Ancora categoriei principale e gramaticala, cu "pentru"?
-[ ] Text neutru ca gen?
-[ ] Zero cuvinte din lista INTERZIS?
-[ ] Varsta si etapa de scoala din Anexa C, cu "orientativ"?
-[ ] 170-240 cuvinte?
+Interzis:
+- liniuța lungă (em dash), exclamațiile, întrebările, persoana I plural
+- „compară”, „comparator”, „comparație”, preț, reducere, ofertă, stoc, nume de magazine
+- superlative și laudă: cel mai bun, perfect, ideal, extraordinar, premium, must-have, alegerea potrivită,
+  la îndemână, un plus, un avantaj, un detaliu concret, pentru părinții atenți
+- beneficii nedeclarate și promisiuni preluate de la magazin: respiră, aerul circulă, aderență,
+  amortizare, moale la fiecare pas, fără presiune, stabilitate, ortopedic, susține piciorul,
+  plăcut la contactul cu pielea, libertate de mișcare
+- formule de umplutură: „iată ce declară”, „îi fac o pereche”, „o fac o piesă”, „completarea firească”,
+  „piesa de bază”, „face parte din”, „se încadrează”, „intră în gama”, „confort și stil”,
+  „verificabil pe eticheta”, „recunosc imediat”, „face diferența”, „se simte”
+- etape de școală, țara de fabricație, dimensiuni în cm ale produsului, recomandări de mărime
 
-==================================================
-OUTPUT, JSON VALID
-==================================================
+## Auto-verificare (rescrii dacă un răspuns e NU)
 
+- [ ] Fiecare fapt din text are fragment copiat exact din `content/surse/{id}.json`?
+- [ ] Prima propoziție începe cu brandul/modelul și conține linkul de categorie pe tipul de produs?
+- [ ] Fiecare utilizare are un fapt în spate?
+- [ ] Lista are 3-6 puncte, fiecare cu un fapt, fără laude?
+- [ ] Paragraful complementar există doar dacă are o legătură reală?
+- [ ] Vârsta apare o singură dată, cu „orientativ”?
+- [ ] Nicio frază nu sună ca un șablon care s-ar putea lipi pe orice produs?
+- [ ] 60-200 de cuvinte, fără propoziții puse doar pentru lungime, `python tools/descrieri.py check` iese „OK”?
+
+## Output: `content/descrieri/{id}.json`
+
+```json
 {
-  "extras": {
-    "brand": "",
-    "model": "",
-    "cod_produs": "",
-    "tip_produs": "",
-    "gen_merchant": "",
-    "culoare": "",
-    "material": "",
-    "talpa": "",
-    "inchidere": "",
-    "detalii_constructie": [],
-    "protectii_declarate": [],
-    "tehnologii": [],
-    "sezon": "",
-    "marimi": []
-  },
-  "surse": [
-    { "fapt": "", "url": "", "fragment": "" }
-  ],
-  "date_insuficiente": false,
-  "varsta_orientativa": "",
-  "utilizari_derivate": [
-    { "utilizare": "", "fapt_baza": "" }
-  ],
-  "categorie_complementara": {
-    "slug": "",
-    "motiv": ""
-  },
-  "descriere_html": "<p>...</p><p>...</p><ul><li>...</li></ul><p>...</p><p>...</p>",
-  "interlinkuri": [
-    { "ancora": "", "url_slug": "", "paragraf": 1 },
-    { "ancora": "", "url_slug": "/brand/{slug}/", "paragraf": 2 },
-    { "ancora": "", "url_slug": "", "paragraf": 3 }
-  ],
-  "specificatii_tehnice": {
-    "Model": "",
-    "Material": "",
-    "Caracteristici": "",
-    "Cod produs": ""
-  },
-  "confidence_notes": [],
-  "self_check": {
-    "toate_faptele_au_sursa": true,
-    "deschidere_directa": true,
-    "utilizari_justificate": true,
-    "lista_4_7_puncte": true,
-    "paragraf_3_logic": true,
-    "slug_complementar_valid": true,
-    "marimi_fara_cta": true,
-    "ancora_gramaticala": true,
-    "gen_neutru": true,
-    "lista_interzisa_curata": true,
-    "lungime_ok": true
-  }
+ "id": 8566,
+ "versiune": "v5",
+ "descriere_html": "<p>…</p><ul><li><strong>…</strong>: …</li></ul><p>…</p>",
+ "surse": [ { "fapt": "plasă ușoară", "url": "answear.ro/p/…", "fragment": "text copiat EXACT din surse/{id}.json" } ],
+ "specificatii_tehnice": { "Model": "", "Material": "", "Caracteristici": "", "Cod produs": "" },
+ "categorie_complementara": { "slug": "/categorie/ghete-cizme/", "motiv": "…" },
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
 }
+```
 
-==================================================
-ANEXA A: CONTROL DE REPETITIE PE LOT (in afara agentului)
-==================================================
+`categorie_complementara` e `null` dacă nu ai scris paragraful complementar.
+În `confidence_notes` notezi problemele de date (gen diferit la magazin, mărimi care nu se potrivesc,
+fapte omise pentru că erau doar reclamă).
 
-1. Extrage toate paragrafele 1 si 3 din lot.
-2. N-grame de 6 cuvinte. Orice n-grama prezenta la peste 3% din produse intra in lista INTERZIS.
-3. Regenerezi doar produsele afectate.
+## Anexă: mărime → vârstă (se scrie mereu „orientativ”)
 
-==================================================
-ANEXA B: DATE PER BRAND (o singura data, tabela de referinta)
-==================================================
+Îmbrăcăminte (cm): 86 = 1 an | 92 = 2 | 98 = 3 | 104 = 4 | 110 = 5 | 116 = 6 | 122 = 7 | 128 = 8 |
+134 = 9 | 140 = 10 | 146 = 11 | 152 = 12 | 158 = 13 | 164 = 14 | 170 = 15 | 176 = 16.
+Mărimi din 10 în 10 (90, 100, 120…): se aproximează la cea mai apropiată (90 = 2 ani).
 
-Tabel marimi, calapod, tehnologii proprietare si ce inseamna. Se folosesc DOAR pentru validare. Faptul ca brandul are o tehnologie NU inseamna ca modelul o are.
+Încălțăminte (EU): 19-22 = 1-2 ani | 23-25 = 2-3 | 26-27 = 3-4 | 28-29 = 4-5 | 30-31 = 6-7 |
+32-33 = 8-9 | 34-35 = 10-11 | 36 și peste = 12 ani și peste.
 
-==================================================
-ANEXA C: MARIME -> VARSTA -> ETAPA (se scrie mereu "orientativ")
-==================================================
-
-Imbracaminte (cm):
-86 = 1-1,5 ani | 92 = 2 | 98 = 3 | 104 = 4 | 110 = 5 | 116 = 6 | 122 = 7 | 128 = 8 | 134 = 9 | 140 = 10 | 146 = 11 | 152 = 12 | 158 = 13 | 164 = 14 | 170 = 15 | 176 = 16
-
-Incaltaminte (EU):
-19-22 = 1-2 ani | 23-25 = 2-3 | 26-27 = 3-4 | 28-29 = 4-5 | 30-31 = 6-7 | 32-33 = 8-9 | 34-35 = 10-11 | 36+ = 12+
-
-Etape (singurele formulari permise):
-sub 3 ani = antepreșcolar | 3 = grupa mică | 4 = grupa mijlocie | 5 = grupa mare | 6 = clasa pregătitoare | 7-10 = clasele I-IV | 11-14 = gimnaziu | 15+ = liceu
+Intervalul de vârstă = vârsta celei mai mici mărimi până la vârsta celei mai mari. Dacă cea mai mare mărime
+e 36+ la încălțăminte, scrii „de la X ani în sus” (ex. 28-40: „orientativ pentru copii de la 4 ani în sus”).

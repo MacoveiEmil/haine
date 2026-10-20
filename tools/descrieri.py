@@ -2,7 +2,7 @@
 
   python tools/descrieri.py check content/descrieri/8566.json [alt.json ...]
   python tools/descrieri.py check --all
-  python tools/descrieri.py todo [--limit 20] [--stoc]     # produse fără descriere în versiunea curentă
+  python tools/descrieri.py todo [--limit 20] [--stoc]     # produse fără descriere în versiunea curentă (câmpul "versiune")
 
 Promptul curent: content/prompt-descrieri.md. Regulile verificării care se potrivesc
 promptului: content/reguli-descrieri.json (se schimbă odată cu promptul, fără cod).
@@ -29,7 +29,11 @@ DEFAULT_RULES = {'versiune': 'v4', 'cuvinte_min': 170, 'cuvinte_max': 240, 'date
                  'paragraf1_min': 40, 'paragraf1_max': 60, 'lista_min': 4, 'lista_max': 7,
                  'lista_ultimul_punct': 'Potrivit pentru', 'paragraf_final_max_propozitii': 2,
                  'linkuri_total': 3, 'link_categorie_complementara': True, 'fapte_min': 3,
-                 'cere_orientativ': True, 'gen_neutru': True, 'interzise_extra': []}
+                 'cere_orientativ': True, 'gen_neutru': True, 'interzise_extra': [],
+                 # v5: link_categorie_complementara poate fi "optional" (cel mult unul);
+                 # linkuri_min/linkuri_max înlocuiesc linkuri_total când sunt date.
+                 'linkuri_min': None, 'linkuri_max': None, 'link_categorie_in_paragraf1': False,
+                 'orientativ_o_data': False}
 
 
 def load(p):
@@ -75,10 +79,12 @@ def check(path, produse, categorii, R):
     if re.search(r'[!?]', text_of(h)): issues.append('fără exclamații sau întrebări')
     links = re.findall(r'<a href="([^"]+)">([^<]+)</a>', h)
     if re.search(r'<a\s(?![^>]*href="/(categorie|brand)/)', h): issues.append('doar linkuri interne spre /categorie/ sau /brand/')
-    want = p['categorie_principala']
-    mains = [l for l in links if l[0] == want]
+    # Linkul de categorie al produsului: categoria lui frunză (ex. /categorie/adidasi/) sau cea principală.
+    own = {u for u in (p.get('categorie_frunza'), p['categorie_principala']) if u}
+    want = p.get('categorie_frunza') or p['categorie_principala']
+    mains = [l for l in links if l[0] in own]
     if len(mains) != 1:
-        issues.append(f'linkul spre categoria principală {want} lipsește sau apare de mai multe ori')
+        issues.append(f'linkul spre categoria produsului {want} lipsește sau apare de mai multe ori')
     elif MAIN_ANCHOR.get(p.get('gen')) and MAIN_ANCHOR[p['gen']] not in html.unescape(mains[0][1]):
         issues.append(f'ancora categoriei principale trebuie să conțină „{MAIN_ANCHOR[p["gen"]]}”')
     if p['brand_slug'] and not any(l[0] == p['brand_slug'] for l in links): issues.append('lipsește linkul de brand ' + p['brand_slug'])
@@ -112,10 +118,19 @@ def check(path, produse, categorii, R):
         if R['paragraf_final_max_propozitii'] and len(re.findall(r'[.]\s', text_of(paras[-1]) + ' ')) > R['paragraf_final_max_propozitii']:
             issues.append(f'ultimul paragraf are peste {R["paragraf_final_max_propozitii"]} propoziții')
     if R['cere_orientativ'] and 'orientativ' not in low: issues.append('lipsește „orientativ” la vârstă')
-    if R['linkuri_total'] and len(links) != R['linkuri_total']: issues.append(f'{len(links)} linkuri (trebuie {R["linkuri_total"]})')
-    if R['link_categorie_complementara']:
-        comp = [l for l in links if l[0].startswith('/categorie/') and l[0] != want]
-        if len(comp) != 1: issues.append('trebuie exact un link spre o categorie complementară')
+    if R['linkuri_min'] is not None or R['linkuri_max'] is not None:
+        lo_l, hi_l = R['linkuri_min'] or 0, R['linkuri_max'] or 99
+        if not lo_l <= len(links) <= hi_l: issues.append(f'{len(links)} linkuri (trebuie {lo_l}-{hi_l})')
+    elif R['linkuri_total'] and len(links) != R['linkuri_total']: issues.append(f'{len(links)} linkuri (trebuie {R["linkuri_total"]})')
+    comp = [l for l in links if l[0].startswith('/categorie/') and l[0] not in own]
+    if R['link_categorie_complementara'] == 'optional':
+        if len(comp) > 1: issues.append('cel mult un link spre o categorie complementară')
+    elif R['link_categorie_complementara'] and len(comp) != 1:
+        issues.append('trebuie exact un link spre o categorie complementară')
+    if R['link_categorie_in_paragraf1'] and paras and not any(f'href="{u}"' in paras[0] for u in own):
+        issues.append('linkul spre categoria produsului trebuie să fie în paragraful 1')
+    if R['orientativ_o_data'] and low.count('orientativ') > 1: issues.append('vârsta („orientativ”) apare de mai multe ori')
+    if x.get('versiune', 'v4') != R['versiune']: issues.append(f'descriere {x.get("versiune", "v4")}, promptul curent e {R["versiune"]} („versiune” în fișier)')
     if len(surse) < R['fapte_min'] and not insuf: issues.append(f'sub {R["fapte_min"]} fapte cu sursă: marchează "date_insuficiente": true')
     return pid, words, issues
 
@@ -127,7 +142,14 @@ def main(a):
     if a and a[0] == 'todo':
         lim = int(a[a.index('--limit') + 1]) if '--limit' in a else 20
         d = os.path.join(C, 'descrieri')
-        done = {int(f[:-5]) for f in os.listdir(d) if f.endswith('.json')} if os.path.isdir(d) else set()
+        # Gata = există fișier scris în versiunea curentă (câmpul "versiune"; fișierele fără el sunt v4).
+        done = set()
+        for f in (os.listdir(d) if os.path.isdir(d) else []):
+            if f.endswith('.json'):
+                try:
+                    if load(os.path.join(d, f)).get('versiune', 'v4') == R['versiune']: done.add(int(f[:-5]))
+                except (ValueError, OSError):
+                    pass
         todo = [p for p in produse.values() if p['descriere_versiune'] != R['versiune'] and p['id'] not in done and (p['cu_stoc'] or '--stoc' not in a)]
         for p in todo[:lim]:
             print(p['id'], p['link_afiliat'], '|', p['titlu'])

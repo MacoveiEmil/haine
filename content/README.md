@@ -31,11 +31,11 @@ descriere în noua versiune.
 
 ```bash
 git pull                                              # mereu întâi
-python tools/descrieri.py todo --stoc --limit 10      # ce produse nu au încă descriere v4
+python tools/descrieri.py todo --stoc --limit 10      # ce produse nu au încă descriere în versiunea curentă
 node tools/crawler/desc-extract.js --ids 8566,8791    # pagina magazinului → content/surse/{id}.json
 # ... AI-ul scrie content/descrieri/{id}.json după content/prompt-descrieri.md ...
 python tools/descrieri.py check content/descrieri/8566.json   # trebuie „OK”
-git add content/surse content/descrieri && git commit -m "Descrieri v4: 8566, 8791" && git push
+git add content/surse content/descrieri && git commit -m "Descrieri v5: 8566, 8791" && git push
 ```
 
 După 1–2 minute: descrierea e pe `https://beestyle.ro{pagina}`, iar `git pull` aduce
@@ -46,7 +46,8 @@ După 1–2 minute: descrierea e pe `https://beestyle.ro{pagina}`, iar `git pull
 ```json
 {
  "id": 8566,
- "descriere_html": "<p>…</p><p>…</p><ul><li><strong>…</strong>: …</li></ul><p>…</p><p>…</p>",
+ "versiune": "v5",
+ "descriere_html": "<p>…</p><ul><li><strong>…</strong>: …</li></ul><p>…</p><p>…</p>",
  "surse": [ { "fapt": "plasă ușoară", "url": "answear.ro/p/…", "fragment": "text copiat EXACT de pe pagină" } ],
  "specificatii_tehnice": { "Model": "", "Material": "", "Caracteristici": "", "Cod produs": "" },
  "categorie_complementara": { "slug": "/categorie/ghete-cizme/", "motiv": "…" },
@@ -56,15 +57,16 @@ După 1–2 minute: descrierea e pe `https://beestyle.ro{pagina}`, iar `git pull
 }
 ```
 
-Exemple bune: cele 9 fișiere deja existente în `descrieri/` (sunt live pe site).
+Exemple bune: cele 9 fișiere v5 din `descrieri/` (8566, 8791, 10248, 10749, 11350, 12359, 13584, 14334, 14784).
 
 ## Ce verifică `tools/descrieri.py check` (rulează și pe server; nu blochează publicarea, doar raportează)
 
 - fiecare `fragment` din `surse` apare pe pagina magazinului (`surse/{id}.json`);
-- 170–240 de cuvinte; paragraful 1 are 40–60; lista are 4–7 puncte, ultimul „Potrivit pentru”;
-- exact 3 linkuri: `categorie_principala` din `produse.json` (ancora cu „pentru fete/băieți/bebeluși”
-  sau „unisex”), `brand_slug`, și o categorie complementară care există în `categorii.json`;
-- cuvintele și formulele interzise din prompt, gen neutru, „orientativ” la vârstă;
+- pragurile din `reguli-descrieri.json` (v5: 60–200 de cuvinte, paragraful 1 are 20–55, lista 3–6 puncte);
+- 2–3 linkuri: categoria produsului (`categorie_frunza` sau `categorie_principala`, în paragraful 1, ancora cu
+  „pentru fete/băieți/bebeluși” sau „unisex”), `brand_slug` și, opțional, o categorie complementară din `categorii.json`;
+- cuvintele și formulele interzise din prompt, gen neutru, „orientativ” o singură dată;
+- `"versiune"` din fișier e cea din `reguli-descrieri.json` (`todo` listează și produsele cu descriere mai veche);
 - fără nume de magazine, preț sau stoc în text.
 
 ## Ce instalezi o dată

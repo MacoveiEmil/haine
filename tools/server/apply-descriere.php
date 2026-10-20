@@ -26,7 +26,7 @@ foreach ( array_slice( $argv, 1 ) as $file ) {
 	if ( $specs ) {
 		update_post_meta( $id, '_hainute_specs', $specs );
 	}
-	update_post_meta( $id, '_hainute_desc_version', 'v4' );
+	update_post_meta( $id, '_hainute_desc_version', sanitize_key( $x['versiune'] ?? 'v4' ) ); // din fișier (prompt v5+)
 	update_post_meta( $id, '_hainute_desc_file_hash', md5_file( $file ) );
 	update_post_meta( $id, '_hainute_desc_published', time() );
 	echo "PUBLICAT $id " . wp_make_link_relative( get_permalink( $id ) ) . "\n";
