@@ -691,7 +691,7 @@ function hainute_shop_listings( $product_id ) {
 */
 function hainute_product_name_parts( $product_id ) {
 	$title = html_entity_decode( get_the_title( $product_id ), ENT_QUOTES, 'UTF-8' );
-	$brand = hainute_get_brand( $product_id );
+	$brand = html_entity_decode( (string) hainute_get_brand( $product_id ), ENT_QUOTES, 'UTF-8' ); // „Abel&amp;Lula" → „Abel&Lula"
 	$out   = array( 'brand' => $brand, 'model' => '', 'type' => '', 'gender' => '', 'color' => '' );
 	$pos   = $brand ? mb_stripos( $title, $brand ) : false;
 	if ( false === $pos ) {
@@ -1494,7 +1494,7 @@ function hainute_the_gallery( $product_id ) {
 		echo '<div class="gallery-thumbs">';
 		foreach ( $images as $i => $url ) {
 			echo '<button type="button" class="gallery-thumb' . ( 0 === $i ? ' is-active' : '' ) . '" data-full="' . esc_url( $url ) . '">';
-			echo '<img src="' . esc_url( hainute_img_resize( $url, 160 ) ) . '" alt="" loading="lazy" decoding="async">';
+			echo '<img src="' . esc_url( hainute_img_resize( $url, 160 ) ) . '" alt="' . esc_attr( sprintf( '%s, imaginea %d', get_the_title( $product_id ), $i + 1 ) ) . '" loading="lazy" decoding="async">';
 			echo '</button>';
 		}
 		echo '</div>';
