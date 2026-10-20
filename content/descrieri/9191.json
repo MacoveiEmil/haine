@@ -1,0 +1,83 @@
+{
+ "id": 9191,
+ "versiune": "v5",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> ECLYPER sunt <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidași pentru bebeluși</a> albi, cu profil scurt, din imitație de piele și material sintetic. Modelul este conceput pentru ținute casual.</p><ul><li><strong>GEOX Respira</strong>: talpă patentată cu membrană microporoasă.</li><li><strong>Material</strong>: exterior din imitație de piele și material sintetic, căptușeală din material textil.</li><li><strong>Talpă</strong>: din cauciuc, cu o construcție plată.</li><li><strong>Închidere</strong>: cu arici, pentru încălțare rapidă.</li><li><strong>Structură</strong>: călcâi și guler superior ușor întărite.</li></ul><p>Modelul nu are protecție la apă declarată. Pentru ploaie și vreme rece sunt mai potrivite <a href=\"/categorie/bebe-incaltaminte-ghete-cizme/\">ghetele pentru bebeluși</a>.</p><p>Mărimile merg de la 20 la 27, orientativ pentru copii de 1-4 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model și cod",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "albi B665MA.000BC"
+  },
+  {
+   "fapt": "profil scurt",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "cu profil scurt"
+  },
+  {
+   "fapt": "ținută casual",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "pentru ținute casual"
+  },
+  {
+   "fapt": "tehnologie",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "Tehnologia GEOX Respira™"
+  },
+  {
+   "fapt": "talpă cu membrană microporoasă",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "Talpă patentată cu membrană microporoasă"
+  },
+  {
+   "fapt": "material exterior",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "Imitația de piele și materialul sintetic"
+  },
+  {
+   "fapt": "căptușeală textilă",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "Căptușeala din material textil"
+  },
+  {
+   "fapt": "talpă din cauciuc",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "Talpă din cauciuc"
+  },
+  {
+   "fapt": "construcție plată",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "Construcția plată"
+  },
+  {
+   "fapt": "închidere cu arici",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "Închidere practică cu arici"
+  },
+  {
+   "fapt": "călcâi întărit",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "Călcâi ușor întărit"
+  },
+  {
+   "fapt": "guler superior întărit",
+   "url": "https://answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665ma-000bc-1834687",
+   "fragment": "Gulerul superior ușor întărit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox ECLYPER",
+  "Material": "imitație de piele și material sintetic, căptușeală din material textil, talpă din cauciuc",
+  "Caracteristici": "tehnologia GEOX Respira, închidere cu arici, călcâi și guler superior întărite, profil scurt",
+  "Cod produs": "B665MA.000BC"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/bebe-incaltaminte-ghete-cizme/",
+  "motiv": "adidași fără protecție la apă declarată: pentru ploaie și frig, ghete pentru bebeluși"
+ },
+ "varsta_orientativa": "1-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul încadrează produsul la fete („pentru fetițe active”), dar în catalog este alocat la categoria bebe.",
+  "Au fost omise afirmațiile comerciale despre libertate de mișcare, confortul picioarelor și aderență."
+ ]
+}

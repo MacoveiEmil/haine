@@ -1,0 +1,75 @@
+{
+ "id": 9721,
+ "versiune": "v5",
+ "descriere_html": "<p><a href=\"/brand/liewood/\">Liewood</a> Noam Pile este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> din poliester reciclat, în culoarea bej. Este un model subțire cu izolație de tranziție, destinat purtării între sezoane.</p><ul><li><strong>Certificare GRS</strong>: atestă că produsul este realizat din materiale reciclate.</li><li><strong>Material</strong>: 100% poliester reciclat.</li><li><strong>Căptușeală</strong>: completă, sintetică.</li><li><strong>Închidere</strong>: fermoar.</li><li><strong>Manșete</strong>: prevăzute cu gaură pentru degetul mare.</li><li><strong>Buzunare</strong>: oblice.</li></ul><p>Mărimile merg de la 80 la 140, orientativ pentru copii de 1-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "Noam Pile Jacket"
+  },
+  {
+   "fapt": "culoare",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "culoarea bej"
+  },
+  {
+   "fapt": "model subțire",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "Model subtire confectionat din material modelat."
+  },
+  {
+   "fapt": "izolație de tranziție",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "certificare GRS",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "GRS (Global Recycle Standard) - un certificat care garanteaza ca produsul este realizat din materiale reciclate"
+  },
+  {
+   "fapt": "compoziție material",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "100% Poliester reciclat"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "cu căptușeală completă, sintetică"
+  },
+  {
+   "fapt": "închidere fermoar",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "Închiderea convenabilă cu fermoar îl face ușor de pus și scos."
+  },
+  {
+   "fapt": "manșon cu gaură deget",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "Manson cu gaura pentru degetul mare."
+  },
+  {
+   "fapt": "buzunare oblice",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "Buzunare oblice."
+  },
+  {
+   "fapt": "cod produs",
+   "url": "https://answear.ro/p/liewood-geaca-copii-noam-pile-jacket-culoarea-bej-lw20017-1430233",
+   "fragment": "LW20017"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Liewood Noam Pile Jacket",
+  "Material": "100% poliester reciclat, căptușeală sintetică",
+  "Caracteristici": "certificare GRS, închidere cu fermoar, manșon cu gaură pentru degetul mare, buzunare oblice",
+  "Cod produs": "LW20017"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului conține informații contradictorii privind gluga (secțiunea de caracteristici indică fără glugă, în timp ce textul descriptiv menționează finisaj elastic la glugă); detaliul a fost omis din descriere.",
+  "Produsul este marcat în breadcrumbs la categoria băieți pe magazin, dar este clasificat unisex în catalog."
+ ]
+}

@@ -41,6 +41,20 @@ git add content/surse content/descrieri && git commit -m "Descrieri v5: 8566, 87
 După 1–2 minute: descrierea e pe `https://beestyle.ro{pagina}`, iar `git pull` aduce
 `content/raport-publicare.md` cu rezultatul verificării. Dacă are probleme, corectezi și faci din nou push.
 
+### Varianta automată, cu Gemini (Google AI Studio, gratuit)
+
+```bash
+# cheia: aistudio.google.com → Get API key; se ține DOAR local (repo-ul e public)
+echo -n "CHEIA" > ~/.gemini-api-key        # sau variabila GEMINI_API_KEY
+node tools/crawler/desc-extract.js --ids 9165,9191
+python tools/descrieri-gemini.py 9165 9191  # scrie descrieri/{id}.json, rulează check, corectează (max. 3 încercări)
+```
+
+Gemini primește promptul, regulile, un exemplu, categoriile, produsul și sursa. Dacă `check`
+găsește probleme, Gemini primește lista și rescrie. Citește textul înainte de push: verificarea
+prinde regulile, nu și o frază stângace. Pe planul gratuit, Google poate folosi textele trimise
+pentru antrenare (aici sunt doar date publice de pe paginile magazinelor).
+
 ## Formatul `descrieri/{id}.json`
 
 ```json
