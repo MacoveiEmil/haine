@@ -550,7 +550,7 @@ add_action( 'template_redirect', function () {
 
 /** Favicon / iconița din Google și de pe telefon: assets/img (altfel WordPress pune logo-ul lui). */
 add_filter( 'get_site_icon_url', function ( $url, $size ) {
-	if ( $url ) {
+	if ( get_option( 'site_icon' ) ) { // iconiță setată din Customizer: are prioritate
 		return $url;
 	}
 	$file = $size <= 32 ? 'favicon-32.png' : ( $size <= 180 ? 'apple-touch-icon.png' : 'icon-512.png' );
