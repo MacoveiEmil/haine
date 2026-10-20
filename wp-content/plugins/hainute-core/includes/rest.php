@@ -1234,6 +1234,11 @@ function hainute_rest_bulk_status( WP_REST_Request $request ) {
 	if ( ! $dry ) {
 		$wpdb->query( "UPDATE {$wpdb->posts} SET post_status='draft' WHERE post_type='product' AND post_status IN ('publish') AND ID NOT IN ($in)" );
 		$wpdb->query( "UPDATE {$wpdb->posts} SET post_status='publish' WHERE post_type='product' AND post_status<>'trash' AND ID IN ($in)" );
+		// UPDATE-ul direct nu actualizează numărul de produse al termenilor: altfel brandurile
+		// rămase fără produse publicate apar în sitemap ca pagini goale.
+		foreach ( get_object_taxonomies( 'product' ) as $tx ) {
+			wp_update_term_count_now( get_terms( array( 'taxonomy' => $tx, 'hide_empty' => false, 'fields' => 'ids' ) ), $tx );
+		}
 		wp_cache_flush();
 	}
 

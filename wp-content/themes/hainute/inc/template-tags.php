@@ -530,7 +530,7 @@ function hainute_the_product_schema( $product_id ) {
 		$chain = array_reverse( get_ancestors( $leaf->term_id, 'product_cat' ) );
 		$names = array_map( function ( $id ) { return get_term( $id, 'product_cat' )->name; }, $chain );
 		$names[] = $leaf->name;
-		$schema['category'] = implode( ' > ', $names );
+		$schema['category'] = html_entity_decode( implode( ' > ', $names ), ENT_QUOTES, 'UTF-8' ); // „Geci &amp; jachete" → „&"
 
 		$top    = mb_strtolower( $names[0] );
 		$gender = array( 'fete' => 'female', 'băieți' => 'male', 'baieti' => 'male' );
@@ -586,7 +586,7 @@ function hainute_the_product_schema( $product_id ) {
 		$schema['additionalProperty'] = $props;
 	}
 
-	echo '<script type="application/ld+json">' . wp_json_encode( $schema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) . '</script>' . "\n";
+	echo '<script type="application/ld+json">' . wp_json_encode( hainute_schema_decode( $schema ), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) . '</script>' . "\n";
 }
 
 /**
@@ -714,6 +714,16 @@ function hainute_product_name_parts( $product_id ) {
 	}
 	$out['model'] = implode( ' ', $model );
 	return $out;
+}
+
+/** JSON-LD: textul simplu, fără entități HTML din titluri/termeni („Abel&#038;Lula" → „Abel&Lula"). */
+function hainute_schema_decode( $data ) {
+	array_walk_recursive( $data, function ( &$v ) {
+		if ( is_string( $v ) ) {
+			$v = html_entity_decode( $v, ENT_QUOTES, 'UTF-8' );
+		}
+	} );
+	return $data;
 }
 
 function hainute_ascii( $s ) {

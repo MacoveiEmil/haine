@@ -53,7 +53,8 @@ add_filter( 'wp_robots', function ( $robots ) {
 		$robots['follow']  = true;
 		return $robots;
 	}
-	if ( is_search() || is_404() ) {
+	// Listare fără niciun produs (brand/categorie golită): pagină subțire, nu în index.
+	if ( is_search() || is_404() || ( is_tax() && 0 === (int) $GLOBALS['wp_query']->found_posts ) ) {
 		unset( $robots['index'], $robots['max-image-preview'] );
 		$robots['noindex'] = true;
 		$robots['follow']  = true;
@@ -161,6 +162,9 @@ function hainute_seo_product_name( $product_id, $code = '', $with_color = true, 
 	if ( null !== $model_words ) {
 		$model = array_slice( $model, 0, $model_words );
 	}
+	if ( '' !== $code && '' !== $n['color'] && false !== mb_stripos( $code, $n['color'] ) ) {
+		$with_color = false; // culoarea e deja în diferențiator („H4BJ10 122-176 roz")
+	}
 	return trim( preg_replace( '/\s+/u', ' ', implode( ' ', array( $n['brand'], implode( ' ', $model ), mb_strtolower( $n['type'] ), $with_gender ? $n['gender'] : '', $with_color ? $n['color'] : '', $code ) ) ) );
 }
 
@@ -185,6 +189,9 @@ function hainute_seo_product_title( $product_id, $code = '' ) {
 	}
 	if ( mb_strlen( $name . $suffix ) > 70 ) {
 		$suffix = ': ' . __( 'vezi unde e mărimea ta', 'hainute' );
+	}
+	if ( mb_strlen( $name . $suffix ) > 70 ) {
+		$suffix = '';
 	}
 	return $name . $suffix;
 }
@@ -486,7 +493,7 @@ function hainute_seo_breadcrumb_schema() {
 	}
 
 	$schema = array( '@context' => 'https://schema.org', '@type' => 'BreadcrumbList', 'itemListElement' => $items );
-	echo "\n" . '<script type="application/ld+json">' . wp_json_encode( $schema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) . '</script>' . "\n";
+	echo "\n" . '<script type="application/ld+json">' . wp_json_encode( hainute_schema_decode( $schema ), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) . '</script>' . "\n";
 }
 add_action( 'wp_head', 'hainute_seo_breadcrumb_schema', 2 );
 
