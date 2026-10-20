@@ -1,5 +1,8 @@
 # Raport publicare
 
+## 2026-10-20 21:44 (644ce9f, Macovei Emil)
+- cod/configurație actualizate: wp-content/themes/hainute/inc/seo.php wp-content/themes/hainute/inc/template-tags.php 
+
 ## 2026-10-20 16:31 (e8201f6, Macovei Emil)
 - PUBLICAT, verificare OK: 10723 93 cuv | OK
 - PUBLICAT, verificare OK: 12670 64 cuv | OK
