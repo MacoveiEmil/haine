@@ -77,7 +77,7 @@
     {
         "slug": "/categorie/baieti-imbracaminte-geci-jachete/",
         "cale": "Băieți › Îmbrăcăminte › Geci & jachete",
-        "produse": 136
+        "produse": 134
     },
     {
         "slug": "/categorie/baieti-imbracaminte-pantaloni-treninguri/",
@@ -102,7 +102,7 @@
     {
         "slug": "/categorie/baieti-incaltaminte-ghete-cizme/",
         "cale": "Băieți › Încălțăminte › Ghete & cizme",
-        "produse": 21
+        "produse": 20
     },
     {
         "slug": "/categorie/baieti-incaltaminte-pantofi/",
@@ -147,7 +147,7 @@
     {
         "slug": "/categorie/geci-jachete/",
         "cale": "Fete › Îmbrăcăminte › Geci & jachete",
-        "produse": 147
+        "produse": 145
     },
     {
         "slug": "/categorie/pantaloni-treninguri/",
@@ -172,12 +172,12 @@
     {
         "slug": "/categorie/adidasi/",
         "cale": "Fete › Încălțăminte › Adidași",
-        "produse": 141
+        "produse": 138
     },
     {
         "slug": "/categorie/ghete-cizme/",
         "cale": "Fete › Încălțăminte › Ghete & cizme",
-        "produse": 87
+        "produse": 86
     },
     {
         "slug": "/categorie/incaltaminte-pantofi/",
@@ -222,7 +222,7 @@
     {
         "slug": "/categorie/unisex-imbracaminte-geci-jachete/",
         "cale": "Unisex › Îmbrăcăminte › Geci & jachete",
-        "produse": 172
+        "produse": 176
     },
     {
         "slug": "/categorie/unisex-imbracaminte-pantaloni-treninguri/",
@@ -242,12 +242,12 @@
     {
         "slug": "/categorie/unisex-incaltaminte-adidasi/",
         "cale": "Unisex › Încălțăminte › Adidași",
-        "produse": 81
+        "produse": 84
     },
     {
         "slug": "/categorie/unisex-incaltaminte-ghete-cizme/",
         "cale": "Unisex › Încălțăminte › Ghete & cizme",
-        "produse": 59
+        "produse": 61
     },
     {
         "slug": "/categorie/unisex-incaltaminte-pantofi/",

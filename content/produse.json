@@ -22,15 +22,15 @@
     },
     {
         "id": 4944,
-        "titlu": "Geacă Nike Băieți CLUB WOVEN",
+        "titlu": "Geacă Nike Unisex CLUB WOVEN",
         "brand": "Nike",
         "brand_slug": "/brand/nike/",
         "magazin": "various-brands.ro",
         "link_afiliat": "https://www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
-        "categorie_principala": "/categorie/imbracaminte-baieti/",
-        "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
+        "categorie_principala": "/categorie/imbracaminte-unisex/",
+        "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
-        "gen": "baieti",
+        "gen": "unisex",
         "marimi": [
             4,
             5,
@@ -87,9 +87,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            5
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geaca-nike-nkn-seamless-quilt-puffer-jkt/"
@@ -152,15 +150,15 @@
     },
     {
         "id": 5453,
-        "titlu": "Adidași Tommy Hilfiger Fete Sport logo",
+        "titlu": "Adidași Tommy Hilfiger Unisex Sport logo",
         "brand": "Tommy Hilfiger",
         "brand_slug": "/brand/tommy-hilfiger/",
         "magazin": "various-brands.ro",
         "link_afiliat": "https://www.various-brands.ro/logo-high-top-lace-up-sneaker-tommy-hilfiger-t3x9-33362-1355x336.html",
-        "categorie_principala": "/categorie/incaltaminte-fete/",
-        "categorie_frunza": "/categorie/adidasi/",
+        "categorie_principala": "/categorie/incaltaminte-unisex/",
+        "categorie_frunza": "/categorie/unisex-incaltaminte-adidasi/",
         "tip": "Adidași",
-        "gen": "fete",
+        "gen": "unisex",
         "marimi": [
             40
         ],
@@ -170,15 +168,15 @@
     },
     {
         "id": 5454,
-        "titlu": "Adidași Tommy Hilfiger Fete Sport Flag",
+        "titlu": "Adidași Tommy Hilfiger Unisex Sport Flag",
         "brand": "Tommy Hilfiger",
         "brand_slug": "/brand/tommy-hilfiger/",
         "magazin": "various-brands.ro",
         "link_afiliat": "https://www.various-brands.ro/flag-low-cut-lace-up-sneaker-tommy-hilfiger-t3x9-33356-1355100.html",
-        "categorie_principala": "/categorie/incaltaminte-fete/",
-        "categorie_frunza": "/categorie/adidasi/",
+        "categorie_principala": "/categorie/incaltaminte-unisex/",
+        "categorie_frunza": "/categorie/unisex-incaltaminte-adidasi/",
         "tip": "Adidași",
-        "gen": "fete",
+        "gen": "unisex",
         "marimi": [
             35,
             36,
@@ -194,15 +192,15 @@
     },
     {
         "id": 5494,
-        "titlu": "Ghete Tommy Hilfiger Fete Lace BootIE",
+        "titlu": "Ghete Tommy Hilfiger Unisex Lace BootIE",
         "brand": "Tommy Hilfiger",
         "brand_slug": "/brand/tommy-hilfiger/",
         "magazin": "various-brands.ro",
         "link_afiliat": "https://www.various-brands.ro/lace-up-bootie-tommy-hilfiger-t4a5-33030-1453100.html",
-        "categorie_principala": "/categorie/incaltaminte-fete/",
-        "categorie_frunza": "/categorie/ghete-cizme/",
+        "categorie_principala": "/categorie/incaltaminte-unisex/",
+        "categorie_frunza": "/categorie/unisex-incaltaminte-ghete-cizme/",
         "tip": "Ghete & cizme",
-        "gen": "fete",
+        "gen": "unisex",
         "marimi": [
             35,
             36,
@@ -351,7 +349,7 @@
             "158-166",
             167
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/guess-geaca-copii/"
     },
@@ -424,7 +422,7 @@
             140,
             152
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/wheat-geaca-copii/"
     },
@@ -1345,13 +1343,7 @@
             31,
             32,
             33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
+            34
         ],
         "cu_stoc": true,
         "descriere_versiune": "",
@@ -1536,7 +1528,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-geaca-copii/"
     },
@@ -2668,7 +2660,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v4",
         "pagina": "/produs/calvin-klein-jeans-geaca-copii/"
     },
@@ -4031,7 +4023,7 @@
             "150-161",
             "163-174"
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/polo-ralph-lauren-geaca-copii/"
     },
@@ -4900,7 +4892,12 @@
             128,
             140,
             152,
-            164
+            164,
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XS"
         ],
         "cu_stoc": true,
         "descriere_versiune": "",
@@ -6341,6 +6338,9 @@
         "tip": "Pantofi",
         "gen": "unisex",
         "marimi": [
+            25,
+            26,
+            27,
             28,
             29,
             30,
@@ -6491,7 +6491,7 @@
             25,
             26
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/primigi-bocanci-pentru-copii/"
     },
@@ -6992,7 +6992,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kb0kb09814/"
     },
@@ -7241,12 +7241,7 @@
             27,
             28,
             29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
+            30
         ],
         "cu_stoc": true,
         "descriere_versiune": "",
@@ -7330,7 +7325,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/reima-geaca-copii-alaniva/"
     },
@@ -7476,7 +7471,7 @@
             152,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/columbia-geaca-copii-nordic-strider/"
     },
@@ -7530,7 +7525,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geox-washiba-sneakers-pentru-copii-j66lqi/"
     },
@@ -7788,7 +7783,7 @@
             "150-161",
             "163-174"
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/polo-ralph-lauren-geaca-copii-323p02021001/"
     },
@@ -7876,7 +7871,7 @@
             116,
             122
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/liewood-salopeta-copii-maddy-pu-rainsuit/"
     },
@@ -8847,10 +8842,6 @@
         "tip": "Ghete & cizme",
         "gen": "fete",
         "marimi": [
-            27,
-            28,
-            29,
-            30,
             31,
             32,
             33,
@@ -9344,7 +9335,7 @@
             29,
             30
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-8893955/"
     },
@@ -9518,7 +9509,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/lego-geaca-copii-lwjaz-11010971/"
     },
@@ -9705,7 +9696,7 @@
             29,
             30
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-8888322/"
     },
@@ -10623,7 +10614,7 @@
             32,
             33
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/primigi-sneakers-pentru-copii-1421422/"
     },
@@ -10905,7 +10896,7 @@
             164,
             170
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/calvin-klein-jeans-geaca-copii-ig0ig02976/"
     },
@@ -11091,12 +11082,7 @@
             27,
             28,
             29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
+            30
         ],
         "cu_stoc": true,
         "descriere_versiune": "",
@@ -11162,6 +11148,8 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
+            116,
+            128,
             140,
             152,
             164,
@@ -11680,7 +11668,7 @@
             164,
             168
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/patrizia-pepe-geaca-copii-e066/"
     },
@@ -12819,7 +12807,7 @@
             "144-154",
             "155-159"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/polo-ralph-lauren-jacheta-pentru-copii/"
     },
@@ -12864,7 +12852,7 @@
             168,
             175
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/maxco-palton-pentru-copii-maxj1f-jacket/"
     },
@@ -13043,7 +13031,7 @@
             164,
             172
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/maxco-geaca-copii-maxj49f-jacket/"
     },
@@ -13819,7 +13807,7 @@
             134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/liewood-geaca-copii-anemone-long-jacket/"
     },
@@ -13894,7 +13882,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-pulover-de-bumbac-pentru-copii/"
     },
@@ -14104,7 +14092,11 @@
             32,
             33,
             34,
-            35
+            35,
+            36,
+            37,
+            38,
+            39
         ],
         "cu_stoc": true,
         "descriere_versiune": "",
@@ -14161,7 +14153,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261255/"
     },
@@ -15946,7 +15938,7 @@
             130,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/didriksons-geaca-copii-neptun-kids-jkt-505985/"
     },
@@ -16115,7 +16107,7 @@
             25,
             26
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/wheat-papuci-din-piele-intoarsa-pentru-copii/"
     },
@@ -16600,7 +16592,7 @@
             116,
             122
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-geaca-de-puf-pentru-copii-kb0kb10091/"
     },
@@ -18119,7 +18111,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/adidasi-baieti/"
     },
@@ -18147,15 +18139,15 @@
     },
     {
         "id": 11944,
-        "titlu": "Ghete Columbia Băieți trekking Albastru",
+        "titlu": "Ghete Columbia Unisex trekking Albastru",
         "brand": "Columbia",
         "brand_slug": "/brand/columbia/",
         "magazin": "FashionDays.ro",
         "link_afiliat": "https://www.fashiondays.ro/p/ghete-de-trekking-copii-305283887-textil-albastru-baieti-columbia-p16903632-8/",
-        "categorie_principala": "/categorie/incaltaminte-baieti/",
-        "categorie_frunza": "/categorie/baieti-incaltaminte-ghete-cizme/",
+        "categorie_principala": "/categorie/incaltaminte-unisex/",
+        "categorie_frunza": "/categorie/unisex-incaltaminte-ghete-cizme/",
         "tip": "Ghete & cizme",
-        "gen": "baieti",
+        "gen": "unisex",
         "marimi": [
             32,
             33,
@@ -18265,7 +18257,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/jacheta-sport-baieti-fleece/"
     },
@@ -18346,15 +18338,15 @@
     },
     {
         "id": 12039,
-        "titlu": "Geacă 4F Fete Tehnologia Roz",
+        "titlu": "Geacă 4F Unisex Tehnologia Roz",
         "brand": "4F",
         "brand_slug": "/brand/4f/",
         "magazin": "FashionDays.ro",
         "link_afiliat": "https://www.fashiondays.ro/p/jacheta-copii-tehnologia-4fwarm-poliester-roz-fete-4f-p16891556-7/",
-        "categorie_principala": "/categorie/imbracaminte-fete/",
-        "categorie_frunza": "/categorie/geci-jachete/",
+        "categorie_principala": "/categorie/imbracaminte-unisex/",
+        "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
-        "gen": "fete",
+        "gen": "unisex",
         "marimi": [
             122,
             128,
@@ -18559,15 +18551,15 @@
     },
     {
         "id": 12255,
-        "titlu": "Geacă Nike Băieți Thermal Fall",
+        "titlu": "Geacă Nike Unisex Thermal Fall",
         "brand": "Nike",
         "brand_slug": "/brand/nike/",
         "magazin": "various-brands.ro",
         "link_afiliat": "https://www.various-brands.ro/y-nk-thrm-rpl-park20-fall-jkt-nike-cw6159-010.html",
-        "categorie_principala": "/categorie/imbracaminte-baieti/",
-        "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
+        "categorie_principala": "/categorie/imbracaminte-unisex/",
+        "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
-        "gen": "baieti",
+        "gen": "unisex",
         "marimi": [
             "XL"
         ],
@@ -18577,15 +18569,15 @@
     },
     {
         "id": 12315,
-        "titlu": "Adidași Tommy Hilfiger Fete Sport Lace",
+        "titlu": "Adidași Tommy Hilfiger Unisex Sport Lace",
         "brand": "Tommy Hilfiger",
         "brand_slug": "/brand/tommy-hilfiger/",
         "magazin": "various-brands.ro",
         "link_afiliat": "https://www.various-brands.ro/low-cut-lace-up-sneaker-tommy-hilfiger-t3a9-33212-1355x025.html",
-        "categorie_principala": "/categorie/incaltaminte-fete/",
-        "categorie_frunza": "/categorie/adidasi/",
+        "categorie_principala": "/categorie/incaltaminte-unisex/",
+        "categorie_frunza": "/categorie/unisex-incaltaminte-adidasi/",
         "tip": "Adidași",
-        "gen": "fete",
+        "gen": "unisex",
         "marimi": [
             38,
             40
@@ -18615,15 +18607,15 @@
     },
     {
         "id": 12339,
-        "titlu": "Geacă 4F Fete tranzitie membrana Gri",
+        "titlu": "Geacă 4F Unisex tranzitie membrana Gri",
         "brand": "4F",
         "brand_slug": "/brand/4f/",
         "magazin": "FashionDays.ro",
         "link_afiliat": "https://www.fashiondays.ro/p/jacheta-de-tranzitie-copii-poliester-membrana-5000-unisex-gri-primavara-vara-fete-4f-p16893098-7/",
-        "categorie_principala": "/categorie/imbracaminte-fete/",
-        "categorie_frunza": "/categorie/geci-jachete/",
+        "categorie_principala": "/categorie/imbracaminte-unisex/",
+        "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
-        "gen": "fete",
+        "gen": "unisex",
         "marimi": [
             122,
             128,
@@ -19202,7 +19194,7 @@
             116,
             122
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kb0kb09852/"
     },
@@ -19835,7 +19827,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/lego-geaca-copii-2/"
     },
@@ -20406,7 +20398,7 @@
             39,
             40
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-bocanci-copii-8/"
     },
@@ -21104,7 +21096,7 @@
             134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/mayoral-jacheta-pentru-copii-3/"
     },
@@ -22105,7 +22097,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-16/"
     },
@@ -23956,6 +23948,9 @@
         "tip": "Geci & jachete",
         "gen": "baieti",
         "marimi": [
+            98,
+            104,
+            110,
             128,
             140,
             152,
@@ -24474,7 +24469,7 @@
             33,
             34
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-sneakers-pentru-copii-34366/"
     },
@@ -24829,7 +24824,7 @@
             "158-166",
             167
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-15/"
     },
@@ -25709,7 +25704,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/geox-ghete-din-piele-pentru-copii-shaylax/"
     },
@@ -27064,7 +27059,7 @@
             25,
             26
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/biomecanics-pantofi-pentru-copii-din-piele-8/"
     },
@@ -27444,7 +27439,7 @@
             29,
             30
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/primigi-bocanci-pentru-copii-din-piele-23772/"
     },
@@ -28467,7 +28462,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/geox-cizme-de-iarna-copii-junshee-pg-a/"
     },
@@ -29945,8 +29940,17 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-pantofi/",
         "tip": "Pantofi",
         "gen": "unisex",
-        "marimi": [],
-        "cu_stoc": false,
+        "marimi": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/reima-enkkari-incaltaminte-copii-roz-marime/"
     },
@@ -30223,13 +30227,9 @@
         "tip": "Salopete & compleuri",
         "gen": "unisex",
         "marimi": [
-            104,
-            110,
-            116,
-            122,
             128
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/reima-kurikka-combinezon-copii-roz-marime/"
     },
@@ -30295,9 +30295,19 @@
         "tip": "Sandale",
         "gen": "unisex",
         "marimi": [
-            30
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/reima-talsi-sandale-pentru-copii-rosu-marime/"
     },
@@ -30313,12 +30323,16 @@
         "tip": "Pantofi",
         "gen": "unisex",
         "marimi": [
+            28,
+            29,
+            30,
+            31,
             32,
             33,
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geox-spaceclub-g-incaltaminte-copii-mix-marime/"
     },
@@ -30334,13 +30348,16 @@
         "tip": "Pantofi",
         "gen": "unisex",
         "marimi": [
+            28,
+            29,
             30,
             31,
             32,
             33,
-            34
+            34,
+            35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geox-activart-b-incaltaminte-copii-negru-marime/"
     },
@@ -30679,10 +30696,16 @@
         "tip": "Pantofi",
         "gen": "unisex",
         "marimi": [
+            28,
             29,
-            30
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geox-mawazy-b-incaltaminte-pentru-copii-bej-marime/"
     },
@@ -30825,10 +30848,7 @@
             100,
             110,
             120,
-            130,
-            140,
-            150,
-            158
+            150
         ],
         "cu_stoc": true,
         "descriere_versiune": "",
@@ -31234,8 +31254,18 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-pantofi/",
         "tip": "Pantofi",
         "gen": "unisex",
-        "marimi": [],
-        "cu_stoc": false,
+        "marimi": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+        ],
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/reima-vaellus-incaltaminte-barefoot-pentru-copii-negru-marime/"
     },
@@ -31353,10 +31383,17 @@
         "tip": "Pantofi",
         "gen": "unisex",
         "marimi": [
+            27,
             28,
-            31
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geox-j-theleven-incaltaminte-pentru-copii-negru-marime/"
     },
@@ -31421,14 +31458,9 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
-            "L",
-            "M",
-            "S",
-            "XL",
-            "XS",
-            "XXL"
+            "XS"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/gap-fashion-camasa-de-copii-rosu-marime/"
     },
@@ -31797,7 +31829,7 @@
         "tip": "Pantofi",
         "gen": "unisex",
         "marimi": [
-            28
+            29
         ],
         "cu_stoc": false,
         "descriere_versiune": "",
@@ -32130,16 +32162,9 @@
         "tip": "Pantofi",
         "gen": "unisex",
         "marimi": [
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
+            37
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/reima-hallava-quicklock-incaltaminte-iarna-copii-maro-marime/"
     },
