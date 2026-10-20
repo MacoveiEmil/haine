@@ -24,7 +24,9 @@ log "aplicat $(git rev-parse --short HEAD): $(echo "$CHANGED" | wc -l) fișiere"
 RAP="## $(date '+%F %H:%M') ($(git rev-parse --short HEAD), $(git log -1 --format=%an))"$'\n'
 
 if echo "$CHANGED" | grep -qE '^(docker-compose\.prod\.yml|docker/)'; then
-  $COMPOSE up -d >> "$LOG" 2>&1 && RAP+="- containerele au fost repornite (configurație Docker modificată)"$'\n'
+  # restart: fișierele montate individual (Caddyfile, .htaccess, gate.php) sunt înlocuite de git
+  # cu un fișier nou, pe care containerul pornit nu-l vede până la repornire.
+  { $COMPOSE up -d && $COMPOSE restart wp caddy; } >> "$LOG" 2>&1 && RAP+="- containerele au fost repornite (configurație Docker modificată)"$'\n'
 fi
 if echo "$CHANGED" | grep -q '^tools/crawler/'; then
   chown -R crawler:crawler tools/crawler

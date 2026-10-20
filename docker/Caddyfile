@@ -13,5 +13,6 @@ beestyle.ro {
 		X-Content-Type-Options "nosniff"
 		Referrer-Policy "strict-origin-when-cross-origin"
 		-Server
+		-X-Powered-By
 	}
 }

@@ -122,7 +122,7 @@ add_filter(
 		} elseif ( is_singular( 'product' ) && function_exists( 'hainute_product_name_parts' ) ) {
 			$pid   = get_queried_object_id();
 			$dupes = hainute_seo_title_dupes();
-			$parts = array( 'title' => hainute_seo_product_title( $pid, $dupes[ $pid ] ?? '' ) );
+			$parts = array( 'title' => hainute_seo_product_title( $pid, $dupes['code'][ $pid ] ?? '' ) );
 		} elseif ( is_search() ) {
 			// WP e în engleză („Search Results for"); site-ul e în română.
 			$parts['title'] = sprintf( __( 'Rezultate pentru „%s"', 'hainute' ), get_search_query() );
@@ -159,7 +159,7 @@ function hainute_seo_product_name( $product_id, $code = '', $with_color = true, 
 	$n     = hainute_product_name_parts( $product_id );
 	$model = preg_split( '/\s+/u', trim( $n['model'] ), -1, PREG_SPLIT_NO_EMPTY );
 	if ( null !== $model_words ) {
-		$model = array_slice( $model, 0, max( 1, $model_words ) );
+		$model = array_slice( $model, 0, $model_words );
 	}
 	return trim( preg_replace( '/\s+/u', ' ', implode( ' ', array( $n['brand'], implode( ' ', $model ), mb_strtolower( $n['type'] ), $with_gender ? $n['gender'] : '', $with_color ? $n['color'] : '', $code ) ) ) );
 }
@@ -167,7 +167,8 @@ function hainute_seo_product_name( $product_id, $code = '', $with_color = true, 
 /**
  * „Calvin Klein Jeans geacă fete negru: vezi ce magazine au mărimea ta".
  * Max ~70 caractere: renunțăm pe rând la culoare, gen, apoi la ultimele cuvinte din
- * model. Codul modelului (la produsele care altfel ar avea același titlu) rămâne.
+ * model (toate, dacă avem codul modelului). Codul (la produsele care altfel ar avea
+ * același titlu) rămâne; la nevoie, finalul se scurtează.
  */
 function hainute_seo_product_title( $product_id, $code = '' ) {
 	$suffix = ': ' . __( 'vezi ce magazine au mărimea ta', 'hainute' );
@@ -179,40 +180,67 @@ function hainute_seo_product_title( $product_id, $code = '' ) {
 	if ( mb_strlen( $name . $suffix ) > 70 ) {
 		$name = hainute_seo_product_name( $product_id, $code, false, false );
 	}
-	while ( mb_strlen( $name . $suffix ) > 70 && $words > 1 ) {
+	while ( mb_strlen( $name . $suffix ) > 70 && $words > ( '' !== $code ? 0 : 1 ) ) {
 		$name = hainute_seo_product_name( $product_id, $code, false, false, --$words );
+	}
+	if ( mb_strlen( $name . $suffix ) > 70 ) {
+		$suffix = ': ' . __( 'vezi unde e mărimea ta', 'hainute' );
 	}
 	return $name . $suffix;
 }
 
 /**
- * Produsele care ar avea același <title> (ex. 6 × „GUESS geacă fete roz") primesc
- * codul modelului de la magazin („J5BL22"), ca fiecare pagină să fie unică în Google.
- * @return array<int,string> id produs => cod
+ * Produsele care ar avea același <title> (ex. 6 × „GUESS geacă fete roz") primesc un
+ * diferențiator, ca fiecare pagină să fie unică în Google: codul modelului de la magazin
+ * („J5BL22"), apoi și intervalul de mărimi / culoarea (variante ale aceluiași model).
+ * Produsele identice (importate de două ori) primesc canonical spre primul.
+ * @return array{code:array<int,string>,canon:array<int,int>}
  */
 function hainute_seo_title_dupes() {
-	$map = get_transient( 'hainute_title_dupes' );
+	$map = get_transient( 'hainute_title_dupes_v2' );
 	if ( is_array( $map ) ) {
 		return $map;
 	}
-	$ids    = get_posts( array( 'post_type' => 'product', 'post_status' => 'publish', 'numberposts' => -1, 'fields' => 'ids' ) );
+	$ids    = get_posts( array( 'post_type' => 'product', 'post_status' => 'publish', 'numberposts' => -1, 'fields' => 'ids', 'orderby' => 'ID', 'order' => 'ASC' ) );
 	$groups = array();
 	update_meta_cache( 'post', $ids );
 	update_object_term_cache( $ids, 'product' );
 	foreach ( $ids as $id ) {
 		$groups[ mb_strtolower( hainute_seo_product_title( $id ) ) ][] = $id;
 	}
-	$map = array();
+	$map = array( 'code' => array(), 'canon' => array() );
 	foreach ( $groups as $group ) {
 		if ( count( $group ) < 2 ) {
 			continue;
 		}
+		$cands = array();
 		foreach ( $group as $id ) {
-			$code = strtoupper( strtok( (string) get_post_meta( $id, '_hainute_model_code', true ), '.' ) );
-			$map[ $id ] = preg_match( '/^[A-Z0-9-]{3,20}$/', $code ) ? $code : '';
+			$seg   = strtoupper( strtok( (string) get_post_meta( $id, '_hainute_model_code', true ), '.' ) );
+			$seg   = preg_match( '/^[A-Z0-9-]{3,20}$/', $seg ) ? $seg : '';
+			$range = function_exists( 'hainute_size_range' ) ? hainute_size_range( $id )['interval'] : '';
+			$color = mb_strtolower( trim( explode( ',', (string) get_post_meta( $id, '_hainute_colors', true ) )[0] ) );
+			$cands[ $id ] = array( $seg, trim( "$seg $range" ), trim( "$seg $color" ), trim( "$seg $range $color" ) );
+		}
+		$pick = 3;
+		foreach ( array( 0, 1, 2 ) as $k ) {
+			$vals = array_column( $cands, $k );
+			if ( ! in_array( '', $vals, true ) && count( array_unique( $vals ) ) === count( $vals ) ) {
+				$pick = $k;
+				break;
+			}
+		}
+		$first = array();
+		foreach ( $group as $id ) {
+			$code                = $cands[ $id ][ $pick ];
+			$map['code'][ $id ]  = $code;
+			if ( isset( $first[ $code ] ) ) {
+				$map['canon'][ $id ] = $first[ $code ];
+			} else {
+				$first[ $code ] = $id;
+			}
 		}
 	}
-	set_transient( 'hainute_title_dupes', $map, 6 * HOUR_IN_SECONDS );
+	set_transient( 'hainute_title_dupes_v2', $map, 6 * HOUR_IN_SECONDS );
 	return $map;
 }
 
@@ -225,7 +253,7 @@ function hainute_seo_product_description( $product_id ) {
 		$r     = hainute_size_range( $product_id );
 		$in    = array_filter( array( $r['interval'], $r['age'] ? 'orientativ ' . $r['age'] : '' ) );
 		$dupes = hainute_seo_title_dupes();
-		$who   = hainute_seo_product_name( $product_id, $dupes[ $product_id ] ?? '' );
+		$who   = hainute_seo_product_name( $product_id, $dupes['code'][ $product_id ] ?? '' );
 		$who   = '' !== $who ? $who : get_the_title( $product_id );
 		$desc  = mb_strtoupper( mb_substr( $who, 0, 1 ) ) . mb_substr( $who, 1 ) . ': alege mărimea copilului' . ( $in ? ' (' . implode( ', ', $in ) . ')' : '' ) . ' și vezi pe loc magazinele care o au pe stoc.';
 		return mb_strlen( $desc ) > 160 ? mb_substr( $desc, 0, 157 ) . '…' : $desc;
@@ -282,7 +310,8 @@ function hainute_seo_head() {
 	if ( is_singular( 'product' ) ) {
 		$pid   = get_queried_object_id();
 		$desc  = hainute_seo_product_description( $pid );
-		$url   = get_permalink( $pid );
+		$dupes = hainute_seo_title_dupes();
+		$url   = get_permalink( $dupes['canon'][ $pid ] ?? $pid ); // produs importat de două ori: canonical spre primul
 		$image = function_exists( 'hainute_product_image' ) ? hainute_product_image( $pid, 'large' ) : '';
 		$type  = 'product';
 	} elseif ( is_tax( array( 'product_cat', 'product_brand', 'product_gender', 'product_age' ) ) ) {
@@ -390,12 +419,8 @@ function hainute_seo_website_schema() {
 		);
 	}
 	$logo_id = (int) get_theme_mod( 'custom_logo' );
-	if ( $logo_id ) {
-		$src = wp_get_attachment_image_src( $logo_id, 'full' );
-		if ( $src ) {
-			$org['logo'] = array( '@type' => 'ImageObject', 'url' => $src[0] );
-		}
-	}
+	$src     = $logo_id ? wp_get_attachment_image_src( $logo_id, 'full' ) : false;
+	$org['logo'] = array( '@type' => 'ImageObject', 'url' => $src ? $src[0] : get_site_icon_url( 512 ) );
 	$graph = array(
 		'@context' => 'https://schema.org',
 		'@graph'   => array(
@@ -489,9 +514,17 @@ add_filter( 'wp_sitemaps_post_types', function ( $types ) {
 	return $types;
 } );
 add_filter( 'wp_sitemaps_taxonomies', function ( $taxes ) {
-	unset( $taxes['category'], $taxes['post_tag'], $taxes['post_format'] );
+	unset( $taxes['category'], $taxes['post_tag'], $taxes['post_format'], $taxes['product_gender'] );
 	return $taxes;
 } );
+// Produsele importate de două ori au canonical spre primul: în sitemap doar originalul.
+add_filter( 'wp_sitemaps_posts_query_args', function ( $args, $post_type ) {
+	if ( 'product' === $post_type ) {
+		$args['post__not_in'] = array_keys( hainute_seo_title_dupes()['canon'] );
+	}
+	return $args;
+}, 10, 2 );
+
 // Magazinele inactive/dublurile sunt noindex (vezi wp_robots), deci nici în sitemap.
 add_filter( 'wp_sitemaps_taxonomies_query_args', function ( $args, $taxonomy ) {
 	if ( 'store' === $taxonomy ) {
@@ -500,13 +533,29 @@ add_filter( 'wp_sitemaps_taxonomies_query_args', function ( $args, $taxonomy ) {
 	return $args;
 }, 10, 2 );
 
-// Arhivele de autor/blog (/author/emil/, /?author=1, /category/…) nu au conținut: acasă.
+// Arhivele de autor/blog (/author/emil/, /?author=1, /category/…) și feed-urile nu au
+// conținut: acasă. Prioritatea 1 = înaintea redirect_canonical, care ar arăta numele contului.
 add_action( 'template_redirect', function () {
-	if ( is_author() || is_category() || is_tag() || is_date() || ( is_singular( 'post' ) && ! is_user_logged_in() ) ) {
+	if ( isset( $_GET['author'] ) || is_author() || is_category() || is_tag() || is_date() || is_feed() || ( is_singular( 'post' ) && ! is_user_logged_in() ) ) {
 		wp_safe_redirect( home_url( '/' ), 301 );
 		exit;
 	}
-} );
+	// /gen/fete/ dublează /categorie/fete/ (filtrul ?gen= din listări rămâne).
+	if ( preg_match( '#^/gen/([a-z0-9-]+)/?$#', (string) wp_parse_url( $_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH ), $m ) ) {
+		$cat = get_term_by( 'slug', $m[1], 'product_cat' );
+		wp_safe_redirect( $cat ? get_term_link( $cat ) : home_url( '/' ), 301 );
+		exit;
+	}
+}, 1 );
+
+/** Favicon / iconița din Google și de pe telefon: assets/img (altfel WordPress pune logo-ul lui). */
+add_filter( 'get_site_icon_url', function ( $url, $size ) {
+	if ( $url ) {
+		return $url;
+	}
+	$file = $size <= 32 ? 'favicon-32.png' : ( $size <= 180 ? 'apple-touch-icon.png' : 'icon-512.png' );
+	return get_template_directory_uri() . '/assets/img/' . $file;
+}, 10, 2 );
 
 // Lista de utilizatori din REST API (/wp-json/wp/v2/users) doar pentru cine e logat.
 add_filter( 'rest_endpoints', function ( $endpoints ) {

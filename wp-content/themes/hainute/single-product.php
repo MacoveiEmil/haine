@@ -49,9 +49,12 @@ get_header();
 				</div>
 
 				<div class="product-info">
-					<?php $brand = hainute_get_brand( $product_id ); ?>
-					<?php if ( $brand ) : ?>
-						<p class="product-brand"><?php echo esc_html( $brand ); ?></p>
+					<?php
+					$brand_terms = get_the_terms( $product_id, 'product_brand' );
+					$brand_term  = ( $brand_terms && ! is_wp_error( $brand_terms ) ) ? $brand_terms[0] : null;
+					?>
+					<?php if ( $brand_term ) : ?>
+						<p class="product-brand"><a href="<?php echo esc_url( get_term_link( $brand_term ) ); ?>"><?php echo esc_html( $brand_term->name ); ?></a></p>
 					<?php endif; ?>
 
 					<h1 class="product-title"><?php the_title(); ?></h1>

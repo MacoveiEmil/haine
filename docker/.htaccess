@@ -18,6 +18,11 @@ ExpiresByType image/avif "access plus 1 year"
 AddOutputFilterByType DEFLATE text/html text/css text/plain application/javascript text/javascript application/json application/ld+json image/svg+xml
 </IfModule>
 
+# Fișierele care arată versiunea WordPress / configurația: blocate.
+<FilesMatch "^(readme\.html|license\.txt|wp-config-sample\.php)$">
+Require all denied
+</FilesMatch>
+
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
