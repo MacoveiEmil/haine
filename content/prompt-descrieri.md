@@ -1,9 +1,16 @@
-# Prompt descrieri de produs (v6): beestyle.ro
+# Prompt descrieri de produs (v7): beestyle.ro
 
 Scrii descrierea unui singur produs (haine sau încălțăminte pentru copii) pentru beestyle.ro.
 Site-ul arată părinților în ce magazine e pe stoc mărimea copilului. Nu e comparator de prețuri.
 
 Textul se scrie în română, cu diacritice corecte (ș, ț cu virgulă dedesubt).
+
+## Ce aduce v7
+
+- **Vârsta nu mai are formulă fixă.** „Orientativ” apărea pe fiecare pagină, în aceeași frază. Vârsta rămâne
+  aproximativă (așa e corect), dar o spui de fiecare dată altfel. Vezi punctul 5.
+- **Cum vine pe copil.** O frază sau două despre croială și potrivire (cât de larg, până unde e lung,
+  manșete, talie, calapod) și ce înseamnă asta pentru copil, doar din fapte. Vezi secțiunea dedicată.
 
 ## Ideea v6: strict pe conținut, liber pe formă
 
@@ -50,11 +57,15 @@ Funcțiile tehnice declarate concret se păstrează, spuse simplu: „membrană 
 3. **Linkul de brand** (`brand_slug`), pe prima apariție firească a numelui brandului.
 4. **Culoarea** din titlu.
 5. **Mărimile din `produse.json`** (cea mai mică și cea mai mare, exact ca în listă) și **vârsta
-   orientativă** (Anexa), cu cuvântul „orientativ”, o singură dată. Folosești `marimi` din
-   `produse.json`, nu mărimile de la un singur magazin.
-6. **Cel puțin 3 fapte** din sursă (material, izolație, talpă, închidere, tehnologii, detalii).
-7. **Pentru ce e bun produsul**: vreme, anotimp sau activitate, doar derivat din fapte (vezi „Utilizări”).
-8. Opțional: un link spre o categorie complementară (alt tip de produs, același gen), doar când
+   aproximativă** (Anexa). Vârsta e mereu aproximativă, dar o spui natural și de fiecare dată altfel:
+   „cam 4-11 ani”, „copiii de pe la 4 până pe la 11 ani”, „în general între 4 și 11 ani”,
+   „de obicei pentru 8-16 ani”, „aproximativ 1-4 ani”. „Orientativ” e doar una dintre variante: îl
+   folosești rar și cel mult o dată. Verificarea cere vârsta și o formulare aproximativă
+   (`varsta_formulari` din reguli). Folosești `marimi` din `produse.json`, nu mărimile de la un singur magazin.
+6. **Cum vine pe copil**, când sursa dă date de croială sau potrivire (vezi secțiunea dedicată).
+7. **Cel puțin 3 fapte** din sursă (material, izolație, talpă, închidere, tehnologii, detalii).
+8. **Pentru ce e bun produsul**: vreme, anotimp sau activitate, doar derivat din fapte (vezi „Utilizări”).
+9. Opțional: un link spre o categorie complementară (alt tip de produs, același gen), doar când
    există o legătură reală (vezi „Complementar”).
 
 ## Forma: liberă, dar cu fir logic
@@ -77,6 +88,33 @@ Funcțiile tehnice declarate concret se păstrează, spuse simplu: „membrană 
   un tipar. Verificarea compară descrierile între ele și respinge formulările care se repetă.
 - **Fiecare frază are legătură cu cea dinainte.** Citește textul cu voce tare: dacă o frază ar
   putea fi mutată pe orice alt produs, o rescrii cu un detaliu al produsului ăstuia.
+
+## Cum vine pe copil (croială și potrivire)
+
+Părinții caută și după formă, nu doar după tip: „geacă lungă”, „blugi largi”, „pantofi pentru picior lat”.
+Exemplu bun (geacă): „Croiala e relaxed fit, cu lungimea până la șolduri.” Spune pe scurt cum arată și
+cum stă produsul. Nu e o frază fixă: o formulezi după produs, o legi de restul textului și o pui unde
+are sens (în primul paragraf, lângă mărimi, după listă).
+
+Ce iei din sursă, când există:
+- **haine**: croiala (regulară, relaxed, lejeră, oversize, slim, mulată), lungimea (până la talie, la
+  șolduri, la mijlocul coapsei, la genunchi; spate alungit), talia (elastică, cu șnur, reglabilă),
+  manșetele și tivul (elastice, cu bordură, cu orificiu pentru deget), elastanul din compoziție, gluga reglabilă;
+- **încălțăminte**: profilul (scurt, înalt, gleznă înaltă), vârful și cutia degetelor (rotund, lat),
+  închiderea reglabilă (arici, șiret elastic), branțul detașabil, tureacul.
+
+Ce poți spune pe baza lor (doar când faptul e în sursă):
+- croială relaxed / lejeră / oversize → are loc de un strat mai gros dedesubt și vine comod și copiilor mai plinuți;
+- slim / mulată / cu elastan → stă aproape de corp; la copiii slabi nu atârnă, peste haine groase e strâmtă;
+- talie elastică, cu șnur sau reglabilă → se strânge la copiii mai slabi, fără curea;
+- lungime până la șolduri sau coapse, spate alungit → acoperă spatele când copilul se apleacă sau stă jos;
+- manșete și tiv elastice → strâng la încheieturi și jos, ca geaca să nu stea largă;
+- vârf lat, cutie lată a degetelor → loc pentru degete, potrivit și la piciorul mai lat;
+- arici sau șiret elastic → se reglează pe picior îngust sau lat;
+- branț detașabil → piciorul copilului se poate măsura direct pe branț.
+
+Fără date de croială în sursă, nu inventezi („vine mare”, „vine mic”, „croială generoasă”) și sari peste.
+Nu recomanzi altă mărime decât cea obișnuită. O singură idee, una-două fraze: nu o listă de măsurători.
 
 ## Utilizări permise (doar cu faptul în sursă)
 
@@ -123,7 +161,7 @@ frazele:** fiecare produs are alt fir logic. Verificarea respinge formulările r
 ```json
 {
  "id": 8566,
- "versiune": "v6",
+ "versiune": "v7",
  "descriere_html": "<p>…</p><p>…:</p><ul><li><strong>…</strong>: …</li></ul><p>…</p>",
  "surse": [ { "fapt": "plasă ușoară", "url": "answear.ro/p/…", "fragment": "text copiat EXACT din surse/{id}.json" } ],
  "specificatii_tehnice": { "Model": "", "Material": "", "Caracteristici": "", "Cod produs": "" },
@@ -137,7 +175,7 @@ frazele:** fiecare produs are alt fir logic. Verificarea respinge formulările r
 `categorie_complementara` e `null` dacă nu ai link complementar. În `confidence_notes` notezi
 problemele de date (gen diferit la magazin, mărimi diferite între magazin și site, reclamă omisă).
 
-## Anexă: mărime → vârstă (se scrie mereu „orientativ”)
+## Anexă: mărime → vârstă (vârsta e mereu aproximativă, formulată variat)
 
 Îmbrăcăminte (cm): 86 = 1 an | 92 = 2 | 98 = 3 | 104 = 4 | 110 = 5 | 116 = 6 | 122 = 7 | 128 = 8 |
 134 = 9 | 140 = 10 | 146 = 11 | 152 = 12 | 158 = 13 | 164 = 14 | 170 = 15 | 176 = 16.

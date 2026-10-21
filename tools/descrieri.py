@@ -37,7 +37,10 @@ DEFAULT_RULES = {'versiune': 'v4', 'cuvinte_min': 170, 'cuvinte_max': 240, 'date
                  # v6: conținut obligatoriu (brand, model, culoare, mărimi) + listă introdusă de o frază
                  # + formulări repetate între descrieri (n-grame de cuvinte din paragrafe).
                  'entitati': False, 'lista_cere_introducere': False,
-                 'repetitie_ngram': 0, 'repetitie_min_descrieri': 4, 'repetitie_procent': 10}
+                 'repetitie_ngram': 0, 'repetitie_min_descrieri': 4, 'repetitie_procent': 10,
+                 # v7: vârsta e aproximativă, dar spusă în mai multe feluri (nu mereu „orientativ”);
+                 # formulările repetate se caută și în descrierile versiunilor date aici.
+                 'varsta_formulari': [], 'repetitie_versiuni': None}
 
 # Culoarea din titlu → formele acceptate în text (rădăcini, fără diacritice obligatorii).
 CULORI = {'bleumarin': ['bleumarin'], 'roz': ['roz'], 'negru': ['negr', 'neagr'], 'bej': ['bej'],
@@ -92,7 +95,7 @@ def corpus(R):
                     x = load(os.path.join(d, f))
                 except ValueError:
                     continue
-                if x.get('versiune', 'v4') == R['versiune']:
+                if x.get('versiune', 'v4') in (R['repetitie_versiuni'] or [R['versiune']]):
                     _CORPUS[int(f[:-5])] = ngrame(x.get('descriere_html', ''), R['repetitie_ngram'])
     return _CORPUS
 
@@ -179,6 +182,11 @@ def check(path, produse, categorii, R):
         if R['paragraf_final_max_propozitii'] and len(re.findall(r'[.]\s', text_of(paras[-1]) + ' ')) > R['paragraf_final_max_propozitii']:
             issues.append(f'ultimul paragraf are peste {R["paragraf_final_max_propozitii"]} propoziții')
     if R['cere_orientativ'] and 'orientativ' not in low: issues.append('lipsește „orientativ” la vârstă')
+    if R['varsta_formulari']:
+        if not re.search(r'\b(ani|an|luni)\b', low):
+            issues.append('lipsește vârsta (din mărimi, vezi Anexa)')
+        elif not re.search(r'\b(' + '|'.join(re.escape(f) for f in R['varsta_formulari']) + r')\b', low):
+            issues.append('vârsta trebuie spusă aproximativ, de ex.: ' + ', '.join(R['varsta_formulari'][:5]))
     if R['linkuri_min'] is not None or R['linkuri_max'] is not None:
         lo_l, hi_l = R['linkuri_min'] or 0, R['linkuri_max'] or 99
         if not lo_l <= len(links) <= hi_l: issues.append(f'{len(links)} linkuri (trebuie {lo_l}-{hi_l})')

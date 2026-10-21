@@ -81,7 +81,7 @@ Exemple bune (v6, scrise de mână, folosite și de `descrieri-gemini.py`): 8566
 - formulări repetate: orice secvență de 6 cuvinte din paragrafe care apare în cel puțin 4 descrieri (sau 10% din ele) din aceeași versiune;
 - 2–3 linkuri: categoria produsului (`categorie_frunza` sau `categorie_principala`, în paragraful 1, ancora cu
   „pentru fete/băieți/bebeluși” sau „unisex”), `brand_slug` și, opțional, o categorie complementară din `categorii.json`;
-- cuvintele și formulele interzise din prompt, gen neutru, „orientativ” o singură dată;
+- cuvintele și formulele interzise din prompt, gen neutru, vârsta spusă aproximativ (formulări variate, „orientativ” cel mult o dată);
 - `"versiune"` din fișier e cea din `reguli-descrieri.json` (`todo` listează și produsele cu descriere mai veche);
 - fără nume de magazine, preț sau stoc în text.
 

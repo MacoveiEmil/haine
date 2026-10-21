@@ -76,7 +76,7 @@ def main():
     exemple = []
     for e in ex_ids:
         pe = os.path.join(C, 'descrieri', f'{e}.json')
-        if os.path.exists(pe) and load(pe).get('versiune') == versiune:
+        if os.path.exists(pe) and load(pe).get('versiune') in (load(os.path.join(C, 'reguli-descrieri.json')).get('repetitie_versiuni') or [versiune]):
             exemple.append((e, load(pe)['descriere_html']))
     cats = '\n'.join(f"{c.get('slug')} | {c.get('cale', c.get('nume', ''))}" for c in (categorii if isinstance(categorii, list) else categorii.values()))
 

@@ -1,0 +1,80 @@
+{
+ "id": 8602,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Oikotie sunt <a href=\"/categorie/unisex-imbracaminte-pantaloni-treninguri/\">pantaloni unisex rezistenți la apă</a>, violet, din țesătură Teflon EcoElite, de origine vegetală, cu impermeabilitate de 10000 g/m2. Sunt pentru ploaie și bălți, cu precizarea magazinului că rezistența la apă nu garantează impermeabilitate completă.</p><p>Magazinul spune că croiala, clasică și simplă, se potrivește tuturor tipurilor de corp. Talia e înaltă, cu bandă elastică, deci acoperă spatele când copilul se apleacă și se strânge singură pe un copil mai slab, iar picioarele se termină într-un tiv elastic îngust, care ține crăcii aproape de gleznă.</p><p>În compoziție intră 92% poliamidă și 8% elastan, iar respirabilitatea declarată e de 3000 g/m2/24h. Se poartă cu <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete sau cizme unisex</a>, iar pe site sunt mărimile de la 92 la 140, pentru copii de aproximativ 2-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "Pantaloni copii Oikotie"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "culoarea violet"
+  },
+  {
+   "fapt": "Teflon EcoElite",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "Teflon EcoElite"
+  },
+  {
+   "fapt": "origine vegetală",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "prima tesatura de origine vegetala"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "material impermeabil"
+  },
+  {
+   "fapt": "impermeabilitate",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "Impermeabilitate: 10000 g/m2"
+  },
+  {
+   "fapt": "nu e complet impermeabil",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "nu garantează impermeabilitatea completă"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "Croiala clasică, simplă, se potrivește tuturor tipurilor de corp"
+  },
+  {
+   "fapt": "talie",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "Talie inalta cu banda elastica in talie"
+  },
+  {
+   "fapt": "tiv",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "tiv elastic, îngust"
+  },
+  {
+   "fapt": "compoziție",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "92% Poliamida, 8% Elastan"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "Respirabilitate: 3000 g/m2/24h"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Oikotie",
+  "Material": "92% poliamidă, 8% elastan, Teflon EcoElite",
+  "Caracteristici": "impermeabilitate 10000 g/m2, respirabilitate 3000 g/m2/24h, talie înaltă elastică, tiv elastic",
+  "Cod produs": "5100010B"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/unisex-incaltaminte-ghete-cizme/",
+  "motiv": "pantaloni de ploaie, se poartă cu ghete sau cizme"
+ },
+ "varsta_orientativa": "2-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
