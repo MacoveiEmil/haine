@@ -1,0 +1,82 @@
+{
+ "id": 11791,
+ "versiune": "v6",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KG0KG09531 sunt <a href=\"/categorie/pantaloni-treninguri/\">pantaloni de trening pentru fete</a>, roz, dintr-un tricot de bumbac cu poliester (68% bumbac, 32% poliester). Croiala e regulară, cu talie normală, iar magazinul îi descrie ca piesă casual, deci sunt pentru purtat zilnic, acasă sau la școală.</p><p>Jos, picioarele se termină în manșete care strâng pantalonul deasupra încălțămintei. Au buzunare laterale, iar ca decor poartă paiete și logo-ul brandului.</p><p>Partea de sus se alege separat, din <a href=\"/categorie/bluze-tricouri-hanorace/\">bluzele și hanoracele pentru fete</a>. Pe site sunt mărimile 128-176, potrivite orientativ copiilor de 8-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "tip",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "Pantaloni de trening pentru copii cu bumbac"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "roz"
+  },
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "KG0KG09531"
+  },
+  {
+   "fapt": "tricot de bumbac",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "Tricot de bumbac"
+  },
+  {
+   "fapt": "compoziție",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "68% Bumbac, 32% Poliester"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "Croială regulară"
+  },
+  {
+   "fapt": "talie",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "Talie normală"
+  },
+  {
+   "fapt": "casual",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "casual și streetwear"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "Picioare cu manșete"
+  },
+  {
+   "fapt": "ajustare la încălțăminte",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "permit ajustarea la încălțăminte"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "Buzunare laterale"
+  },
+  {
+   "fapt": "paiete, logo",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-roz-kg0kg09531-1827100",
+   "fragment": "Pietre de paiete decorative și logo"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger KG0KG09531",
+  "Material": "68% bumbac, 32% poliester (tricot)",
+  "Caracteristici": "croială regulară, talie normală, manșete la picioare, buzunare laterale, paiete decorative",
+  "Cod produs": "KG0KG09531"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/bluze-tricouri-hanorace/",
+  "motiv": "pantalonii de trening se poartă cu o bluză sau un hanorac"
+ },
+ "varsta_orientativa": "8-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pe site produsul se numește „Trening”, dar magazinul vinde doar pantalonii de trening; textul descrie pantalonii."
+ ]
+}
