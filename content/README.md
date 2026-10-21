@@ -24,7 +24,7 @@ Orice push ajunge pe site în 1–2 minute: testează înainte. Revenire: `git r
 
 Schimbi `content/prompt-descrieri.md` și, ca verificarea să se potrivească, `content/reguli-descrieri.json`
 (cuvinte min/max, paragraf 1, puncte în listă, număr de linkuri, fraze interzise în plus).
-Crește și `"versiune"` (ex. `"v5"`): `tools/descrieri.py todo` va lista produsele care nu au încă
+Crește și `"versiune"` (ex. `"v7"`): `tools/descrieri.py todo` va lista produsele care nu au încă
 descriere în noua versiune.
 
 ## Fluxul pentru un produs
@@ -35,7 +35,7 @@ python tools/descrieri.py todo --stoc --limit 10      # ce produse nu au încă 
 node tools/crawler/desc-extract.js --ids 8566,8791    # pagina magazinului → content/surse/{id}.json
 # ... AI-ul scrie content/descrieri/{id}.json după content/prompt-descrieri.md ...
 python tools/descrieri.py check content/descrieri/8566.json   # trebuie „OK”
-git add content/surse content/descrieri && git commit -m "Descrieri v5: 8566, 8791" && git push
+git add content/surse content/descrieri && git commit -m "Descrieri v6: 8566, 8791" && git push
 ```
 
 După 1–2 minute: descrierea e pe `https://beestyle.ro{pagina}`, iar `git pull` aduce
@@ -60,7 +60,7 @@ pentru antrenare (aici sunt doar date publice de pe paginile magazinelor).
 ```json
 {
  "id": 8566,
- "versiune": "v5",
+ "versiune": "v6",
  "descriere_html": "<p>…</p><ul><li><strong>…</strong>: …</li></ul><p>…</p><p>…</p>",
  "surse": [ { "fapt": "plasă ușoară", "url": "answear.ro/p/…", "fragment": "text copiat EXACT de pe pagină" } ],
  "specificatii_tehnice": { "Model": "", "Material": "", "Caracteristici": "", "Cod produs": "" },
@@ -71,12 +71,14 @@ pentru antrenare (aici sunt doar date publice de pe paginile magazinelor).
 }
 ```
 
-Exemple bune: cele 9 fișiere v5 din `descrieri/` (8566, 8791, 10248, 10749, 11350, 12359, 13584, 14334, 14784).
+Exemple bune (v6, scrise de mână, folosite și de `descrieri-gemini.py`): 8566, 14784, 10723.
 
 ## Ce verifică `tools/descrieri.py check` (rulează și pe server; nu blochează publicarea, doar raportează)
 
 - fiecare `fragment` din `surse` apare pe pagina magazinului (`surse/{id}.json`);
-- pragurile din `reguli-descrieri.json` (v5: 60–200 de cuvinte, paragraful 1 are 20–55, lista 3–6 puncte);
+- pragurile din `reguli-descrieri.json` (v6: 80–240 de cuvinte, paragraful 1 are 25–66, lista opțională, dar introdusă de o frază care se termină cu „:”);
+- conținutul obligatoriu, din `produse.json`: brandul, modelul din titlu, culoarea, cea mai mică și cea mai mare mărime de pe site;
+- formulări repetate: orice secvență de 6 cuvinte din paragrafe care apare în cel puțin 4 descrieri (sau 10% din ele) din aceeași versiune;
 - 2–3 linkuri: categoria produsului (`categorie_frunza` sau `categorie_principala`, în paragraful 1, ancora cu
   „pentru fete/băieți/bebeluși” sau „unisex”), `brand_slug` și, opțional, o categorie complementară din `categorii.json`;
 - cuvintele și formulele interzise din prompt, gen neutru, „orientativ” o singură dată;

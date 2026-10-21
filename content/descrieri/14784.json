@@ -1,7 +1,7 @@
 {
  "id": 14784,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/loap/\">LOAP</a> Cuwielo este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de schi unisex</a> portocalie, cu glugă, membrană impermeabilă AQUA PRO și umplutură călduroasă. E făcută pentru pârtie, zăpadă și zilele ude de iarnă.</p><ul><li><strong>Impermeabilitate</strong>: coloană de apă de 3000 mm și cusături critice lipite.</li><li><strong>Material exterior</strong>: STORMEX, rezistent la zăpadă, ploaie și vânt.</li><li><strong>Umplutură și căptușeală</strong>: fibre tubulare POLYTHERM, căptușeală din tafta de poliester.</li><li><strong>Mâneci</strong>: se strâng cu arici și au manșete cu orificiu pentru deget, ca zăpada să nu intre la încheieturi.</li><li><strong>Croială</strong>: mulată, cu spatele ușor alungit.</li><li><strong>Buzunare</strong>: două laterale cu fermoar și unul pe antebrațul stâng.</li></ul><p>Pe pârtie, capul și mâinile au nevoie de <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli și mănuși unisex</a>, purtate împreună cu geaca.</p><p>Modelul are cinci mărimi duble, de la 112-116 la 158-164, orientativ pentru copii de 5-14 ani.</p>",
+ "versiune": "v6",
+ "descriere_html": "<p><a href=\"/brand/loap/\">LOAP</a> Cuwielo este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de schi unisex</a> portocalie, cu glugă, gândită pentru pârtie și pentru iernile cu zăpadă udă. Membrana AQUA PRO și materialul exterior STORMEX o fac rezistentă la zăpadă, ploaie și vânt, iar umplutura POLYTHERM ține de cald pe frig.</p><p>Pe pârtie, zăpada intră de obicei pe la încheieturi, pe la cusături și pe la spate, iar acolo geaca are protecții separate:</p><ul><li><strong>Cusături</strong>: cele critice sunt lipite, iar materialul are o coloană de apă de 3000 mm.</li><li><strong>Mâneci</strong>: se strâng cu arici și au manșete elastice cu orificiu pentru deget.</li><li><strong>Spate</strong>: croiala e mulată, cu partea din spate ușor alungită, care rămâne acoperită când copilul se apleacă.</li><li><strong>Fermoar</strong>: principal, cu capac care protejează bărbia de fermoarul rece.</li><li><strong>Buzunare</strong>: două laterale cu fermoar și unul pe antebrațul stâng.</li></ul><p>Capul și mâinile se echipează separat, cu <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli și mănuși unisex</a>. Geaca vine în mărimi duble, de la 112-116 până la 158-164, adică orientativ pentru copii între 5 și 14 ani.</p>",
  "surse": [
   {
    "fapt": "geacă de schi cu glugă",
@@ -62,6 +62,11 @@
    "fapt": "buzunare",
    "url": "sportisimo.ro/loap/cuwielo/783681/",
    "fragment": "două buzunare laterale cu fermoar și un buzunar pe antebrațul stâng"
+  },
+  {
+   "fapt": "capac fermoar",
+   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "Fermoarul principal cu capac practic protejează bărbia de fermoarul rece"
   }
  ],
  "specificatii_tehnice": {

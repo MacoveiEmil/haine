@@ -1,7 +1,7 @@
 {
  "id": 8566,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> J36FWB sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> din plasă textilă ușoară și material sintetic, în culoarea roz. Sunt gândiți pentru purtat zi de zi, iar plasa îi face potriviți pentru zilele calde de primăvară și vară.</p><ul><li><strong>Geox Respira</strong>: talpă în trei straturi, cu perforații pentru ventilație.</li><li><strong>Material</strong>: exterior din material sintetic și plasă textilă, interior textil.</li><li><strong>Talpă</strong>: din spumă.</li><li><strong>Închidere</strong>: șireturi elastice și arici, deci copilul se încalță fără ajutor.</li><li><strong>Branț</strong>: textil și detașabil, se scoate la uscat.</li><li><strong>Călcâi</strong>: rigid, cu buclă la spate care ajută la încălțat.</li></ul><p>Modelul nu are protecție la apă declarată. Pentru ploaie, noroi și frig, mai potrivite sunt <a href=\"/categorie/ghete-cizme/\">ghetele și cizmele pentru fete</a>.</p><p>Mărimile merg de la 28 la 35, orientativ pentru copii de 4-11 ani.</p>",
+ "versiune": "v6",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> J36FWB sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> roz, cu partea de sus din plasă textilă ușoară și material sintetic. Magazinul îi descrie ca model de purtat zi de zi, iar plasa îi face potriviți mai ales pentru primăvară, vară și zilele calde de toamnă, la grădiniță sau la școală.</p><p>Dimineața, când copilul se încalță singur și se grăbește, contează câteva detalii de construcție:</p><ul><li><strong>Închidere</strong>: șireturi elastice plus arici, deci pantoful se strânge și se desface fără legat.</li><li><strong>Călcâi</strong>: rigid, cu o buclă la spate de care copilul trage când se încalță.</li><li><strong>Branț</strong>: textil și detașabil, se scoate seara la uscat.</li><li><strong>Geox Respira</strong>: talpă în trei straturi, cu perforații pentru ventilație.</li></ul><p>Modelul nu declară protecție la apă, așa că în zilele cu ploaie sau noroi e mai bine de ales din <a href=\"/categorie/ghete-cizme/\">ghetele și cizmele pentru fete</a>. Numerele 28-35 acoperă, orientativ, copiii între 4 și 11 ani.</p>",
  "surse": [
   {
    "fapt": "plasă ușoară",
@@ -77,7 +77,7 @@
  },
  "categorie_complementara": {
   "slug": "/categorie/ghete-cizme/",
-  "motiv": "plasă textilă, fără protecție la apă declarată: pentru ploaie și frig, ghete"
+  "motiv": "plasă textilă, fără protecție la apă declarată: pentru ploaie, ghete"
  },
  "varsta_orientativa": "4-11 ani",
  "date_insuficiente": false,

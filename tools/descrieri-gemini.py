@@ -32,7 +32,7 @@ def key():
 
 
 def gemini(model, contents):
-    body = json.dumps({'contents': contents, 'generationConfig': {'temperature': 0.4, 'responseMimeType': 'application/json'}}).encode()
+    body = json.dumps({'contents': contents, 'generationConfig': {'temperature': 0.8, 'responseMimeType': 'application/json'}}).encode()
     for attempt in range(5):
         req = urllib.request.Request(URL.format(model), data=body, headers={'Content-Type': 'application/json', 'x-goog-api-key': key()})
         try:
@@ -69,7 +69,15 @@ def main():
     reguli = io.open(os.path.join(C, 'reguli-descrieri.json'), encoding='utf-8').read()
     produse = {p['id']: p for p in load(os.path.join(C, 'produse.json'))}
     categorii = load(os.path.join(C, 'categorii.json'))
-    exemplu = io.open(os.path.join(C, 'descrieri', '8566.json'), encoding='utf-8').read()
+    versiune = load(os.path.join(C, 'reguli-descrieri.json')).get('versiune')
+    # Exemplele: descrierile scrise de mână în versiunea curentă (doar textul, ca să nu copieze structura JSON-ului
+    # altui produs). Mai multe exemple, de tipuri diferite, ca Gemini să nu imite unul singur.
+    ex_ids = [8566, 14784, 10723]
+    exemple = []
+    for e in ex_ids:
+        pe = os.path.join(C, 'descrieri', f'{e}.json')
+        if os.path.exists(pe) and load(pe).get('versiune') == versiune:
+            exemple.append((e, load(pe)['descriere_html']))
     cats = '\n'.join(f"{c.get('slug')} | {c.get('cale', c.get('nume', ''))}" for c in (categorii if isinstance(categorii, list) else categorii.values()))
 
     for pid in ids:
@@ -80,7 +88,10 @@ def main():
         sursa = io.open(sursa_p, encoding='utf-8').read()
         task = (
             f'{prompt}\n\n## Regulile verificării automate (content/reguli-descrieri.json)\n{reguli}\n\n'
-            f'## Exemplu de rezultat bun (alt produs, doar pentru format și ton)\n{exemplu}\n\n'
+            '## Exemple de text bun (alte produse). Arată nivelul cerut: fraze legate, listă introdusă logic, '
+            'mărimi formulate natural. NU le copia frazele și nici ordinea: fiecare produs are alt fir logic, iar '
+            'verificarea respinge formulările repetate între descrieri.\n'
+            + ''.join(f'\n### {e}\n{h}\n' for e, h in exemple if e != pid) + '\n'
             f'## Categoriile existente (slug | cale)\n{cats}\n\n'
             f'## Produsul (din content/produse.json)\n{json.dumps(produse[pid], ensure_ascii=False, indent=1)}\n\n'
             f'## content/surse/{pid}.json (singura sursă de fapte; fragmentele se copiază EXACT de aici, caracter cu caracter)\n{sursa}\n\n'

@@ -33,7 +33,68 @@ DEFAULT_RULES = {'versiune': 'v4', 'cuvinte_min': 170, 'cuvinte_max': 240, 'date
                  # v5: link_categorie_complementara poate fi "optional" (cel mult unul);
                  # linkuri_min/linkuri_max înlocuiesc linkuri_total când sunt date.
                  'linkuri_min': None, 'linkuri_max': None, 'link_categorie_in_paragraf1': False,
-                 'orientativ_o_data': False}
+                 'orientativ_o_data': False,
+                 # v6: conținut obligatoriu (brand, model, culoare, mărimi) + listă introdusă de o frază
+                 # + formulări repetate între descrieri (n-grame de cuvinte din paragrafe).
+                 'entitati': False, 'lista_cere_introducere': False,
+                 'repetitie_ngram': 0, 'repetitie_min_descrieri': 4, 'repetitie_procent': 10}
+
+# Culoarea din titlu → formele acceptate în text (rădăcini, fără diacritice obligatorii).
+CULORI = {'bleumarin': ['bleumarin'], 'roz': ['roz'], 'negru': ['negr', 'neagr'], 'bej': ['bej'],
+          'maro': ['maro'], 'alb': ['alb'], 'verde': ['verd', 'verzi'], 'violet': ['violet', 'mov'],
+          'gri': ['gri'], 'rosu': ['roș', 'roşu', 'rosu', 'roși', 'roșii'], 'albastru': ['albastr'],
+          'portocaliu': ['portocal'], 'multicolor': ['multicolor', 'colorat'], 'galben': ['galben'],
+          'bordo': ['bordo'], 'argintiu': ['argint'], 'turcoaz': ['turcoaz'], 'mov': ['mov', 'violet'],
+          'auriu': ['auri'], 'kaki': ['kaki'], 'crem': ['crem'], 'bleu': ['bleu']}
+TITLU_GENERIC = {'FETE', 'BĂIEȚI', 'BAIETI', 'UNISEX', 'BEBE', 'JACKET', 'KIDS', 'JR', 'GORE', 'TEX'}
+
+
+def entitati(p, text):
+    """Ce trebuie să apară în text, scos din produse.json: brand, model, culoare, mărimi."""
+    low, issues = text.lower(), []
+    if p.get('brand') and p['brand'].lower() not in low:
+        issues.append('lipsește brandul: ' + p['brand'])
+    brand_w = {w.upper() for w in re.split(r'\W+', p.get('brand') or '') if w}
+    model = [w for w in re.findall(r'[A-ZĂÂÎȘȚ0-9][A-ZĂÂÎȘȚ0-9-]{2,}', p.get('titlu', ''))
+             if w not in brand_w and w not in TITLU_GENERIC and not w.isdigit()]
+    if model and not any(w.lower() in low for w in model):
+        issues.append('lipsește modelul din titlu: ' + ' '.join(model))
+    last = (p.get('titlu') or '').split()[-1:] or ['']
+    forms = CULORI.get(last[0].lower().replace('ș', 's').replace('ş', 's'))
+    if forms and not any(f in low for f in forms):
+        issues.append('lipsește culoarea din titlu: ' + last[0])
+    m = [str(x) for x in p.get('marimi') or []]
+    if m:
+        for x in {m[0], m[-1]}:
+            if not re.search(r'(?<!\d)' + re.escape(x) + r'(?!\d)', text):
+                issues.append(f'lipsesc mărimile de pe site (cea mai mică și cea mai mare): {m[0]} și {m[-1]}')
+                break
+    return issues
+
+
+def ngrame(h, n):
+    words = re.findall(r'[a-zăâîșțşţ]+', text_of(' '.join(re.findall(r'<p>(.*?)</p>', h, re.S))).lower())
+    return {' '.join(words[i:i + n]) for i in range(len(words) - n + 1)}
+
+
+_CORPUS = None
+
+
+def corpus(R):
+    """n-gramele fiecărei descrieri din versiunea curentă (pentru formulările repetate)."""
+    global _CORPUS
+    if _CORPUS is None:
+        _CORPUS = {}
+        d = os.path.join(C, 'descrieri')
+        for f in os.listdir(d) if os.path.isdir(d) else []:
+            if f.endswith('.json'):
+                try:
+                    x = load(os.path.join(d, f))
+                except ValueError:
+                    continue
+                if x.get('versiune', 'v4') == R['versiune']:
+                    _CORPUS[int(f[:-5])] = ngrame(x.get('descriere_html', ''), R['repetitie_ngram'])
+    return _CORPUS
 
 
 def load(p):
@@ -130,6 +191,23 @@ def check(path, produse, categorii, R):
     if R['link_categorie_in_paragraf1'] and paras and not any(f'href="{u}"' in paras[0] for u in own):
         issues.append('linkul spre categoria produsului trebuie să fie în paragraful 1')
     if R['orientativ_o_data'] and low.count('orientativ') > 1: issues.append('vârsta („orientativ”) apare de mai multe ori')
+    if R['entitati']:
+        issues += entitati(p, text_of(h))
+    if R['lista_cere_introducere'] and '<ul>' in h:
+        before = text_of(h.split('<ul>')[0]).strip()
+        if not before.endswith(':'):
+            issues.append('lista trebuie introdusă de o frază care o leagă de text și se termină cu „:”')
+    if R['repetitie_ngram']:
+        corp = corpus(R)
+        others = {k: v for k, v in corp.items() if k != pid}
+        prag = max(R['repetitie_min_descrieri'], len(others) * R['repetitie_procent'] / 100)
+        rep_ = []
+        for g in sorted(ngrame(h, R['repetitie_ngram'])):
+            k = sum(g in v for v in others.values())
+            if k + 1 >= prag:
+                rep_.append(f'„{g}” ({k + 1} descrieri)')
+        if rep_:
+            issues.append('formulări repetate în alte descrieri (cifrele sunt scoase), scrie altfel: ' + '; '.join(rep_[:4]))
     if x.get('versiune', 'v4') != R['versiune']: issues.append(f'descriere {x.get("versiune", "v4")}, promptul curent e {R["versiune"]} („versiune” în fișier)')
     if len(surse) < R['fapte_min'] and not insuf: issues.append(f'sub {R["fapte_min"]} fapte cu sursă: marchează "date_insuficiente": true')
     return pid, words, issues
