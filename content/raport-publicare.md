@@ -1,5 +1,8 @@
 # Raport publicare
 
+## 2026-10-21 12:13 (169cfb2, Macovei Emil)
+- cod/configurație actualizate: wp-content/themes/hainute/assets/css/main.css wp-content/themes/hainute/data/categorii-seo.json wp-content/themes/hainute/front-page.php wp-content/themes/hainute/functions.php wp-content/themes/hainute/inc/category-seo.php wp-content/themes/hainute/inc/seo.php wp-content/themes/hainute/taxonomy.php 
+
 ## 2026-10-21 12:05 (7f0a9a3, Macovei Emil)
 - PUBLICAT, verificare OK: 10134 106 cuv | OK
 - PUBLICAT, verificare OK: 10776 128 cuv | OK
