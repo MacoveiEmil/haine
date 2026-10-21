@@ -1,5 +1,17 @@
 # Raport publicare
 
+## 2026-10-21 11:07 (8d9c90c, Macovei Emil)
+- PUBLICAT, verificare OK: 10433 127 cuv | OK
+- PUBLICAT, verificare OK: 11280 117 cuv | OK
+- PUBLICAT, verificare OK: 11604 133 cuv | OK
+- PUBLICAT, verificare OK: 11791 89 cuv | OK
+- PUBLICAT, verificare OK: 12456 93 cuv | OK
+- PUBLICAT, verificare OK: 12508 131 cuv | OK
+- PUBLICAT, verificare OK: 8628 115 cuv | OK
+- PUBLICAT, verificare OK: 9083 110 cuv | OK
+- PUBLICAT, verificare OK: 9283 123 cuv | OK
+- PUBLICAT, verificare OK: 9747 125 cuv | OK
+
 ## 2026-10-21 10:36 (5466084, Claude)
 - PUBLICAT, verificare OK: 10723 98 cuv | OK
 - PUBLICAT, verificare OK: 14784 167 cuv | OK
