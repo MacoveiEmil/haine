@@ -1,5 +1,18 @@
 # Raport publicare
 
+## 2026-10-21 12:05 (7f0a9a3, Macovei Emil)
+- PUBLICAT, verificare OK: 10134 106 cuv | OK
+- PUBLICAT, verificare OK: 10776 128 cuv | OK
+- PUBLICAT, verificare OK: 11867 107 cuv | OK
+- PUBLICAT, verificare OK: 12727 122 cuv | OK
+- PUBLICAT, verificare OK: 13276 109 cuv | OK
+- PUBLICAT, verificare OK: 13331 107 cuv | OK
+- PUBLICAT, verificare OK: 13507 112 cuv | OK
+- PUBLICAT, verificare OK: 8543 130 cuv | OK
+- PUBLICAT, verificare OK: 8602 126 cuv | OK
+- PUBLICAT, verificare OK: 9797 120 cuv | OK
+- cod/configurație actualizate: tools/descrieri-gemini.py tools/descrieri.py 
+
 ## 2026-10-21 11:07 (8d9c90c, Macovei Emil)
 - PUBLICAT, verificare OK: 10433 127 cuv | OK
 - PUBLICAT, verificare OK: 11280 117 cuv | OK
