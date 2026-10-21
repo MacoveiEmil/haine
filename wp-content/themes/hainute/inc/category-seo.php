@@ -108,7 +108,9 @@ function hainute_seo_fill( $html, $count, array $brands ) {
 /** Subcategoriile cu produse ale unei categorii. @return WP_Term[] */
 function hainute_cat_children( $term ) {
 	$kids = get_terms( array( 'taxonomy' => 'product_cat', 'parent' => $term->term_id, 'hide_empty' => false, 'orderby' => 'name' ) );
-	return array_values( array_filter( is_wp_error( $kids ) ? array() : $kids, function ( $t ) { return hainute_cat_stats( $t )['count'] > 0; } ) );
+	$kids = array_values( array_filter( is_wp_error( $kids ) ? array() : $kids, function ( $t ) { return hainute_cat_stats( $t )['count'] > 0; } ) );
+	usort( $kids, function ( $a, $b ) { return hainute_cat_stats( $b )['count'] - hainute_cat_stats( $a )['count']; } ); // cele mai pline întâi
+	return $kids;
 }
 
 /** Aceeași categorie la celelalte genuri (Geci & jachete: fete, băieți, bebe, unisex). @return WP_Term[] */
@@ -278,7 +280,7 @@ add_filter(
 		if ( 'primary' !== ( $args->theme_location ?? '' ) ) {
 			return $items;
 		}
-		$items = preg_replace( '#<li[^>]*><a[^>]*href="' . preg_quote( home_url( '/' ), '#' ) . '"[^>]*>[^<]*</a></li>#', '', $items );
+		$items = preg_replace( '#<li[^>]*>\s*<a[^>]*>\s*Acasă\s*</a>\s*</li>#u', '', $items );
 		$cats  = '';
 		foreach ( array( 'fete' => 'Fete', 'baieti' => 'Băieți', 'bebe' => 'Bebeluși', 'unisex' => 'Unisex' ) as $slug => $label ) {
 			$t = get_term_by( 'slug', $slug, 'product_cat' );
