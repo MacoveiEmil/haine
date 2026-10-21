@@ -40,12 +40,18 @@ if ( $top && ! is_wp_error( $top ) ) {
 
 	<header class="page-head">
 		<h1><?php echo esc_html( $h1 ); ?></h1>
-		<?php if ( ! empty( $term->description ) ) : ?>
+		<?php if ( is_tax( 'product_cat' ) ) : ?>
+			<?php hainute_the_cat_top( $term ); ?>
+		<?php elseif ( ! empty( $term->description ) ) : ?>
 			<p class="page-sub"><?php echo esc_html( $term->description ); ?></p>
 		<?php endif; ?>
 	</header>
 
 	<?php get_template_part( 'template-parts/product-listing' ); ?>
+
+	<?php if ( is_tax( 'product_cat' ) ) : ?>
+		<?php hainute_the_cat_bottom( $term ); ?>
+	<?php endif; ?>
 </div>
 
 <?php

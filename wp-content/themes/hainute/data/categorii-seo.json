@@ -1,0 +1,272 @@
+{
+ "_info": "Textele de pe homepage („acasa”) și de pe paginile de categorie (cheia = slugul categoriei). intro = sub titlu; titlu + text = sub produse. Locuri completate automat: {produse}, {magazine}, {ore}, {branduri}. Fără liniuță lungă, fără „compară”, fără prețuri.",
+ "acasa": {
+  "titlu": "Haine și încălțăminte pentru copii, pe mărimea care chiar există",
+  "text": "Cea mai frustrantă parte la cumpărăturile pentru copii nu e alegerea modelului, ci momentul în care afli că mărimea lipsește. beestyle.ro pornește de la mărime: alegi produsul, apoi mărimea copilului, și vezi pe loc la care dintre cele {magazine} verificate e disponibilă. Stocul pe mărimi se reverifică la fiecare {ore} ore, iar cumpărarea se face direct pe site-ul magazinului.\n\nÎn catalog sunt {produse}, împărțite pe <a href=\"/categorie/fete/\">fete</a>, <a href=\"/categorie/baieti/\">băieți</a>, <a href=\"/categorie/bebe/\">bebeluși</a> și <a href=\"/categorie/unisex/\">modele unisex</a>. Cele mai căutate sunt <a href=\"/categorie/adidasi/\">adidașii pentru fete</a>, <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidașii pentru băieți</a>, <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">gecile unisex</a> și <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghetele și cizmele</a> pentru sezonul rece, de la branduri ca {branduri}.\n\nLa haine, mărimea europeană corespunde înălțimii copilului în centimetri: un copil de 128 cm poartă de obicei mărimea 128. La încălțăminte, măsoară piciorul în picioare, cu șosetă, și adaugă în jur de un centimetru pentru creștere. Pe fiecare pagină de produs găsești intervalul de mărimi și vârsta aproximativă pentru care e făcut."
+ },
+ "fete": {
+  "intro": "Haine și încălțăminte pentru fete, cu mărimile verificate la {magazine}: {produse}, inclusiv modelele unisex.",
+  "titlu": "Haine și încălțăminte pentru fete",
+  "text": "Aici sunt toate produsele pentru fete din catalog, de la <a href=\"/categorie/adidasi/\">adidași</a> și <a href=\"/categorie/ghete-cizme/\">ghete și cizme</a> până la <a href=\"/categorie/geci-jachete/\">geci și jachete</a> și <a href=\"/categorie/bluze-tricouri-hanorace/\">bluze și hanorace</a>. Lista include și modelele unisex, pentru că se potrivesc la fel de bine, iar fiecare produs arată pe loc la ce magazin e disponibilă mărimea aleasă.\n\nBrandurile cu cele mai multe modele sunt {branduri}. Dacă știi deja mărimea, folosește filtrul de mărime: rămân doar produsele care o au în acest moment la cel puțin un magazin."
+ },
+ "baieti": {
+  "intro": "Haine și încălțăminte pentru băieți: {produse}, cu disponibilitatea pe mărimi verificată la fiecare {ore} ore.",
+  "titlu": "Haine și încălțăminte pentru băieți",
+  "text": "Catalogul pentru băieți adună <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidași</a>, <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">ghete</a>, <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geci</a> și <a href=\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\">hanorace și tricouri</a>, alături de modelele unisex. Pentru fiecare produs vezi mărimile disponibile și magazinele care le au, fără să deschizi pe rând fiecare site.\n\nCele mai multe modele vin de la {branduri}. Filtrul de mărime e cea mai rapidă scurtătură: lasă în listă doar ce se găsește acum în mărimea copilului."
+ },
+ "bebe": {
+  "intro": "Haine și încălțăminte pentru bebeluși și copii mici: {produse}, cu mărimile disponibile la fiecare magazin.",
+  "titlu": "Haine și încălțăminte pentru bebeluși",
+  "text": "La copiii mici mărimea se schimbă des, așa că secțiunea pentru bebeluși e organizată după ce cauți cel mai des: <a href=\"/categorie/bebe-incaltaminte-pantofi/\">pantofi pentru primii pași</a>, <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidași</a>, <a href=\"/categorie/bebe-incaltaminte-ghete-cizme/\">ghete</a> și <a href=\"/categorie/bebe-imbracaminte-salopete-compleuri/\">salopete</a>.\n\nMărimile la încălțămintea pentru bebeluși încep de obicei de la 18-19, iar la haine de la 50-56, adică înălțimea în centimetri. Cele mai multe produse sunt de la {branduri}."
+ },
+ "unisex": {
+  "intro": "Modele unisex, bune la fel de bine pentru fete și pentru băieți: {produse}, cu mărimile verificate la {magazine}.",
+  "titlu": "Haine și încălțăminte unisex pentru copii",
+  "text": "Multe produse pentru copii nu au gen: o geacă de iarnă, o pereche de cizme sau o salopetă de ploaie se aleg după mărime și anotimp, nu după culoarea etichetei. Toate apar și în listele pentru fete și pentru băieți, iar aici le găsești la un loc.\n\nCele mai multe sunt <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geci și jachete</a> și <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete și cizme</a>, plus <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli și mănuși</a> pentru iarnă. Brandurile principale sunt {branduri}."
+ },
+ "imbracaminte-fete": {
+  "intro": "Îmbrăcăminte pentru fete, de la geci la bluze și pantaloni: {produse}, inclusiv modele unisex.",
+  "titlu": "Îmbrăcăminte pentru fete, pe mărimi",
+  "text": "Mărimile la haine se dau în centimetri și corespund înălțimii copilului: mărimea 140 e gândită pentru un copil de aproximativ 140 cm. Măsoară copilul fără încălțăminte, lipit de perete, și alege mărimea egală sau imediat peste. La mărimile duble (134-140) intră ambele înălțimi.\n\nCele mai multe produse sunt <a href=\"/categorie/geci-jachete/\">geci și jachete</a>, urmate de <a href=\"/categorie/bluze-tricouri-hanorace/\">bluze și hanorace</a> și <a href=\"/categorie/pantaloni-treninguri/\">pantaloni și treninguri</a>. Branduri: {branduri}."
+ },
+ "incaltaminte-fete": {
+  "intro": "Încălțăminte pentru fete, de la adidași la ghete de iarnă: {produse}, cu numerele disponibile la fiecare magazin.",
+  "titlu": "Încălțăminte pentru fete: cum alegi numărul",
+  "text": "Numărul se alege după lungimea piciorului, nu după vârstă. Măsoară piciorul seara, în picioare și cu șoseta pe care o va purta, apoi adaugă în jur de un centimetru, ca degetele să aibă loc și piciorul să crească. Mulți producători dau lungimea branțului pe pagina produsului.\n\nPentru zilele obișnuite sunt <a href=\"/categorie/adidasi/\">adidașii</a> și <a href=\"/categorie/incaltaminte-pantofi/\">pantofii</a>, iar pentru frig și ploaie <a href=\"/categorie/ghete-cizme/\">ghetele și cizmele</a>. Cele mai multe modele sunt de la {branduri}."
+ },
+ "accesorii-fete": {
+  "intro": "Accesorii pentru fete: căciuli, mănuși și fulare, inclusiv modelele unisex, cu mărimile disponibile.",
+  "titlu": "Accesorii pentru fete",
+  "text": "Accesoriile de iarnă se aleg după circumferința capului sau după vârstă. Le găsești la <a href=\"/categorie/caciuli-manusi-accesorii/\">căciuli, mănuși și accesorii pentru fete</a>, alături de <a href=\"/categorie/geci-jachete/\">gecile pentru fete</a> cu care se poartă."
+ },
+ "imbracaminte-baieti": {
+  "intro": "Îmbrăcăminte pentru băieți: geci, hanorace, tricouri și pantaloni, {produse} cu mărimile verificate.",
+  "titlu": "Îmbrăcăminte pentru băieți, pe mărimi",
+  "text": "La haine, numărul de pe etichetă e înălțimea copilului în centimetri. Un băiat de 152 cm poartă de obicei 152; dacă e între două mărimi, cea mai mare îi va ajunge și sezonul următor. La gecile de iarnă ține cont și de hanoracul gros de dedesubt.\n\nSecțiunea are mai ales <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geci și jachete</a>, apoi <a href=\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\">bluze, tricouri și hanorace</a> și <a href=\"/categorie/baieti-imbracaminte-pantaloni-treninguri/\">pantaloni și treninguri</a>. Branduri: {branduri}."
+ },
+ "incaltaminte-baieti": {
+  "intro": "Încălțăminte pentru băieți: adidași, pantofi, ghete și sandale, {produse} cu numerele disponibile pe loc.",
+  "titlu": "Încălțăminte pentru băieți: numărul potrivit",
+  "text": "Copiii activi uzează încălțămintea repede și cresc din ea și mai repede. Ca să nu ghicești numărul, măsoară lungimea piciorului și adaugă cam un centimetru; dacă piciorul e lat, caută modele cu arici sau cu vârf lat, care se reglează mai ușor.\n\nPentru școală și joacă sunt <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidașii pentru băieți</a>, pentru ocazii <a href=\"/categorie/baieti-incaltaminte-pantofi/\">pantofii</a>, iar pentru iarnă <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">ghetele și cizmele</a>. Branduri: {branduri}."
+ },
+ "accesorii-baieti": {
+  "intro": "Accesorii pentru băieți: căciuli și mănuși pentru iarnă, inclusiv modelele unisex.",
+  "titlu": "Accesorii pentru băieți",
+  "text": "Căciulile și mănușile completează o geacă fără glugă sau una de schi. Vezi <a href=\"/categorie/baieti-accesorii-caciuli-manusi-accesorii/\">căciuli, mănuși și accesorii pentru băieți</a> și <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">gecile pentru băieți</a>."
+ },
+ "imbracaminte-bebe": {
+  "intro": "Îmbrăcăminte pentru bebeluși: salopete, geci și compleuri, {produse} cu mărimile disponibile.",
+  "titlu": "Îmbrăcăminte pentru bebeluși",
+  "text": "La bebeluși, mărimea în centimetri urmează lungimea copilului: 74 pentru un bebeluș de aproximativ 9 luni, 86 pentru unul de în jur de un an și jumătate. Pentru afară, pe vreme rece, o salopetă întreagă ține mai bine de cald decât geaca și pantalonii separat.\n\nVezi <a href=\"/categorie/bebe-imbracaminte-salopete-compleuri/\">salopetele și compleurile</a>, <a href=\"/categorie/bebe-imbracaminte-geci-jachete/\">gecile</a> și <a href=\"/categorie/bebe-imbracaminte-pantaloni-treninguri/\">pantalonii</a> pentru bebeluși. Branduri: {branduri}."
+ },
+ "incaltaminte-bebe": {
+  "intro": "Încălțăminte pentru bebeluși și copii mici, de la primii pași în sus: {produse} cu numerele disponibile.",
+  "titlu": "Încălțăminte pentru primii pași",
+  "text": "Primele încălțări se poartă puțin, dar se schimbă des: piciorul unui copil mic poate crește cu un număr în câteva luni. Măsoară piciorul des și caută talpă flexibilă și închidere cu arici, pe care copilul o desface și singur.\n\nÎn catalog sunt <a href=\"/categorie/bebe-incaltaminte-pantofi/\">pantofi</a>, <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidași</a> și <a href=\"/categorie/bebe-incaltaminte-ghete-cizme/\">ghete</a> pentru bebeluși, de la {branduri}."
+ },
+ "imbracaminte-unisex": {
+  "intro": "Îmbrăcăminte unisex pentru copii: geci, salopete, pantaloni și bluze, {produse} cu mărimile verificate.",
+  "titlu": "Îmbrăcăminte unisex pentru copii",
+  "text": "Hainele de exterior sunt cel mai des unisex: o geacă impermeabilă sau o salopetă de iarnă se alege după vreme și mărime. Pentru sezonul rece, alege mărimea în funcție de înălțimea copilului și lasă loc pentru un strat gros dedesubt.\n\nVezi <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">gecile și jachetele unisex</a>, <a href=\"/categorie/unisex-imbracaminte-salopete-compleuri/\">salopetele</a>, <a href=\"/categorie/unisex-imbracaminte-pantaloni-treninguri/\">pantalonii</a> și <a href=\"/categorie/unisex-imbracaminte-bluze-tricouri-hanorace/\">bluzele și hanoracele</a>. Branduri: {branduri}."
+ },
+ "incaltaminte-unisex": {
+  "intro": "Încălțăminte unisex pentru copii: ghete, adidași, pantofi și sandale, {produse} cu numerele disponibile.",
+  "titlu": "Încălțăminte unisex pentru copii",
+  "text": "Cizmele de iarnă, sandalele de vară și multe perechi de adidași se fac în culori neutre și se potrivesc oricărui copil. Numărul se alege la fel: lungimea piciorului plus în jur de un centimetru.\n\nVezi <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghetele și cizmele unisex</a>, <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidașii</a>, <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofii</a> și <a href=\"/categorie/unisex-incaltaminte-sandale/\">sandalele</a>. Branduri: {branduri}."
+ },
+ "accesorii-unisex": {
+  "intro": "Accesorii unisex pentru copii: căciuli, mănuși și fulare pentru sezonul rece.",
+  "titlu": "Accesorii unisex pentru copii",
+  "text": "Căciulile și mănușile se poartă cu gecile fără glugă și pe pârtie. Le găsești la <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli, mănuși și accesorii unisex</a>, de la {branduri}."
+ },
+ "geci-jachete": {
+  "intro": "Geci și jachete pentru fete, de la modele de tranziție la geci de puf pentru iarnă: {produse}, inclusiv unisex.",
+  "titlu": "Cum alegi geaca pentru fete",
+  "text": "Întâi anotimpul: o geacă de tranziție e subțire și oprește vântul, una de iarnă are izolație sau puf, iar o geacă de schi adaugă membrană și cusături lipite. Pe pagina fiecărui model scrie exact ce are.\n\nApoi mărimea: numărul e înălțimea în centimetri. Pentru iarnă, dacă fata e la limita dintre două mărimi, cea mai mare lasă loc de un pulover gros. O geacă fără glugă cere o căciulă din <a href=\"/categorie/caciuli-manusi-accesorii/\">căciuli și mănuși pentru fete</a>. Branduri: {branduri}."
+ },
+ "pantaloni-treninguri": {
+  "intro": "Pantaloni și treninguri pentru fete, pentru școală, sport și acasă: {produse}, cu mărimile verificate.",
+  "titlu": "Pantaloni și treninguri pentru fete",
+  "text": "Pantalonii se aleg după înălțime, dar contează și talia: modelele cu elastic sau cu șnur se strâng pe copiii mai slabi, iar cele cu croială lejeră vin comod și copiilor mai plinuți.\n\nSe poartă cu <a href=\"/categorie/bluze-tricouri-hanorace/\">bluzele și hanoracele pentru fete</a>. Branduri: {branduri}."
+ },
+ "rochii-fuste": {
+  "intro": "Rochii și fuste pentru fete, cu mărimile disponibile la fiecare magazin.",
+  "titlu": "Rochii și fuste pentru fete",
+  "text": "Rochiile se aleg după înălțime, iar lungimea diferă de la model la model. Completează ținuta cu <a href=\"/categorie/incaltaminte-pantofi/\">pantofi pentru fete</a>."
+ },
+ "salopete-compleuri": {
+  "intro": "Salopete și compleuri pentru fete, inclusiv modelele unisex de iarnă și de ploaie: {produse}.",
+  "titlu": "Salopete și compleuri pentru fete",
+  "text": "O salopetă întreagă nu lasă zăpada să intre pe la mijloc, așa că e alegerea obișnuită pentru joaca afară iarna. Alege mărimea după înălțime, cu loc pentru un strat cald dedesubt, și completează cu <a href=\"/categorie/ghete-cizme/\">ghete sau cizme pentru fete</a>. Branduri: {branduri}."
+ },
+ "bluze-tricouri-hanorace": {
+  "intro": "Bluze, tricouri și hanorace pentru fete: {produse} de purtat zilnic, cu mărimile disponibile pe loc.",
+  "titlu": "Bluze, tricouri și hanorace pentru fete",
+  "text": "Pentru purtat zilnic contează materialul și croiala: bumbacul e plăcut și ușor de spălat, iar o croială lejeră lasă loc de mișcare și de un tricou dedesubt. Hanoracele fără glugă se poartă ușor sub <a href=\"/categorie/geci-jachete/\">geci</a>. Se combină cu <a href=\"/categorie/pantaloni-treninguri/\">pantaloni și treninguri pentru fete</a>. Branduri: {branduri}."
+ },
+ "adidasi": {
+  "intro": "Adidași pentru fete, pentru școală, sport și zilele de joacă: {produse}, inclusiv modelele unisex.",
+  "titlu": "Adidași pentru fete: la ce să te uiți",
+  "text": "Pentru copiii care se încalță singuri, închiderea contează mai mult decât pare: aricii și șireturile elastice se strâng fără nod. Un branț detașabil se scoate la uscat și ajută la verificarea numărului, iar o membrană sau un exterior rezistent la apă e utilă toamna, pe iarba udă și pe ploaie.\n\nNumărul se alege după lungimea piciorului plus în jur de un centimetru. Pentru vreme rece, vezi și <a href=\"/categorie/ghete-cizme/\">ghetele și cizmele pentru fete</a>. Branduri: {branduri}."
+ },
+ "papuci": {
+  "intro": "Papuci pentru fete, de casă și de vară, cu numerele disponibile la fiecare magazin.",
+  "titlu": "Papuci pentru fete",
+  "text": "Papucii se aleg după lungimea piciorului, ca orice încălțăminte. Pentru vară vezi și <a href=\"/categorie/incaltaminte-sandale/\">sandalele pentru fete</a>."
+ },
+ "incaltaminte-sandale": {
+  "intro": "Sandale pentru fete, pentru vară și vacanță: {produse}, inclusiv modelele unisex.",
+  "titlu": "Sandale pentru fete",
+  "text": "La sandale, piciorul trebuie să stea fix: caută barete reglabile cu arici și călcâi închis sau prins cu baretă, ca sandaua să nu alunece la alergat. Pentru zilele mai răcoroase, vezi <a href=\"/categorie/adidasi/\">adidașii pentru fete</a>. Branduri: {branduri}."
+ },
+ "incaltaminte-pantofi": {
+  "intro": "Pantofi pentru fete, de oraș și de ocazie: {produse}, cu numerele disponibile la fiecare magazin.",
+  "titlu": "Pantofi pentru fete",
+  "text": "Pantofii se poartă mai ales la școală și la ocazii, deci se aleg pentru tot sezonul: lungimea piciorului plus un centimetru, cu vârf suficient de larg pentru degete. Modelele cu arici se reglează pe picioare mai înguste sau mai late.\n\nPentru sport și joacă, vezi <a href=\"/categorie/adidasi/\">adidașii pentru fete</a>. Branduri: {branduri}."
+ },
+ "ghete-cizme": {
+  "intro": "Ghete și cizme pentru fete, pentru ploaie, zăpadă și frig: {produse}, inclusiv modelele unisex.",
+  "titlu": "Ghete și cizme pentru fete: ce contează iarna",
+  "text": "Pentru iarnă caută trei lucruri, scrise pe pagina fiecărui model: izolația (căptușeală caldă, lână, blăniță), protecția la apă (membrană impermeabilă sau exterior rezistent la apă) și talpa din cauciuc cu profil. Pentru ploaie, cizmele de cauciuc rămân cele mai simple.\n\nNumărul se ia cu șoseta groasă pe care copilul o va purta. Completează cu <a href=\"/categorie/salopete-compleuri/\">salopete</a> sau <a href=\"/categorie/geci-jachete/\">geci de iarnă pentru fete</a>. Branduri: {branduri}."
+ },
+ "caciuli-manusi-accesorii": {
+  "intro": "Căciuli, mănuși și accesorii pentru fete, pentru sezonul rece: {produse}, inclusiv modelele unisex.",
+  "titlu": "Căciuli și mănuși pentru fete",
+  "text": "Căciula se alege după circumferința capului sau după vârsta scrisă pe etichetă, iar mănușile după vârstă. Se poartă cu <a href=\"/categorie/geci-jachete/\">gecile pentru fete</a>, mai ales cu cele fără glugă. Branduri: {branduri}."
+ },
+ "baieti-imbracaminte-geci-jachete": {
+  "intro": "Geci și jachete pentru băieți: de tranziție, de puf și de schi, {produse} inclusiv modelele unisex.",
+  "titlu": "Geci pentru băieți: tranziție sau iarnă",
+  "text": "O geacă windbreaker sau una subțire de tranziție e pentru primăvară și toamnă, o geacă cu puf sau izolație sintetică pentru iarnă, iar una de schi pentru zăpadă, cu membrană și coloană de apă declarată. Pagina fiecărui model spune ce are.\n\nLa mărime, înălțimea în centimetri e punctul de plecare. Lungimea până la șolduri sau mai jos acoperă spatele când copilul se apleacă, iar un șnur sau un tiv elastic la bază ține căldura. Pentru cap și mâini, vezi <a href=\"/categorie/baieti-accesorii-caciuli-manusi-accesorii/\">căciulile și mănușile pentru băieți</a>. Branduri: {branduri}."
+ },
+ "baieti-imbracaminte-pantaloni-treninguri": {
+  "intro": "Pantaloni și treninguri pentru băieți: {produse} pentru școală, sport și joacă, cu mărimile verificate.",
+  "titlu": "Pantaloni și treninguri pentru băieți",
+  "text": "La pantaloni, înălțimea dă mărimea, iar talia dă potrivirea: elasticul și șnurul strâng la băieții mai slabi, croiala baggy sau lejeră vine comod la cei mai plinuți. Pantalonii de ploaie, cu talie înaltă, acoperă spatele când copilul se apleacă.\n\nSe poartă cu <a href=\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\">bluzele și hanoracele pentru băieți</a>. Branduri: {branduri}."
+ },
+ "baieti-imbracaminte-salopete-compleuri": {
+  "intro": "Salopete și compleuri pentru băieți, inclusiv modelele unisex de iarnă și de ploaie: {produse}.",
+  "titlu": "Salopete pentru băieți",
+  "text": "Pentru zăpadă și noroi, salopeta întreagă e mai practică decât geaca și pantalonii separat. Alege mărimea după înălțime, cu loc de un strat cald, și completează cu <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">ghete sau cizme pentru băieți</a>. Branduri: {branduri}."
+ },
+ "baieti-imbracaminte-bluze-tricouri-hanorace": {
+  "intro": "Bluze, tricouri și hanorace pentru băieți: {produse} de purtat zilnic, inclusiv modelele unisex.",
+  "titlu": "Bluze, tricouri și hanorace pentru băieți",
+  "text": "Tricourile și bluzele din bumbac sunt cele mai ușor de purtat și de spălat. La hanorace, bordurile elastice la manșete și la bază le țin pe corp, iar modelele fără glugă intră ușor sub o geacă.\n\nVezi și <a href=\"/categorie/baieti-imbracaminte-pantaloni-treninguri/\">pantalonii și treningurile pentru băieți</a>. Branduri: {branduri}."
+ },
+ "baieti-incaltaminte-adidasi": {
+  "intro": "Adidași pentru băieți, pentru școală, sport și joacă afară: {produse}, inclusiv modelele unisex.",
+  "titlu": "Adidași pentru băieți: ce verifici",
+  "text": "La adidașii de zi cu zi verifică închiderea (arici sau șireturi elastice, dacă se încalță singur), talpa din cauciuc și dacă au protecție la apă, pentru toamnă. Un branț detașabil ajută la uscat și la verificat numărul.\n\nNumărul = lungimea piciorului plus în jur de un centimetru. Pentru iarnă, vezi <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">ghetele și cizmele pentru băieți</a>. Branduri: {branduri}."
+ },
+ "baieti-incaltaminte-pantofi": {
+  "intro": "Pantofi pentru băieți, pentru școală și ocazii: {produse}, cu numerele disponibile la fiecare magazin.",
+  "titlu": "Pantofi pentru băieți",
+  "text": "Pantofii de școală se poartă zilnic, deci merită aleși cu loc pentru creștere și cu un vârf care nu strânge degetele. Pentru sport, vezi <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidașii pentru băieți</a>. Branduri: {branduri}."
+ },
+ "baieti-incaltaminte-ghete-cizme": {
+  "intro": "Ghete și cizme pentru băieți: de iarnă, de ploaie și de drumeție, {produse} inclusiv modelele unisex.",
+  "titlu": "Ghete și cizme pentru băieți",
+  "text": "Ghetele de iarnă se aleg după izolație și protecția la apă, iar cele de drumeție după talpă și gleznă: carâmbul înalt și călcâiul întărit țin piciorul pe teren denivelat. Încearcă numărul cu șoseta groasă.\n\nCompletează cu <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">o geacă de iarnă pentru băieți</a>. Branduri: {branduri}."
+ },
+ "baieti-incaltaminte-sandale": {
+  "intro": "Sandale pentru băieți, pentru vară, mare și munte: {produse}, inclusiv modelele unisex.",
+  "titlu": "Sandale pentru băieți",
+  "text": "Sandalele pentru joacă trebuie să stea fix pe picior: barete reglabile cu arici și vârf protejat, dacă se poartă pe trasee. Pentru restul anului, vezi <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidașii pentru băieți</a>. Branduri: {branduri}."
+ },
+ "baieti-incaltaminte-papuci": {
+  "intro": "Papuci pentru băieți, inclusiv modelele unisex, cu numerele disponibile.",
+  "titlu": "Papuci pentru băieți",
+  "text": "Papucii se aleg după lungimea piciorului. Pentru vară, vezi și <a href=\"/categorie/baieti-incaltaminte-sandale/\">sandalele pentru băieți</a>."
+ },
+ "baieti-accesorii-caciuli-manusi-accesorii": {
+  "intro": "Căciuli, mănuși și accesorii pentru băieți, inclusiv modelele unisex: {produse}.",
+  "titlu": "Căciuli și mănuși pentru băieți",
+  "text": "Căciula se alege după circumferința capului sau după vârstă. Se poartă cu <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">gecile pentru băieți</a> fără glugă și pe pârtie. Branduri: {branduri}."
+ },
+ "bebe-imbracaminte-pantaloni-treninguri": {
+  "intro": "Pantaloni și treninguri pentru bebeluși, cu mărimile disponibile la fiecare magazin.",
+  "titlu": "Pantaloni pentru bebeluși",
+  "text": "La bebeluși, talia elastică e cea mai practică: pantalonii se trag ușor peste scutec. Vezi și <a href=\"/categorie/bebe-imbracaminte-salopete-compleuri/\">salopetele pentru bebeluși</a>."
+ },
+ "bebe-imbracaminte-bluze-tricouri-hanorace": {
+  "intro": "Bluze și hanorace pentru bebeluși, cu mărimile disponibile.",
+  "titlu": "Bluze pentru bebeluși",
+  "text": "La bluzele pentru bebeluși, decolteul larg sau cu capse face îmbrăcatul mai ușor. Vezi și <a href=\"/categorie/bebe-imbracaminte-salopete-compleuri/\">salopetele și compleurile</a>."
+ },
+ "bebe-imbracaminte-salopete-compleuri": {
+  "intro": "Salopete și compleuri pentru bebeluși, pentru acasă și pentru afară: {produse} cu mărimile verificate.",
+  "titlu": "Salopete pentru bebeluși",
+  "text": "Pentru plimbări pe frig, salopeta întreagă ține bebelușul cald fără goluri la mijloc. Mărimea în centimetri urmează lungimea copilului; lasă loc pentru hainele de dedesubt. Vezi și <a href=\"/categorie/bebe-imbracaminte-geci-jachete/\">gecile pentru bebeluși</a>. Branduri: {branduri}."
+ },
+ "bebe-imbracaminte-geci-jachete": {
+  "intro": "Geci și jachete pentru bebeluși și copii mici: {produse}, cu mărimile disponibile.",
+  "titlu": "Geci pentru bebeluși",
+  "text": "La copiii mici, o geacă puțin mai lungă acoperă spatele când stau în cărucior sau se apleacă. Pentru iarnă, gândește-te și la <a href=\"/categorie/bebe-imbracaminte-salopete-compleuri/\">o salopetă</a>. Branduri: {branduri}."
+ },
+ "bebe-incaltaminte-pantofi": {
+  "intro": "Pantofi pentru bebeluși și primii pași: {produse}, cu numerele disponibile la fiecare magazin.",
+  "titlu": "Pantofi pentru primii pași",
+  "text": "Pentru primii pași, caută talpă flexibilă și ușoară, vârf larg și închidere cu arici, care se reglează pe picior. Piciorul crește repede la vârsta asta: verifică numărul la fiecare câteva luni.\n\nVezi și <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidașii pentru bebeluși</a>. Branduri: {branduri}."
+ },
+ "bebe-incaltaminte-ghete-cizme": {
+  "intro": "Ghete și cizme pentru bebeluși, pentru frig și ploaie: {produse} cu numerele disponibile.",
+  "titlu": "Ghete pentru bebeluși",
+  "text": "Ghetele pentru copiii mici trebuie să se deschidă larg, ca piciorul să intre ușor, și să aibă interior cald pentru iarnă. Completează cu <a href=\"/categorie/bebe-imbracaminte-salopete-compleuri/\">o salopetă pentru bebeluși</a>. Branduri: {branduri}."
+ },
+ "bebe-incaltaminte-adidasi": {
+  "intro": "Adidași pentru bebeluși și copii mici: {produse}, cu numerele disponibile la fiecare magazin.",
+  "titlu": "Adidași pentru bebeluși",
+  "text": "La adidașii pentru copii mici, aricii sunt mai practici decât șireturile, iar un profil scurt lasă glezna liberă. Vezi și <a href=\"/categorie/bebe-incaltaminte-pantofi/\">pantofii pentru primii pași</a>. Branduri: {branduri}."
+ },
+ "unisex-imbracaminte-geci-jachete": {
+  "intro": "Geci și jachete unisex pentru copii, de la geci de ploaie la geci de schi: {produse} cu mărimile verificate.",
+  "titlu": "Geci unisex pentru copii: cum citești o geacă",
+  "text": "Pe pagina fiecărei geci scrie ce face: membrana și coloana de apă (în mm) arată cât rezistă la ploaie, cusăturile lipite opresc apa pe la cusături, izolația sau pufu spun cât de caldă e, iar elementele reflectorizante ajută pe întuneric.\n\nMărimea e înălțimea copilului; pentru iarnă lasă loc de un strat gros. Croiala lejeră și lungimea până la coapse sunt bune pentru joaca afară. Completează cu <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli și mănuși unisex</a>. Branduri: {branduri}."
+ },
+ "unisex-imbracaminte-pantaloni-treninguri": {
+  "intro": "Pantaloni și treninguri unisex: de ploaie, de iarnă și de purtat zilnic, {produse} cu mărimile verificate.",
+  "titlu": "Pantaloni unisex pentru copii",
+  "text": "Pantalonii de exterior se aleg ca gecile: după protecția la apă și izolație. Talia înaltă și tivul elastic la glezne țin zăpada și apa afară. Se poartă cu <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete sau cizme unisex</a>. Branduri: {branduri}."
+ },
+ "unisex-imbracaminte-salopete-compleuri": {
+  "intro": "Salopete și compleuri unisex pentru iarnă și ploaie: {produse}, cu mărimile disponibile.",
+  "titlu": "Salopete unisex pentru copii",
+  "text": "Salopeta de iarnă sau de ploaie e piesa cea mai practică pentru joaca afară: nu lasă zăpada să intre pe la mijloc și se îmbracă peste hainele obișnuite. Uită-te la protecția la apă și la izolație, apoi alege mărimea după înălțime. Completează cu <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete sau cizme</a>. Branduri: {branduri}."
+ },
+ "unisex-imbracaminte-bluze-tricouri-hanorace": {
+  "intro": "Bluze, tricouri și hanorace unisex pentru copii: {produse}, cu mărimile verificate.",
+  "titlu": "Bluze și hanorace unisex",
+  "text": "Straturile de mijloc, cum sunt bluzele din lână sau fleece, țin de cald sub o geacă de iarnă. Vezi și <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">gecile unisex</a>. Branduri: {branduri}."
+ },
+ "unisex-accesorii-caciuli-manusi-accesorii": {
+  "intro": "Căciuli, mănuși și accesorii unisex pentru copii, pentru iarnă și pârtie: {produse}.",
+  "titlu": "Căciuli și mănuși unisex",
+  "text": "Căciula se alege după circumferința capului, mănușile după vârstă. Cele impermeabile sunt pentru zăpadă și se poartă cu <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">gecile unisex</a>. Branduri: {branduri}."
+ },
+ "unisex-incaltaminte-adidasi": {
+  "intro": "Adidași unisex pentru copii, buni pentru oricine: {produse}, cu numerele disponibile la fiecare magazin.",
+  "titlu": "Adidași unisex pentru copii",
+  "text": "Adidașii în culori neutre se moștenesc ușor între frați. Numărul se alege după lungimea piciorului plus în jur de un centimetru. Pentru frig, vezi <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghetele unisex</a>. Branduri: {branduri}."
+ },
+ "unisex-incaltaminte-ghete-cizme": {
+  "intro": "Ghete și cizme unisex pentru copii: de iarnă, de ploaie și de drumeție, {produse} cu numerele disponibile.",
+  "titlu": "Ghete și cizme unisex: iarnă, ploaie, drumeție",
+  "text": "Cizmele de cauciuc sunt pentru ploaie și noroi, ghetele cu membrană (de exemplu GORE-TEX) pentru zăpadă și bălți, iar cele cu izolație pentru ger. Pentru drumeție contează carâmbul înalt și talpa cu profil.\n\nÎncearcă numărul cu șoseta groasă de iarnă. Completează cu <a href=\"/categorie/unisex-imbracaminte-salopete-compleuri/\">o salopetă unisex</a>. Branduri: {branduri}."
+ },
+ "unisex-incaltaminte-pantofi": {
+  "intro": "Pantofi unisex pentru copii, de purtat zilnic: {produse}, cu numerele disponibile.",
+  "titlu": "Pantofi unisex pentru copii",
+  "text": "Pantofii de zi cu zi se aleg cu loc pentru degete și pentru creștere, iar modelele cu arici se reglează pe picior. Vezi și <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidașii unisex</a>. Branduri: {branduri}."
+ },
+ "unisex-incaltaminte-papuci": {
+  "intro": "Papuci unisex pentru copii, de casă și de vară.",
+  "titlu": "Papuci unisex pentru copii",
+  "text": "Papucii de casă trebuie să stea fix pe picior, ca să nu alunece copilul. Pentru vară, vezi <a href=\"/categorie/unisex-incaltaminte-sandale/\">sandalele unisex</a>."
+ },
+ "unisex-incaltaminte-sandale": {
+  "intro": "Sandale unisex pentru copii, pentru vară și apă: {produse}, cu numerele disponibile.",
+  "titlu": "Sandale unisex pentru copii",
+  "text": "Sandalele de vară se prind cu barete reglabile; cele care se pot uda sunt bune pentru plajă și piscină. Pentru restul anului, vezi <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidașii unisex</a>. Branduri: {branduri}."
+ }
+}

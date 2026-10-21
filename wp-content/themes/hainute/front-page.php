@@ -25,33 +25,12 @@ get_header();
 	</div>
 </section>
 
-<?php
-$categories = get_terms(
-	array(
-		'taxonomy'   => 'product_cat',
-		'hide_empty' => true,
-		'orderby'    => 'count',
-		'order'      => 'DESC',
-		'number'     => 6,
-	)
-);
-
-if ( ! is_wp_error( $categories ) && $categories ) :
-	?>
-	<section class="home-section">
-		<div class="container">
-			<h2 class="home-title"><?php esc_html_e( 'Categorii populare', 'hainute' ); ?></h2>
-			<div class="category-grid">
-				<?php foreach ( $categories as $term ) : ?>
-					<a class="category-card" href="<?php echo esc_url( get_term_link( $term ) ); ?>">
-						<span class="category-name"><?php echo esc_html( hainute_term_path_label( $term ) ); ?></span>
-						<span class="category-count"><?php echo esc_html( hainute_ro_count( $term->count, 'produs', 'produse' ) ); ?></span>
-					</a>
-				<?php endforeach; ?>
-			</div>
-		</div>
-	</section>
-<?php endif; ?>
+<section class="home-section">
+	<div class="container">
+		<h2 class="home-title"><?php esc_html_e( 'Categorii', 'hainute' ); ?></h2>
+		<?php hainute_the_home_categories(); ?>
+	</div>
+</section>
 
 <?php
 $latest = new WP_Query(
@@ -102,6 +81,14 @@ if ( $latest->have_posts() ) :
 				<p><?php esc_html_e( 'Comanzi direct pe site-ul magazinului ales. Noi doar te ducem la raftul potrivit.', 'hainute' ); ?></p>
 			</div>
 		</div>
+	</div>
+</section>
+
+<section class="home-section">
+	<div class="container">
+		<h2 class="home-title"><?php esc_html_e( 'Branduri populare', 'hainute' ); ?></h2>
+		<?php hainute_the_home_brands(); ?>
+		<?php hainute_the_home_text(); ?>
 	</div>
 </section>
 

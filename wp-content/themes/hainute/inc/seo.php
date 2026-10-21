@@ -54,7 +54,8 @@ add_filter( 'wp_robots', function ( $robots ) {
 		return $robots;
 	}
 	// Listare fără niciun produs (brand/categorie golită): pagină subțire, nu în index.
-	if ( is_search() || is_404() || ( is_tax() && 0 === (int) $GLOBALS['wp_query']->found_posts ) ) {
+	if ( is_search() || is_404() || ( is_tax() && 0 === (int) $GLOBALS['wp_query']->found_posts )
+		|| ( is_tax( 'product_cat' ) && function_exists( 'hainute_cat_is_thin' ) && hainute_cat_is_thin( get_queried_object() ) ) ) {
 		unset( $robots['index'], $robots['max-image-preview'] );
 		$robots['noindex'] = true;
 		$robots['follow']  = true;
@@ -558,6 +559,13 @@ add_filter( 'wp_sitemaps_posts_query_args', function ( $args, $post_type ) {
 add_filter( 'wp_sitemaps_taxonomies_query_args', function ( $args, $taxonomy ) {
 	if ( 'store' === $taxonomy ) {
 		$args['include'] = wp_list_pluck( hainute_store_terms_active(), 'term_id' ) ?: array( 0 );
+	}
+	// Categoriile cu sub 3 produse sunt noindex (pagini subțiri); fete/băieți fără produse proprii
+	// au totuși produsele unisex, deci nu se ascund după numărul WordPress.
+	if ( 'product_cat' === $taxonomy && function_exists( 'hainute_cat_is_thin' ) ) {
+		$thin               = array_filter( get_terms( array( 'taxonomy' => 'product_cat', 'hide_empty' => false ) ), 'hainute_cat_is_thin' );
+		$args['exclude']    = wp_list_pluck( $thin, 'term_id' );
+		$args['hide_empty'] = false;
 	}
 	return $args;
 }, 10, 2 );
