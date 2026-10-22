@@ -1,0 +1,74 @@
+{
+ "id": 11218,
+ "versiune": "v7",
+ "descriere_html": "<p>Bluza <a href=\"/brand/konges-slojd/\">Konges Sløjd</a> LOUMILLA SWEAT SHIRT albastră este printre <a href=\"/categorie/bebe-imbracaminte-bluze-tricouri-hanorace/\">bluzele pentru bebeluși</a>, din tricot cu imprimeu și mult bumbac organic, foarte confortabil. Fibra are decorațiuni cu paiete.</p><p>Croiala e lejeră, cu umerii lăsați și decolteu rotund, fără glugă. Mânecile și marginea de jos se termină cu o bandă elastică confortabilă, ca bluza să stea bine pe corp.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 75% bumbac organic, 25% poliester.</li><li><strong>Decolteu</strong>: rotund.</li><li><strong>Model</strong>: imprimeu cu paiete.</li><li><strong>Glugă</strong>: nu are.</li></ul><p>De la 80 la 134-140, mărimile acoperă orientativ 1-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "LOUMILLA SWEAT SHIRT"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "tricot",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "confecționat din tricot cu imprimeu"
+  },
+  {
+   "fapt": "bumbac",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "conținut ridicat de bumbac"
+  },
+  {
+   "fapt": "paiete",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "Fibra decorata cu paiete"
+  },
+  {
+   "fapt": "lejeră",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "Croială lejeră"
+  },
+  {
+   "fapt": "umeri",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "Linia umerilor lasata"
+  },
+  {
+   "fapt": "decolteu",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "Decolteu rotund"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "elastic",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "Mâneci și marginea inferioară finisate cu o coadă elastică"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/konges-slojd-bluza-copii-loumilla-sweat-shirt-ocs-cu-imprimeu-ks104948-1715170",
+   "fragment": "75% Bumbac organic, 25% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Konges Sløjd LOUMILLA SWEAT SHIRT",
+  "Material": "75% bumbac organic, 25% poliester",
+  "Caracteristici": "imprimeu, paiete, croială lejeră",
+  "Cod produs": "KS104948"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „SWEAT” în locul culorii; culoarea e cea de la magazin (albastru)."
+ ]
+}

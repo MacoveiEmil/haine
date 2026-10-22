@@ -1,0 +1,80 @@
+{
+ "id": 11274,
+ "versiune": "v7",
+ "descriere_html": "<p>Blugii <a href=\"/brand/konges-slojd/\">Konges Sløjd</a> ELBA FLARE JEANS bleumarin sunt <a href=\"/categorie/pantaloni-treninguri/\">pantaloni pentru fete</a> din denim confortabil, din bumbac organic certificat GOTS, cultivat fără îngrășăminte și pesticide. Sunt ușor mulați pe șolduri, iar materialul e elastic.</p><p>Se încheie cu nasture și fermoar, iar talia are bandă elastică, utilă la copiii mici. Tipul de blugi e „clopot”, ca în numele modelului.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% bumbac organic.</li><li><strong>Brâu</strong>: normal.</li><li><strong>Închidere</strong>: nasture și fermoar.</li></ul><p>Mărimile 86 până la 134-140 sunt gândite, cu aproximație, pentru 1-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "ELBA FLARE JEANS"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "Culoare bleumarin"
+  },
+  {
+   "fapt": "denim",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "Model confectionat din denim confortabil"
+  },
+  {
+   "fapt": "organic",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "bumbac organic certificat"
+  },
+  {
+   "fapt": "pesticide",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "fara utilizarea ingrasamintelor sau pesticidelor"
+  },
+  {
+   "fapt": "mulați",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "Blugi usor mulati in zona soldurilor"
+  },
+  {
+   "fapt": "elastic",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "elastic"
+  },
+  {
+   "fapt": "nasture",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "Incheiere cu nasture si fermoar"
+  },
+  {
+   "fapt": "talie",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "Banda elastica in talie"
+  },
+  {
+   "fapt": "clopot",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "Tip de blugi: clopot"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "100% Bumbac organic"
+  },
+  {
+   "fapt": "brâu",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-elba-flare-jeans-gots-ks104394-1645685",
+   "fragment": "Brâu: normal"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Konges Sløjd ELBA FLARE JEANS",
+  "Material": "100% bumbac organic",
+  "Caracteristici": "evazați, talie elastică, nasture și fermoar",
+  "Cod produs": "KS104394"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „ELBA” în locul culorii; culoarea e cea de la magazin (bleumarin).",
+  "Descrierea spune „picior conic”, caracteristicile „clopot” și numele „FLARE”; am urmat numele și caracteristicile."
+ ]
+}

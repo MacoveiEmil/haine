@@ -86,3 +86,6 @@
 9587 Geox J26ETA: descrierea spune piele întoarsă, compoziția e sintetică
 10254 Patrizia Pepe 7O0041: titlul site-ului nu are culoare („Fete”), la magazin albastru
 10271 Polo Ralph Lauren 323970093001: magazinul îl numește palton și geacă, izolat și neizolat
+10492 Max&Co. MAXJ1F: titlul site-ului are „JACKET” în loc de culoare (la magazin: roșu)
+10539 Max&Co. MAXJ49F: titlul site-ului are „JACKET” în loc de culoare (la magazin: albastru)
+10632 Bobo Choses Modern: titlul site-ului are „Modern” în loc de culoare (la magazin: albastru / multicolor)

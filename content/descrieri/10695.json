@@ -1,0 +1,79 @@
+{
+ "id": 10695,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/liewood/\">Liewood</a> Anemone Long Jacket bleumarin este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> lungă, ușor izolată, din material ornamentat, din poliester reciclat certificat GRS. Căptușeala e completă, sintetică.</p><p>Se închide cu fermoar, deci se pune și se scoate ușor, iar mânecile sunt finisate cu manșetă. Elementele reflectorizante o fac mai vizibilă după lăsarea întunericului. Tăietura e simplă, fără blocare, iar izolația ușoară o face potrivită pentru zilele răcoroase.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester reciclat.</li><li><strong>Umplutură</strong>: 100% poliester.</li><li><strong>Izolație</strong>: ușoară.</li></ul><p>Între 98 și 140, mărimile acoperă cam 3-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "Anemone Long Jacket"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "culoarea bleumarin"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "Model ușor izolat confecționat din material ornamentat"
+  },
+  {
+   "fapt": "GRS",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "GRS (Global Recycle Standard)"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "cu căptușeală completă, sintetică"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "Închiderea convenabilă cu fermoar"
+  },
+  {
+   "fapt": "manșetă",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "Finisaj din manseta"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "Elementele reflectorizante sporesc vizibilitatea și siguranța după întuneric"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "100% Poliester reciclat"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "ușoară",
+   "url": "answear.ro/p/liewood-geaca-copii-anemone-long-jacket-culoarea-bleumarin-lw20194-1626129",
+   "fragment": "ușoară"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Liewood Anemone Long Jacket",
+  "Material": "100% poliester reciclat",
+  "Caracteristici": "lungă, ușor izolată, reflectorizante",
+  "Cod produs": "LW20194"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "3-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Atributele spun „cu glugă”, caracteristicile „fără glugă”; nu am scris despre glugă. Culoarea producătorului e „Cherr...”, magazinul dă bleumarin."
+ ]
+}

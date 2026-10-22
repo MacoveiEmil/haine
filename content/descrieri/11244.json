@@ -1,0 +1,100 @@
+{
+ "id": 11244,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/didriksons/\">Didriksons</a> NEPTUN KIDS JKT 4 roșie pe site (albastră la magazin) este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> izolată, cu umplutură sintetică medie spre groasă. Materialul exterior rezistă la vânt și apă, cu 10000 mm coloană de apă și 4 000 g/m2/24h respirabilitate.</p><p>Gluga se detașează, gulerul e ridicat, iar fermoarul are clapă de furtună cu capse. Mânecile se reglează cu velcro și au manșete elastice cu găuri pentru degetul mare. Spatele e mai lung, iar reflectorizantele ajută seara.</p><p>Detaliile de bază:</p><ul><li><strong>Buzunare</strong>: două laterale, cu fermoar.</li><li><strong>Material</strong>: 100% poliamidă.</li><li><strong>Umplutură</strong>: 100% poliester.</li></ul><p>Mărimile 90-140 se potrivesc cu aproximație la 2-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "NEPTUN KIDS JKT 4"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Model izolat"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "medie, groasă"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Materialul exterior este rezistent la vânt și apă"
+  },
+  {
+   "fapt": "coloană",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Impermeabilitate: 10000 mm"
+  },
+  {
+   "fapt": "respirabil",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Respirabilitate: 4 000 g/m2/24h"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Gulerul ridicat și gluga detașabilă"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Închidere cu fermoar pe toată lungimea cu clapă de furtună prinsă cu capse"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Marginile inferioare ale mânecilor sunt reglabile cu Velcro"
+  },
+  {
+   "fapt": "degetul",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Manșete elastice cu găuri pentru degetul mare"
+  },
+  {
+   "fapt": "spate",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Spatele mai lung"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Elementele reflectorizante"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "Două buzunare laterale antiderapante și cu fermoar"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "100% Poliamida"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/didriksons-geaca-copii-neptun-kids-jkt-4-505985-1635030",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Didriksons NEPTUN KIDS JKT 4",
+  "Material": "100% poliamidă",
+  "Caracteristici": "10000 mm, glugă detașabilă, găuri pentru deget",
+  "Cod produs": "505985"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Culoarea din titlul site-ului (roșu) nu se potrivește cu cea a magazinului (albastru, Sapphire).",
+  "Rezistența la apă e cea declarată de magazin, care precizează că nu garantează impermeabilitatea completă."
+ ]
+}
