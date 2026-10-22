@@ -1,0 +1,80 @@
+{
+ "id": 13016,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de schi <a href=\"/brand/burton/\">Burton</a> SKIMMER este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> în culoarea negru pe site (roz la magazin), cu umplutură ușoară ThermacoreECO, din peste 90% fibre reciclate, care se usucă repede. Sistemul Grow îi prelungește viața pe mai multe sezoane, pe măsură ce copilul crește.</p><p>Pe interior are centură de zăpadă, iar geaca se închide cu fermoar și velcro. E certificată Bluesign.</p><p>Buzunarele și materialele:</p><ul><li><strong>Buzunare</strong>: două laterale cu fermoar, plus unul pe mânecă.</li><li><strong>Exterior</strong>: 100% nailon.</li><li><strong>Umplutură</strong>: 95% poliester reciclat.</li></ul><p>Mărimile 116-122 până la 164-166 sunt pentru copii de aproximativ 6-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "Burton Geacă de schi pentru copii SKIMMER culoarea negru, 243151"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "Culoare roz"
+  },
+  {
+   "fapt": "Thermacore",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "Umplutura usoara, sintetica ThermacoreECO, realizata din peste 90% fibre reciclate"
+  },
+  {
+   "fapt": "uscare",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "proprietățile sale de uscare rapidă"
+  },
+  {
+   "fapt": "Grow",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "Sistemul Grow va permite sa prelungiti durata de viata a imbracamintei exterioare pentru copii, astfel incat sa dureze mai multe sezoane"
+  },
+  {
+   "fapt": "centură",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "o centură de zăpadă încorporată"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "Fixarea cu fermoar si velcro"
+  },
+  {
+   "fapt": "Bluesign",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "Model certificat Bluesign® Standard"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "Două buzunare laterale antiderapante și cu fermoar"
+  },
+  {
+   "fapt": "mânecă",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "Un buzunar suplimentar pe mânecă"
+  },
+  {
+   "fapt": "exterior",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "Materialul de baza: 100% Nailon"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/burton-geaca-de-schi-pentru-copii-skimmer-culoarea-negru-243151-1657203",
+   "fragment": "95% Poliester reciclat, 5% Elastan"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Burton SKIMMER",
+  "Material": "100% nailon, umplutură ThermacoreECO din poliester reciclat",
+  "Caracteristici": "sistem Grow, centură de zăpadă, Bluesign",
+  "Cod produs": "243151"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul spune negru, magazinul dă culoarea roz; am scris ambele.",
+  "Descrierea scurtă spune „neizolat”, dar lista pomenește umplutura ThermacoreECO; am scris umplutură ușoară."
+ ]
+}
