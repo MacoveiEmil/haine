@@ -1,0 +1,69 @@
+{
+ "id": 11112,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele de iarnă <a href=\"/brand/reima/\">Reima</a> Talviuni 5400165A sunt <a href=\"/categorie/bebe-incaltaminte-ghete-cizme/\">cizme de iarnă pentru bebeluși</a>, bleumarin, ușor izolate, din material textil și sintetic, impermeabile. Țin de cald chiar și la -20 de grade, deci sunt pentru zăpadă și ger.</p><p>Velcro-ul le face ușor de încălțat și de scos, iar gamba ridicată ține zăpada departe de picior. Elementele reflectorizante îl fac pe copil vizibil după lăsarea serii.</p><p>Pe scurt, din ce sunt făcute:</p><ul><li><strong>Partea de sus</strong>: material sintetic și textil.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Talpă exterioară</strong>: din cauciuc, rezistentă la uzură.</li></ul><p>Numerele 20-28 sunt pentru copii de cam 1-5 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-talviuni-culoarea-bleumarin-5400165a-1643160",
+   "fragment": "Reima Cizme de iarnă pentru copii Talviuni culoarea bleumarin, 5400165A"
+  },
+  {
+   "fapt": "izolare",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-talviuni-culoarea-bleumarin-5400165a-1643160",
+   "fragment": "Izolare usoara"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-talviuni-culoarea-bleumarin-5400165a-1643160",
+   "fragment": "combinația materialului textil cu cel sintetic"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-talviuni-culoarea-bleumarin-5400165a-1643160",
+   "fragment": "Model impermeabil"
+  },
+  {
+   "fapt": "-20",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-talviuni-culoarea-bleumarin-5400165a-1643160",
+   "fragment": "Asigura confortul termic chiar si la -20 grade"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-talviuni-culoarea-bleumarin-5400165a-1643160",
+   "fragment": "Închiderea cu velcro facilitează încălțarea și scoaterea pantofilor"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-talviuni-culoarea-bleumarin-5400165a-1643160",
+   "fragment": "Gamba ridicata"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-talviuni-culoarea-bleumarin-5400165a-1643160",
+   "fragment": "Elementele reflectorizante sporesc vizibilitatea și siguranța după întuneric"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-talviuni-culoarea-bleumarin-5400165a-1643160",
+   "fragment": "Interiorul: Material textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-talviuni-culoarea-bleumarin-5400165a-1643160",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Talviuni",
+  "Material": "textil și sintetic, interior textil, talpă din cauciuc",
+  "Caracteristici": "ușor izolate, impermeabile, până la -20°C, velcro, reflectorizante",
+  "Cod produs": "5400165A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-5 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul precizează că rezistența la apă nu garantează impermeabilitatea completă."
+ ]
+}
