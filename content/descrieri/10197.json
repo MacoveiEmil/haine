@@ -1,0 +1,62 @@
+{
+ "id": 10197,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> 5400025A sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">cizme de zăpadă unisex</a>, negre, izolate, din material textil, piele ecologică și piele întoarsă. Sunt pentru iarnă și joaca prin zăpadă, cu interior textil.</p><p>Scaiul le face ușor de încălțat, iar banda se strânge după cât de plin e piciorul. Vârful e rotund, cu loc pentru degete.</p><p>Cizma e construită simplu:</p><ul><li><strong>Partea de sus</strong>: material sintetic, textil și piele întoarsă.</li><li><strong>Interior</strong>: textil.</li><li><strong>Talpă</strong>: din gumă.</li></ul><p>Numerele 28-38 sunt pentru copii de pe la 4 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-cizme-de-iarna-copii-culoarea-negru-804739",
+   "fragment": "Reima negru 5400025A"
+  },
+  {
+   "fapt": "zăpadă",
+   "url": "answear.ro/p/reima-cizme-de-iarna-copii-culoarea-negru-804739",
+   "fragment": "Cizme de zapada pentru copii"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/reima-cizme-de-iarna-copii-culoarea-negru-804739",
+   "fragment": "Model izolat"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/reima-cizme-de-iarna-copii-culoarea-negru-804739",
+   "fragment": "combinatie de material textil, piele ecologica si piele intoarsa"
+  },
+  {
+   "fapt": "scai",
+   "url": "answear.ro/p/reima-cizme-de-iarna-copii-culoarea-negru-804739",
+   "fragment": "Incheiere cu scai"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/reima-cizme-de-iarna-copii-culoarea-negru-804739",
+   "fragment": "Varf rotund"
+  },
+  {
+   "fapt": "parte de sus",
+   "url": "answear.ro/p/reima-cizme-de-iarna-copii-culoarea-negru-804739",
+   "fragment": "Material sintetic, Material textil, Piele intoarsa"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/reima-cizme-de-iarna-copii-culoarea-negru-804739",
+   "fragment": "Interior textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/reima-cizme-de-iarna-copii-culoarea-negru-804739",
+   "fragment": "Talpa din guma"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima 5400025A",
+  "Material": "textil, piele ecologică și piele întoarsă, interior textil, talpă din gumă",
+  "Caracteristici": "izolate, scai",
+  "Cod produs": "5400025A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 4 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
