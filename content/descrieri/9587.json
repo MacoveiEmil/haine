@@ -1,0 +1,94 @@
+{
+ "id": 9587,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele de iarnă <a href=\"/brand/geox/\">Geox</a> J26ETA negre sunt <a href=\"/categorie/ghete-cizme/\">ghete pentru fete</a> ușor izolate, cu interior textil confortabil, care se păstrează ușor curat. Talpa e din gumă, profilată.</p><p>Au șiret, fermoar lateral și închidere cu velcro, deci se pun și se scot repede. Vârful e rotund și ușor întărit, contrafortul rigid ține călcâiul pe loc, iar branțul are contur. Bucla de la spate ajută la încălțat.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Lungime branț</strong>: 23,5 cm la numărul 36.</li></ul><p>Numerele 36-39 se poartă de pe la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "J26ETA"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Culoare negru"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Model Izolare usoara"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Model cu interior textil care este confortabil pentru picior"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Talpa din guma"
+  },
+  {
+   "fapt": "profilată",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "profilată"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Model cu siret cu fermoar lateral si inchidere cu Velcro"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Cutie rotunda, usor intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "ține piciorul în pantof, astfel încât să nu alunece"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Brant confortabil, cu contur"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Bucla de la spate"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Material sintetic"
+  },
+  {
+   "fapt": "textil",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Material textil"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Lungimea brantului pentru marimea este de: 23,5 cm"
+  },
+  {
+   "fapt": "mărime",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-culoarea-negru-1609588",
+   "fragment": "Dimensiunile date pentru marimea: 36"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox J26ETA",
+  "Talpă": "gumă, profilată",
+  "Caracteristici": "ușor izolate, șiret, fermoar lateral, velcro",
+  "Cod produs": "J26ETA.000BC"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea spune „piele întoarsă”, iar compoziția și atributele indică material sintetic, imitație de piele; am scris doar compoziția."
+ ]
+}

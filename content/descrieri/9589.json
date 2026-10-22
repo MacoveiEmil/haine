@@ -1,0 +1,94 @@
+{
+ "id": 9589,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/konges-slojd/\">Konges Sløjd</a> MAGOT JACKET albastră este o <a href=\"/categorie/bebe-imbracaminte-geci-jachete/\">geacă pentru bebeluși</a> subțire, din denim de bumbac organic certificat, cultivat fără îngrășăminte și pesticide. Are căptușeală completă și detalii din imitație de blană.</p><p>Tăietura e simplă, se încheie cu nasturi pe toată lungimea, iar manșetele se încheie și ele. Pe piept are un buzunar. Magazinul precizează că nu e impermeabilă.</p><p>Detaliile de bază:</p><ul><li><strong>Material de bază</strong>: 100% bumbac.</li><li><strong>Material suplimentar</strong>: 100% poliester.</li><li><strong>Glugă</strong>: nu are.</li></ul><p>Mărimile 86 până la 110-116 sunt pentru copii de aproximativ 1-6 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "MAGOT JACKET"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "denim",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "Model subțire confecționat din denim de bumbac"
+  },
+  {
+   "fapt": "organic",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "bumbac organic certificat"
+  },
+  {
+   "fapt": "pesticide",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "fara utilizarea ingrasamintelor sau pesticidelor"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "cu căptușeală completă, sintetică"
+  },
+  {
+   "fapt": "blană",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "Material: imitatie blana"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "Incheiere lunga cu nasturi"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "Mansete incheiate"
+  },
+  {
+   "fapt": "piept",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "Buzunar pe piept"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "fără impermeabilitate"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "100% Bumbac"
+  },
+  {
+   "fapt": "suplimentar",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/konges-slojd-geaca-copii-magot-jacket-ks105178-1662787",
+   "fragment": "fără glugă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Konges Sløjd MAGOT JACKET",
+  "Material": "bumbac organic (denim)",
+  "Caracteristici": "denim, nasturi, căptușeală completă",
+  "Cod produs": "KS105178"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-6 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „JACKET” în locul culorii; culoarea e cea de la magazin (albastru, denim)."
+ ]
+}

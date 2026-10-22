@@ -76,3 +76,6 @@
 9306 Biomecanics 262159: titlul site-ului nu are culoare („Bebe”), la magazin alb
 9387 Primigi 24192: titlul site-ului nu are culoare („Unisex”), la magazin negru
 9258 Geox JUNETTE: descrierea spune piele întoarsă, compoziția e sintetică
+9413 Reima Kiritin: culoare diferită (violet pe site / albastru la magazin)
+9504 Reima Alaniva: titlul site-ului are „Alaniva” în loc de culoare (la magazin: albastru)
+9404 Primigi 8883533: descrierea spune interior din lână, compoziția dă textil
