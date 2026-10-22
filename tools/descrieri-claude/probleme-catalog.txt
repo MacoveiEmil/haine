@@ -53,3 +53,4 @@
 12938 | Adidași Geox WASHIBA J55LQD verde (31-35): titlul spune Verde, magazinul dă culoarea albastru (aceeași referință e verde la 12693 și 12733)
 12986 | Pantofi Geox GISLI J465CC verde (36-39): magazinul îi descrie drept ghete de iarnă; categoria Pantofi
 13016 | Geacă Burton SKIMMER 243151: titlul spune Negru, magazinul dă culoarea roz
+13049 | Pantofi Primigi PPTGT 23918 (36-40): magazinul îi descrie drept ghete de trekking; categoria Pantofi (aceeași referință e la Ghete la 12906)
