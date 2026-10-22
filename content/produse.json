@@ -1037,7 +1037,7 @@
             164
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v7",
         "pagina": "/produs/reima-jacheta-copii-trekkeri/"
     },
     {
@@ -1153,7 +1153,7 @@
             35
         ],
         "cu_stoc": true,
-        "descriere_versiune": "v5",
+        "descriere_versiune": "v6",
         "pagina": "/produs/geox-sneakers-pentru-copii/"
     },
     {
@@ -1244,7 +1244,7 @@
             140
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v7",
         "pagina": "/produs/reima-pantaloni-copii-oikotie/"
     },
     {
@@ -1436,7 +1436,7 @@
             "122-125"
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v6",
         "pagina": "/produs/guess-geaca-copii-h4bt03/"
     },
     {
@@ -3522,7 +3522,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-cizme-copii/"
     },
@@ -4248,7 +4248,7 @@
             28
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v6",
         "pagina": "/produs/reima-sneakers-pentru-copii-tepastelu/"
     },
     {
@@ -4744,11 +4744,7 @@
             24,
             25,
             26,
-            27,
-            28,
-            29,
-            30,
-            31
+            27
         ],
         "cu_stoc": true,
         "descriere_versiune": "",
@@ -5732,7 +5728,7 @@
             35
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v6",
         "pagina": "/produs/geox-sneakers-pentru-copii-fastics/"
     },
     {
@@ -7817,7 +7813,7 @@
             38,
             39
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/geox-cizme-de-iarna-pentru-copii/"
     },
@@ -8976,7 +8972,7 @@
             40
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v6",
         "pagina": "/produs/primigi-incaltaminte-de-trekking-pentru-copii-2391800/"
     },
     {
@@ -9401,7 +9397,7 @@
             41
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v7",
         "pagina": "/produs/geox-cizme-de-iarna-pentru-copii-j36lcg/"
     },
     {
@@ -10911,7 +10907,7 @@
             "128-134",
             "140-146"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/mini-rodini-geaca-copii-ritzratz-25710104/"
     },
@@ -11148,7 +11144,7 @@
             176
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v7",
         "pagina": "/produs/adidas-geaca-petrecuta-pentru-copii-kh0197/"
     },
     {
@@ -12409,7 +12405,7 @@
             122
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v6",
         "pagina": "/produs/tommy-hilfiger-geaca-de-tranzitie-pentru-copii/"
     },
     {
@@ -13920,7 +13916,7 @@
             172
         ],
         "cu_stoc": true,
-        "descriere_versiune": "v5",
+        "descriere_versiune": "v6",
         "pagina": "/produs/colmar-geaca-de-puf-pentru-copii-lush/"
     },
     {
@@ -14192,7 +14188,7 @@
             35
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-2395011/"
     },
     {
@@ -14566,7 +14562,7 @@
             39,
             40
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-ghete-din-piele-pentru-copii/"
     },
@@ -16007,7 +16003,7 @@
             27
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v6",
         "pagina": "/produs/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch/"
     },
     {
@@ -17118,7 +17114,7 @@
             27
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v6",
         "pagina": "/produs/geox-ghete-de-iarna-pentru-copii-din-piele-omar/"
     },
     {
@@ -17746,7 +17742,7 @@
             176
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v6",
         "pagina": "/produs/tommy-hilfiger-pantaloni-de-trening-pentru-copii-cu-bumbac-kg0kg09531/"
     },
     {
@@ -17912,7 +17908,7 @@
             "124-134"
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v7",
         "pagina": "/produs/polo-ralph-lauren-geaca-cu-puf-pentru-copii-322969861002/"
     },
     {
@@ -18415,7 +18411,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v5",
         "pagina": "/produs/jacheta-softshell-pentru-fete-rezistenta-la-vant-gluga-hidrofob/"
     },
@@ -19545,7 +19541,7 @@
             176
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v6",
         "pagina": "/produs/tommy-hilfiger-camasa-copii/"
     },
     {
@@ -19873,7 +19869,7 @@
             39
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v6",
         "pagina": "/produs/geox-pantofi-copii-jisli/"
     },
     {
@@ -21092,7 +21088,7 @@
             134,
             140
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/mayoral-jacheta-pentru-copii-3/"
     },
@@ -22574,7 +22570,7 @@
             35
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v7",
         "pagina": "/produs/geox-sneakers-pentru-copii-washiba-6/"
     },
     {
@@ -27055,7 +27051,7 @@
             25,
             26
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/biomecanics-pantofi-pentru-copii-din-piele-8/"
     },
@@ -27620,7 +27616,7 @@
             176
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-pulover-pentru-copii-din-bumbac-4/"
     },
     {
@@ -28022,7 +28018,7 @@
             176
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-hanorac-pentru-copii-din-bumbac-11/"
     },
     {
@@ -28575,7 +28571,7 @@
             176
         ],
         "cu_stoc": true,
-        "descriere_versiune": "",
+        "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-pantaloni-baggy-pentru-copii-baggy/"
     },
     {
@@ -31992,7 +31988,7 @@
             "158-164"
         ],
         "cu_stoc": true,
-        "descriere_versiune": "v5",
+        "descriere_versiune": "v6",
         "pagina": "/produs/loap-cuwielo-geaca-schi-copii-portocaliu-marime-134-140/"
     },
     {
