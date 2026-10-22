@@ -1,0 +1,84 @@
+{
+ "id": 11876,
+ "versiune": "v7",
+ "descriere_html": "<p>Cămașa <a href=\"/brand/konges-slojd/\">Konges Sløjd</a> EMMY SHIRT bleumarin e printre <a href=\"/categorie/bluze-tricouri-hanorace/\">bluzele pentru fete</a>, din țesătură ornamentată de bumbac organic certificat GOTS, foarte confortabilă. Are mânecă lungă și broderie decorativă.</p><p>Tăietura e simplă, cu guler, și se încheie cu nasturi. Magazinul o încadrează la ocaziile mai elegante, iar bumbacul organic e cultivat fără îngrășăminte sau pesticide, din plante nemodificate genetic.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% bumbac organic.</li><li><strong>Mânecă</strong>: lungă.</li><li><strong>Închidere</strong>: nasturi.</li></ul><p>Mărimile 92 până la 134-140 acoperă orientativ 2-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "EMMY SHIRT"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "culoarea bleumarin"
+  },
+  {
+   "fapt": "ornament",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "confecționat din tesatura ornamentata"
+  },
+  {
+   "fapt": "organic",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "bumbac organic certificat"
+  },
+  {
+   "fapt": "pesticide",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "cultivat si recoltat din plante nemodificate genetic, fara utilizarea ingrasamintelor sau pesticidelor"
+  },
+  {
+   "fapt": "confortabil",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "material bumbac extrem de confortabil"
+  },
+  {
+   "fapt": "mânecă",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "Mânecă: lungă"
+  },
+  {
+   "fapt": "broderie",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "Broderie decorativa"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "Model cu guler"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "Incheiere cu nasturi"
+  },
+  {
+   "fapt": "elegant",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "Ocazie: elegant"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/konges-slojd-camasa-de-bumbac-pentru-copii-emmy-shirt-gots-culoarea-bleumarin-ks104294-1645530",
+   "fragment": "100% Bumbac organic"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Konges Sløjd EMMY SHIRT",
+  "Material": "100% bumbac organic",
+  "Caracteristici": "broderie, guler, nasturi",
+  "Cod produs": "KS104294"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Caracteristicile dau „tip de guler: rotund”, descrierea „model cu guler”; nu am detaliat gulerul. Produsul e marcat și „pentru bebe”."
+ ]
+}

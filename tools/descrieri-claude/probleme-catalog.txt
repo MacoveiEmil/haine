@@ -93,3 +93,7 @@
 11218 Konges Sløjd LOUMILLA: titlul site-ului are „SWEAT” în loc de culoare (la magazin: albastru)
 11244 Didriksons NEPTUN KIDS JKT 4: culoare diferită (roșu pe site / albastru la magazin)
 11274 Konges Sløjd ELBA: titlul site-ului are „ELBA” în loc de culoare (la magazin: bleumarin)
+11351 Tommy Hilfiger KG0KG09306: titlul site-ului are „bumbac” în loc de culoare (la magazin: albastru)
+11449 Konges Sløjd FUZZIE: titlul site-ului are „FUZZIE” în loc de culoare (la magazin: roșu)
+11605 Calvin Klein Jeans IU0IU00727: titlul site-ului are „blugi” în loc de culoare (la magazin: albastru)
+11323 Burton FROSTNER: magazinul dă „negru” în titlu și „violet” în date

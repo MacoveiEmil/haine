@@ -1,0 +1,25 @@
+{
+ "id": 12025,
+ "versiune": "v7",
+ "descriere_html": "<p>Jacheta sport <a href=\"/brand/4f/\">4F</a> portocalie este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> din fleece, un material moale și călduros, bun ca strat de mijloc sau de purtat singur în zilele răcoroase.</p><p>Pe site sunt mărimile 122-164, care acoperă cu aproximație 7-14 ani. Magazinul nu dă alte detalii despre croială sau finisaje, așa că merită verificat tabelul de mărimi al magazinului înainte de comandă.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/jacheta-sport-copii-fleece-portocaliu-baieti-4f-p16893201-8/",
+   "fragment": "Jacheta sport copii, Fleece, Portocaliu"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (jachetă fleece)",
+  "Material": "fleece",
+  "Caracteristici": "jachetă sport",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-14 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu.",
+  "„Moale și călduros” și „strat de mijloc” sunt deduse din material (fleece)."
+ ]
+}

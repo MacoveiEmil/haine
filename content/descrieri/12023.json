@@ -1,0 +1,25 @@
+{
+ "id": 12023,
+ "versiune": "v7",
+ "descriere_html": "<p>Jacheta sport <a href=\"/brand/4f/\">4F</a> maro deschis este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă din fleece pentru băieți</a>, moale și călduroasă, bună ca strat de mijloc sau singură în zilele răcoroase.</p><p>Mărimile 122-164 se potrivesc pe la 7-14 ani. Magazinul nu dă alte detalii despre croială sau finisaje, așa că merită verificat tabelul de mărimi al magazinului înainte de comandă.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/jacheta-sport-baieti-fleece-maro-deschis-baieti-4f-p16893220-8/",
+   "fragment": "Jacheta sport baieti, Fleece, Maro deschis"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (jachetă fleece)",
+  "Material": "fleece",
+  "Caracteristici": "jachetă sport",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-14 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu.",
+  "„Moale și călduroasă” și „strat de mijloc” sunt deduse din material (fleece)."
+ ]
+}

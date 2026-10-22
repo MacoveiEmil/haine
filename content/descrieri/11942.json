@@ -1,0 +1,25 @@
+{
+ "id": 11942,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele <a href=\"/brand/froddo/\">Froddo</a> 301438076 maro sunt <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">ghete pentru băieți</a> din piele naturală, într-o nuanță caldă de maro, ușor de asortat cu blugi sau pantaloni de stofă, pentru sezonul rece.</p><p>Pe site sunt numerele 25-30, potrivite cu aproximație pentru 2-7 ani. Magazinul nu dă alte detalii despre croială sau finisaje, așa că merită verificat tabelul de mărimi al magazinului înainte de comandă.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/cizme-baieti-301438076-piele-naturala-maro-maro-baieti-froddo-p13881992-8/",
+   "fragment": "Cizme baieti 301438076, Piele naturala, Maro, Maro"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Froddo 301438076",
+  "Material": "piele naturală",
+  "Caracteristici": "",
+  "Cod produs": "301438076"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-7 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu.",
+  "„Sezonul rece” e dedus din tipul produsului (cizme)."
+ ]
+}

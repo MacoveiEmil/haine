@@ -1,0 +1,60 @@
+{
+ "id": 11633,
+ "versiune": "v7",
+ "descriere_html": "<p>Blugii <a href=\"/brand/liewood/\">Liewood</a> Borris Printed Denim Pants albaștri sunt <a href=\"/categorie/pantaloni-treninguri/\">pantaloni pentru fete</a> din denim de bumbac 100%, cu imprimeu și talie înaltă. Talia are bandă elastică și se poate regla pe dinăuntru, așa că pantalonii pot fi strânși pe măsura copilului.</p><p>Pe laterale au două buzunare. Sunt un model simplu de purtat zi de zi, la grădiniță sau la joacă.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% bumbac.</li><li><strong>Talie</strong>: înaltă, elastică, reglabilă.</li><li><strong>Buzunare</strong>: două laterale.</li></ul><p>Mărimile 92-140 se potrivesc, cu aproximație, între 2 și 10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/liewood-jeans-copii-borris-printed-denim-pants-lw20639-1711850",
+   "fragment": "Borris Printed Denim Pants"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/liewood-jeans-copii-borris-printed-denim-pants-lw20639-1711850",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "denim",
+   "url": "answear.ro/p/liewood-jeans-copii-borris-printed-denim-pants-lw20639-1711850",
+   "fragment": "Model confecționat din denim de bumbac"
+  },
+  {
+   "fapt": "talie",
+   "url": "answear.ro/p/liewood-jeans-copii-borris-printed-denim-pants-lw20639-1711850",
+   "fragment": "Talie inalta cu banda elastica in talie"
+  },
+  {
+   "fapt": "reglare",
+   "url": "answear.ro/p/liewood-jeans-copii-borris-printed-denim-pants-lw20639-1711850",
+   "fragment": "In talie reglare a latimii interioare"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/liewood-jeans-copii-borris-printed-denim-pants-lw20639-1711850",
+   "fragment": "Două buzunare laterale"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/liewood-jeans-copii-borris-printed-denim-pants-lw20639-1711850",
+   "fragment": "100% Bumbac"
+  },
+  {
+   "fapt": "modele",
+   "url": "answear.ro/p/liewood-jeans-copii-borris-printed-denim-pants-lw20639-1711850",
+   "fragment": "Model: cu modele"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Liewood Borris Printed Denim Pants",
+  "Material": "100% bumbac",
+  "Caracteristici": "talie înaltă, elastică, reglabilă",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „Borris” în locul culorii; culoarea e cea de la magazin (albastru).",
+  "„La grădiniță sau la joacă” e o sugestie de purtare. Produsul e marcat și „pentru bebe”."
+ ]
+}
