@@ -84,3 +84,5 @@
 9534 Columbia Nordic Strider: magazinul dă „bordo” în titlu și „maro” în date
 9673 GUESS N6RL04 bomber: compoziția de la magazin e de încălțăminte (gambă, talpă)
 9587 Geox J26ETA: descrierea spune piele întoarsă, compoziția e sintetică
+10254 Patrizia Pepe 7O0041: titlul site-ului nu are culoare („Fete”), la magazin albastru
+10271 Polo Ralph Lauren 323970093001: magazinul îl numește palton și geacă, izolat și neizolat

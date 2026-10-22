@@ -1,0 +1,104 @@
+{
+ "id": 10632,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/bobo-choses/\">Bobo Choses</a> Modern 126AC151 albastră (multicoloră la producător) este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> ușoară, neizolată, din poliamidă în mai multe culori, cu căptușeală completă. Croiala e supradimensionată, lejeră, cu umeri coborâți.</p><p>Gulerul ridicat apără de frig, fermoarul are protecție pentru bărbie, iar mânecile și marginea de jos au tiv elastic, ca geaca să stea bine pe corp. Pe laterale are două buzunare.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliamidă.</li><li><strong>Căptușeală</strong>: 100% poliester.</li><li><strong>Glugă</strong>: nu are.</li></ul><p>Mărimile 89/98 până la 149/155 acoperă cu aproximație 1-12 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "Modern"
+  },
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "126AC151"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "multicolor",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "991.MULTIC"
+  },
+  {
+   "fapt": "ușor",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "Model ușor confecționat din stofă in diferite culori"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "Izolare: neizolat"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "cu căptușeală completă"
+  },
+  {
+   "fapt": "supradimensionat",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "Croială: supradimensionat"
+  },
+  {
+   "fapt": "lejeră",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "Tăiere lejeră"
+  },
+  {
+   "fapt": "umeri",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "linie coborâtă a umerilor"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "Gulerul ridicat oferă protecție suplimentară împotriva frigului"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "Inchidere cu fermoar echipat cu barbie"
+  },
+  {
+   "fapt": "tiv",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "Mânecile și marginea inferioară sunt finisate cu un tiv elastic"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "Două buzunare laterale"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "100% Poliamida"
+  },
+  {
+   "fapt": "poliester",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-bobo-choses-modern-b126ac151-1713861",
+   "fragment": "fără glugă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Bobo Choses Modern",
+  "Material": "100% poliamidă",
+  "Caracteristici": "oversize, neizolată, guler ridicat",
+  "Cod produs": "126AC151"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-12 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „Modern” în locul culorii; magazinul dă „albastru”, producătorul „MULTIC”. Produsul e marcat și „pentru bebe”."
+ ]
+}

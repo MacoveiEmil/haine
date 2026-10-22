@@ -1,0 +1,84 @@
+{
+ "id": 10553,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca bomber <a href=\"/brand/diesel/\">Diesel</a> JSTART JACKET neagră este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de tranziție pentru băieți</a> subțire, din poliamidă cu broderie decorativă, cu căptușeală sintetică. Tăietura e lejeră, iar mânecile și marginea de jos se termină cu o bandă elastică.</p><p>Se încheie cu cleme, iar în față are buzunare. Nu are glugă. E o geacă pentru zilele mai blânde, peste un tricou sau o bluză.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliamidă.</li><li><strong>Bandă elastică</strong>: 98% poliester, 2% elastan.</li><li><strong>Croială</strong>: regular fit.</li></ul><p>Mărimile 156-175 țin cam de vârsta 13-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "JSTART JACKET"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "culoarea negru"
+  },
+  {
+   "fapt": "bomber",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "Geaca bomber pentru copii din colectia Diesel"
+  },
+  {
+   "fapt": "subțire",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "Model subtire confectionat din material cu broderie decorativă"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "Model cu captuseala"
+  },
+  {
+   "fapt": "lejeră",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "Tăiere lejeră, fără blocare"
+  },
+  {
+   "fapt": "elastic",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "Mâneci și marginea inferioară finisate cu o coadă elastică"
+  },
+  {
+   "fapt": "cleme",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "Incheiere cu cleme"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "In fata buzunare"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "100% Poliamida"
+  },
+  {
+   "fapt": "bandă",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "98% Poliester , 2% Elastan"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/diesel-geaca-bomber-pentru-copii-jstart-jacket-culoarea-negru-j02185-1419179",
+   "fragment": "Croială: regular fit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Diesel JSTART JACKET",
+  "Material": "100% poliamidă",
+  "Caracteristici": "bomber, broderie, cleme",
+  "Cod produs": "J02185"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "13-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "„Peste un tricou sau o bluză” e dedus din „model subțire”."
+ ]
+}

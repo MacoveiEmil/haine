@@ -1,0 +1,90 @@
+{
+ "id": 10492,
+ "versiune": "v7",
+ "descriere_html": "<p>Paltonul <a href=\"/brand/maxco/\">Max&amp;Co.</a> MAXJ1F JACKET roșu, listat la <a href=\"/categorie/geci-jachete/\">geci pentru fete</a>, e făcut din lână 100%, un material neted care ajută la termoreglare: ține de cald la frig și nu încălzește prea tare când e cald. Modelul e neizolat, cu design simplu.</p><p>Se închide cu nasturi, are revere clasice, două buzunare în față și o curea textilă atașată. Magazinul precizează că nu e impermeabil. Mărimile sunt italienești, convertite la cele europene, deci merită verificat tabelul magazinului.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% lână.</li><li><strong>Închidere</strong>: nasturi.</li><li><strong>Croială</strong>: regular fit.</li></ul><p>Mărimile 156-175 țin orientativ de vârsta 13-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "MAXJ1F"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "Culoare rosu"
+  },
+  {
+   "fapt": "lână",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "100% Lână"
+  },
+  {
+   "fapt": "termoreglare",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "Proprietățile ridicate de termoreglare ale lânii"
+  },
+  {
+   "fapt": "neted",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "confecționat dintr-un material neted"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "Acest model neizolat"
+  },
+  {
+   "fapt": "simplu",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "Design simplu și ușor de purtat"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "Închiderea convenabilă cu nasturi"
+  },
+  {
+   "fapt": "revere",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "Revere clasice"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "Două buzunare frontale"
+  },
+  {
+   "fapt": "curea",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "Curea textilă atașată"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "fără impermeabilitate"
+  },
+  {
+   "fapt": "italian",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "Mărimile disponibile sunt convertite din sistemul italian"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/max-co-palton-pentru-copii-maxj1f-jacket-culoare-rosie-mx0001-1579544",
+   "fragment": "Croială: regular fit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Max&Co. MAXJ1F",
+  "Material": "100% lână",
+  "Caracteristici": "palton, nasturi, curea textilă",
+  "Cod produs": "MX0001.MX052"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "13-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „JACKET” în locul culorii; culoarea e cea de la magazin (roșu).",
+  "Descrierea spune „fără căptușeală”, caracteristicile „căptușeală sintetică”; nu am scris despre căptușeală."
+ ]
+}

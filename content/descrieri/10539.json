@@ -1,0 +1,89 @@
+{
+ "id": 10539,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/maxco/\">Max&amp;Co.</a> MAXJ49F JACKET albastră este o <a href=\"/categorie/geci-jachete/\">geacă subțire pentru fete</a>, ușor izolată, din nailon neted, cu căptușeală completă. Poliamida o face mai durabilă.</p><p>Are guler moale, fără glugă, și se închide cu capse, deci se pune și se scoate ușor. Manșetele mânecilor se încheie. Croiala e simplă. Mărimile sunt italienești, convertite la cele europene, deci merită verificat tabelul magazinului.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% nailon.</li><li><strong>Izolație</strong>: ușoară.</li><li><strong>Închidere</strong>: capse.</li></ul><p>Mărimile 156-172 corespund cam vârstei de 13-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "MAXJ49F"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "subțire",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "Model subțire confecționat din țesătură netedă"
+  },
+  {
+   "fapt": "ușor",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "Izolare: usor izolat"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "cu căptușeală completă"
+  },
+  {
+   "fapt": "poliamidă",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "Poliamida asigură o durabilitate mai mare"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "Model cu guler moale"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "capsă",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "Închiderea convenabilă cu capsă"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "Maneci cu mansete incheiate"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "italian",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "Dimensiunile disponibile sunt cele ale producatorul italian"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "100% Nailon"
+  },
+  {
+   "fapt": "ușoară",
+   "url": "answear.ro/p/max-co-geaca-copii-maxj49f-jacket-mx0276-1725496",
+   "fragment": "ușoară"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Max&Co. MAXJ49F",
+  "Material": "100% nailon",
+  "Caracteristici": "subțire, guler moale, capse",
+  "Cod produs": "MX0276.MX099"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "13-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „JACKET” în locul culorii; culoarea e cea de la magazin (albastru)."
+ ]
+}
