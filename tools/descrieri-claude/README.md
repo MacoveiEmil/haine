@@ -35,6 +35,11 @@ Push în `main` = publicare automată pe server în 1-2 minute (`tools/server/sy
 - Verificarea de repetiție (n-grame de 6 cuvinte între descrieri): variază formulările, nu folosi șabloane.
 - Produse de adulți (ex. Tommy Jeans DW0DW, mărimi W/L) → `sari.txt` + `probleme-catalog.txt`.
 - Cizme/sandale listate la „Pantofi”: descrie produsul real și notează în `probleme-catalog.txt`.
+- Introducerea listei nu e „Pe scurt:” la fiecare produs: combinată cu „Mărimile … sunt pentru copii de” a dat formulări repetate
+  în peste 60 de descrieri. Variază și introducerea, și fraza cu mărimile (încep cu „Numerele”, „Pe site”, vârsta înainte etc.).
+- Fashion Days: pagina extrasă are doar titlul (detaliile sunt ascunse). Se scrie `insuf=True` (date insuficiente): 1-2 paragrafe,
+  min. 40 de cuvinte, p1 de 25-66, fără listă, doar faptele din titlu (fragmentul = titlul) + mărimile și vârsta.
+- Sportisimo: detaliile sunt în `text` (Descriere, lista de puncte, Specificaţii); se poate scrie descriere completă.
 
 ## La final
 
