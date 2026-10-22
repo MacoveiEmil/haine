@@ -1,5 +1,8 @@
 # Raport publicare
 
+## 2026-10-22 16:19 (ba79f26, Macovei Emil)
+- cod/configurație actualizate: wp-content/plugins/hainute-core/afiliere.json wp-content/plugins/hainute-core/includes/offers.php wp-content/themes/hainute/inc/template-tags.php 
+
 ## 2026-10-22 14:53 (8cd2eef, Macovei Emil)
 - cod/configurație actualizate: wp-content/plugins/hainute-core/includes/engagement.php wp-content/themes/hainute/inc/template-tags.php 
 
