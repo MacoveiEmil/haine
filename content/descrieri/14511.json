@@ -1,0 +1,74 @@
+{
+ "id": 14511,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele impermeabile <a href=\"/brand/reima/\">Reima</a> TALVES, albastre după titlul de pe site, sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete unisex</a> de iarnă, cu membrană care ține degetele uscate și căptușeală izolată din fleece și puf, testată până la -20 °C. Talpa Rolling Steps face pasul ușor, iar cauciucul termoplastic ține bine.</p><p>Velcro-ul și șireturile elastice permit o fixare după picior. Detaliile reflectorizante ajută pe lumină slabă.</p><p>Detaliile de bază:</p><ul><li><strong>Branț</strong>: din pâslă, detașabil, cu Happy Fit.</li><li><strong>Cusături</strong>: etanșate.</li><li><strong>Greutate</strong>: 450 g.</li></ul><p>Numerele 28-38 se poartă de pe la 4 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "REIMA TALVES"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "Cizmele impermeabile pentru copii Reima TALVES"
+  },
+  {
+   "fapt": "membrană",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "Au o membrană impermeabilă care menține degetele uscate"
+  },
+  {
+   "fapt": "-20",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "căptușeala izolată din fleece/puf asigură căldură testată până la -20 °C"
+  },
+  {
+   "fapt": "Rolling",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "designul tălpii Rolling Steps facilitează mersul copiilor"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "talpă din cauciuc termoplastic cu aderență bună"
+  },
+  {
+   "fapt": "velcro",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "Sistemul de închidere ușor cu velcro, împreună cu șireturile elastice"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "detaliile reflectorizante îmbunătățesc vizibilitatea în condiții de lumină slabă"
+  },
+  {
+   "fapt": "branț",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "branț detașabil din pâslă cu imprimeu Happy Fit"
+  },
+  {
+   "fapt": "cusături",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "inserție impermeabilă cu cusături etanșate"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/talves/1944393/",
+   "fragment": "450 g"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima TALVES",
+  "Material": "sintetic și textil, căptușeală fleece",
+  "Caracteristici": "impermeabile, -20 °C, velcro și șireturi elastice",
+  "Cod produs": "259944"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 4 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului."
+ ]
+}

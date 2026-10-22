@@ -1,0 +1,64 @@
+{
+ "id": 14516,
+ "versiune": "v7",
+ "descriere_html": "<p>Pălăria <a href=\"/brand/reima/\">Reima</a> RANTSU albastru închis e unul dintre <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">accesoriile unisex</a> de vară, cu stil simplu și bor prelungit la spate, care apără de soare și fața, și gâtul. Materialul ușor are protecție UV 50+.</p><p>Se leagă cu șnur sub bărbie, deci rămâne pe cap la joacă. Borul modelat la spate acoperă și ceafa.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester reciclat.</li><li><strong>Protecție</strong>: UV 50+.</li><li><strong>Prindere</strong>: șnur sub bărbie.</li></ul><p>Mărimile 46-52 sunt circumferința capului, pentru copii de la aproximativ 1 an în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/rantsu/1702319/",
+   "fragment": "REIMA RANTSU"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/rantsu/1702319/",
+   "fragment": "Albastru închis"
+  },
+  {
+   "fapt": "bor",
+   "url": "www.sportisimo.ro/reima/rantsu/1702319/",
+   "fragment": "Pălăria pentru copii REIMA RANTSU are borul la spate modelat"
+  },
+  {
+   "fapt": "gât",
+   "url": "www.sportisimo.ro/reima/rantsu/1702319/",
+   "fragment": "Nu protejează de soare numai fața, ci și gâtul"
+  },
+  {
+   "fapt": "UV",
+   "url": "www.sportisimo.ro/reima/rantsu/1702319/",
+   "fragment": "factor de protecție UV 50+"
+  },
+  {
+   "fapt": "ușor",
+   "url": "www.sportisimo.ro/reima/rantsu/1702319/",
+   "fragment": "Materialul ușor dispune de factor de protecție UV"
+  },
+  {
+   "fapt": "șnur",
+   "url": "www.sportisimo.ro/reima/rantsu/1702319/",
+   "fragment": "Se leagă cu șnur sub bărbie"
+  },
+  {
+   "fapt": "simplu",
+   "url": "www.sportisimo.ro/reima/rantsu/1702319/",
+   "fragment": "stil simplu"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/rantsu/1702319/",
+   "fragment": "100 % poliester reciclat"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima RANTSU",
+  "Material": "100% poliester reciclat",
+  "Caracteristici": "UV 50+, bor prelungit la spate, șnur",
+  "Cod produs": "240012"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 1 an în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Mărimile sunt circumferința capului în cm; vârsta e dată orientativ."
+ ]
+}

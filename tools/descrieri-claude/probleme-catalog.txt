@@ -63,3 +63,5 @@
 14137 | Salopetă softshell Reima MJOSA 5100006A (Sportisimo): e overal, listat la Geci
 14265 | Salopetă Reima TAITOA 5200030E (Sportisimo): e set termo (strat de bază), listat la Salopete; pagina arată VÂNDUT, fără culoare
 14313 | Tricou GAP RAGLAN FASHION 636386-00 (Sportisimo): tricou listat la Geci; mărimi în litere (L-XXL); descrierea spune și mânecă scurtă, și mânecă lungă
+14511 | Ghete Reima TALVES 5400166A (Sportisimo): pagina arată VÂNDUT, fără culoare
+14565 | Geacă Reima SOUTU 5100169A (Sportisimo): pagina arată VÂNDUT, fără culoare

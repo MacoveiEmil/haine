@@ -1,0 +1,79 @@
+{
+ "id": 14565,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de vânt <a href=\"/brand/reima/\">Reima</a> SOUTU, roz după titlul de pe site, este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> clasică pentru primăvară și toamnă, din material respirabil, rezistent la apă și vânt, care respinge murdăria. Materialul conține fibre de poliester reciclate, certificate bluesign, iar cusăturile sunt lipite.</p><p>Gluga se detașează, iar manșetele și tivul se reglează după copil, ca vântul să nu intre pe dedesubt.</p><p>Detaliile de bază:</p><ul><li><strong>Buzunare</strong>: două, în față, cu fermoar.</li><li><strong>Material</strong>: 100% poliester.</li><li><strong>Tehnologie</strong>: Reimatec.</li></ul><p>Mărimile 104-164 sunt pentru copii de cam 4-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "REIMA SOUTU"
+  },
+  {
+   "fapt": "vânt",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "Geaca rezistentă la vânt pentru copii Reima SOUTU"
+  },
+  {
+   "fapt": "sezon",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "ideal pentru zilele de primăvară și toamnă"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "material funcțional respirabil, rezistent la apă și vânt și care respinge murdăria"
+  },
+  {
+   "fapt": "bluesign",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "certificată de societatea bluesign®"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "Materialul conține fibră de poliester reciclată"
+  },
+  {
+   "fapt": "lipite",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "Are cusături lipite, rezistente la apă"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "glugă detașabilă"
+  },
+  {
+   "fapt": "manșete",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "manșete și tiv ajustabile"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "2 în față cu fermoar"
+  },
+  {
+   "fapt": "poliester",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "100 % poliester"
+  },
+  {
+   "fapt": "Reimatec",
+   "url": "www.sportisimo.ro/reima/soutu/1702255/",
+   "fragment": "REIMATEC"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima SOUTU",
+  "Material": "100% poliester",
+  "Caracteristici": "cusături lipite, glugă detașabilă, bluesign",
+  "Cod produs": "239977"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului."
+ ]
+}

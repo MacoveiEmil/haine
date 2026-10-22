@@ -1,0 +1,57 @@
+{
+ "id": 14508,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/geox/\">Geox</a> J THELEVEN negri sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> cu două benzi velcro, care se încalță ușor și se fixează bine pe picior. Construcția robustă și talpa texturată țin pasul sigur la fiecare mișcare, chiar și la alergat.</p><p>Partea de sus e din material sintetic rezistent și arată elegant, iar adidașii merg și la activitățile de zi cu zi, și la sport.</p><p>Detaliile de bază:</p><ul><li><strong>Închidere</strong>: două benzi velcro.</li><li><strong>Față</strong>: sintetic.</li><li><strong>Talpă</strong>: cauciuc, texturată.</li></ul><p>Numerele 27-35 se potrivesc copiilor de aproximativ 3-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/geox/j-theleven/1859465/",
+   "fragment": "Geox J THELEVEN"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/geox/j-theleven/1859465/",
+   "fragment": "Negru"
+  },
+  {
+   "fapt": "velcro",
+   "url": "www.sportisimo.ro/geox/j-theleven/1859465/",
+   "fragment": "au un sistem de închidere practic cu două benzi velcro, se încălță ușor și se fixează bine"
+  },
+  {
+   "fapt": "robust",
+   "url": "www.sportisimo.ro/geox/j-theleven/1859465/",
+   "fragment": "Construcția robustă cu talpă texturată asigură stabilitate la fiecare pas"
+  },
+  {
+   "fapt": "rezistent",
+   "url": "www.sportisimo.ro/geox/j-theleven/1859465/",
+   "fragment": "Materialul este rezistent și elegant"
+  },
+  {
+   "fapt": "activități",
+   "url": "www.sportisimo.ro/geox/j-theleven/1859465/",
+   "fragment": "Sunt potriviți pentru activități cotidiene și activități sportive"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/geox/j-theleven/1859465/",
+   "fragment": "sintetic"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/geox/j-theleven/1859465/",
+   "fragment": "cauciuc"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox J THELEVEN",
+  "Material": "sintetic, talpă din cauciuc",
+  "Caracteristici": "două benzi velcro, talpă texturată",
+  "Cod produs": "253670"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "3-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
