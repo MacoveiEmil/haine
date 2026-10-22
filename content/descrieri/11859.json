@@ -1,0 +1,59 @@
+{
+ "id": 11859,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Kuuraan 5300214B este un <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">accesoriu de iarnă unisex</a>, bleumarin, din lână merinos certificată RWS, cu căptușeală din bumbac organic cu elastan. Pe site apare ca fular circular, iar magazinul îl descrie drept căciulă.</p><p>Tricotul are grosime medie și model, iar stratul suplimentar de căptușeală îl face moale pe piele.</p><p>Materialele, pe rând:</p><ul><li><strong>Exterior</strong>: 100% lână merinos.</li><li><strong>Căptușeală</strong>: 97% bumbac organic, 3% elastan.</li><li><strong>Tricot</strong>: grosime medie, cu model.</li></ul><p>Mărimile 46-54 sunt circumferințe de cap, potrivite, cu aproximație, de la 1 an în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-fular-circular-din-lana-pentru-copii-kuuraan-culoarea-bleumarin-5300214b-1635460",
+   "fragment": "Reima Kuuraan bleumarin 5300214B"
+  },
+  {
+   "fapt": "merinos",
+   "url": "answear.ro/p/reima-fular-circular-din-lana-pentru-copii-kuuraan-culoarea-bleumarin-5300214b-1635460",
+   "fragment": "100% Lana de merinosi"
+  },
+  {
+   "fapt": "RWS",
+   "url": "answear.ro/p/reima-fular-circular-din-lana-pentru-copii-kuuraan-culoarea-bleumarin-5300214b-1635460",
+   "fragment": "Standardului responsabil de lana (RWS)"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/reima-fular-circular-din-lana-pentru-copii-kuuraan-culoarea-bleumarin-5300214b-1635460",
+   "fragment": "97% Bumbac organic, 3% Elastan"
+  },
+  {
+   "fapt": "căciulă",
+   "url": "answear.ro/p/reima-fular-circular-din-lana-pentru-copii-kuuraan-culoarea-bleumarin-5300214b-1635460",
+   "fragment": "Căciulă pentru copii din colecția Reima"
+  },
+  {
+   "fapt": "strat",
+   "url": "answear.ro/p/reima-fular-circular-din-lana-pentru-copii-kuuraan-culoarea-bleumarin-5300214b-1635460",
+   "fragment": "Un strat suplimentar de material sub formă de căptușeală"
+  },
+  {
+   "fapt": "tricot",
+   "url": "answear.ro/p/reima-fular-circular-din-lana-pentru-copii-kuuraan-culoarea-bleumarin-5300214b-1635460",
+   "fragment": "Tricotaje: grosime medie"
+  },
+  {
+   "fapt": "model imprimat",
+   "url": "answear.ro/p/reima-fular-circular-din-lana-pentru-copii-kuuraan-culoarea-bleumarin-5300214b-1635460",
+   "fragment": "Model: cu modele"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Kuuraan",
+  "Material": "100% lână merinos (RWS), căptușeală bumbac organic",
+  "Caracteristici": "căptușit, tricot mediu",
+  "Cod produs": "5300214B"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 1 an în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site spune fular circular; magazinul îl descrie drept căciulă; mărimile 46-54 sunt circumferințe de cap."
+ ]
+}
