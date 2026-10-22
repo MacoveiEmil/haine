@@ -1,0 +1,64 @@
+{
+ "id": 8942,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Ilves este o <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciulă de iarnă unisex</a> neagră, din tricot de grosime medie combinat cu imitație de blană, cu model. Are un profil special în jurul urechilor, care le apără de frig, și tratamentul BIONIC-FINISH® ECO, care respinge apa.</p><p>Căptușeala e din poliester parțial reciclat, iar materialul de bază e 100% poliester reciclat. Modelul e certificat Bluesign®.</p><p>Cum alegi mărimea:</p><ul><li><strong>Mărime</strong>: numărul (48-56) e circumferința capului în centimetri; măsori capul pe frunte și deasupra urechilor.</li><li><strong>Urechi</strong>: acoperite de profilul special al căciulii.</li><li><strong>Material</strong>: tricot și imitație de blană.</li></ul><p>Plaja 48-56 acoperă, de obicei, copii de la 1 an în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-caciula-copii-ilves-culoarea-negru-5300111c-1636248",
+   "fragment": "Reima Ilves negru 5300111C"
+  },
+  {
+   "fapt": "tricot",
+   "url": "answear.ro/p/reima-caciula-copii-ilves-culoarea-negru-5300111c-1636248",
+   "fragment": "Tricotaje: grosime medie"
+  },
+  {
+   "fapt": "blană",
+   "url": "answear.ro/p/reima-caciula-copii-ilves-culoarea-negru-5300111c-1636248",
+   "fragment": "material tricotat cu imitație de blană"
+  },
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-caciula-copii-ilves-culoarea-negru-5300111c-1636248",
+   "fragment": "Model: cu modele"
+  },
+  {
+   "fapt": "urechi",
+   "url": "answear.ro/p/reima-caciula-copii-ilves-culoarea-negru-5300111c-1636248",
+   "fragment": "Un profil special în jurul urechilor le protejează de frig"
+  },
+  {
+   "fapt": "BIONIC",
+   "url": "answear.ro/p/reima-caciula-copii-ilves-culoarea-negru-5300111c-1636248",
+   "fragment": "BIONIC-FINISH® ECO"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/reima-caciula-copii-ilves-culoarea-negru-5300111c-1636248",
+   "fragment": "Material de bază: 100% Poliester reciclat"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/reima-caciula-copii-ilves-culoarea-negru-5300111c-1636248",
+   "fragment": "Captuseala: 70% Poliester reciclat, 30% Poliester"
+  },
+  {
+   "fapt": "Bluesign",
+   "url": "answear.ro/p/reima-caciula-copii-ilves-culoarea-negru-5300111c-1636248",
+   "fragment": "Model certificat Bluesign"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Ilves",
+  "Material": "poliester reciclat, tricot și imitație de blană",
+  "Caracteristici": "protecție pentru urechi, BIONIC-FINISH® ECO, Bluesign®",
+  "Cod produs": "5300111C"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 1 an în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Mărimile căciulii sunt circumferința capului (cm); vârsta e estimată."
+ ]
+}
