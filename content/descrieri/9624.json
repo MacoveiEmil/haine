@@ -1,0 +1,60 @@
+{
+ "id": 9624,
+ "versiune": "v7",
+ "descriere_html": "<p>Botinele de iarnă <a href=\"/brand/biomecanics/\">Biomecanics</a> 261106 sunt <a href=\"/categorie/bebe-incaltaminte-pantofi/\">încălțăminte pentru bebeluși</a> bej, din piele naturală și material sintetic cu finisaj lucios, căptușite cu lână care ține căldura în zilele reci. Sunt făcute în parteneriatul Biomecanics Podology.</p><p>Aricii și cureaua reglabilă strâng gheata pe picior, fie că e lat, fie că e îngust, și o fac ușor de încălțat. Stabilizatorii laterali țin piciorul într-o poziție corectă.</p><p>Pentru primii ani de mers prin frig:</p><ul><li><strong>Vârf</strong>: rotund, cauciucat, apără degetele.</li><li><strong>Talpă</strong>: flexibilă, din cauciuc.</li><li><strong>Interior</strong>: lână.</li></ul><p>Numerele 18-25 sunt, aproximativ, pentru copii de 1-3 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/biomecanics-incaltaminte-pentru-copii-din-piele-multicolora-261106-1824263",
+   "fragment": "Botinele de iarnă Biomecanics 261106"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/biomecanics-incaltaminte-pentru-copii-din-piele-multicolora-261106-1824263",
+   "fragment": "Partea superioară din piele naturală și material sintetic cu finisaj lucios"
+  },
+  {
+   "fapt": "lână",
+   "url": "answear.ro/p/biomecanics-incaltaminte-pentru-copii-din-piele-multicolora-261106-1824263",
+   "fragment": "Căptușeala din lână în interiorul ghetei ajută la menținerea căldurii în zilele reci"
+  },
+  {
+   "fapt": "parteneriat",
+   "url": "answear.ro/p/biomecanics-incaltaminte-pentru-copii-din-piele-multicolora-261106-1824263",
+   "fragment": "Parteneriatul Biomecanics Podology"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/biomecanics-incaltaminte-pentru-copii-din-piele-multicolora-261106-1824263",
+   "fragment": "Închiderea cu arici și cureaua reglabilă facilitează ajustarea și încălțarea rapidă"
+  },
+  {
+   "fapt": "stabilizatori",
+   "url": "answear.ro/p/biomecanics-incaltaminte-pentru-copii-din-piele-multicolora-261106-1824263",
+   "fragment": "Stabilizatorii laterali ajută la menținerea piciorului într-o poziție corectă"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/biomecanics-incaltaminte-pentru-copii-din-piele-multicolora-261106-1824263",
+   "fragment": "Vârful rotund, cauciucat asigură protecția degetelor"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/biomecanics-incaltaminte-pentru-copii-din-piele-multicolora-261106-1824263",
+   "fragment": "Talpa flexibilă din cauciuc"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Biomecanics 261106",
+  "Material": "piele naturală și sintetic, căptușeală din lână, talpă din cauciuc",
+  "Caracteristici": "botine de iarnă, arici și curea reglabilă, vârf cauciucat",
+  "Cod produs": "261106"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-3 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul spune bej; h1 și atributul magazinului spun multicolor.",
+  "Sunt botine de iarnă, listate la Pantofi."
+ ]
+}
