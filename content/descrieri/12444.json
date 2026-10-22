@@ -1,0 +1,74 @@
+{
+ "id": 12444,
+ "versiune": "v7",
+ "descriere_html": "<p>Bluza <a href=\"/brand/reima/\">Reima</a> Meriol albă este o <a href=\"/categorie/unisex-imbracaminte-bluze-tricouri-hanorace/\">bluză unisex</a> din țesătură subțire, ușor elastică, din materialul Seawool Blend, făcut din pulbere de cochilii și poliester reciclat. E moale ca lâna și antistatică, bună ca strat de mijloc pe vreme rece.</p><p>Are fermoar scurt la gât, guler ridicat contra frigului și mâneci raglan, care lasă brațele să se miște liber.</p><p>Restul detaliilor:</p><ul><li><strong>Interior</strong>: moale, căptușit.</li><li><strong>Model</strong>: uni, fără glugă.</li><li><strong>Croială</strong>: simplă, dreaptă.</li></ul><p>Gama de mărimi merge de la 104 la 164, deci acoperă cam 4-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "Reima Meriol alb 5200441A"
+  },
+  {
+   "fapt": "țesătură",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "tesatura subtire, usor elastica"
+  },
+  {
+   "fapt": "Seawool",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "Seawool Blend, realizat dintr-o combinatie de cochilii de pulbere si poliester reciclat"
+  },
+  {
+   "fapt": "lână",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "similar cu lana si are, de asemenea, proprietati antistatice"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "Închiderea cu fermoar scurt"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "Gulerul ridicat oferă protecție suplimentară împotriva frigului"
+  },
+  {
+   "fapt": "raglan",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "Maneca raglan"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "Interiorul moale căptușit"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "uni",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "Model: uni"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/reima-bluza-copii-meriol-culoarea-alb-uni-5200441a-1596026",
+   "fragment": "Tăiere simplă, fără blocare"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Meriol",
+  "Material": "Seawool Blend (poliester reciclat și elastan)",
+  "Caracteristici": "fermoar scurt, guler ridicat, mâneci raglan",
+  "Cod produs": "5200441A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Compoziția de pe pagină e incompletă (30% poliester reciclat, 10% elastan); nu am dat procente."
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "id": 12423,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/geox/\">Geox</a> J36FWB roz sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> din plasă ușoară, gândiți pentru purtarea de zi cu zi, cu profil jos. Șireturile elastice și cârligul fac pantoful ușor de pus și de scos, fără legat la fiecare plecare din casă.</p><p>Vârful rotund, ușor rigid, lasă loc degetelor, iar călcâiul rigid ține piciorul în pantof la alergat. Bucla de la spate ajută la încălțat.</p><p>Câteva detalii de construcție:</p><ul><li><strong>Geox Respira</strong>: talpă în trei straturi, cu perforări.</li><li><strong>Interior</strong>: textil, cu branț detașabil.</li><li><strong>Talpă</strong>: din spumă, moale la pas.</li></ul><p>Mărimile încep la 28 și urcă până la 35, pentru fete de cam 4-11 ani; la 35 branțul are 22 cm.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "Geox Sneakers pentru copii culoarea roz, J36FWB.01454"
+  },
+  {
+   "fapt": "plasă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "confecționat din plasă ușoară"
+  },
+  {
+   "fapt": "zi cu zi",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "purtarea de zi cu zi"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "Înălțime: mic de statură"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "Șireturile elastice și închiderea cu cârlig fac acești pantofi ușor de pus și de scos"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "Degetul rotund, ușor rigid"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "Călcâiul puternic rigid stabilizează călcâiul"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "Interiorul textil este confortabil pentru picior"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "Brant textil, detasabil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "Talpa din spumă oferă o senzație mai moale"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-culoarea-roz-j36fwb-01454-1721982",
+   "fragment": "Lungimea brantului pentru marimea este de: 22 cm"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox J36FWB",
+  "Material": "plasă textilă și material sintetic, interior textil",
+  "Caracteristici": "șireturi elastice cu cârlig, Geox Respira, branț detașabil",
+  "Cod produs": "J36FWB.01454"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul și pagina spun roz, dar atributul de culoare al magazinului e alb; am păstrat roz."
+ ]
+}

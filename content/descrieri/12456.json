@@ -1,49 +1,72 @@
 {
  "id": 12456,
- "versiune": "v6",
- "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB10192 este o <a href=\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\">cămașă pentru băieți</a> albă, din țesătură netedă cu mânecă lungă. Magazinul o notează pentru ocazii casual, așa că merge purtată zilnic, inclusiv la școală.</p><p>Pentru îmbrăcare ușoară și o așezare îngrijită, cămașa include câteva detalii specifice de croială:</p><ul><li><strong>Material</strong>: țesătura conține 98% bumbac organic și 2% elastan.</li><li><strong>Guler</strong>: este de tip soft în stil clasic Kent.</li><li><strong>Manșete</strong>: mânecile lungi se închid cu nasturi la încheietură.</li></ul><p>Pe site produsul figurează în mărimi cuprinse între 128 și 176, potrivite orientativ pentru copii între 8 și 16 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Cămașa <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB10192 albă este o <a href=\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\">cămașă pentru băieți</a> uni, cu mânecă lungă, din țesătură netedă de bumbac organic cu puțin elastan, pentru ținute casual. Gulerul e moale, în stil clasic Kent.</p><p>Se închide cu nasturi pe toată lungimea, iar manșetele au și ele nasturi, deci mânecile se pot strânge la încheietură sau sufleca. Conținutul ridicat de bumbac o face confortabilă.</p><p>Restul detaliilor:</p><ul><li><strong>Material</strong>: 98% bumbac organic, 2% elastan.</li><li><strong>Croială</strong>: simplă, dreaptă.</li><li><strong>Model</strong>: uni.</li></ul><p>Mărimile 128-176 sunt gândite pentru băieți de 8-16 ani, orientativ.</p>",
  "surse": [
   {
-   "fapt": "țesătură netedă",
-   "url": "https://answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
-   "fragment": "confecționat din țesătură netedă."
+   "fapt": "model",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fragment": "Tommy Hilfiger Cămașă copii culoarea alb, KB0KB10192"
   },
   {
-   "fapt": "compoziție 98% bumbac organic și 2% elastan",
-   "url": "https://answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fapt": "țesătură",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fragment": "țesătură netedă"
+  },
+  {
+   "fapt": "organic",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fragment": "Acest produs este realizat parțial din bumbac organic"
+  },
+  {
+   "fapt": "uni",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fragment": "Model: uni"
+  },
+  {
+   "fapt": "mânecă",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fragment": "Maneca: lung"
+  },
+  {
+   "fapt": "casual",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fragment": "Ocazie: casual"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fragment": "Guler soft in stil clasic Kent"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fragment": "Închiderea convenabilă cu buton"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fragment": "Manșete cu nasturi"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
    "fragment": "98% Bumbac organic, 2% Elastan"
   },
   {
-   "fapt": "guler soft în stil clasic Kent",
-   "url": "https://answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
-   "fragment": "Guler soft in stil clasic Kent."
-  },
-  {
-   "fapt": "manșete cu nasturi",
-   "url": "https://answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
-   "fragment": "Manșete cu nasturi."
-  },
-  {
-   "fapt": "mânecă lungă",
-   "url": "https://answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
-   "fragment": "Mânecă: lungă"
-  },
-  {
-   "fapt": "ocazie casual",
-   "url": "https://answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
-   "fragment": "Ocazie: casual"
+   "fapt": "croială",
+   "url": "answear.ro/p/tommy-hilfiger-camasa-copii-culoarea-alb-kb0kb10192-1653345",
+   "fragment": "Tăiere simplă, fără blocare"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "KB0KB10192",
-  "Material": "98% Bumbac organic, 2% Elastan",
-  "Caracteristici": "Guler clasic Kent, manșete cu nasturi, mânecă lungă",
-  "Cod produs": "KB0KB10192.128.176.PPY2"
+  "Model": "Tommy Hilfiger KB0KB10192",
+  "Material": "98% bumbac organic, 2% elastan",
+  "Caracteristici": "guler Kent, manșete cu nasturi, mânecă lungă",
+  "Cod produs": "KB0KB10192"
  },
  "categorie_complementara": null,
  "varsta_orientativa": "8-16 ani",
  "date_insuficiente": false,
- "confidence_notes": [
-  "Scris de Gemini (gemini-flash-latest); retușat manual: scoase afirmații care nu apar în sursă."
- ]
+ "confidence_notes": []
 }
