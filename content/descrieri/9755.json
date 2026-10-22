@@ -1,0 +1,79 @@
+{
+ "id": 9755,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/donsje/\">Donsje</a> Bettie Jacket Bunnies bej este o <a href=\"/categorie/bebe-imbracaminte-geci-jachete/\">geacă pentru bebeluși</a> din imitație de blană, ușor izolată, cu căptușeală completă din bumbac. Are guler și se încheie cu nasturi.</p><p>Tăietura e simplă, fără glugă, iar izolația ușoară e prinsă pe căptușeală. Magazinul precizează că nu este impermeabilă, deci e potrivită pentru zilele uscate și răcoroase.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Căptușeală</strong>: 100% bumbac.</li><li><strong>Umplutură</strong>: 100% poliester.</li></ul><p>Mărimile 74-92 sunt pentru copii de cam 9 luni - 2 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "Bettie Jacket Bunnies"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "culoarea bej"
+  },
+  {
+   "fapt": "blană",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "Model ușor izolat confecționat din imitație de blană"
+  },
+  {
+   "fapt": "bumbac",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "din bumbac, cu căptușeală completă"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "Model cu guler"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "Incheiere cu nasturi"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "Model usor izolat pe captuseala"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "fără impermeabilitate"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "căptușeală2",
+   "url": "answear.ro/p/donsje-geaca-copii-bettie-jacket-bunnies-culoarea-bej-3041001-1620678",
+   "fragment": "100% Bumbac"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Donsje Bettie Jacket",
+  "Material": "imitație de blană, căptușeală din bumbac",
+  "Caracteristici": "ușor izolată, nasturi, guler",
+  "Cod produs": "3041001"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "9 luni - 2 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "„Zile uscate și răcoroase” derivă din „fără impermeabilitate” și izolația ușoară."
+ ]
+}

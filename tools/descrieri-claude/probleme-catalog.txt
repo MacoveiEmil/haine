@@ -79,3 +79,8 @@
 9413 Reima Kiritin: culoare diferită (violet pe site / albastru la magazin)
 9504 Reima Alaniva: titlul site-ului are „Alaniva” în loc de culoare (la magazin: albastru)
 9404 Primigi 8883533: descrierea spune interior din lână, compoziția dă textil
+9524 Bobo Choses 225AC129: titlul site-ului nu are culoare („Băieți”), la magazin multicolor
+9589 Konges Sløjd MAGOT: titlul site-ului are „JACKET” în loc de culoare (la magazin: albastru)
+9534 Columbia Nordic Strider: magazinul dă „bordo” în titlu și „maro” în date
+9673 GUESS N6RL04 bomber: compoziția de la magazin e de încălțăminte (gambă, talpă)
+9587 Geox J26ETA: descrierea spune piele întoarsă, compoziția e sintetică

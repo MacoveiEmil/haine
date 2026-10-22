@@ -1,0 +1,69 @@
+{
+ "id": 9729,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/adidas-originals/\">adidas Originals</a> JV8550 roșie este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> izolată, din material neted cu lână în compoziție, cu izolație sintetică groasă pentru temperaturile mai scăzute. Căptușeala e din viscoză și poliester.</p><p>Gulerul ridicat și gluga fixă apără de frig, tăietura e simplă, fără blocare, iar închiderea se face cu fermoar. Căptușeala acoperă tot interiorul.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 53% poliester, 43% lână, 4% elastan.</li><li><strong>Căptușeală</strong>: 51% viscoză, 49% poliester.</li><li><strong>Izolație</strong>: groasă.</li></ul><p>Mărimile 104-128 se potrivesc orientativ copiilor de 4-8 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/adidas-originals-geaca-copii-culoarea-rosu-jv8550-1661074",
+   "fragment": "JV8550"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/adidas-originals-geaca-copii-culoarea-rosu-jv8550-1661074",
+   "fragment": "culoarea roșu"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/adidas-originals-geaca-copii-culoarea-rosu-jv8550-1661074",
+   "fragment": "Model izolat confecționat din material neted"
+  },
+  {
+   "fapt": "izolație",
+   "url": "answear.ro/p/adidas-originals-geaca-copii-culoarea-rosu-jv8550-1661074",
+   "fragment": "Un model cu izolație sintetică care va oferi un confort suplimentar la temperaturi mai scăzute"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/adidas-originals-geaca-copii-culoarea-rosu-jv8550-1661074",
+   "fragment": "groasă"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/adidas-originals-geaca-copii-culoarea-rosu-jv8550-1661074",
+   "fragment": "Gulerul ridicat și gluga fixă"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/adidas-originals-geaca-copii-culoarea-rosu-jv8550-1661074",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/adidas-originals-geaca-copii-culoarea-rosu-jv8550-1661074",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/adidas-originals-geaca-copii-culoarea-rosu-jv8550-1661074",
+   "fragment": "53% Poliester , 43% Lana, 4% Elastan"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/adidas-originals-geaca-copii-culoarea-rosu-jv8550-1661074",
+   "fragment": "51% Viscoza, 49% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "adidas Originals JV8550",
+  "Material": "53% poliester, 43% lână, 4% elastan",
+  "Caracteristici": "izolație groasă, glugă fixă, guler ridicat",
+  "Cod produs": "JV8550"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-8 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Sursa are puține detalii despre buzunare sau finisaje."
+ ]
+}

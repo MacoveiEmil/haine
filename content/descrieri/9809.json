@@ -1,0 +1,94 @@
+{
+ "id": 9809,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele de zăpadă <a href=\"/brand/primigi/\">Primigi</a> 8883800 roz sunt <a href=\"/categorie/ghete-cizme/\">cizme de iarnă pentru fete</a> ușor izolate, din textil, piele întoarsă și piele naturală, cu membrană GORE-TEX subțire și respirabilă. Talpa Primitor Shock Absorber preia șocurile și protejează articulațiile, iar banda de rulare e antiderapantă.</p><p>Partea de sus ridicată sprijină glezna pe teren neuniform, vârful rotund e ușor întărit, iar contrafortul rigid ține călcâiul pe loc. Se închid cu arici, iar interiorul textil se păstrează ușor curat.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material textil, piele naturală, piele întoarsă.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Profil</strong>: înalt.</li></ul><p>Numerele 25-30 se potrivesc orientativ copiilor de 2-7 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "8883800"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "culoarea roz"
+  },
+  {
+   "fapt": "zăpadă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "Cizme de zapada pentru copii"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "Izolare: usor izolat"
+  },
+  {
+   "fapt": "GORE-TEX",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "Model cu membrana GORE-TEX®, care este extrem de subtire si 100% impermeabila, rezistenta la vant si respirabila"
+  },
+  {
+   "fapt": "Shock",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "Primitor Shock Absorber"
+  },
+  {
+   "fapt": "articulații",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "Amelioreaza si protejeaza articulatiile"
+  },
+  {
+   "fapt": "antiderapantă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "cu bandă de rulare, antiderapantă"
+  },
+  {
+   "fapt": "gleznă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "Partea superioară ridicată ajută la rigidizarea gleznei"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "Cutie rotunda, usor intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "Contorul de călcâi rigid"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "cu arici"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "Interiorul textil este confortabil pentru picior și facilitează păstrarea pantofilor curați"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "Material textil, Piele naturala, Piele intoarsa"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-roz-pfzgt-88838-1597240",
+   "fragment": "înalt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 8883800",
+  "Membrană": "GORE-TEX",
+  "Caracteristici": "Primitor Shock Absorber, arici, talpă antiderapantă",
+  "Cod produs": "8883800"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-7 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul descrie membrana ca 100% impermeabilă, dar are și formula că nu garantează impermeabilitatea completă; nu am scris „impermeabile”."
+ ]
+}
