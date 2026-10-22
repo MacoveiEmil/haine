@@ -1,0 +1,94 @@
+{
+ "id": 12470,
+ "versiune": "v7",
+ "descriere_html": "<p>Botinele <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T1A5-34005 bleumarin sunt <a href=\"/categorie/ghete-cizme/\">ghete pentru fete</a> cu fața neporoasă, care se curăță ușor cu o cârpă umedă, și talpă groasă, plată, din cauciuc durabil. Conțin materiale din fibre reciclate.</p><p>Vârful e rotund și întărit, călcâiul puternic rigid ține piciorul să nu alunece, iar închiderea combină șiretul, fermoarul lateral și velcro-ul. Interiorul e confortabil. Nu sunt izolate.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic.</li><li><strong>Interior</strong>: material sintetic, material textil.</li><li><strong>Lungime branț</strong>: 21,5 cm la numărul 34.</li></ul><p>Numerele 30-34 merg pe la 6-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "T1A5-34005"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "culoarea bleumarin"
+  },
+  {
+   "fapt": "neporoasă",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Partea superioară neporoasă, ușor de curățat cu o cârpă umedă"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "groasă, plată"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Produsul contine materiale realizate din fibre reciclate"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "ține piciorul în pantof, astfel încât să nu alunece"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Model cu siret cu fermoar lateral si inchidere cu Velcro"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Interior confortabil"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Izolare: neizolat"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Material sintetic"
+  },
+  {
+   "fapt": "interior2",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Material sintetic, Material textil"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Lungimea brantului pentru marimea este de: 21,5 cm"
+  },
+  {
+   "fapt": "mărime",
+   "url": "answear.ro/p/tommy-hilfiger-bocanci-copii-culoarea-bleumarin-t1a5-34005-1625427",
+   "fragment": "Dimensiunile date pentru marimea: 34"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger T1A5-34005",
+  "Talpă": "cauciuc, groasă",
+  "Caracteristici": "șiret, fermoar lateral, velcro",
+  "Cod produs": "T1A5.34005"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea spune „piele întoarsă”, iar compoziția indică material sintetic, imitație de piele; am scris doar compoziția."
+ ]
+}

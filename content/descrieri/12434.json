@@ -1,0 +1,94 @@
+{
+ "id": 12434,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/primigi/\">Primigi</a> 1420000 albi sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> cu membrană GORE-TEX, care ajută contra umezelii și rămâne respirabilă, și talpă Vibram rezistentă la abraziune. Fața e din piele întoarsă și textil.</p><p>Talpa din cauciuc are striații contra alunecării, branțul preia șocurile, iar contrafortul e rigidizat. Se închid cu velcro și șireturi, iar gulerul e ușor rigidizat în jurul gleznei.</p><p>Detaliile de bază:</p><ul><li><strong>Față</strong>: material textil, piele întoarsă.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Profil</strong>: scurt.</li></ul><p>Numerele 30-35 corespund aproximativ vârstei de 6-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "1420000"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "Culoare alb"
+  },
+  {
+   "fapt": "GORE-TEX",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "Tehnologia GORE-TEX®"
+  },
+  {
+   "fapt": "umezeală",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "ajută la protejarea împotriva umezelii, menținând în același timp respirabilitatea"
+  },
+  {
+   "fapt": "Vibram",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "Talpă Vibram®"
+  },
+  {
+   "fapt": "abraziune",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "rezistență la abraziune"
+  },
+  {
+   "fapt": "față",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "Partea superioară:Material textil, Piele întoarsă"
+  },
+  {
+   "fapt": "striații",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "Talpă cu striații"
+  },
+  {
+   "fapt": "alunecare",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "minimizând riscul de alunecare"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "Branț cu amortizare"
+  },
+  {
+   "fapt": "contrafort",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "Contrefort rigidizat"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "Închidere cu velcro și șireturi"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "Guler ușor rigidizat"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "Interior:Material textil"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/primigi-sneakers-pentru-copii-albi-pyr-gtx-14200-1749171",
+   "fragment": "scurt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 1420000",
+  "Membrană": "GORE-TEX",
+  "Caracteristici": "talpă Vibram, velcro și șireturi, piele întoarsă",
+  "Cod produs": "1420000"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului nu are culoare („Fete”); culoarea e cea de la magazin (alb, producătorul: JUTE.SAND)."
+ ]
+}

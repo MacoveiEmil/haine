@@ -100,3 +100,4 @@
 11633 Liewood Borris: titlul site-ului are „Borris” în loc de culoare (la magazin: albastru)
 11957 4F jachetă trekking: titlul site-ului are „membrana” în loc de culoare (albastră)
 11892 11939 11942 11957 12023 12025 (Fashion Days): pagina nu are descriere, doar titlul; descrieri scurte cu date_insuficiente
+12027 12037 12039 12063 12075 12111 12339 12343 12345 12346 (Fashion Days): pagina nu are descriere, doar titlul; descrieri scurte cu date_insuficiente
