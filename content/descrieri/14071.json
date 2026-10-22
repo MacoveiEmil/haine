@@ -1,0 +1,74 @@
+{
+ "id": 14071,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> SPACECLUB G sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> realizați în colaborare cu Disney, cu aspect feminin, din țesătură și material imprimat cu efect perlat. Talpa e decorată cu sclipici, iar designul e modern și strălucitor.</p><p>Se întrețin ușor, iar talpa e din cauciuc termoplastic. Partea de sus combină materialul textil cu cel sintetic.</p><p>Din ce sunt făcuți:</p><ul><li><strong>Față</strong>: 54% textil, 46% material sintetic.</li><li><strong>Talpă</strong>: TPR, cauciuc termoplastic.</li><li><strong>Decor</strong>: sclipici pe talpă, efect perlat.</li></ul><p>Culoarea e mix. Numerele 28-35 se potrivesc copiilor de aproximativ 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "Geox SPACECLUB G"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "Mix"
+  },
+  {
+   "fapt": "Disney",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "au fost realizați în cadrul unei colaborări între Geox și Disney"
+  },
+  {
+   "fapt": "feminin",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "au un aspect feminin"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "Sunt confecționați din țesătură și material imprimat cu piele cu efect perlat"
+  },
+  {
+   "fapt": "sclipici",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "Talpa este decorată cu sclipici"
+  },
+  {
+   "fapt": "modern",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "design modern"
+  },
+  {
+   "fapt": "strălucitor",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "strălucitori"
+  },
+  {
+   "fapt": "întreținere",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "întreținere ușoară"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "54 % material textil, 46 % material sintetic"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/geox/spaceclub-g/1227282/",
+   "fragment": "TPR (cauciuc termoplastic)"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox SPACECLUB G",
+  "Material": "textil și sintetic, talpă TPR",
+  "Caracteristici": "colaborare Disney, sclipici, efect perlat",
+  "Cod produs": "192420"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului dă puține detalii despre închidere și interior; am scris doar ce apare."
+ ]
+}

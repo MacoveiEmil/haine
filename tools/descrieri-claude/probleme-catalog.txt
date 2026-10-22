@@ -58,3 +58,4 @@
 13182 | Geacă Liewood Nolan Pile LW19877: titlul spune Maro, magazinul dă culoarea bej
 13537 | Cizme Columbia SNOWTROT MID 2078911: titlul spune Negru, magazinul dă culoarea bej
 13946 | Tricou Reima VIISAS 5200012B: titlul spune Gri, magazinul dă culoarea Mix; descrierea pomenește lână Merino, dar compoziția e bumbac, viscoză (bambus) și poliamidă
+14091 | Geacă Reima PORTIT 5100155K (Sportisimo): pagina magazinului arată VÂNDUT și nu dă culoarea; specificațiile pomenesc și crac lung, ca la un set

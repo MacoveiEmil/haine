@@ -1,0 +1,80 @@
+{
+ "id": 14091,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de iarnă <a href=\"/brand/reima/\">Reima</a> PORTIT, albastră după titlul de pe site, este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> din material impermeabil, rezistent la vânt și respirabil, cu izolație termică. Are 7.000 mm coloană de apă, 5 000 g/m²/24h respirabilitate și cusăturile principale lipite.</p><p>Finisajul hidrofug, fără PFA, respinge murdăria. Gluga se detașează și se reglează, iar tivul se ajustează.</p><p>Restul detaliilor:</p><ul><li><strong>Buzunare</strong>: două, cu fermoar.</li><li><strong>Reflectorizante</strong>: pentru întuneric.</li><li><strong>Material</strong>: 60% poliester reciclat, 40% poliester, strat de PU.</li></ul><p>Mărimile 110-140 sunt pentru copii de aproximativ 5-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "REIMA PORTIT"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "material impermeabil, rezistent la vânt și respirabil"
+  },
+  {
+   "fapt": "izolație",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "confort termic pe tot parcursul iernii"
+  },
+  {
+   "fapt": "coloană",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "7.000 mm"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "5 000 g/m²/24h"
+  },
+  {
+   "fapt": "lipite",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "cusături principale lipite"
+  },
+  {
+   "fapt": "hidrofug",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "finisajului hidrofug și rezistent la murdărie, fără conținut de PFA"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "glugă detașabilă și ajustabilă"
+  },
+  {
+   "fapt": "tiv",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "tiv ajustabil"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "două buzunare cu fermoar"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "detalii reflectorizante"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/portit/1945123/",
+   "fragment": "60 % poliester reciclat, 40 % poliester, strat de PU"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima PORTIT",
+  "Material": "60% poliester reciclat, 40% poliester, strat PU",
+  "Caracteristici": "7000 mm, cusături lipite, glugă detașabilă",
+  "Cod produs": "259988"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "5-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului.",
+  "Specificațiile pomenesc și crac lung cu capete elastice, ca la un set."
+ ]
+}

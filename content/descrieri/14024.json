@@ -1,0 +1,77 @@
+{
+ "id": 14024,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/reima/\">Reima</a> OHITUS negri sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> vegani, fără PFAS și PVC, din material ușor și respirabil, gândiți pentru activități în aer liber. Șiretul elastic face încălțatul rapid.</p><p>Talpa flexibilă din EVA are întărituri din cauciuc, iar designul arcuit Reima Rolling Steps face pasul fluid și ușor și redă energie pașilor. Materialele ușoare lasă aerul să circule.</p><p>Din ce sunt făcuți:</p><ul><li><strong>Față</strong>: material sintetic.</li><li><strong>Talpă</strong>: EVA cu cauciuc.</li><li><strong>Branțuri</strong>: detașabile, Happy Fit.</li></ul><p>Numerele 32-40 se potrivesc copiilor de la aproximativ 8 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "REIMA OHITUS"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "Negru (negru / alb)"
+  },
+  {
+   "fapt": "vegan",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "vegani"
+  },
+  {
+   "fapt": "PFAS",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "fără conținut de PFAS a PVC"
+  },
+  {
+   "fapt": "respirabil",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "material respirabil și ușor"
+  },
+  {
+   "fapt": "aer liber",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "Adidașii pentru copii Reima OHITUS sunt ideali pentru activitățile în aer liber"
+  },
+  {
+   "fapt": "șiret",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "șiret elastic pentru încălțare rapidă și ușoară"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "talpă flexibilă și ușoară din EVA, cu întărituri din cauciuc"
+  },
+  {
+   "fapt": "Rolling",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "designul arcuit Reima Rolling Steps garantează deplasarea ușoară și fluidă și redă energie pașilor copiilor"
+  },
+  {
+   "fapt": "aer",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "materialele ușoare și respirabile asigură o bună circulație a aerului"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "material sintetic"
+  },
+  {
+   "fapt": "branț",
+   "url": "www.sportisimo.ro/reima/ohitus/2121909/",
+   "fragment": "branțuri detașabile Happy Fit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima OHITUS",
+  "Material": "sintetic, talpă EVA cu cauciuc",
+  "Caracteristici": "șiret elastic, Rolling Steps, Happy Fit, vegani",
+  "Cod produs": "277978"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 8 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

@@ -1,0 +1,77 @@
+{
+ "id": 14044,
+ "versiune": "v7",
+ "descriere_html": "<p>Hanoracul <a href=\"/brand/reima/\">Reima</a> HAAVE este un <a href=\"/categorie/unisex-imbracaminte-bluze-tricouri-hanorace/\">hanorac unisex</a> din fleece tricotat, cu interior periat, moale, cu glugă fixă și fibre reciclate certificate. Elimină transpirația, deci merge ca strat intermediar la școală sau la sport, în zilele răcoroase.</p><p>Fermoarul merge pe toată lungimea și are protecție la bărbie. În față sunt două buzunare, pentru obiecte mici, iar tricotul e foarte plăcut la purtare.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Glugă</strong>: fixă.</li><li><strong>Culoare</strong>: mix, cu verde.</li></ul><p>Mărimile 104-140 sunt pentru copii de cam 4-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "REIMA HAAVE"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "Mix (mix / verde)"
+  },
+  {
+   "fapt": "fleece",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "fleece tricotat cu interior periat"
+  },
+  {
+   "fapt": "moale",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "Este din tricot moale, cu strat interior periat"
+  },
+  {
+   "fapt": "plăcut",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "este foarte plăcut la purtare"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "are glugă fixă"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "conține fibre reciclate certificate"
+  },
+  {
+   "fapt": "transpirație",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "elimină transpirația"
+  },
+  {
+   "fapt": "strat",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "Este ideal ca strat intermediar pentru purtarea la școală sau pentru activitățile de sport"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "fermoar pe toată lungimea cu protecție la bărbie"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "2 în față"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/haave/1276170/",
+   "fragment": "100 % poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima HAAVE",
+  "Material": "100% poliester (fleece)",
+  "Caracteristici": "glugă fixă, fermoar cu protecție la bărbie",
+  "Cod produs": "198026"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

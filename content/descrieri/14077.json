@@ -1,0 +1,64 @@
+{
+ "id": 14077,
+ "versiune": "v7",
+ "descriere_html": "<p>Tenișii <a href=\"/brand/geox/\">Geox</a> ACTIVART B negri sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> ușori, cu aspect modern, care se potrivesc cu orice ținută sport. Talpa din EVA e flexibilă și preia șocurile la pas.</p><p>Magazinul îi descrie ca foarte confortabili, cu design modern. Partea de sus e din textil și material sintetic, iar greutatea redusă îi face comozi la joacă.</p><p>Din ce sunt făcuți:</p><ul><li><strong>Față</strong>: 59% textil, 41% material sintetic.</li><li><strong>Talpă</strong>: EVA.</li><li><strong>Culoare</strong>: negru cu alb.</li></ul><p>Numerele 28-35 se potrivesc copiilor de cam 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/geox/activart-b/1227318/",
+   "fragment": "Geox ACTIVART B"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/geox/activart-b/1227318/",
+   "fragment": "Negru (negru / alb)"
+  },
+  {
+   "fapt": "ușor",
+   "url": "www.sportisimo.ro/geox/activart-b/1227318/",
+   "fragment": "au greutatea redusă și aspect modern"
+  },
+  {
+   "fapt": "sport",
+   "url": "www.sportisimo.ro/geox/activart-b/1227318/",
+   "fragment": "se potrivește cu orice ținută sport"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/geox/activart-b/1227318/",
+   "fragment": "Au talpă amortizantă și flexibilă"
+  },
+  {
+   "fapt": "confort",
+   "url": "www.sportisimo.ro/geox/activart-b/1227318/",
+   "fragment": "confort maxim"
+  },
+  {
+   "fapt": "modern",
+   "url": "www.sportisimo.ro/geox/activart-b/1227318/",
+   "fragment": "design modern"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/geox/activart-b/1227318/",
+   "fragment": "59 % material textil, 41 % material sintetic"
+  },
+  {
+   "fapt": "EVA",
+   "url": "www.sportisimo.ro/geox/activart-b/1227318/",
+   "fragment": "EVA"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox ACTIVART B",
+  "Material": "textil și sintetic, talpă EVA",
+  "Caracteristici": "ușori, talpă flexibilă",
+  "Cod produs": "192453"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului dă puține detalii despre închidere și interior; am scris doar ce apare."
+ ]
+}

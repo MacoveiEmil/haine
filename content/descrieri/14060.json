@@ -1,0 +1,77 @@
+{
+ "id": 14060,
+ "versiune": "v7",
+ "descriere_html": "<p>Sandalele de drumeție <a href=\"/brand/reima/\">Reima</a> TALSI roșii sunt <a href=\"/categorie/unisex-incaltaminte-sandale/\">sandale unisex</a> vegane, ușoare, cu vârf acoperit care apără degetele și formă mai lată, ca degetele să nu se deformeze. Nu conțin PVC sau fluorură de carbon.</p><p>Șiretul elastic le face ușor de încălțat, iar talpa din EVA și cauciuc e ușoară și flexibilă.</p><p>Din ce sunt făcute:</p><ul><li><strong>Față</strong>: PU/PES, sintetic și textil.</li><li><strong>Talpă</strong>: cauciuc și EVA.</li><li><strong>Greutate</strong>: 200 g.</li></ul><p>Numerele 28-38 se poartă de pe la 4 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "REIMA TALSI"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "Roșu (roșu / roz / negru)"
+  },
+  {
+   "fapt": "drumeție",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "Sandalele de drumeție pentru copii Reima TALSI"
+  },
+  {
+   "fapt": "vegan",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "vegane"
+  },
+  {
+   "fapt": "vârf",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "cu vârf acoperit care protejează degetele de răni"
+  },
+  {
+   "fapt": "lat",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "Au o formă mai lată pentru a evita deformarea degetelor"
+  },
+  {
+   "fapt": "PVC",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "nu conțin PVC"
+  },
+  {
+   "fapt": "fluor",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "fără fluorură de carbon"
+  },
+  {
+   "fapt": "șiret",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "Datorită șiretului elastic, încălțămintea se poate încălța ușor"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "talpa confecționată din EVA/cauciuc este ușoară și flexibilă"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "PU/PES"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/talsi/1276266/",
+   "fragment": "200 g"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima TALSI",
+  "Material": "PU/PES, talpă din EVA și cauciuc",
+  "Caracteristici": "vârf acoperit, șiret elastic, vegane",
+  "Cod produs": "198076"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 4 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
