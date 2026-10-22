@@ -1,17 +1,17 @@
 {
  "id": 11604,
- "versiune": "v6",
- "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> OMAR sunt <a href=\"/categorie/bebe-incaltaminte-ghete-cizme/\">ghete de iarnă pentru bebeluși</a>, negre, din piele naturală și piele întoarsă, cu interior din lână. Sunt ușor izolate, deci făcute pentru zilele reci, iar fața are rezistență crescută la înmuiere, fără ca magazinul să promită impermeabilitate completă.</p><p>La un copil mic, gheata trebuie să stea fixă pe picior și să se închidă repede, iar OMAR are pentru asta:</p><ul><li><strong>Închidere</strong>: cu scai, care face gheata ușor de pus și de scos.</li><li><strong>Gleznă</strong>: partea de sus e ridicată și rigidizată.</li><li><strong>Călcâi</strong>: contor rigid, care ține piciorul în gheată.</li><li><strong>Vârf</strong>: rotund și întărit.</li><li><strong>Talpă</strong>: exterioară din cauciuc, cu sistemul Geox Respira în trei straturi, cu perforări.</li><li><strong>Branț</strong>: sistemul Light Flexy.</li></ul><p>Numerele de pe site, de la 20 la 27, corespund orientativ vârstei de 1-4 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Ghetele de iarnă <a href=\"/brand/geox/\">Geox</a> OMAR B462DC sunt <a href=\"/categorie/bebe-incaltaminte-ghete-cizme/\">ghete pentru bebeluși</a> negre, ușor izolate, din piele naturală și piele întoarsă rezistente la înmuiere, cu interior din lână. Talpa Geox Respira, în trei straturi perforate, ventilează gheata.</p><p>Velcro-ul se închide repede, iar partea de sus ridicată rigidizează glezna pe teren denivelat. Contrafortul rigid ține piciorul în gheată.</p><p>Pe scurt:</p><ul><li><strong>Vârf</strong>: cutie rotundă, întărită.</li><li><strong>Light Flexy</strong>: branț care lasă piciorul să se miște.</li><li><strong>Talpă</strong>: exterioară, din cauciuc, rezistentă la uzură.</li></ul><p>Numerele 20-27 sunt pentru copii de în jur de 1-4 ani.</p>",
  "surse": [
   {
    "fapt": "model",
    "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "Ghete de iarnă pentru copii din piele OMAR"
+   "fragment": "Geox Ghete de iarnă pentru copii din piele OMAR culoarea negru, B462DC.04322"
   },
   {
-   "fapt": "culoare",
+   "fapt": "izolare",
    "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "culoarea negru"
+   "fragment": "Izolare ușoară"
   },
   {
    "fapt": "material",
@@ -19,59 +19,14 @@
    "fragment": "combinația pielii naturale cu pielea intoarsa"
   },
   {
-   "fapt": "interior lână",
-   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "interior din lână"
-  },
-  {
-   "fapt": "izolare",
-   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "Izolare: usor izolat"
-  },
-  {
-   "fapt": "rezistență la înmuiere",
+   "fapt": "înmuiere",
    "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
    "fragment": "Partea superioară cu rezistență crescută la înmuiere"
   },
   {
-   "fapt": "nu e complet impermeabil",
+   "fapt": "lână",
    "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "nu garantează impermeabilitatea completă"
-  },
-  {
-   "fapt": "scai",
-   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "Fixare: cu scai"
-  },
-  {
-   "fapt": "închidere",
-   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "Închiderea cu velcro facilitează încălțarea și scoaterea pantofilor"
-  },
-  {
-   "fapt": "gleznă",
-   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "Partea superioară ridicată"
-  },
-  {
-   "fapt": "rigidizată",
-   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "Modelul are partea superioară rigidizată"
-  },
-  {
-   "fapt": "călcâi",
-   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "ține piciorul în pantof"
-  },
-  {
-   "fapt": "vârf",
-   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "Cutie rotunda, intarita"
-  },
-  {
-   "fapt": "talpă",
-   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "Talpa exterioară din cauciuc"
+   "fragment": "Un model cu interior din lână"
   },
   {
    "fapt": "Respira",
@@ -79,15 +34,45 @@
    "fragment": "talpei in trei straturi cu sistemul de perforari"
   },
   {
-   "fapt": "branț",
+   "fapt": "velcro",
    "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
-   "fragment": "Light Flexy Sistem de brant"
+   "fragment": "Închiderea cu velcro facilitează încălțarea și scoaterea pantofilor"
+  },
+  {
+   "fapt": "gleznă",
+   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
+   "fragment": "Partea superioară ridicată ajută la rigidizarea gleznei"
+  },
+  {
+   "fapt": "teren",
+   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
+   "fragment": "suprafețe neuniforme"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
+   "fragment": "Contorul de călcâi rigid"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "Light Flexy",
+   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
+   "fragment": "Light Flexy Sistem de brant pentru libertatea de miscare"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-ghete-de-iarna-pentru-copii-din-piele-omar-culoarea-negru-b462dc-04322-1694955",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Geox OMAR",
-  "Material": "piele naturală și piele întoarsă, interior din lână, talpă exterioară din cauciuc",
-  "Caracteristici": "ușor izolate, rezistență crescută la înmuiere, închidere cu scai, gleznă ridicată, Geox Respira, branț Light Flexy",
+  "Material": "piele naturală și piele întoarsă, interior din lână, talpă din cauciuc",
+  "Caracteristici": "ușor izolate, velcro, Geox Respira, Light Flexy",
   "Cod produs": "B462DC.04322"
  },
  "categorie_complementara": null,
