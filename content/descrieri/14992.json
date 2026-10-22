@@ -1,0 +1,57 @@
+{
+ "id": 14992,
+ "versiune": "v7",
+ "descriere_html": "<p>Șosetele <a href=\"/brand/reima/\">Reima</a> NILKAT roz sunt un <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">accesoriu unisex</a> practic pentru zilele obișnuite și pentru sport. Pachetul are două perechi din tricot elastic, care stau bine pe picior.</p><p>Materialul e rezistent, deci șosetele țin și la purtare frecventă, bune pentru copiii care se mișcă mult toată ziua. Compoziția e aproape în întregime din poliamidă reciclată.</p><p>Detaliile de bază:</p><ul><li><strong>Pachet</strong>: două perechi.</li><li><strong>Material</strong>: 97% poliamidă reciclată, 3% elastan.</li><li><strong>Cod produs</strong>: 240015.</li></ul><p>Mărimile 22/25 până la 38-41 se potrivesc orientativ copiilor de la 1 an în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/nilkat/1720279/",
+   "fragment": "REIMA NILKAT"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/nilkat/1720279/",
+   "fragment": "Roz (roz / alb / negru)"
+  },
+  {
+   "fapt": "zilnic",
+   "url": "www.sportisimo.ro/reima/nilkat/1720279/",
+   "fragment": "un accesoriu practic pentru activități zilnice și sportive"
+  },
+  {
+   "fapt": "perechi",
+   "url": "www.sportisimo.ro/reima/nilkat/1720279/",
+   "fragment": "Pachetul conține două perechi de șosete confecționate din tricot elastic"
+  },
+  {
+   "fapt": "picior",
+   "url": "www.sportisimo.ro/reima/nilkat/1720279/",
+   "fragment": "se așază excelent pe picior"
+  },
+  {
+   "fapt": "rezistă",
+   "url": "www.sportisimo.ro/reima/nilkat/1720279/",
+   "fragment": "șosetele rezistă chiar și la utilizare frecventă"
+  },
+  {
+   "fapt": "activi",
+   "url": "www.sportisimo.ro/reima/nilkat/1720279/",
+   "fragment": "Sunt ideale pentru copiii activi"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/nilkat/1720279/",
+   "fragment": "97 % poliamidă reciclată, 3 % elastan"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima NILKAT",
+  "Material": "97% poliamidă reciclată, 3% elastan",
+  "Caracteristici": "2 perechi, tricot elastic",
+  "Cod produs": "240015"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 1 an în sus",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
