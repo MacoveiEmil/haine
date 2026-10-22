@@ -1,0 +1,84 @@
+{
+ "id": 10333,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/levis/\">Levi's</a> SHINY HVWT PUFFER roz este o <a href=\"/categorie/geci-jachete/\">geacă puf pentru fete</a>, lucioasă, ușor izolată, din material matlasat cu izolație sintetică pentru zilele mai reci. Gulerul ridicat și gluga fixă apără capul și gâtul.</p><p>Se închide cu fermoar, are buzunare oblice, iar mânecile se termină cu elastic. Căptușeala e completă, sintetică.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Lungime</strong>: 56 cm la mărimea 140.</li><li><strong>Lățime la subraț</strong>: 45 cm.</li></ul><p>Mărimile 140-164 corespund aproximativ vârstei de 10-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "SHINY HVWT PUFFER"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "culoarea roz"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "Model ușor izolat confecționat din material matlasat cu izolatie sintetică"
+  },
+  {
+   "fapt": "reci",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "temperaturi mai reci"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "Gulerul ridicat și gluga fixă"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "Buzunare oblice"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "Mâneci finisate cu o coadă elastică"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "cu căptușeală completă, sintetică"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "Lungimea: 56 cm"
+  },
+  {
+   "fapt": "mărime",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "Dimensiunile date pentru marimea: 140"
+  },
+  {
+   "fapt": "subraț",
+   "url": "answear.ro/p/levis-geaca-copii-shiny-hvwt-puffer-culoarea-roz-4en640-1610337",
+   "fragment": "Latimea la subrat: 45 cm"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Levi's SHINY HVWT PUFFER",
+  "Material": "100% poliester",
+  "Caracteristici": "lucioasă, matlasată, glugă fixă",
+  "Cod produs": "4EN640"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "10-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "„Lucioasă” e dedus din numele modelului (SHINY)."
+ ]
+}

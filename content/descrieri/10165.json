@@ -1,0 +1,99 @@
+{
+ "id": 10165,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele de zăpadă <a href=\"/brand/primigi/\">Primigi</a> 8881633 aurii sunt <a href=\"/categorie/ghete-cizme/\">cizme de iarnă pentru fete</a> izolate, din material sintetic și piele întoarsă, cu membrană GORE-TEX subțire, rezistentă la vânt și respirabilă. Branțul detașabil e din lână, cu contur, și preia șocurile.</p><p>Carâmbul înalt ține glezna pe suprafețe neuniforme, vârful e lat și rigidizat, iar talpa din cauciuc are bandă de rulare antiderapantă. Velcro-ul le face ușor de pus și de scos.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic, piele întoarsă.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Profil</strong>: înalt.</li></ul><p>Numerele 31-35 merg, orientativ, la copiii de 6-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "8881633"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "culoarea auriu"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "Izolare: izolat"
+  },
+  {
+   "fapt": "GORE-TEX",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "Model cu membrana GORE-TEX®, care este extrem de subtire"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "rezistenta la vant si respirabila"
+  },
+  {
+   "fapt": "lână",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "lână, cu absorbție a șocurilor"
+  },
+  {
+   "fapt": "detașabil",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "Branțuri detașabile"
+  },
+  {
+   "fapt": "contur",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "Brant confortabil, cu contur"
+  },
+  {
+   "fapt": "gleznă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "Partea superioară ridicată ajută la rigidizarea gleznei"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "Cutia lată a degetelor previne ciupirea degetelor"
+  },
+  {
+   "fapt": "rigidizat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "rigidizat"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "antiderapantă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "cu bandă de rulare, antiderapantă"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "Închiderea cu velcro"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "Material sintetic, Piele intoarsa"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-auriu-pwigt-88816-1662293",
+   "fragment": "înalt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 8881633",
+  "Membrană": "GORE-TEX",
+  "Caracteristici": "izolate, branț din lână, velcro",
+  "Cod produs": "8881633"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul descrie membrana ca 100% impermeabilă, dar are și formula că nu garantează impermeabilitatea completă; nu am scris „impermeabile”."
+ ]
+}

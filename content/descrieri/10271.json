@@ -1,0 +1,79 @@
+{
+ "id": 10271,
+ "versiune": "v7",
+ "descriere_html": "<p>Paltonul <a href=\"/brand/polo-ralph-lauren/\">Polo Ralph Lauren</a> 323970093001 bleumarin, listat la <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geci pentru băieți</a>, e făcut dintr-un material care apără de frig, cu izolație groasă și fibre reciclate. Are glugă încorporată și căptușeală completă, sintetică.</p><p>Tăietura e simplă, fermoarul îl face ușor de pus și de scos, iar pe laterale are două buzunare. Gluga încorporată adaugă căldură și acoperire când e nevoie.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester reciclat.</li><li><strong>Izolație</strong>: groasă.</li><li><strong>Croială</strong>: regular fit.</li></ul><p>Mărimile 136-138 până la 163-174 sunt gândite, cu aproximație, pentru 9-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "323970093001"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "culoarea bleumarin"
+  },
+  {
+   "fapt": "frig",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "Model izolat confecționat material care protejează împotriva frigului"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "groasă"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "Produsul contine materiale realizate din fibre reciclate"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "Gluga încorporată"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "cu căptușeală completă, sintetică"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "Închiderea convenabilă cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "Două buzunare laterale"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "100% Poliester reciclat"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/polo-ralph-lauren-palton-copii-culoarea-bleumarin-323970093001-1608444",
+   "fragment": "Croială: regular fit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Polo Ralph Lauren 323970093001",
+  "Material": "100% poliester reciclat",
+  "Caracteristici": "izolație groasă, glugă, fermoar",
+  "Cod produs": "323970093001"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "9-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul îl numește o dată „palton”, o dată „geacă”, și spune o dată „izolat”, o dată „neizolat”; am urmat caracteristicile (izolație groasă)."
+ ]
+}

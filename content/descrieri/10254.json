@@ -1,0 +1,75 @@
+{
+ "id": 10254,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/patrizia-pepe/\">Patrizia Pepe</a> 7O0041 albastră este o <a href=\"/categorie/geci-jachete/\">geacă subțire pentru fete</a>, din imitație de blană, cu decolteu rotund, fără glugă. Are căptușeală și se încheie cu cârlige, iar tăietura e simplă.</p><p>Magazinul precizează că nu e impermeabilă, deci e o haină pentru zilele uscate de toamnă sau primăvară. Mărimile sunt italienești, raportate la cele europene, așa că e bine de verificat tabelul magazinului înainte.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Închidere</strong>: cârlige.</li><li><strong>Decolteu</strong>: rotund.</li></ul><p>Pentru 130-168, vârsta e orientativ de 8-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "7O0041"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "blană",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "Model subțire confecționat din imitatie de blana"
+  },
+  {
+   "fapt": "decolteu",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "Decolteu clasic, rotund"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "Model cu captuseala"
+  },
+  {
+   "fapt": "cârlige",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "Incheiere cu carlige"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "fără impermeabilitate"
+  },
+  {
+   "fapt": "italian",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "Dimensiunile disponibile sunt cele ale producatorul italian"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/patrizia-pepe-geaca-copii-e066-7o0041-1616954",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Patrizia Pepe 7O0041",
+  "Material": "100% poliester, imitație de blană",
+  "Caracteristici": "subțire, decolteu rotund, cârlige",
+  "Cod produs": "7O0041"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului nu are culoare; culoarea e cea de la magazin (albastru).",
+  "„Toamnă sau primăvară” e dedus din atributul „tranzițional”."
+ ]
+}

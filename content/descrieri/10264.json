@@ -1,0 +1,94 @@
+{
+ "id": 10264,
+ "versiune": "v7",
+ "descriere_html": "<p>Varianta bej a cizmelor de zăpadă <a href=\"/brand/primigi/\">Primigi</a> 8858966 face parte tot din <a href=\"/categorie/ghete-cizme/\">cizmele de iarnă pentru fete</a>: ușor izolate, din material sintetic și piele naturală, cu membrană GORE-TEX respirabilă și rezistentă la vânt.</p><p>Contrafortul rigidizat sprijină glezna și călcâiul, vârful lat și rigidizat lasă loc degetelor, iar partea înaltă ține glezna pe teren denivelat. Talpa din cauciuc e antiderapantă și durabilă, iar închiderea e cu arici.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic, piele naturală.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Profil</strong>: înalt.</li></ul><p>La numerele 25-29, vârsta e în jur de 2-5 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "8858966"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "culoarea bej"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "Izolare: usor izolat"
+  },
+  {
+   "fapt": "GORE-TEX",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "Model cu membrana GORE-TEX®"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "rezistenta la vant si respirabila"
+  },
+  {
+   "fapt": "contrafort",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "Contorul de călcâi rigidizat oferă un sprijin excelent pentru gleznă și călcâi"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "Cutia lată a degetelor"
+  },
+  {
+   "fapt": "rigidizat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "rigidizat"
+  },
+  {
+   "fapt": "gleznă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "Partea superioară ridicată ajută la rigidizarea gleznei"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "antiderapantă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "cu bandă de rulare, antiderapantă"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "cu arici"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "Material sintetic, Piele naturala"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "Material textil"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-bej-ptigt-88589-1596191",
+   "fragment": "înalt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 8858966",
+  "Membrană": "GORE-TEX",
+  "Caracteristici": "ușor izolate, arici, talpă antiderapantă",
+  "Cod produs": "8858966"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-5 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul descrie membrana ca 100% impermeabilă, dar are și formula că nu garantează impermeabilitatea completă; nu am scris „impermeabile”."
+ ]
+}
