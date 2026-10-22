@@ -1,0 +1,89 @@
+{
+ "id": 9543,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> SPRINTYE sunt <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidași pentru bebeluși</a> roz, ușori, cu profil sub gleznă, din material textil combinat cu piele ecologică. Talpa are trei straturi cu perforări, după sistemul Geox Respira, care ventilează pantoful.</p><p>Vârful e rotund, ușor rigid, iar degetele se pot așeza liber în pantof. Șireturile elastice cu închidere pe cârlig se reglează fără nod, iar bucla de la spate ajută la tras pantoful pe picior.</p><p>Mai sunt câteva lucruri de știut despre construcție:</p><ul><li><strong>Călcâi</strong>: contrafort rigid, piciorul nu alunecă în pantof.</li><li><strong>Interior</strong>: textil, se păstrează ușor curat.</li><li><strong>Talpă</strong>: din spumă.</li></ul><p>Numerele 20-27 se potrivesc copiilor de în jur de 1-4 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "Geox Sneakers pentru copii SPRINTYE culoarea roz, B454TD.01454"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "combinația materialului textil cu pielea ecologică"
+  },
+  {
+   "fapt": "ușor",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "Model ușor"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "Pantoful de sub gleznă"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "ventilare",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "imbunatateste ventilarea"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "Degetul rotund, ușor rigid"
+  },
+  {
+   "fapt": "degete",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "degetele se pot aranja liber în pantof"
+  },
+  {
+   "fapt": "șireturi",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "Șireturile elastice și închiderea cu cârlig"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "Contorul de călcâi rigid"
+  },
+  {
+   "fapt": "nu alunecă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "astfel încât să nu alunece în timpul mișcării"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "Interiorul textil este confortabil pentru picior și facilitează păstrarea pantofilor curați"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-sprintye-culoarea-roz-b454td-01454-1724821",
+   "fragment": "Talpa din spumă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox SPRINTYE",
+  "Material": "textil și piele ecologică, interior textil, talpă din spumă",
+  "Caracteristici": "Geox Respira, șireturi elastice cu cârlig, buclă la spate",
+  "Cod produs": "B454TD.01454"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul și h1 spun roz; atributul de culoare al magazinului spune alb."
+ ]
+}

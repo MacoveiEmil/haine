@@ -8,6 +8,7 @@ for i in "$@"; do git add "content/descrieri/$i.json" "content/surse/$i.json" 2>
 git add tools/descrieri-claude 2>/dev/null
 git commit -q -m "$msg
 
-Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Tws4v4hF4poTaUaZHKvzrw"
 git pull -q --rebase --autostash origin main && git push -q origin HEAD:main 2>&1 | grep -v "^warning" | tail -2
 echo "publicat: $# | total v7: $(grep -l '"versiune": "v7"' content/descrieri/*.json | wc -l)"

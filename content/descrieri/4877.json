@@ -1,0 +1,79 @@
+{
+ "id": 4877,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/nike/\">Nike</a> JDB ESS DRAFT JACKET este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă ușoară pentru băieți</a>, albastră cu negru, din nailon cu suprafață țesută netedă. Magazinul o recomandă pentru activități în aer liber, precum drumețiile, în sezonul primăvară-vară.</p><p>Croiala e clasică, iar manșetele și betelia elastică strâng geaca la încheieturi și în talie, așa că stă aproape de corp și pe un copil mai slab.</p><p>Pentru o geacă de purtat la drum, detaliile sunt practice:</p><ul><li><strong>Glugă</strong>: atașată, nu se scoate.</li><li><strong>Închidere</strong>: fermoar pe toată lungimea.</li><li><strong>Buzunare</strong>: laterale, cu fermoare ascunse.</li><li><strong>Design</strong>: panouri în contrast pe mâneci și logo pe piept.</li></ul><p>Pe site se găsește în mărimile S, M, L și XL, care după tabelul magazinului acoperă cam vârsta de 8-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "Jacheta Nike JDB ESS DRAFT JACKET albastru-negru"
+  },
+  {
+   "fapt": "nailon",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "realizată din nailon"
+  },
+  {
+   "fapt": "suprafață",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "suprafață țesută netedă"
+  },
+  {
+   "fapt": "drumeție",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "drumețiile"
+  },
+  {
+   "fapt": "sezon",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "sezonul primăvară-vară"
+  },
+  {
+   "fapt": "croială",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "croială clasică"
+  },
+  {
+   "fapt": "elastic",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "manșete și betelie elastică"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "glugă atașată"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "fermoar pe toată lungimea"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "buzunare laterale cu fermoare ascunse"
+  },
+  {
+   "fapt": "panouri",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "panouri de culoare contrastantă pe mâneci"
+  },
+  {
+   "fapt": "logo",
+   "url": "www.various-brands.ro/jdb-ess-draft-jacket-nike-95d689-gag.html",
+   "fragment": "logo vizibil pe piept"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Nike JDB ESS DRAFT JACKET",
+  "Material": "nailon",
+  "Caracteristici": "glugă atașată, manșete și betelie elastice, buzunare cu fermoare ascunse",
+  "Cod produs": "95D689-GAG"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Vârsta pentru S-XL: tabelul de mărimi Nike al magazinului (pagina produsului 4949); pe pagina acestui produs tabelul e trunchiat."
+ ]
+}
