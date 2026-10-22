@@ -1,0 +1,85 @@
+{
+ "id": 13668,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/diesel/\">Diesel</a> JOMOX-FUR JACKET albastră este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de blugi unisex</a>, din denim de bumbac spălat, ușor izolată, cu decor de denim decolorat. Nu are glugă.</p><p>Se închide cu fermoar, buzunarele sunt oblice, iar manșetele se încheie. Tăietura e simplă, fără blocare. Magazinul precizează că nu e impermeabilă, deci e potrivită pentru zilele uscate de primăvară sau toamnă.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% bumbac.</li><li><strong>Izolație</strong>: ușoară.</li><li><strong>Croială</strong>: regular fit.</li></ul><p>Mărimile 132-175 se potrivesc pe la 9-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "JOMOX-FUR JACKET"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "denim",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "Model ușor izolat confecționat din denim spălat"
+  },
+  {
+   "fapt": "decolorat",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "Denim spalacit decorativ"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "Încheiere cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "Buzunare oblice"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "Maneci cu mansete incheiate"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "fără impermeabilitate"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "100% Bumbac"
+  },
+  {
+   "fapt": "ușoară",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "ușoară"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/diesel-geaca-de-bumbac-pentru-copii-jomox-fur-jacket-j02506-1563839",
+   "fragment": "Croială: regular fit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Diesel JOMOX-FUR JACKET",
+  "Material": "100% bumbac (denim)",
+  "Caracteristici": "denim spălat, ușor izolată, fermoar",
+  "Cod produs": "J02506"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "9-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „JACKET” în locul culorii; culoarea e cea de la magazin (albastru).",
+  "Informațiile despre căptușeală se contrazic; nu am scris despre ea."
+ ]
+}

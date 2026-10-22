@@ -1,0 +1,75 @@
+{
+ "id": 13961,
+ "versiune": "v7",
+ "descriere_html": "<p>Tenișii <a href=\"/brand/reima/\">Reima</a> EKANA roz sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> pentru copii mici, din textil și material sintetic, cu talpă ușoară și moale din EVA, flexibilă. Căptușeala e textilă, iar detaliile reflectorizante se văd seara.</p><p>Șireturile elastice și banda velcro îi fac ușor de pus. Branțul modelat din EVA se scoate, are căptușeală din jerseu și imprimeu Happy Fit pentru alegerea mărimii, iar perechea se spală în mașină la 30 °C.</p><p>Detaliile de bază:</p><ul><li><strong>Față</strong>: material sintetic și textil.</li><li><strong>Talpă</strong>: EVA.</li><li><strong>Cod produs</strong>: 198074.</li></ul><p>Magazinul nu mai afișează numere; modelul e gândit pentru copii mici, orientativ în jur de 1-4 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "REIMA EKANA"
+  },
+  {
+   "fapt": "mici",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "Tenișii Reima EKANA sunt concepuți special pentru copiii mici"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "material sintetic și textil"
+  },
+  {
+   "fapt": "EVA",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "talpă ușoară și moale EVA"
+  },
+  {
+   "fapt": "flexibilă",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "Talpa este flexibilă"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "Căptușeală de textil"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "detalii reflectorizante"
+  },
+  {
+   "fapt": "velcro",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "Șireturile elastice și banda velcro facilitează încălțarea"
+  },
+  {
+   "fapt": "branț",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "branț modelat din EVA detașabil, cu căptușeală din jerseu și imprimeu Happy Fit"
+  },
+  {
+   "fapt": "spălare",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "Se pot spăla în mașina de spălat la 30 °C"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/ekana/1276252/",
+   "fragment": "EVA"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima EKANA",
+  "Talpă": "EVA",
+  "Caracteristici": "velcro, Happy Fit, lavabili la 30 °C",
+  "Cod produs": "198074"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului.",
+  "Produsul nu are mărimi în catalog; vârsta 1-4 ani e estimată din „copiii mici”."
+ ]
+}
