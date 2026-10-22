@@ -1,0 +1,94 @@
+{
+ "id": 13239,
+ "versiune": "v7",
+ "descriere_html": "<p>Bocancii din piele <a href=\"/brand/primigi/\">Primigi</a> 2377211 negri sunt <a href=\"/categorie/ghete-cizme/\">ghete pentru fete</a> de tranziție, netezi, cu vârf rotund, care urcă peste gleznă. Nu au izolație, deci sunt pentru zilele mai calde de primăvară și toamnă.</p><p>Talpa e o platformă din cauciuc de 4 cm. Se închid cu fermoar, iar șireturile ajustează potrivirea. Vârful e rigidizat, călcâiul întărit, gulerul ușor întărit, iar căptușeala și branțul sunt textile.</p><p>Detaliile de bază:</p><ul><li><strong>Față</strong>: piele acoperită.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Platformă</strong>: 4 cm.</li></ul><p>Numerele 27-30 corespund aproximativ vârstei de 3-7 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "2377211"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "Culoare negru"
+  },
+  {
+   "fapt": "piele",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "Bocancii Primigi sunt încălțăminte din piele pentru copii"
+  },
+  {
+   "fapt": "neted",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "negru, neted, cu vârf rotund"
+  },
+  {
+   "fapt": "gleznă",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "deasupra gleznei"
+  },
+  {
+   "fapt": "izolație",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "Fără izolație termică"
+  },
+  {
+   "fapt": "sezon",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "zilele mai calde de primăvară și toamnă"
+  },
+  {
+   "fapt": "platformă",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "Înălțimea platformei: 4 cm"
+  },
+  {
+   "fapt": "cauciuc",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "cauciuc"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "Închiderea cu fermoar facilitează încălțarea rapidă, iar șireturile permit ajustarea"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "Vârful rigidizat"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "călcâiul întărit"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "Gulerul ușor întărit"
+  },
+  {
+   "fapt": "textil",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "Căptușeala și branțul textil"
+  },
+  {
+   "fapt": "față",
+   "url": "answear.ro/p/primigi-bocanci-pentru-copii-din-piele-negri-pnd-23772-1850059",
+   "fragment": "Partea superioară:Piele acoperită"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 2377211",
+  "Material": "piele acoperită",
+  "Caracteristici": "platformă 4 cm, fermoar și șireturi, neizolați",
+  "Cod produs": "2377211"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "3-7 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului nu are culoare („piele”); culoarea e cea de la magazin (negru)."
+ ]
+}

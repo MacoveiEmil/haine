@@ -1,0 +1,100 @@
+{
+ "id": 13126,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele de zăpadă <a href=\"/brand/primigi/\">Primigi</a> 8934233 albastre, în numerele mari, sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">cizme unisex</a> izolate, din textil și piele ecologică, cu interior din lână care ține de cald la frig. Membrana GORE-TEX e subțire, respirabilă și oprește vântul.</p><p>Fața e rigidizată, vârful lat lasă loc degetelor, iar talpa groasă din cauciuc e antiderapantă și durabilă. Se închid cu velcro, iar bucla de la spate ajută la încălțat.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic, material textil.</li><li><strong>Branț</strong>: lână.</li><li><strong>Profil</strong>: înalt.</li></ul><p>Numerele 36-39 se poartă orientativ de la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "8934233"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "Izolare: izolat"
+  },
+  {
+   "fapt": "piele",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "combinatia materialului textil cu pielea ecologica"
+  },
+  {
+   "fapt": "lână",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "Un model cu interior din lână"
+  },
+  {
+   "fapt": "GORE-TEX",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "Model cu membrana GORE-TEX®"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "rezistenta la vant si respirabila"
+  },
+  {
+   "fapt": "rigidizat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "Partea superioară rigidizată"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "Cutia lată a degetelor"
+  },
+  {
+   "fapt": "antiderapantă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "absorbție a șocurilor, cu bandă de rulare, antiderapantă"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "groasă, profilată"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "Închiderea cu velcro"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "Bucla de la spate"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "Material sintetic, Material textil"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-ppe-gtx-89342-1662507",
+   "fragment": "înalt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 8934233",
+  "Membrană": "GORE-TEX",
+  "Caracteristici": "izolate, interior din lână, velcro",
+  "Cod produs": "8934233"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului nu are culoare („Unisex”); culoarea e cea de la magazin (albastru).",
+  "Magazinul descrie membrana ca 100% impermeabilă; nu am scris „impermeabile”."
+ ]
+}

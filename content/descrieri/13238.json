@@ -1,0 +1,99 @@
+{
+ "id": 13238,
+ "versiune": "v7",
+ "descriere_html": "<p>Pantofii din piele <a href=\"/brand/primigi/\">Primigi</a> 2411311 burgundia sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> pentru cei mici, din piele naturală la exterior și la interior. Sky Effect System pune materiale flexibile în talpă, iar colaborarea Primigi × SIPeP ține cont de anatomia piciorului copilului.</p><p>Talpa din cauciuc are 1 cm, e flexibilă și are drop zero, vârful e lat, de tip barefoot, și cauciucat. Branțul din piele se scoate, bareta cu velcro se reglează, iar pe călcâi e o aplicație în formă de iepuraș.</p><p>Detaliile de bază:</p><ul><li><strong>Față</strong>: piele naturală.</li><li><strong>Interior</strong>: piele naturală.</li><li><strong>Lungime branț</strong>: 13,5 cm.</li></ul><p>Numerele 20-24 țin cam de 1-3 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "2411311"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Culoare burgundia"
+  },
+  {
+   "fapt": "piele",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Partea superioară din piele naturală"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Interior din piele naturală"
+  },
+  {
+   "fapt": "Sky Effect",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Tehnologia Sky Effect System"
+  },
+  {
+   "fapt": "SIPeP",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Colaborarea Primigi × SIPeP"
+  },
+  {
+   "fapt": "anatomie",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "ia în considerare dezvoltarea și anatomia piciorului copilului"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Talpă flexibilă din cauciuc"
+  },
+  {
+   "fapt": "1 cm",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Înălțimea platformei: 1 cm"
+  },
+  {
+   "fapt": "drop",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Construcție zero drop"
+  },
+  {
+   "fapt": "barefoot",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Vârf lat de tip barefoot"
+  },
+  {
+   "fapt": "cauciucat",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Vârf cauciucat"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Branț detașabil din piele naturală"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Închidere cu velcro cu baretă reglabilă"
+  },
+  {
+   "fapt": "iepure",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Aplicație drăguță în formă de iepure"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/primigi-pantofi-pentru-copii-din-piele-burgundii-ptr-24113-1849596",
+   "fragment": "Lungimea branțului este: 13,5 cm"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 2411311",
+  "Material": "piele naturală",
+  "Caracteristici": "Sky Effect System, barefoot, drop zero, velcro",
+  "Cod produs": "2411311"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-3 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului nu are culoare („piele”); culoarea e cea de la magazin (burgundia)."
+ ]
+}

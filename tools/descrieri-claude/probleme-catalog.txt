@@ -110,3 +110,6 @@
 12561 Geox SPRINTYE și 12597 Tommy Hilfiger T1X9-34347: descrierea spune piele, compoziția e sintetică
 12722 Tommy Hilfiger T3X9-34364: descrierea spune piele întoarsă, compoziția e sintetică
 12881 Biomecanics 261242: membrană BioTEX în descriere, „fără impermeabilitate” în caracteristici
+12953 Geox FLEXYPER FAST: titlul site-ului are „FAST” în loc de culoare (la magazin: albastru)
+13046 Calvin Klein Jeans LVCKTJM15B: titlul site-ului are „petrecută” în loc de culoare (la magazin: negru)
+13064 Burton HILLSLOPE: magazinul dă „verde” în titlu și „galben” în date

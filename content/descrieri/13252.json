@@ -1,0 +1,99 @@
+{
+ "id": 13252,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca varsity <a href=\"/brand/diesel/\">Diesel</a> JBIRKYE JACKET neagră este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> de tranziție, fără izolație și fără glugă, din bumbac și alte țesături, cu croială lejeră și umeri coborâți. Imprimeul cu logoul Diesel îi dă stilul mărcii.</p><p>Se închide cu capse, gulerul e înalt, iar tivul și manșetele au bandă elastică. Buzunarele laterale sunt deschise. Nu e impermeabilă.</p><p>Detaliile de bază:</p><ul><li><strong>Material 1</strong>: 100% bumbac.</li><li><strong>Material 2</strong>: 90% poliester, 10% bumbac.</li><li><strong>Tiv elastic</strong>: 98% poliester, 2% elastan.</li></ul><p>Mărimile 156-175 merg aproximativ la 13-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "JBIRKYE JACKET"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Culoare negru"
+  },
+  {
+   "fapt": "varsity",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Geaca varsity neagră de la Diesel"
+  },
+  {
+   "fapt": "izolație",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Lipsa izolației termice"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "lejeră",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Croiala lejeră"
+  },
+  {
+   "fapt": "umeri",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Mâneci cu linia umărului coborâtă"
+  },
+  {
+   "fapt": "logo",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Imprimeul cu logo-ul mărcii Diesel"
+  },
+  {
+   "fapt": "capse",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Închiderea cu capse"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Gulerul înalt"
+  },
+  {
+   "fapt": "elastic",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Tivul cu bandă elastică"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Buzunarele laterale deschise"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "fără impermeabilitate"
+  },
+  {
+   "fapt": "material1",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Material 1:100% Bumbac"
+  },
+  {
+   "fapt": "material2",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Material 2:90% Poliester, 10% Bumbac"
+  },
+  {
+   "fapt": "tiv",
+   "url": "answear.ro/p/diesel-geaca-varsity-pentru-copii-jbirkye-jacket-neagra-j02643-1751197",
+   "fragment": "Tiv elastic:98% Poliester, 2% Elastan"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Diesel JBIRKYE JACKET",
+  "Material": "bumbac, poliester",
+  "Caracteristici": "varsity, capse, guler înalt",
+  "Cod produs": "J02643.KXBR4"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "13-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului nu are culoare („JBIRKYE”); culoarea e cea de la magazin (negru)."
+ ]
+}

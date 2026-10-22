@@ -1,0 +1,100 @@
+{
+ "id": 13125,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele de zăpadă <a href=\"/brand/primigi/\">Primigi</a> 8895022 albastre sunt <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">cizme de iarnă pentru băieți</a> izolate, din piele întoarsă și textil, cu căptușeală textilă și membrană GORE-TEX subțire, rezistentă la vânt și respirabilă. Talpa groasă din cauciuc are bandă de rulare antiderapantă și preia șocurile.</p><p>Fața e rigidizată, vârful lat nu strânge degetele, iar bucla de la spate și velcro-ul ajută la încălțat. Interiorul e confortabil.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: piele întoarsă, material textil.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Profil</strong>: înalt.</li></ul><p>Numerele 31-35 se poartă cam la 6-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "8895022"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Model izolat"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Model cu captuseala textila"
+  },
+  {
+   "fapt": "GORE-TEX",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Model cu membrana GORE-TEX®"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "rezistenta la vant si respirabila"
+  },
+  {
+   "fapt": "antiderapantă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "absorbție a șocurilor, cu bandă de rulare, antiderapantă"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "groasă, profilată"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "rigidizat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Partea superioară rigidizată"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Cutia lată a degetelor"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Bucla de la spate"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Închiderea cu velcro"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Interior confortabil"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "Piele intoarsa, Material textil"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-pucgt-88950-1661408",
+   "fragment": "înalt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 8895022",
+  "Membrană": "GORE-TEX",
+  "Caracteristici": "izolate, velcro, talpă antiderapantă",
+  "Cod produs": "8895022"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului nu are culoare („Băieți”); culoarea e cea de la magazin (albastru).",
+  "Magazinul descrie membrana ca 100% impermeabilă; nu am scris „impermeabile”."
+ ]
+}
