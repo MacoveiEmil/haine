@@ -1,0 +1,69 @@
+{
+ "id": 12737,
+ "versiune": "v7",
+ "descriere_html": "<p>Și în verde, <a href=\"/brand/reima/\">Reima</a> Vaellus sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> de trekking tip Barefoot, adică lasă piciorul să lucreze natural și întăresc mușchii la fiecare pas. Partea de sus, din textil și material sintetic, urcă până la gleznă.</p><p>Talpa flexibilă din cauciuc ține bine pe multe suprafețe, iar zona cauciucată din jurul degetelor rezistă pe teren mai greu. Înșiretarea rapidă se strânge dintr-o mișcare.</p><p>Branțul și interiorul:</p><ul><li><strong>Branțuri EVA</strong>: profilate, detașabile, cu imprimeu de verificat mărimea.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Branț moale</strong>: reduce sarcina pe articulații la mers.</li></ul><p>Mărimile 28-38 se potrivesc copiilor de la aproximativ 4 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-pantofi-pentru-copii-vaellus-verde-5400173a-1749194",
+   "fragment": "Reima Pantofi pentru copii Vaellus verde 5400173A"
+  },
+  {
+   "fapt": "trekking",
+   "url": "answear.ro/p/reima-pantofi-pentru-copii-vaellus-verde-5400173a-1749194",
+   "fragment": "Ghetele de trekking Reima pentru copii Barefoot"
+  },
+  {
+   "fapt": "Barefoot",
+   "url": "answear.ro/p/reima-pantofi-pentru-copii-vaellus-verde-5400173a-1749194",
+   "fragment": "Construcția Barefoot favorizează dezvoltarea naturală a piciorului, permițând mișcarea liberă și întărirea mușchilor"
+  },
+  {
+   "fapt": "gleznă",
+   "url": "answear.ro/p/reima-pantofi-pentru-copii-vaellus-verde-5400173a-1749194",
+   "fragment": "Partea superioară până la gleznă, din material textil și sintetic"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/reima-pantofi-pentru-copii-vaellus-verde-5400173a-1749194",
+   "fragment": "Talpa flexibilă din cauciuc permite mișcarea liberă a piciorului și o bună aderență pe multiple suprafețe"
+  },
+  {
+   "fapt": "degete",
+   "url": "answear.ro/p/reima-pantofi-pentru-copii-vaellus-verde-5400173a-1749194",
+   "fragment": "Zona cauciucată din jurul degetelor ajută la protejarea împotriva abraziunilor și deteriorărilor pe teren mai dificil"
+  },
+  {
+   "fapt": "înșiretare",
+   "url": "answear.ro/p/reima-pantofi-pentru-copii-vaellus-verde-5400173a-1749194",
+   "fragment": "Sistemul de înșiretare rapidă"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/reima-pantofi-pentru-copii-vaellus-verde-5400173a-1749194",
+   "fragment": "Branțurile EVA profilate și detașabile cu imprimeu pentru verificarea mărimii"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/reima-pantofi-pentru-copii-vaellus-verde-5400173a-1749194",
+   "fragment": "Material textil"
+  },
+  {
+   "fapt": "amortizare",
+   "url": "answear.ro/p/reima-pantofi-pentru-copii-vaellus-verde-5400173a-1749194",
+   "fragment": "Branțul cu amortizare sporește confortul în timpul mersului, reducând sarcina asupra articulațiilor"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Vaellus",
+  "Material": "textil și sintetic, interior textil, talpă din cauciuc",
+  "Caracteristici": "Barefoot, înșiretare rapidă, branț EVA detașabil",
+  "Cod produs": "5400173A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 4 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul îi numește „ghete de trekking”, pe site sunt la Pantofi; profil până la gleznă."
+ ]
+}

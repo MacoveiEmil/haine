@@ -1,0 +1,94 @@
+{
+ "id": 12738,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Hiivin verzi sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> vegani, fără PVC, din material textil și piele ecologică, ușori, pentru purtarea zilnică. Membrana din partea de sus apără de umezeală și lasă aerul să circule, deși impermeabilitatea completă nu e garantată.</p><p>Velcro-ul și bucla de la spate fac încălțatul ușor, iar elementele reflectorizante îl arată pe copil seara.</p><p>Câteva detalii de construcție:</p><ul><li><strong>Vârf</strong>: cutie rotundă, întărită.</li><li><strong>Călcâi</strong>: contrafort rigid.</li><li><strong>Talpă</strong>: spumă EVA ușoară și cauciuc.</li><li><strong>Inserții Happy Fit</strong>: detașabile, pentru mărime.</li></ul><p>Numerele 24-36 se poartă de pe la 2 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Reima Sneakers pentru copii Hiivin culoarea verde, 5400145A"
+  },
+  {
+   "fapt": "vegan",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Potrivit pentru vegani"
+  },
+  {
+   "fapt": "PVC",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Acest produs nu conține PVC"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "combinatia materialului textil cu pielea ecologica"
+  },
+  {
+   "fapt": "ușor",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Model ușor și confortabil"
+  },
+  {
+   "fapt": "membrană",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Membrana conținută în partea superioară"
+  },
+  {
+   "fapt": "apă",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "nu garantează impermeabilitatea completă"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Închiderea cu velcro facilitează încălțarea și scoaterea pantofilor"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Elementele reflectorizante sporesc vizibilitatea și siguranța după întuneric"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Contorul de călcâi rigid"
+  },
+  {
+   "fapt": "EVA",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Talpa exterioară este realizată din spumă EVA ușoară"
+  },
+  {
+   "fapt": "cauciuc",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "Happy Fit",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-hiivin-culoarea-verde-5400145a-1323434",
+   "fragment": "Inserțiile detașabile Happy Fit vă permit să alegeți dimensiunea potrivită"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Hiivin",
+  "Material": "textil și piele ecologică, interior textil, talpă EVA și cauciuc",
+  "Caracteristici": "membrană, velcro, reflectorizante, vegan, fără PVC",
+  "Cod produs": "5400145A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 2 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul dă „Înălțime: jos”, dar și o parte superioară ridicată care rigidizează glezna; n-am precizat profilul."
+ ]
+}
