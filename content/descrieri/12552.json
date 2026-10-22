@@ -1,0 +1,64 @@
+{
+ "id": 12552,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> WEEMBLE sunt <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidași pentru băieți</a> în culoarea albastru, din material sintetic și textil, cu șireturi elastice și cârlig, deci se încalță și se descalță fără legat. Bucla de la spate ajută la tras pantoful pe picior.</p><p>Talpa din spumă, ușor flexibilă, e moale la pas, iar cutia rotundă, ușor întărită, apără degetele.</p><p>Pe dinăuntru:</p><ul><li><strong>Căptușeală</strong>: textil moale, nu irită.</li><li><strong>Inserție</strong>: din piele naturală, tăbăcită fără crom.</li><li><strong>Partea de sus</strong>: sintetic și textil.</li></ul><p>Mărimile 28-35 sunt pentru băieți de cam 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-weemble-j56haa-0mefu-1636073",
+   "fragment": "Geox Sneakers pentru copii WEEMBLE J56HAA.0MEFU"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-weemble-j56haa-0mefu-1636073",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-weemble-j56haa-0mefu-1636073",
+   "fragment": "combinația materialului sintetic cu cel textil"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-weemble-j56haa-0mefu-1636073",
+   "fragment": "Șireturile elastice și închiderea cu cârlig fac acești pantofi ușor de pus și de scos"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-weemble-j56haa-0mefu-1636073",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-weemble-j56haa-0mefu-1636073",
+   "fragment": "O talpă din spumă ușor flexibilă oferă o senzație mai moale"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-weemble-j56haa-0mefu-1636073",
+   "fragment": "Cutie rotunda, usor intarita"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-weemble-j56haa-0mefu-1636073",
+   "fragment": "Căptușeala moale din material textil previne iritația"
+  },
+  {
+   "fapt": "crom",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-weemble-j56haa-0mefu-1636073",
+   "fragment": "Inserția din piele a fost realizată fără utilizarea cromului"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox WEEMBLE",
+  "Material": "sintetic și textil, interior textil și piele, talpă din spumă",
+  "Caracteristici": "șireturi elastice cu cârlig, buclă la spate",
+  "Cod produs": "J56HAA.0MEFU"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul dă „Înălțime: jos”, dar și o parte superioară ridicată care rigidizează glezna; n-am precizat profilul."
+ ]
+}

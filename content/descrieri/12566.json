@@ -1,63 +1,58 @@
 {
  "id": 12566,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> WASHIBA sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> roz, din imitație de piele și material textil, cu închidere cu arici. Talpa are o membrană care protejează interiorul de pătrunderea apei din exterior.</p><ul><li><strong>Geox Respira</strong>: membrană microporoasă pentru eliminarea umezelii.</li><li><strong>Talpă</strong>: din cauciuc, plată.</li><li><strong>Interior</strong>: căptușeală din material textil.</li><li><strong>Închidere</strong>: arici, deci copilul se încalță fără ajutor.</li><li><strong>Profil</strong>: înalt.</li></ul><p>Mărimile merg de la 24 la 27, orientativ pentru copii de 2-4 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> WASHIBA sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> roz, cu profil înalt, din imitație de piele și material textil, cu talpă GEOX Respira cu membrană microporoasă. Membrana scoate umezeala și, în același timp, oprește apa din exterior.</p><p>Profilul înalt sprijină glezna, iar aricii fac încălțatul și descălțatul rapid. Partea de sus, din imitație de piele și textil, e gândită să fie durabilă, iar talpa plată lasă piciorul să se miște liber.</p><p>Restul construcției arată așa:</p><ul><li><strong>Căptușeală</strong>: textil moale.</li><li><strong>Talpă</strong>: plată, din cauciuc.</li><li><strong>Închidere</strong>: arici.</li></ul><p>Mărimile disponibile, 24-27, sunt pentru fetițe de aproximativ 2-4 ani.</p>",
  "surse": [
   {
    "fapt": "model",
-   "url": "answear.ro/p/…geox-washiba…",
-   "fragment": "Geox WASHIBA sneakers pentru copii"
-  },
-  {
-   "fapt": "culoare",
-   "url": "answear.ro/p/…geox-washiba…",
-   "fragment": "roz"
-  },
-  {
-   "fapt": "material",
-   "url": "answear.ro/p/…geox-washiba…",
-   "fragment": "Partea superioară din imitație de piele și material textil"
-  },
-  {
-   "fapt": "membrană în talpă",
-   "url": "answear.ro/p/…geox-washiba…",
-   "fragment": "cu membrană protejează interiorul încălțămintei de pătrunderea apei din exterior"
-  },
-  {
-   "fapt": "Respira",
-   "url": "answear.ro/p/…geox-washiba…",
-   "fragment": "cu o membrană microporoasă favorizează eliminarea umezelii"
-  },
-  {
-   "fapt": "talpă cauciuc",
-   "url": "answear.ro/p/…geox-washiba…",
-   "fragment": "Talpă din cauciuc"
-  },
-  {
-   "fapt": "talpă plată",
-   "url": "answear.ro/p/…geox-washiba…",
-   "fragment": "Talpă plată"
-  },
-  {
-   "fapt": "căptușeală",
-   "url": "answear.ro/p/…geox-washiba…",
-   "fragment": "Căptușeală moale din material textil"
-  },
-  {
-   "fapt": "arici",
-   "url": "answear.ro/p/…geox-washiba…",
-   "fragment": "Închidere practică cu arici"
+   "url": "answear.ro/p/geox-washiba-sneakers-pentru-copii-roz-j36hxa-05415-1836526",
+   "fragment": "Geox WASHIBA sneakers pentru copii roz J36HXA.05415"
   },
   {
    "fapt": "profil",
-   "url": "answear.ro/p/…geox-washiba…",
-   "fragment": "Profil înalt al părții superioare"
+   "url": "answear.ro/p/geox-washiba-sneakers-pentru-copii-roz-j36hxa-05415-1836526",
+   "fragment": "Profil înalt al părții superioare stabilizează glezna"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-washiba-sneakers-pentru-copii-roz-j36hxa-05415-1836526",
+   "fragment": "Partea superioară din imitație de piele și material textil"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-washiba-sneakers-pentru-copii-roz-j36hxa-05415-1836526",
+   "fragment": "Tehnologia GEOX Respira™ cu o membrană microporoasă favorizează eliminarea umezelii"
+  },
+  {
+   "fapt": "apă",
+   "url": "answear.ro/p/geox-washiba-sneakers-pentru-copii-roz-j36hxa-05415-1836526",
+   "fragment": "Talpă respirabilă cu membrană protejează interiorul încălțămintei de pătrunderea apei din exterior"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/geox-washiba-sneakers-pentru-copii-roz-j36hxa-05415-1836526",
+   "fragment": "Închidere practică cu arici facilitează încălțarea și descălțarea rapidă"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/geox-washiba-sneakers-pentru-copii-roz-j36hxa-05415-1836526",
+   "fragment": "Căptușeală moale din material textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-washiba-sneakers-pentru-copii-roz-j36hxa-05415-1836526",
+   "fragment": "Talpă din cauciuc"
+  },
+  {
+   "fapt": "plată",
+   "url": "answear.ro/p/geox-washiba-sneakers-pentru-copii-roz-j36hxa-05415-1836526",
+   "fragment": "Talpă plată"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Geox WASHIBA",
-  "Material": "exterior din imitație de piele și material textil, căptușeală textilă, talpă din cauciuc",
-  "Caracteristici": "Geox Respira, membrană în talpă, închidere cu arici, profil înalt",
+  "Material": "imitație de piele și textil, talpă din cauciuc",
+  "Caracteristici": "Geox Respira cu membrană, arici, profil înalt",
   "Cod produs": "J36HXA.05415"
  },
  "categorie_complementara": null,
