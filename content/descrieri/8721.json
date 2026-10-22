@@ -1,0 +1,64 @@
+{
+ "id": 8721,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB09311 este o <a href=\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\">bluză pentru băieți</a>, albastră, din material cu mult bumbac, fără glugă. E o bluză simplă, cu decolteu rotund în coaste.</p><p>Mânecile și marginea de jos sunt finisate cu bandă elastică, deci bluza stă strânsă la încheieturi și pe șolduri, chiar dacă croiala e simplă și dreaptă.</p><p>Din ce e făcută:</p><ul><li><strong>Material</strong>: 60% bumbac, 40% poliester.</li><li><strong>Bandă elastică</strong>: 95% bumbac, 5% elastan.</li><li><strong>Decolteu</strong>: rotund, în coaste.</li></ul><p>Mărimile 128-176 se potrivesc copiilor de pe la 8 până pe la 16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/tommy-hilfiger-bluza-copii-neted-kb0kb09311-1405683",
+   "fragment": "KB0KB09311"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/tommy-hilfiger-bluza-copii-neted-kb0kb09311-1405683",
+   "fragment": "albastru"
+  },
+  {
+   "fapt": "bumbac",
+   "url": "answear.ro/p/tommy-hilfiger-bluza-copii-neted-kb0kb09311-1405683",
+   "fragment": "continut ridicat de bumbac"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/tommy-hilfiger-bluza-copii-neted-kb0kb09311-1405683",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "decolteu",
+   "url": "answear.ro/p/tommy-hilfiger-bluza-copii-neted-kb0kb09311-1405683",
+   "fragment": "Decolteu rotund, în coaste"
+  },
+  {
+   "fapt": "elastic",
+   "url": "answear.ro/p/tommy-hilfiger-bluza-copii-neted-kb0kb09311-1405683",
+   "fragment": "Mâneci și marginea inferioară finisate cu o coadă elastică"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/tommy-hilfiger-bluza-copii-neted-kb0kb09311-1405683",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/tommy-hilfiger-bluza-copii-neted-kb0kb09311-1405683",
+   "fragment": "Materialul de baza: 60% Bumbac, 40% Poliester"
+  },
+  {
+   "fapt": "bandă",
+   "url": "answear.ro/p/tommy-hilfiger-bluza-copii-neted-kb0kb09311-1405683",
+   "fragment": "Banda elastica: 95% Bumbac, 5% Elastan"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger KB0KB09311",
+  "Material": "60% bumbac, 40% poliester",
+  "Caracteristici": "decolteu rotund în coaste, bandă elastică la mâneci și bază",
+  "Cod produs": "KB0KB09311"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site nu are culoare; magazinul dă albastru."
+ ]
+}

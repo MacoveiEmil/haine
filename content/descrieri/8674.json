@@ -1,0 +1,92 @@
+{
+ "id": 8674,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/mayoral/\">Mayoral</a> 7401 este o <a href=\"/categorie/geci-jachete/\">jachetă din blăniță artificială pentru fete</a>, neagră, din 100% poliester, făcută pentru zilele mai răcoroase ale sezonului de tranziție. Se poartă zilnic sau la ocazii.</p><p>Croiala e regulară, cu lungime până la șolduri și mâneci clasice, așa că jacheta stă drept pe corp, fără să fie strâmtă.</p><p>Fără glugă, jacheta are un aspect clasic:</p><ul><li><strong>Guler</strong>: clasic.</li><li><strong>Buzunare</strong>: laterale.</li><li><strong>Închidere</strong>: fermoar.</li><li><strong>Material</strong>: imitație de blană, uni.</li></ul><p>Pentru vânt, gâtul se acoperă cu o eșarfă din <a href=\"/categorie/caciuli-manusi-accesorii/\">căciulile, mănușile și accesoriile pentru fete</a>. Jacheta vine în mărimile 128-167, pentru copii de aproximativ 8-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "Jachetă pentru copii neagră 7401"
+  },
+  {
+   "fapt": "blană",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "Confecționată din imitație de blană"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "zilele mai răcoroase ale sezonului de tranziție"
+  },
+  {
+   "fapt": "ocazii",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "purtată zilnic și la ocazii speciale"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "Croiala regulară"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "Lungimea până la șolduri"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "Tipul de mânecă clasic"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "Lipsa glugii"
+  },
+  {
+   "fapt": "eșarfe",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "stilizarea cu eșarfe"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "Gulerul clasic"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "Buzunare laterale practice"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "Sistemul de închidere cu fermoar"
+  },
+  {
+   "fapt": "uni",
+   "url": "answear.ro/p/mayoral-jacheta-pentru-copii-neagra-7401-1832309",
+   "fragment": "model uni"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Mayoral 7401",
+  "Material": "100% poliester, imitație de blană",
+  "Caracteristici": "croială regulară, lungă până la șolduri, fără glugă, guler clasic, fermoar",
+  "Cod produs": "7401"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/caciuli-manusi-accesorii/",
+  "motiv": "jachetă fără glugă, se poartă cu eșarfă"
+ },
+ "varsta_orientativa": "8-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site nu are culoare; magazinul dă negru."
+ ]
+}

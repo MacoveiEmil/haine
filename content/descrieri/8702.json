@@ -1,0 +1,75 @@
+{
+ "id": 8702,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KS0KS00657 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă reversibilă unisex</a>, bej, subțire, din poliester reciclat moale. Se poartă pe ambele fețe și e făcută pentru zilele de tranziție.</p><p>Croiala e simplă și geaca nu are glugă, deci se poartă ușor peste un hanorac sau o bluză; pentru vânt, capul se acoperă cu ceva din <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciulile și accesoriile unisex</a>.</p><p>Detaliile, pe scurt:</p><ul><li><strong>Fețe</strong>: două, geaca se poate întoarce.</li><li><strong>Buzunare</strong>: oblice, exterioare.</li><li><strong>Închidere</strong>: fermoar.</li><li><strong>Material</strong>: 100% poliester reciclat.</li></ul><p>Mărimile 128-176 sunt pentru copii de aproximativ 8-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "KS0KS00657"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "culoarea bej"
+  },
+  {
+   "fapt": "subțire",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "Model subțire"
+  },
+  {
+   "fapt": "moale",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "material moale"
+  },
+  {
+   "fapt": "două fețe",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "Model cu doua fete"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "100% Poliester reciclat"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "Buzunare oblice exterioare"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-bej-ks0ks00657-1630732",
+   "fragment": "Incheiere cu fermoar"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger KS0KS00657",
+  "Material": "100% poliester reciclat",
+  "Caracteristici": "reversibilă, subțire, fără glugă, buzunare oblice",
+  "Cod produs": "KS0KS00657"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/unisex-accesorii-caciuli-manusi-accesorii/",
+  "motiv": "geacă fără glugă"
+ },
+ "varsta_orientativa": "8-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
