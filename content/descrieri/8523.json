@@ -1,82 +1,99 @@
 {
  "id": 8523,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/columbia/\">Columbia</a> Puffect este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> matlasată, gândită pentru zilele reci de iarnă. Are croială lejeră și se închide cu fermoar.</p><ul><li><strong>Tehnologia Omni-Shield</strong>: strat hidrofob care limitează absorbția umezelii de către țesătură.</li><li><strong>Material</strong>: exterior și umplutură din 100% poliester, căptușeală din 100% nailon.</li><li><strong>Buzunare</strong>: laterale, închise cu fermoar.</li><li><strong>Manșete</strong>: finisaj elastic.</li><li><strong>Guler</strong>: înalt; geaca nu are glugă.</li></ul><p>Pentru că nu are glugă, pe frig capul se acoperă separat, cu o piesă din <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli și mănuși unisex</a>.</p><p>Mărimile merg de la 104 la 164, orientativ pentru copii de 4-14 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/columbia/\">Columbia</a> Puffect este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de iarnă unisex</a>, matlasată, care pe site apare în negru și în violet. Izolația medie și groasă o face bună pentru zilele reci, iar tehnologia OMNI-SHIELD™, un strat hidrofob, limitează absorbția umezelii și a murdăriei.</p><p>Croiala e regulară, cu loc pentru straturi suplimentare dedesubt, iar lungimea ajunge până la șolduri. Manșetele elastice strâng geaca la încheieturi, deci căldura nu iese pe la mâneci.</p><p>Pentru iarnă, geaca mai are:</p><ul><li><strong>Guler</strong>: înalt, acoperă gâtul.</li><li><strong>Buzunare</strong>: laterale, cu fermoar.</li><li><strong>Căptușeală</strong>: sintetică, netedă și completă.</li><li><strong>Material</strong>: 100% poliester, căptușeală 100% nailon.</li></ul><p>Pe site sunt mărimile 104-164, pentru copii de aproximativ 4-14 ani.</p>",
  "surse": [
   {
-   "fapt": "model Puffect",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "Columbia geacă matlasată pentru copii Puffect"
+   "fapt": "model",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "Puffect"
   },
   {
-   "fapt": "utilizare iarnă și zile reci",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "ajută la menținerea căldurii în zilele reci"
+   "fapt": "culoare la magazin",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "violet 2089992"
   },
   {
-   "fapt": "croială lejeră",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "o croială lejeră care permite purtarea unor straturi suplimentare de îmbrăcăminte"
+   "fapt": "izolație",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "izolației medii și groase"
   },
   {
-   "fapt": "închidere cu fermoar",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "Închidere cu fermoar"
+   "fapt": "OMNI-SHIELD",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "OMNI-SHIELD"
   },
   {
-   "fapt": "Omni-Shield",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "un strat hidrofob special care limitează absorbția umezelii de către țesătură"
+   "fapt": "hidrofob",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "limitează absorbția umezelii"
   },
   {
-   "fapt": "material exterior",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "Material de bază:100% Poliester"
+   "fapt": "murdărie",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "protecția împotriva umezelii și a murdăriei"
+  },
+  {
+   "fapt": "zile reci",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "în zilele reci"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "Croială regulară"
+  },
+  {
+   "fapt": "straturi",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "permite purtarea unor straturi suplimentare"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "o croială până la șolduri"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "Manșete elastice"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "Guler înalt"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "închise cu fermoar"
   },
   {
    "fapt": "căptușeală",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "Căptușeală:100% Nailon"
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "o căptușeală netedă și completă"
   },
   {
-   "fapt": "umplutură",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "Umplutură:100% Poliester"
+   "fapt": "material",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "100% Poliester"
   },
   {
-   "fapt": "buzunare cu fermoar",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "Buzunare laterale practice – închise cu fermoar"
-  },
-  {
-   "fapt": "manșete elastice",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "finisaj elastic care ajută la reținerea căldurii la nivelul încheieturilor"
-  },
-  {
-   "fapt": "guler înalt",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "Guler înalt – protecție suplimentară pentru gât"
-  },
-  {
-   "fapt": "fără glugă",
-   "url": "https://answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
-   "fragment": "fără glugă"
+   "fapt": "căptușeală nailon",
+   "url": "answear.ro/p/columbia-geaca-copii-puffect-culoarea-negru-2089992-1614210",
+   "fragment": "100% Nailon"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Columbia Puffect",
-  "Material": "exterior și umplutură 100% poliester, căptușeală 100% nailon",
-  "Caracteristici": "tehnologie Omni-Shield, buzunare laterale cu fermoar, manșete elastice, guler înalt, fără glugă",
+  "Material": "100% poliester, căptușeală 100% nailon, umplutură 100% poliester",
+  "Caracteristici": "OMNI-SHIELD™, izolație medie și groasă, matlasată, guler înalt, manșete elastice",
   "Cod produs": "2089992"
  },
- "categorie_complementara": {
-  "slug": "/categorie/unisex-accesorii-caciuli-manusi-accesorii/",
-  "motiv": "geacă de iarnă fără glugă: purtată cu căciuli și mănuși"
- },
+ "categorie_complementara": null,
  "varsta_orientativa": "4-14 ani",
  "date_insuficiente": false,
  "confidence_notes": [
-  "Titlul din catalog menționează culoarea negru, însă datele extrase din pagina magazinului indică violet (551.Lavend)."
+  "Titlul de pe site spune negru; pagina magazinului din link arată varianta violet. Textul le pomenește pe amândouă."
  ]
 }

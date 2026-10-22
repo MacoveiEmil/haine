@@ -1,47 +1,82 @@
 {
  "id": 8628,
- "versiune": "v6",
- "descriere_html": "<p><a href=\"/brand/guess/\">GUESS</a> H4BT03 WCFM0 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> neagră, concepută pentru temperaturi mai reci. Structura este matlasată și include o izolație sintetică din țesătură netedă, având compoziția integrală din poliester.</p><p>La plimbările pe vreme rece, jacheta oferă protecție prin câteva detalii practice:</p><ul><li><strong>Guler și glugă</strong>: gulerul ridicat și gluga fixă acoperă zona gâtului împotriva frigului.</li><li><strong>Închidere</strong>: fermoar frontal care permite îmbrăcarea și dezbrăcarea rapidă.</li><li><strong>Buzunare</strong>: buzunare încheiate, pentru păstrarea lucrurilor mici.</li><li><strong>Căptușeală</strong>: interiorul este prevăzut cu căptușeală textilă.</li></ul><p>Pe vreme de iarnă, geaca se poate purta alături de <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli și mănuși unisex</a>. Selecția de mărimi cuprinsă între 88-96 și 122-125 se adresează, orientativ, copiilor cu vârste între 2 și 7 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/guess/\">GUESS</a> H4BT03 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de iarnă unisex</a>, neagră și matlasată, cu izolație sintetică și căptușeală, din țesătură netedă de poliester. Gluga fixă și gulerul ridicat o fac bună pentru temperaturile mai reci.</p><p>Croiala e simplă, iar mărimile duble, de la 88-96 până la 122-125, cuprind fiecare câte două înălțimi, deci lasă puțin loc de creștere. Se potrivesc cam copiilor de 1-7 ani.</p><p>Se îmbracă repede, chiar și pe un copil mic:</p><ul><li><strong>Închidere</strong>: fermoar.</li><li><strong>Glugă</strong>: fixă, nu se pierde.</li><li><strong>Buzunare</strong>: cu închidere.</li><li><strong>Material</strong>: 100% poliester.</li></ul>",
  "surse": [
   {
-   "fapt": "izolație sintetică și model matlasat",
-   "url": "https://answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
-   "fragment": "Model matlasat cu izolație sintetica care va oferi confort suplimentar la temperaturi mai reci."
+   "fapt": "cod",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "H4BT03 WCFM0"
   },
   {
-   "fapt": "guler ridicat și glugă fixă",
-   "url": "https://answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
-   "fragment": "Gulerul ridicat și gluga fixă ​​oferă protecție suplimentară împotriva frigului."
+   "fapt": "culoare",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "culoarea negru"
   },
   {
-   "fapt": "închidere cu fermoar",
-   "url": "https://answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
-   "fragment": "Închiderea convenabilă cu fermoar îl face ușor de pus și scos."
+   "fapt": "izolat",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "Model izolat"
   },
   {
-   "fapt": "buzunare încheiate",
-   "url": "https://answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
-   "fragment": "Buzunare incheiate."
+   "fapt": "țesătură",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "tesatura neteda"
   },
   {
-   "fapt": "material poliester",
-   "url": "https://answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fapt": "matlasat",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "Matlasat"
+  },
+  {
+   "fapt": "izolație sintetică",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "izolație sintetica"
+  },
+  {
+   "fapt": "temperaturi reci",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "temperaturi mai reci"
+  },
+  {
+   "fapt": "glugă și guler",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "Gulerul ridicat și gluga fixă"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "Închiderea convenabilă cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "Buzunare incheiate"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
    "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-h4bt03-wcfm0-1316888",
+   "fragment": "Captuseala: cu captuseala"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "H4BT03 WCFM0",
-  "Material": "100% Poliester",
-  "Caracteristici": "Glugă fixă, guler ridicat, model matlasat, izolație sintetică, buzunare încheiate",
-  "Cod produs": "H4BT03.WCFM0.9BYH"
+  "Model": "GUESS H4BT03",
+  "Material": "100% poliester, izolație sintetică",
+  "Caracteristici": "matlasată, glugă fixă, guler ridicat, fermoar",
+  "Cod produs": "H4BT03.WCFM0"
  },
- "categorie_complementara": {
-  "slug": "/categorie/unisex-accesorii-caciuli-manusi-accesorii/",
-  "motiv": "Geaca este izolată pentru frig, însă capul și mâinile necesită protecție suplimentară în sezonul rece."
- },
- "varsta_orientativa": "2-7 ani",
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-7 ani",
  "date_insuficiente": false,
- "confidence_notes": [
-  "În magazin produsul apare în categoria Băieți, în timp ce pe beestyle este catalogat unisex."
- ]
+ "confidence_notes": []
 }

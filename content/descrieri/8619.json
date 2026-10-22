@@ -1,0 +1,75 @@
+{
+ "id": 8619,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/hugo/\">HUGO</a> G00490 este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de blugi pentru băieți</a>, bej, subțire, din denim cu 99% bumbac și 1% elastan. Nu are izolație și nici căptușeală, deci e o geacă de tranziție, pentru primăvară și toamnă.</p><p>Croiala e simplă, iar procentul de elastan dă denimului puțină elasticitate. Pe dedesubt încape un hanorac din {A(\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\", \"hanoracele și bluzele pentru băieți\")}.</p><p>E o geacă simplă, cu puține detalii:</p><ul><li><strong>Închidere</strong>: nasturi.</li><li><strong>Guler</strong>: clasic, de geacă de blugi.</li><li><strong>Material</strong>: 99% bumbac, 1% elastan.</li><li><strong>Planet friendly</strong>: marcată așa de magazin.</li></ul><p>Pe site sunt mărimile 114-150, pentru copii de pe la 6 până pe la 12 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "G00490"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "culoarea bej"
+  },
+  {
+   "fapt": "denim",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "Jachetă din denim pentru copii"
+  },
+  {
+   "fapt": "subțire",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "Model subțire"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "Model neizolat fara captuseala"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "compoziție",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "99% Bumbac, 1% Elastan"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "Model cu guler"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "Incheiere cu nasturi"
+  },
+  {
+   "fapt": "planet friendly",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-bej-g00490-1616780",
+   "fragment": "Planet friendly"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "HUGO G00490",
+  "Material": "denim, 99% bumbac, 1% elastan",
+  "Caracteristici": "subțire, fără izolație și căptușeală, guler, nasturi",
+  "Cod produs": "G00490"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/",
+  "motiv": "geacă subțire, se poartă cu un hanorac dedesubt"
+ },
+ "varsta_orientativa": "6-12 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

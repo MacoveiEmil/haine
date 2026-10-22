@@ -1,59 +1,59 @@
 {
  "id": 8545,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB09664 este o <a href=\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\">bluză pentru băieți</a> de culoare albă. Este un model uni, cu mânecă lungă, din țesătură subțire și ușor elastică.</p><ul><li><strong>Compoziție</strong>: 95% bumbac și 5% elastan.</li><li><strong>Guler</strong>: da, cu închidere scurtă cu nasturi.</li><li><strong>Detalii</strong>: logo-ul mărcii brodat pe față.</li></ul><p>Modelul are cinci mărimi între 128 și 176, orientativ pentru copii de 8-16 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB09664 este o <a href=\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\">bluză cu mânecă lungă pentru băieți</a>, albă și uni, din țesătură subțire și ușor elastică. Are guler și o închidere scurtă cu nasturi la gât, deci se poartă ca un polo cu mânecă lungă.</p><p>Croiala e simplă, iar elastanul o face să se muleze ușor pe corp, așa că pe un copil slab nu atârnă.</p><p>Se îngrijește și se poartă ușor:</p><ul><li><strong>Material</strong>: 95% bumbac și 5% elastan.</li><li><strong>Mâneci</strong>: lungi.</li><li><strong>Logo</strong>: brodat pe față.</li></ul><p>Pe site sunt mărimile 128-176, de regulă pentru copii de 8-16 ani.</p>",
  "surse": [
   {
-   "fapt": "brand și cod",
-   "url": "https://answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
+   "fapt": "cod",
+   "url": "answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
    "fragment": "KB0KB09664"
   },
   {
-   "fapt": "culoare",
-   "url": "https://answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
-   "fragment": "Culoare: Alb"
-  },
-  {
-   "fapt": "model uni",
-   "url": "https://answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
-   "fragment": "Model: uni"
-  },
-  {
-   "fapt": "mânecă lungă",
-   "url": "https://answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
-   "fragment": "Maneca lunga."
-  },
-  {
-   "fapt": "țesătură subțire ușor elastică",
-   "url": "https://answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
-   "fragment": "Model confecționat din țesătură subțire, ușor elastică."
-  },
-  {
-   "fapt": "compoziție",
-   "url": "https://answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
-   "fragment": "95% Bumbac, 5% Elastan"
+   "fapt": "țesătură",
+   "url": "answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
+   "fragment": "țesătură subțire, ușor elastică"
   },
   {
    "fapt": "guler",
-   "url": "https://answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
-   "fragment": "Model cu guler."
+   "url": "answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
+   "fragment": "Model cu guler"
   },
   {
-   "fapt": "încheiere nasturi",
-   "url": "https://answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
-   "fragment": "Incheiere scurta cu nasturi."
+   "fapt": "nasturi",
+   "url": "answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
+   "fragment": "Incheiere scurta cu nasturi"
   },
   {
-   "fapt": "logo brodat",
-   "url": "https://answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
-   "fragment": "Logo-ul mărcii brodat pe față."
+   "fapt": "croială",
+   "url": "answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "compoziție",
+   "url": "answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
+   "fragment": "95% Bumbac, 5% Elastan"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
+   "fragment": "Maneca lunga"
+  },
+  {
+   "fapt": "logo",
+   "url": "answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
+   "fragment": "Logo-ul mărcii brodat pe față"
+  },
+  {
+   "fapt": "uni",
+   "url": "answear.ro/p/tommy-hilfiger-longsleeve-copii-culoarea-alb-uni-kb0kb09664-1421331",
+   "fragment": "Model: uni"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Tommy Hilfiger KB0KB09664",
   "Material": "95% bumbac, 5% elastan",
-  "Caracteristici": "mânecă lungă, guler, încheiere scurtă cu nasturi, logo brodat pe față",
-  "Cod produs": "KB0KB09664.PPYA"
+  "Caracteristici": "guler, închidere scurtă cu nasturi, mânecă lungă, logo brodat",
+  "Cod produs": "KB0KB09664"
  },
  "categorie_complementara": null,
  "varsta_orientativa": "8-16 ani",

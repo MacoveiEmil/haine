@@ -1,0 +1,69 @@
+{
+ "id": 4944,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/nike/\">Nike</a> NKG CLUB HBR WOVEN este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă ușoară unisex</a>, neagră, din poliester, cu imprimeu floral pe toată suprafața și un logo swoosh mare în față. Magazinul o indică pentru purtare casual sau sport, în sezonul primăvară-vară.</p><p>Croiala e lejeră, deci lasă loc de un hanorac dedesubt, iar manșetele și tivul elastic o strâng la încheieturi și jos, ca să nu stea largă.</p><p>Se îmbracă repede și se închide până sus:</p><ul><li><strong>Închidere</strong>: fermoar pe toată lungimea.</li><li><strong>Guler</strong>: înalt.</li><li><strong>Material</strong>: poliester, cu suprafață netedă.</li><li><strong>Logo</strong>: swoosh mare în față și unul mic pe mânecă.</li></ul><p>Mărimile de pe site sunt 4, 5 și 6, adică, după tabelul magazinului, cam 3-6 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
+   "fragment": "Jacheta Nike NKG CLUB HBR WOVEN JACKET neagră"
+  },
+  {
+   "fapt": "material, croială, guler",
+   "url": "www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
+   "fragment": "Jachetă Nike din poliester, cu croială lejeră și guler înalt"
+  },
+  {
+   "fapt": "floral",
+   "url": "www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
+   "fragment": "motiv floral"
+  },
+  {
+   "fapt": "logo mare",
+   "url": "www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
+   "fragment": "logo Nike swoosh mare pe partea din față"
+  },
+  {
+   "fapt": "logo mic",
+   "url": "www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
+   "fragment": "un swoosh mai mic pe mânecă"
+  },
+  {
+   "fapt": "utilizare",
+   "url": "www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
+   "fragment": "purtare casual sau sport"
+  },
+  {
+   "fapt": "sezon",
+   "url": "www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
+   "fragment": "sezonul primăvară-vară"
+  },
+  {
+   "fapt": "elastic",
+   "url": "www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
+   "fragment": "manșete elastice și tiv elastic"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
+   "fragment": "fermoar pe toată lungimea"
+  },
+  {
+   "fapt": "suprafață",
+   "url": "www.various-brands.ro/nkg-club-hbr-woven-jacket-nike-36n593-023.html",
+   "fragment": "suprafață netedă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Nike NKG CLUB HBR WOVEN",
+  "Material": "poliester",
+  "Caracteristici": "croială lejeră, guler înalt, manșete și tiv elastice, imprimeu floral",
+  "Cod produs": "36N593-023"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "3-6 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Vârsta pentru mărimile 4-6: tabelul de mărimi Nike al magazinului (pagina produsului 4949)."
+ ]
+}
