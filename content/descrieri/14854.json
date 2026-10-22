@@ -1,0 +1,85 @@
+{
+ "id": 14854,
+ "versiune": "v7",
+ "descriere_html": "<p>Ghetele de iarnă <a href=\"/brand/reima/\">Reima</a> HALLAVA QUICKLOCK maro sunt listate la <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> și sunt testate pentru izolare termică până la -20 °C. Modelul e vegan, cu membrană Reimatec și inserție impermeabilă cu cusături etanșe, iar căptușeala din fleece ține de cald.</p><p>Sistemul Freelock strânge sau slăbește șireturile prin rotire. Talpa din EVA și cauciuc reciclat e ușoară și flexibilă, branțurile detașabile au imprimeu Happy Fit, iar detaliile reflectorizante se văd seara.</p><p>Detaliile de bază:</p><ul><li><strong>Față</strong>: materiale sintetice, textile.</li><li><strong>Talpă</strong>: cauciuc.</li><li><strong>Tehnologie</strong>: EVA, REIMATEC.</li></ul><p>Pe site a rămas doar numărul 37, potrivit orientativ de la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "REIMA HALLAVA QUICKLOCK"
+  },
+  {
+   "fapt": "-20",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "au fost testate pentru izolare termică până la -20 °C"
+  },
+  {
+   "fapt": "vegan",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "vegane"
+  },
+  {
+   "fapt": "Reimatec",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "membrană rezistentă la apă Reimatec"
+  },
+  {
+   "fapt": "etanșe",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "inserție impermeabilă cu cusături etanșe"
+  },
+  {
+   "fapt": "fleece",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "căptușeala din fleece păstrează căldura"
+  },
+  {
+   "fapt": "Freelock",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "sistem de șireturi Freelock – se strâng și se desfac prin rotire"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "Talpa flexibilă și ușoară din EVA/cauciuc conține cauciuc reciclat"
+  },
+  {
+   "fapt": "Happy Fit",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "branțuri detașabile cu imprimeu Happy Fit"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "elemente reflectorizante"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "materiale sintetice, textile"
+  },
+  {
+   "fapt": "cauciuc",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "cauciuc"
+  },
+  {
+   "fapt": "tehnologie",
+   "url": "www.sportisimo.ro/reima/hallava-quicklock/1944275/",
+   "fragment": "EVA , REIMATEC"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima HALLAVA QUICKLOCK",
+  "Membrană": "Reimatec",
+  "Caracteristici": "-20 °C, Freelock, vegane",
+  "Cod produs": "259939"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului.",
+  "Pe site sunt la Pantofi; magazinul le descrie ca ghete de iarnă."
+ ]
+}

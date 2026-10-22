@@ -1,0 +1,74 @@
+{
+ "id": 14813,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/nax/\">NAX</a> COMO roz este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> din material impermeabil, permeabil la vapori și rezistent la vânt, cu membrană PTX și tratament DWR, bună pentru vremea capricioasă. Croiala e lejeră, cu mâneci elastice.</p><p>Lățimea se reglează cu un șnur, deci geaca se poate strânge pe corp, pe spate are un imprimeu, iar pe mânecă o emblemă decorativă. Croiala e elegantă, dar comodă la mișcare.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Membrană</strong>: PTX.</li><li><strong>Croială</strong>: lejeră.</li></ul><p>Mărimile 104-110 până la 164-170 merg pe la 4-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "NAX COMO"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "material impermeabil, permeabil la vapori și rezistent la vânt"
+  },
+  {
+   "fapt": "PTX",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "membrană PTX, DWR"
+  },
+  {
+   "fapt": "capricioasă",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "vremea capricioasă"
+  },
+  {
+   "fapt": "lejeră",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "croială lejeră"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "mâneci elastice"
+  },
+  {
+   "fapt": "șnur",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "Datorită șnurului, este posibilă reglarea lățimii acesteia"
+  },
+  {
+   "fapt": "imprimeu",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "imprimeu pe partea din spate"
+  },
+  {
+   "fapt": "emblemă",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "element decorativ pe mânecă"
+  },
+  {
+   "fapt": "elegantă",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "Are o croială elegantă, dar confortabilă"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/nax/como/810091/",
+   "fragment": "100 % poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "NAX COMO",
+  "Material": "100% poliester, membrană PTX",
+  "Caracteristici": "impermeabilă, DWR, croială lejeră",
+  "Cod produs": "146028"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului."
+ ]
+}

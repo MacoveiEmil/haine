@@ -1,0 +1,85 @@
+{
+ "id": 14776,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/didriksons/\">Didriksons</a> BRISKA albastru închis este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> moale și confortabilă, pentru joaca afară, din țesătură elastică în 4 direcții, cu croială dreaptă. Finisajul hidrofug e fără PFC.</p><p>Gluga se detașează, manșetele sunt elastice, iar fermoarul din față are protecție la bărbie. Are buzunare cu fermoar, cusături decorative, elemente reflectorizante și o etichetă cu loc pentru mai multe nume.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Glugă</strong>: detașabilă.</li><li><strong>Buzunare</strong>: cu fermoar, două în față.</li></ul><p>Mărimile 90-140 corespund orientativ vârstei de 2-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "DIDRIKSONS BRISKA"
+  },
+  {
+   "fapt": "moale",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "este moale și confortabilă, ideală pentru activitățile în aer liber"
+  },
+  {
+   "fapt": "elastic",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "țesătură elastică în 4 direcții"
+  },
+  {
+   "fapt": "dreaptă",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "croială dreaptă"
+  },
+  {
+   "fapt": "PFC",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "finisaj hidrofug fără PFC"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "Gluga detașabilă și manșetele elastice"
+  },
+  {
+   "fapt": "bărbie",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "Fermoarul frontal este dotat cu protecție pentru bărbie"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "3 buzunare practice cu fermoar"
+  },
+  {
+   "fapt": "decorative",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "cusături decorative"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "elemente reflectorizante"
+  },
+  {
+   "fapt": "etichetă",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "o etichetă cu spațiu pentru mai multe nume"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "100 % poliester"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/didriksons/briska/1670879/",
+   "fragment": "2 în față"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Didriksons BRISKA",
+  "Material": "100% poliester, elastic în 4 direcții",
+  "Caracteristici": "hidrofugă fără PFC, glugă detașabilă, reflectorizante",
+  "Cod produs": "237071"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului.",
+  "Descrierea spune 3 buzunare cu fermoar, specificațiile 2 în față; am scris „două în față”."
+ ]
+}

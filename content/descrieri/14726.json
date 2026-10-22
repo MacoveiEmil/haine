@@ -1,0 +1,70 @@
+{
+ "id": 14726,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii pe gleznă <a href=\"/brand/geox/\">Geox</a> J WASHIBA A negri sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> cu design Disney, cu Minnie Mouse. Tehnologia Respira ajută la respirabilitate și la eliminarea umezelii, iar detaliile perforate din față lasă aerul să intre.</p><p>Se închid cu scai, care ține piciorul fix și face încălțatul ușor, iar gulerul e căptușit și confortabil. Sunt pentru purtat zi de zi. Magazinul precizează că nu sunt rezistenți la apă.</p><p>Detaliile de bază:</p><ul><li><strong>Față</strong>: poliuretan, plasă.</li><li><strong>Talpă</strong>: cauciuc.</li><li><strong>Cod produs</strong>: 253669.</li></ul><p>Pe site a rămas doar numărul 29, potrivit cam pentru 4-5 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/geox/j-washiba-a/1859463/",
+   "fragment": "Geox J WASHIBA A"
+  },
+  {
+   "fapt": "Minnie",
+   "url": "www.sportisimo.ro/geox/j-washiba-a/1859463/",
+   "fragment": "design Disney simpatic cu Minnie Mouse"
+  },
+  {
+   "fapt": "Respira",
+   "url": "www.sportisimo.ro/geox/j-washiba-a/1859463/",
+   "fragment": "Tehnologia Respira™ asigură o respirabilitate optimă și eliminarea umezelii"
+  },
+  {
+   "fapt": "perforate",
+   "url": "www.sportisimo.ro/geox/j-washiba-a/1859463/",
+   "fragment": "Detaliile perforate din partea frontală"
+  },
+  {
+   "fapt": "scai",
+   "url": "www.sportisimo.ro/geox/j-washiba-a/1859463/",
+   "fragment": "închidere cu scai"
+  },
+  {
+   "fapt": "velcro",
+   "url": "www.sportisimo.ro/geox/j-washiba-a/1859463/",
+   "fragment": "asigură o fixare fermă pe picior"
+  },
+  {
+   "fapt": "guler",
+   "url": "www.sportisimo.ro/geox/j-washiba-a/1859463/",
+   "fragment": "guler căptușit confortabil"
+  },
+  {
+   "fapt": "zilnic",
+   "url": "www.sportisimo.ro/geox/j-washiba-a/1859463/",
+   "fragment": "Sunt ideali pentru activități cotidiene"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/geox/j-washiba-a/1859463/",
+   "fragment": "poliuretan, plasă"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/geox/j-washiba-a/1859463/",
+   "fragment": "cauciuc"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox J WASHIBA A",
+  "Talpă": "cauciuc",
+  "Caracteristici": "Respira, scai, Minnie Mouse",
+  "Cod produs": "253669"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-5 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului.",
+  "Magazinul îi descrie ca adidași pentru fete; pe site sunt unisex, la Pantofi."
+ ]
+}
