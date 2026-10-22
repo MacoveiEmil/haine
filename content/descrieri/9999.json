@@ -1,0 +1,77 @@
+{
+ "id": 9999,
+ "versiune": "v7",
+ "descriere_html": "<p>Sandalele <a href=\"/brand/geox/\">Geox</a> BOREALIS J450RE sunt <a href=\"/categorie/baieti-incaltaminte-sandale/\">sandale sport pentru băieți</a>, negre, ușoare, cu partea de sus din material textil care se usucă repede după ce intră în apă. Sunt pentru vară și joacă în aer liber.</p><p>Vârful e decupat, deci degetele au loc și aer, iar pe baretă e logo-ul GEOX.</p><p>Talpa e partea cea mai lucrată:</p><ul><li><strong>Talpă exterioară</strong>: din cauciuc, cu striații.</li><li><strong>Talpă profilată</strong>: pentru mers și alergat.</li><li><strong>Geox Respira™</strong>: tehnologie pentru picioare uscate.</li><li><strong>Interior</strong>: material sintetic.</li></ul><p>Numerele 36-39 sunt pentru adolescenți de la, de regulă, 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "Geox Sandale copii BOREALIS negre J450RE.01411"
+  },
+  {
+   "fapt": "sport",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "Sandale sport pentru copii"
+  },
+  {
+   "fapt": "ușor",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "încălțăminte ușoară"
+  },
+  {
+   "fapt": "textil",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "Partea superioară din material textil favorizează uscarea rapidă după contactul cu apa"
+  },
+  {
+   "fapt": "vară",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "aventurile de vară"
+  },
+  {
+   "fapt": "aer liber",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "activitățile în aer liber"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "Vârful decupat"
+  },
+  {
+   "fapt": "logo",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "Logo-ul GEOX de pe baretă"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "Talpa exterioară din cauciuc cu striații"
+  },
+  {
+   "fapt": "profilată",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "Talpa profilată susține stabilitatea în timpul mersului și al alergatului"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "Tehnologia Geox Respira™"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-sandale-copii-borealis-negre-j450re-01411-1766356",
+   "fragment": "Material sintetic"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox BOREALIS",
+  "Material": "textil, interior sintetic, talpă din cauciuc",
+  "Caracteristici": "sport, uscare rapidă, vârf decupat, Geox Respira™",
+  "Cod produs": "J450RE.01411"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
