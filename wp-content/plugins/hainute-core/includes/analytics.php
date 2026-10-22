@@ -123,7 +123,9 @@ function hainute_analytics_enqueue() {
 		return;
 	}
 	$pid = ( is_singular( 'product' ) ) ? get_queried_object_id() : 0;
-	// Google Analytics 4: doar pe site-ul live (nu în pre-lansare) și doar după „Accept”.
+	// Google Analytics 4 cu Consent Mode v2 (avansat): doar pe site-ul live (nu în pre-lansare).
+	// Fără acord: analytics_storage=denied, GA primește semnale anonime, fără cookie-uri (le folosește
+	// pentru modelare); după „Accept”: granted, cu cookie-urile _ga. Reclamele rămân mereu denied.
 	$ga = defined( 'HAINUTE_GA_ID' ) ? (string) HAINUTE_GA_ID : 'G-7LR8THNFJ4';
 	if ( ( function_exists( 'hainute_is_test_host' ) && hainute_is_test_host() ) || ! preg_match( '/^G-[A-Z0-9]+$/', $ga ) ) {
 		$ga = '';
@@ -133,15 +135,21 @@ function hainute_analytics_enqueue() {
 		   (Legea 506/2004). Fără acord: evenimente anonime, fără nimic stocat în browser. */
 		function ok(){return /(?:^|; )hnt_consent=1/.test(document.cookie);}
 		var GA='".$ga."';
-		function ga(){if(!GA||!ok()||window.hntGa)return;window.hntGa=1;var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+GA;document.head.appendChild(s);window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag('js',new Date());gtag('config',GA);}
+		function ga(){if(!GA||window.hntGa)return;window.hntGa=1;window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};
+			gtag('consent','default',{analytics_storage:ok()?'granted':'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});
+			gtag('set','ads_data_redaction',true);gtag('js',new Date());gtag('config',GA);
+			var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+GA;document.head.appendChild(s);}
+		/* La refuz: GA trece pe denied și ștergem cookie-urile _ga puse înainte (pe host și pe domeniul părinte). */
+		function gaConsent(c){if(!window.gtag)return;gtag('consent','update',{analytics_storage:c?'granted':'denied'});if(c)return;
+			document.cookie.split('; ').forEach(function(k){var n=k.split('=')[0];if(/^_ga/.test(n)){var d=location.hostname.replace(/^www\./,'');document.cookie=n+'=;path=/;max-age=0';document.cookie=n+'=;path=/;max-age=0;domain=.'+d;}});}
 		ga();
 		function sid(){if(!ok())return '';var m=document.cookie.match(/hnt_sid=([^;]+)/);if(m)return m[1];var s=Math.random().toString(36).slice(2)+Date.now().toString(36);document.cookie='hnt_sid='+s+';path=/;max-age='+(60*60*24*30)+';SameSite=Lax';return s;}
 		function firstSrc(ref,utm){var v=utm||ref||'';if(!ok())return v;var m=document.cookie.match(/hnt_src=([^;]+)/);if(m)return decodeURIComponent(m[1]);document.cookie='hnt_src='+encodeURIComponent(v)+';path=/;max-age='+(60*60*24*30)+';SameSite=Lax';return v;}
 		function banner(){
 			var old=document.getElementById('hnt-cookies');if(old)old.remove();
 			var b=document.createElement('div');b.id='hnt-cookies';b.className='cookie-banner';b.setAttribute('role','dialog');b.setAttribute('aria-label','Cookie-uri');
-			b.innerHTML='<p>Folosim cookie-uri de statistică (ale noastre și Google Analytics), ca să vedem ce pagini sunt utile. Le punem doar dacă ești de acord. <a href=\"".esc_url( home_url( '/politica-cookies/' ) )."\">Politica de cookie-uri</a></p><div class=\"cookie-actions\"><button type=\"button\" data-c=\"0\">Refuz</button><button type=\"button\" data-c=\"1\">Accept</button></div>';
-			b.addEventListener('click',function(e){var x=e.target.closest('[data-c]');if(!x)return;var c=x.getAttribute('data-c');document.cookie='hnt_consent='+c+';path=/;max-age='+(60*60*24*180)+';SameSite=Lax';if(c!=='1'){document.cookie='hnt_sid=;path=/;max-age=0';document.cookie='hnt_src=;path=/;max-age=0';}else{ga();}b.remove();});
+			b.innerHTML='<p>Folosim cookie-uri de statistică (ale noastre și Google Analytics), ca să vedem ce pagini sunt utile. Le punem doar dacă ești de acord; fără acord, Google Analytics primește doar date anonime, fără cookie-uri. <a href=\"".esc_url( home_url( '/politica-cookies/' ) )."\">Politica de cookie-uri</a></p><div class=\"cookie-actions\"><button type=\"button\" data-c=\"0\">Refuz</button><button type=\"button\" data-c=\"1\">Accept</button></div>';
+			b.addEventListener('click',function(e){var x=e.target.closest('[data-c]');if(!x)return;var c=x.getAttribute('data-c');document.cookie='hnt_consent='+c+';path=/;max-age='+(60*60*24*180)+';SameSite=Lax';if(c!=='1'){document.cookie='hnt_sid=;path=/;max-age=0';document.cookie='hnt_src=;path=/;max-age=0';}gaConsent(c==='1');b.remove();});
 			document.body.appendChild(b);
 		}
 		if(!/(?:^|; )hnt_consent=/.test(document.cookie))banner();
