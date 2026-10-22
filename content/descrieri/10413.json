@@ -1,0 +1,64 @@
+{
+ "id": 10413,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/wheat/\">Wheat</a> 0699-261 este o <a href=\"/categorie/geci-jachete/\">geacă de bumbac pentru fete</a>, multicoloră, din material ornamentat, bumbac 100%, neizolată și fără căptușeală. E o geacă ușoară, pentru zilele calde.</p><p>Croiala e simplă, dreaptă, iar geaca se închide cu nasturi, deci se pune repede peste un tricou sau o rochiță. Nu are glugă și nici căptușeală.</p><p>Fiind din bumbac, e simplă și ușor de purtat:</p><ul><li><strong>Închidere</strong>: nasturi.</li><li><strong>Buzunare</strong>: oblice, pentru mâini.</li><li><strong>Material</strong>: 100% bumbac.</li></ul><p>Pe site, mărimile 92-140 acoperă cam vârsta de 2-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/wheat-geaca-de-bumbac-pentru-copii-0699-261-1730260",
+   "fragment": "Wheat Geacă de bumbac pentru copii 0699-261"
+  },
+  {
+   "fapt": "ornamentat",
+   "url": "answear.ro/p/wheat-geaca-de-bumbac-pentru-copii-0699-261-1730260",
+   "fragment": "Model neizolat confecționat din material ornamentat"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/wheat-geaca-de-bumbac-pentru-copii-0699-261-1730260",
+   "fragment": "100% Bumbac"
+  },
+  {
+   "fapt": "necăptușit",
+   "url": "answear.ro/p/wheat-geaca-de-bumbac-pentru-copii-0699-261-1730260",
+   "fragment": "Model neizolat fara captuseala"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/wheat-geaca-de-bumbac-pentru-copii-0699-261-1730260",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/wheat-geaca-de-bumbac-pentru-copii-0699-261-1730260",
+   "fragment": "Închiderea convenabilă cu buton"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/wheat-geaca-de-bumbac-pentru-copii-0699-261-1730260",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/wheat-geaca-de-bumbac-pentru-copii-0699-261-1730260",
+   "fragment": "Buzunare oblice"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/wheat-geaca-de-bumbac-pentru-copii-0699-261-1730260",
+   "fragment": "multicolor"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Wheat 0699-261",
+  "Material": "100% bumbac",
+  "Caracteristici": "neizolată, fără căptușeală, nasturi, buzunare oblice",
+  "Cod produs": "0699-261"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "„Peste un tricou sau o rochiță” e dedus din faptul că e neizolată și necăptușită."
+ ]
+}
