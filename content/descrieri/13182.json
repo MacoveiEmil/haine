@@ -1,0 +1,79 @@
+{
+ "id": 13182,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/liewood/\">Liewood</a> Nolan Pile Jacket este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> în culoarea maro pe site (bej la magazin), din fleece ușor și foarte rezistent, din poliester reciclat certificat GRS. E neizolată și fără căptușeală, pentru sezonul de tranziție.</p><p>Mânecile au găuri pentru degetul mare, care țin mâinile la căldură și nu lasă mânecile să urce. Gulerul ridicat apără de frig.</p><p>Detaliile de închidere și material:</p><ul><li><strong>Închidere</strong>: fermoar.</li><li><strong>Material</strong>: 100% poliester reciclat.</li><li><strong>Glugă</strong>: nu are.</li></ul><p>Mărimile 80-140 acoperă copii de aproximativ 1-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "Liewood Geacă copii Nolan Pile Jacket culoarea maro, LW19877"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "Culoare bej"
+  },
+  {
+   "fapt": "fleece",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "Model neizolat confecționat din material fleece"
+  },
+  {
+   "fapt": "ușor",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "Material ușor, extrem de rezistent"
+  },
+  {
+   "fapt": "GRS",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "GRS (Global Recycle Standard)"
+  },
+  {
+   "fapt": "necăptușit",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "Captuseala: necaptusit"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "degete",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "Găurile pentru degetul mare din partea de jos a mânecilor protejează mâinile"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "Gulerul ridicat oferă protecție suplimentară împotriva frigului"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "Închiderea convenabilă cu fermoar"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "100% Poliester reciclat"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/liewood-geaca-copii-nolan-pile-jacket-culoarea-maro-lw19877-1688378",
+   "fragment": "Gluga: fara gluga"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Liewood Nolan Pile Jacket",
+  "Material": "100% poliester reciclat (fleece)",
+  "Caracteristici": "găuri pentru degetul mare, guler ridicat, fermoar",
+  "Cod produs": "LW19877"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul spune maro, magazinul dă culoarea bej; am scris ambele."
+ ]
+}
