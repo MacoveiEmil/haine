@@ -1,0 +1,84 @@
+{
+ "id": 10052,
+ "versiune": "v7",
+ "descriere_html": "<p>Paltonul <a href=\"/brand/michael-kors/\">Michael Kors</a> R30454 maro e listat la <a href=\"/categorie/geci-jachete/\">geci pentru fete</a> și e făcut dintr-un material cu mult conținut de lână, care apără de frig, iar poliesterul adăugat îl face mai rezistent la șifonare. E subțire, neizolat, cu căptușeală completă.</p><p>Tăietura e simplă, se închide cu buton, iar pe laterale are două buzunare. Magazinul precizează că nu e impermeabil, deci e mai potrivit pentru zilele uscate de toamnă.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 43% poliester, 33% lână, 19% acril, 4% poliamidă, 1% viscoză.</li><li><strong>Căptușeală</strong>: 100% poliester.</li><li><strong>Închidere</strong>: buton.</li></ul><p>Mărimile 138-150 se potrivesc orientativ copiilor de 10-12 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "R30454"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "culoarea maro"
+  },
+  {
+   "fapt": "palton",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "Palton copii din colecția Michael Kors"
+  },
+  {
+   "fapt": "lână",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "material cu un conținut ridicat de lână, care oferă protecție împotriva frigului"
+  },
+  {
+   "fapt": "șifonare",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "adăugarea de poliester crește rezistența la șifonare"
+  },
+  {
+   "fapt": "subțire",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "Model subțire"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "Model neizolat cu captuseala"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "buton",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "Închiderea convenabilă cu buton"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "Două buzunare laterale"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "fără impermeabilitate"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "43% Poliester , 33% Lana, 19% Acril, 4% Poliamida, 1% Viscoza"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/michael-kors-palton-copii-culoarea-maro-r30454-1638439",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Michael Kors R30454",
+  "Material": "43% poliester, 33% lână",
+  "Caracteristici": "palton subțire, buton, buzunare laterale",
+  "Cod produs": "R30454"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "10-12 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Atributele spun „cu glugă”, caracteristicile „fără glugă”; nu am scris despre glugă. „Toamnă” e dedus din „neizolat”."
+ ]
+}
