@@ -1,0 +1,79 @@
+{
+ "id": 10973,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB09815 este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de puf pentru băieți</a>, bej, matlasată, izolată cu puf de rață și pene (70/30), din material neted, cu sigla brandului. E pentru zilele reci de iarnă, iar gluga apără capul.</p><p>Croiala e lejeră, deci încape un pulover gros dedesubt, iar mânecile se termină cu bandă elastică, care strânge la încheieturi.</p><p>Pe scurt:</p><ul><li><strong>Închidere</strong>: fermoar.</li><li><strong>Buzunare</strong>: oblice.</li><li><strong>Material</strong>: 100% poliester; umplutură 70% puf, 30% pene.</li></ul><p>Mărimile 128-176 sunt pentru copii de 8-16 ani, cu aproximație.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "Tommy Hilfiger Geacă de puf pentru copii culoarea bej, KB0KB09815"
+  },
+  {
+   "fapt": "matlasat",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "Matlasat"
+  },
+  {
+   "fapt": "puf",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "70% Duck Down, 30% Pene"
+  },
+  {
+   "fapt": "neted",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "Material neted"
+  },
+  {
+   "fapt": "siglă",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "Model cu sigla brandului"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "Model izolat cu captuseala"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "Model cu gluga"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "Tăiere lejeră, fără blocare"
+  },
+  {
+   "fapt": "elastic",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "Mâneci finisate cu o coadă elastică"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "Buzunare oblice"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-puf-pentru-copii-culoarea-bej-kb0kb09815-1602141",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger KB0KB09815",
+  "Material": "100% poliester; umplutură 70% puf de rață, 30% pene",
+  "Caracteristici": "puf, matlasată, glugă, croială lejeră",
+  "Cod produs": "KB0KB09815"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul și h1 spun bej; atributul de culoare al magazinului spune verde."
+ ]
+}

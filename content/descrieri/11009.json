@@ -1,0 +1,67 @@
+{
+ "id": 11009,
+ "versiune": "v7",
+ "descriere_html": "<p>Pantofii <a href=\"/brand/wheat/\">Wheat</a> WF622-02 sunt <a href=\"/categorie/bebe-incaltaminte-pantofi/\">pantofi pentru bebeluși</a> portocalii, din piele întoarsă cu imprimeu floral, pentru ținutele lejere de vară. Interiorul și branțul sunt din piele tăbăcită fără crom și metale.</p><p>Scaiul permite încălțatul și descălțatul rapid, iar contrafortul ușor rigidizat ține piciorul în pantof. Vârful e ranforsat și își păstrează forma.</p><p>Pe scurt:</p><ul><li><strong>Partea de sus</strong>: piele întoarsă.</li><li><strong>Interior și branț</strong>: piele naturală fără crom.</li><li><strong>Talpă</strong>: din cauciuc rezistent.</li></ul><p>Numerele 21-26 sunt pentru copii de 1-4 ani, aproximativ.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/wheat-pantofi-pentru-copii-din-piele-intoarsa-portocalii-wf622-02-1813387",
+   "fragment": "Wheat Pantofi pentru copii din piele întoarsă portocalii WF622-02"
+  },
+  {
+   "fapt": "piele întoarsă",
+   "url": "answear.ro/p/wheat-pantofi-pentru-copii-din-piele-intoarsa-portocalii-wf622-02-1813387",
+   "fragment": "Partea superioară din piele întoarsă"
+  },
+  {
+   "fapt": "floral",
+   "url": "answear.ro/p/wheat-pantofi-pentru-copii-din-piele-intoarsa-portocalii-wf622-02-1813387",
+   "fragment": "Imprimeu floral fermecător"
+  },
+  {
+   "fapt": "vară",
+   "url": "answear.ro/p/wheat-pantofi-pentru-copii-din-piele-intoarsa-portocalii-wf622-02-1813387",
+   "fragment": "creat pentru ținutele lejere de vară"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/wheat-pantofi-pentru-copii-din-piele-intoarsa-portocalii-wf622-02-1813387",
+   "fragment": "Interior finisat cu piele tăbăcită fără crom și metale"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/wheat-pantofi-pentru-copii-din-piele-intoarsa-portocalii-wf622-02-1813387",
+   "fragment": "Branț din piele naturală tăbăcită fără crom și metale"
+  },
+  {
+   "fapt": "scai",
+   "url": "answear.ro/p/wheat-pantofi-pentru-copii-din-piele-intoarsa-portocalii-wf622-02-1813387",
+   "fragment": "Închidere practică cu scai"
+  },
+  {
+   "fapt": "contrafort",
+   "url": "answear.ro/p/wheat-pantofi-pentru-copii-din-piele-intoarsa-portocalii-wf622-02-1813387",
+   "fragment": "Contrefort ușor rigidizat"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/wheat-pantofi-pentru-copii-din-piele-intoarsa-portocalii-wf622-02-1813387",
+   "fragment": "Vârf ranforsat , care ajută la menținerea formei pantofului"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/wheat-pantofi-pentru-copii-din-piele-intoarsa-portocalii-wf622-02-1813387",
+   "fragment": "Talpă realizată din cauciuc rezistent"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Wheat WF622-02",
+  "Material": "piele întoarsă, interior și branț din piele fără crom, talpă din cauciuc",
+  "Caracteristici": "scai, imprimeu floral, vârf ranforsat",
+  "Cod produs": "WF622-02"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

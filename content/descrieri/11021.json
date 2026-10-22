@@ -1,0 +1,65 @@
+{
+ "id": 11021,
+ "versiune": "v7",
+ "descriere_html": "<p>Sacoul <a href=\"/brand/mayoral/\">Mayoral</a> 6413 este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">jachetă din amestec de in pentru băieți</a>, bej, uni, din țesătură netedă și aerisită, cu mult bumbac. Se închide cu nasturi pe un singur rând, ca un sacou clasic.</p><p>Fasonul e drept, fără strângeri pe corp, iar căptușeala îl face ușor de îmbrăcat și de dat jos peste o cămașă.</p><p>Pe scurt, despre sacou:</p><ul><li><strong>Închidere</strong>: nasturi, un singur rând.</li><li><strong>Material</strong>: 90% bumbac, 10% in.</li><li><strong>Căptușeală</strong>: da.</li></ul><p>Mărimile 128-172 sunt pentru copii de 8-15 ani, cu aproximație.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/mayoral-jacheta-din-amestec-de-in-pentru-copii-culoarea-bej-6413-1706990",
+   "fragment": "Mayoral Jachetă din amestec de in pentru copii culoarea bej, 6413"
+  },
+  {
+   "fapt": "sacou",
+   "url": "answear.ro/p/mayoral-jacheta-din-amestec-de-in-pentru-copii-culoarea-bej-6413-1706990",
+   "fragment": "Sacou pentru copii din colecția Mayoral"
+  },
+  {
+   "fapt": "neted",
+   "url": "answear.ro/p/mayoral-jacheta-din-amestec-de-in-pentru-copii-culoarea-bej-6413-1706990",
+   "fragment": "țesătură neteda"
+  },
+  {
+   "fapt": "aerisit",
+   "url": "answear.ro/p/mayoral-jacheta-din-amestec-de-in-pentru-copii-culoarea-bej-6413-1706990",
+   "fragment": "material aerisit cu un conținut ridicat de bumbac"
+  },
+  {
+   "fapt": "uni",
+   "url": "answear.ro/p/mayoral-jacheta-din-amestec-de-in-pentru-copii-culoarea-bej-6413-1706990",
+   "fragment": "Model: uni"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/mayoral-jacheta-din-amestec-de-in-pentru-copii-culoarea-bej-6413-1706990",
+   "fragment": "Închidere cu nasturi la un singur piept"
+  },
+  {
+   "fapt": "fason",
+   "url": "answear.ro/p/mayoral-jacheta-din-amestec-de-in-pentru-copii-culoarea-bej-6413-1706990",
+   "fragment": "Fason drept"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/mayoral-jacheta-din-amestec-de-in-pentru-copii-culoarea-bej-6413-1706990",
+   "fragment": "Model cu captuseala"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/mayoral-jacheta-din-amestec-de-in-pentru-copii-culoarea-bej-6413-1706990",
+   "fragment": "90% Bumbac, 10% In"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Mayoral 6413",
+  "Material": "90% bumbac, 10% in",
+  "Caracteristici": "sacou, nasturi pe un rând, căptușit",
+  "Cod produs": "6413"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul îl descrie ca sacou; e listat la Geci.",
+  "„Peste o cămașă” e dedus din faptul că e sacou căptușit."
+ ]
+}
