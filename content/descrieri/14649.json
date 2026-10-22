@@ -1,0 +1,89 @@
+{
+ "id": 14649,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/head/\">Head</a> LANS mov este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> pentru vreme urâtă, cu membrană TPU, coloană de apă de 5.000 mm și respirabilitate de 3.000 g/m²24h. Gluga e fixă, iar fermoarul are protecție la bărbie și e acoperit cu o clapetă.</p><p>Mânecile se termină cu elastic, iar marginea de jos se ajustează. Elementele reflectorizante ajută la vizibilitate când lumina e slabă, iar înăuntru e o etichetă pentru nume.</p><p>Detaliile de bază:</p><ul><li><strong>Buzunare</strong>: trei cu fermoar, două în față și unul la piept.</li><li><strong>Material</strong>: 100% poliester.</li><li><strong>Căptușeală</strong>: 100% poliester.</li></ul><p>Mărimile 116-122 până la 164-170 sunt pentru copii de aproximativ 6-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "Head LANS"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "Mov (mov / albastru deschis)"
+  },
+  {
+   "fapt": "vreme",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "activități pe vreme nefavorabilă"
+  },
+  {
+   "fapt": "TPU",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "TPU"
+  },
+  {
+   "fapt": "coloană",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "5.000 mm"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "3.000 g/m²24h"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "glugă fixă"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "fermoarul are protecție la bărbie și este acoperit cu clapetă"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "mâneci cu finisaj elastic"
+  },
+  {
+   "fapt": "margine",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "margine inferioară ajustabilă"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "Detaliile reflectorizante sporesc siguranța în condiții slabe de lumină"
+  },
+  {
+   "fapt": "etichetă",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "etichetă pentru nume în interior"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "3 cu fermoar (2x frontale, 1x la piept)"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/head/lans/1849057/",
+   "fragment": "100 % poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Head LANS",
+  "Material": "100% poliester, membrană TPU",
+  "Caracteristici": "coloană de apă 5.000 mm, glugă fixă, reflectorizante",
+  "Cod produs": "252671"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul o descrie ca geacă pentru băieți; pe site e unisex."
+ ]
+}

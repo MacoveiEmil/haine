@@ -1,0 +1,69 @@
+{
+ "id": 14668,
+ "versiune": "v7",
+ "descriere_html": "<p>Pantofii de apă <a href=\"/brand/reima/\">Reima</a> LEAN albastru închis sunt listați la <a href=\"/categorie/unisex-incaltaminte-sandale/\">sandale unisex</a> și sunt făcuți pentru plajă și înot, cu protecție UV ridicată. Fața e din textil, sunt ușori, iar talpa flexibilă are drop zero, pentru o poziție naturală a piciorului.</p><p>Branțul detașabil are imprimeu Happy Fit, care ajută la alegerea numărului. Materialul de sus lasă piciorul să se aerisească.</p><p>Detaliile de bază:</p><ul><li><strong>Față</strong>: material textil.</li><li><strong>Talpă</strong>: TPR, cauciuc termoplastic.</li><li><strong>Cod produs</strong>: 198073.</li></ul><p>Numerele 24-35 sunt pentru copii de cam 2-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/lean/1276256/",
+   "fragment": "REIMA LEAN"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/lean/1276256/",
+   "fragment": "Albastru închis (albastru închis / albastru / portocaliu)"
+  },
+  {
+   "fapt": "plajă",
+   "url": "www.sportisimo.ro/reima/lean/1276256/",
+   "fragment": "sunt ideali pentru plajă și înot"
+  },
+  {
+   "fapt": "UV",
+   "url": "www.sportisimo.ro/reima/lean/1276256/",
+   "fragment": "au un grad ridicat de protecție UV"
+  },
+  {
+   "fapt": "textil",
+   "url": "www.sportisimo.ro/reima/lean/1276256/",
+   "fragment": "cu partea superioară de textil"
+  },
+  {
+   "fapt": "ușori",
+   "url": "www.sportisimo.ro/reima/lean/1276256/",
+   "fragment": "Au greutatea redusă și talpă flexibilă"
+  },
+  {
+   "fapt": "drop",
+   "url": "www.sportisimo.ro/reima/lean/1276256/",
+   "fragment": "drop zero pentru o poziție naturală"
+  },
+  {
+   "fapt": "Happy Fit",
+   "url": "www.sportisimo.ro/reima/lean/1276256/",
+   "fragment": "Au branț detașabil, cu imprimeu Happy Fit, care ajută la alegerea mărimii corecte"
+  },
+  {
+   "fapt": "respirabil",
+   "url": "www.sportisimo.ro/reima/lean/1276256/",
+   "fragment": "pantof respirabil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/lean/1276256/",
+   "fragment": "TPR (cauciuc termoplastic)"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima LEAN",
+  "Talpă": "TPR",
+  "Caracteristici": "protecție UV, branț Happy Fit, drop zero",
+  "Cod produs": "198073"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pe site e la Sandale; magazinul îi descrie ca pantofi de apă."
+ ]
+}

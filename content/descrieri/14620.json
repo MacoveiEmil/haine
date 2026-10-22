@@ -1,0 +1,94 @@
+{
+ "id": 14620,
+ "versiune": "v7",
+ "descriere_html": "<p>Mănușile de iarnă <a href=\"/brand/reima/\">Reima</a> HAVAITA negre sunt <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">mănuși unisex</a> impermeabile, cu inserție Hipora și membrană Reimatec, rezistente la vânt. Palma și degetul mare sunt întărite, iar pe partea de sus izolația e dublă, cu PrimaLoft.</p><p>Căptușeala e din fleece moale și călduros, iar materialul exterior respinge apa și murdăria. Pe partea superioară au material reflectorizant, util când se întunecă devreme.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester reciclat, tratament poliuretanic.</li><li><strong>Coloană de apă</strong>: 12.000 mm.</li><li><strong>Respirabilitate</strong>: 7.000 g/m²/24 h.</li><li><strong>Greutate</strong>: 35 g.</li></ul><p>Mărimile 3Y-6Y sunt gândite pentru copii de aproximativ 3-6 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "REIMA HAVAITA"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "Negru (negru / gri)"
+  },
+  {
+   "fapt": "Hipora",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "inserție impermeabilă Hipora"
+  },
+  {
+   "fapt": "vânt",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "sunt rezistente la vânt"
+  },
+  {
+   "fapt": "întărite",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "palma și degetul mare întărite"
+  },
+  {
+   "fapt": "dublă",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "izolație dublă în partea superioară de pe exterior"
+  },
+  {
+   "fapt": "PrimaLoft",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "izolație PrimaLoft® de înaltă calitate"
+  },
+  {
+   "fapt": "fleece",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "căptușeală moale, călduroasă din fleece"
+  },
+  {
+   "fapt": "resping",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "resping apa și murdăria"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "material reflectorizant utilizat pe partea superioară a mănușilor"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "100% poliester reciclat, tratament poliuretanic"
+  },
+  {
+   "fapt": "coloană",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "12.000 mm"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "7.000 g/m²/24 h"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "35 g"
+  },
+  {
+   "fapt": "Reimatec",
+   "url": "www.sportisimo.ro/reima/havaita/1291508/",
+   "fragment": "Reimatec"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima HAVAITA",
+  "Material": "100% poliester reciclat",
+  "Caracteristici": "Reimatec, PrimaLoft, palmă întărită",
+  "Cod produs": "199967"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "3-6 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Vârsta calculată automat era nefolositoare (1-1 ani); am trecut 3-6 ani după mărimile 3Y-6Y."
+ ]
+}
