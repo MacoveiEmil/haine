@@ -1,0 +1,94 @@
+{
+ "id": 13283,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/tinycottons/\">Tinycottons</a> COLOR BLOCK PADDED JACKET maro este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> izolată, matlasată, din bumbac, cu izolație sintetică groasă pentru temperaturile mai reci. Căptușeala e completă, din poliester.</p><p>Gulerul ridicat și gluga adaugă căldură, mânecile se termină cu elastic, iar buzunarele exterioare sunt oblice. Se închide cu fermoar și cleme, iar tăietura e simplă, fără blocare. Izolația groasă o face potrivită pentru iarnă.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% bumbac.</li><li><strong>Umplutură</strong>: 100% poliester.</li><li><strong>Izolație</strong>: groasă.</li></ul><p>Mărimile 92-152 se potrivesc cam între 2 și 12 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "COLOR BLOCK PADDED JACKET"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "culoarea maro"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "Model izolat confecționat din material matlasat cu izolatie sintetică"
+  },
+  {
+   "fapt": "reci",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "temperaturi mai reci"
+  },
+  {
+   "fapt": "bumbac",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "100% Bumbac"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "groasă"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "cu căptușeală completă, sintetică"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "Gulerul ridicat oferă protecție suplimentară împotriva frigului"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "Gluga încorporată oferă un plus de căldură"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "Mâneci finisate cu o coadă elastică"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "Buzunare oblice exterioare"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "Închiderea convenabilă cu fermoar"
+  },
+  {
+   "fapt": "cleme",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "Incheiere cu cleme"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/tinycottons-geaca-copii-color-block-padded-jacket-culoarea-maro-aw25-141-1605409",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tinycottons COLOR BLOCK PADDED JACKET",
+  "Material": "100% bumbac",
+  "Caracteristici": "izolație groasă, glugă, guler ridicat",
+  "Cod produs": "AW25.141"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-12 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea spune glugă „încorporată”, caracteristicile „detașabilă”; nu am precizat tipul glugii."
+ ]
+}

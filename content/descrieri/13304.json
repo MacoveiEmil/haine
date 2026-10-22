@@ -1,0 +1,84 @@
+{
+ "id": 13304,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/bobo-choses/\">Bobo Choses</a> Tic Tac Toe albastră este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de iarnă pentru băieți</a> izolată, cu umplutură sintetică groasă, din material modelat. Exteriorul e din poliamidă parțial reciclată, iar căptușeala completă din poliester parțial reciclat.</p><p>Gulerul ridicat apără de frig, buzunarele exterioare sunt oblice, iar tăietura e simplă, fără blocare. Nu are glugă, deci în zilele cu vânt merge purtată cu o căciulă.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliamidă reciclată.</li><li><strong>Căptușeală</strong>: 100% poliester reciclat.</li><li><strong>Izolație</strong>: groasă.</li></ul><p>Mărimile 89/98 până la 149/155 țin cam de 1-12 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "Tic Tac Toe"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "Model izolat confecționat din material modelat"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "Model cu umplutură sintetică"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "groasă"
+  },
+  {
+   "fapt": "poliamidă",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "realizat partial din poliamida reciclata"
+  },
+  {
+   "fapt": "poliester",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "realizat partial din poliester reciclat"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "Gulerul ridicat oferă protecție suplimentară împotriva frigului"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "Buzunare oblice exterioare"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "100% Poliamida reciclata"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/bobo-choses-geaca-copii-tic-tac-toe-225ac124-1575815",
+   "fragment": "100% Poliester reciclat"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Bobo Choses Tic Tac Toe",
+  "Material": "poliamidă reciclată",
+  "Caracteristici": "izolație groasă, guler ridicat",
+  "Cod produs": "225AC124"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-12 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului nu are culoare („Băieți”); culoarea e cea de la magazin (albastru). Produsul e marcat și „pentru bebe”."
+ ]
+}

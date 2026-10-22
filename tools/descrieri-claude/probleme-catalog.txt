@@ -113,3 +113,4 @@
 12953 Geox FLEXYPER FAST: titlul site-ului are „FAST” în loc de culoare (la magazin: albastru)
 13046 Calvin Klein Jeans LVCKTJM15B: titlul site-ului are „petrecută” în loc de culoare (la magazin: negru)
 13064 Burton HILLSLOPE: magazinul dă „verde” în titlu și „galben” în date
+13125 13126 13238 13239 13240 13252: titlul site-ului nu are culoare („Băieți”, „Unisex”, „piele”, „petrecută”, „JBIRKYE”); s-a folosit culoarea magazinului
