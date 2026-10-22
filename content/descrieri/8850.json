@@ -1,0 +1,84 @@
+{
+ "id": 8850,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/emporio-armani/\">Emporio Armani</a> EB000922 bleumarin este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă subțire pentru băieți</a>, neizolată și fără căptușeală, din material rezistent, gândită pentru anotimpurile mai calde. Nu are glugă.</p><p>Fermoarul pe toată lungimea are clapă interioară împotriva furtunii, iar pe lateral se închide și cu butoane presate. Mânecile lungi se termină cu manșetă elastică, iar pe laterale sunt două buzunare.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 55% poliamidă, 45% poliester.</li><li><strong>Bandă elastică</strong>: 80% bumbac, 18% poliester, 2% elastan.</li><li><strong>Mărimi</strong>: italienești, raportate la cele europene.</li></ul><p>Mărimile 128-176 se potrivesc orientativ copiilor de 8-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "EB000922"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "culoarea bleumarin"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "Model neizolat fara captuseala"
+  },
+  {
+   "fapt": "rezistent",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "Model neizolat confecționat din material rezistent"
+  },
+  {
+   "fapt": "cald",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "perfect pentru anotimpurile mai calde"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "Închidere cu fermoar pe toată lungimea cu clapă interioară împotriva furtunii"
+  },
+  {
+   "fapt": "butoane",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "Inchidere laterala cu butoane presate"
+  },
+  {
+   "fapt": "manșetă",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "Mâneci lungi finisate cu o manșetă confortabilă, elastică"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "Două buzunare laterale"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "55% Poliamida, 45% Poliester"
+  },
+  {
+   "fapt": "bandă",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "80% Bumbac, 18% Poliester , 2% Elastan"
+  },
+  {
+   "fapt": "italian",
+   "url": "answear.ro/p/emporio-armani-geaca-copii-culoarea-bleumarin-eb000922-af20711-1704403",
+   "fragment": "Dimensiunile disponibile sunt cele ale producatorul italian, raportate la dimensiunile europene standard"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Emporio Armani EB000922",
+  "Material": "55% poliamidă, 45% poliester",
+  "Caracteristici": "subțire, clapă împotriva furtunii, manșete elastice",
+  "Cod produs": "EB000922.AF20711"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Compoziția include „Umplutura: 100% Poliester”, deși modelul e descris ca neizolat; nu am scris despre umplutură."
+ ]
+}

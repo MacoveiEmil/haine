@@ -1,0 +1,109 @@
+{
+ "id": 8832,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/adidas/\">adidas</a> JL7433 roz este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> izolată, matlasată, din material rezistent, cu izolație sintetică medie spre groasă și glugă integrată. Tehnologia CLIMAWARM păstrează căldura și ajută corpul să rămână uscat.</p><p>Are impregnare hidrofobă și e rezistentă la vânt. Gulerul ridicat apără de frig, fermoarul o face ușor de pus și de scos, buzunarele exterioare se închid, iar elementele reflectorizante se văd după lăsarea întunericului.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Lungime</strong>: 55 cm la mărimea 140.</li><li><strong>Lățime la umeri</strong>: 35 cm.</li></ul><p>Mărimile 140-176 sunt pentru copii de aproximativ 10-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "JL7433"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "culoarea roz"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Model izolat confecționat din material rezistent"
+  },
+  {
+   "fapt": "matlasat",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Model matlasat cu izolație sintetica"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "medie, groasă"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "integrată"
+  },
+  {
+   "fapt": "CLIMAWARM",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Tehnologia CLIMAWARM retine caldura"
+  },
+  {
+   "fapt": "uscat",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "vă ajută să vă simțiți uscat"
+  },
+  {
+   "fapt": "hidrofob",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "impregnare hidrofobă"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Model rezistent la vânt"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Gulerul ridicat oferă protecție suplimentară împotriva frigului"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Închiderea convenabilă cu fermoar îl face ușor de pus și scos"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Buzunare exterioare incheiata"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Elementele reflectorizante sporesc vizibilitatea și siguranța după întuneric"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Lungimea: 55 cm"
+  },
+  {
+   "fapt": "mărime",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Dimensiunile date pentru marimea: 140 cm"
+  },
+  {
+   "fapt": "umeri",
+   "url": "answear.ro/p/adidas-geaca-copii-culoarea-roz-jl7433-1594096",
+   "fragment": "Latimea in umeri: 35 cm"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "adidas JL7433",
+  "Material": "100% poliester",
+  "Caracteristici": "CLIMAWARM, hidrofobă, reflectorizante",
+  "Cod produs": "JL7433"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "10-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul o numește „impermeabilă”, dar spune și că nu garantează impermeabilitatea completă; am scris doar impregnare hidrofobă."
+ ]
+}
