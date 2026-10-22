@@ -152,3 +152,28 @@ function hainute_viewers_now( $pid ) {
 	$day = hainute_recent_views( (int) $pid, DAY_IN_SECONDS );
 	return array( 'n' => $day, 'type' => $day > 0 ? 'zi' : '' );
 }
+
+/**
+ * Politica de confidențialitate: paragraful despre numărarea anonimă a vizitelor
+ * (dovada socială de mai sus). Pagina e în DB, deci o completăm o singură dată,
+ * la prima cerere după publicare; nu se dublează (verificăm textul).
+ */
+function hainute_privacy_views_paragraph() {
+	if ( get_option( 'hainute_privacy_views_v1' ) || ! add_option( 'hainute_privacy_views_v1', time(), '', false ) ) {
+		return;
+	}
+	$page = get_page_by_path( 'politica-de-confidentialitate' );
+	if ( ! $page || false !== strpos( $page->post_content, 'Numărul de vizualizări' ) ) {
+		return;
+	}
+	$par = '<p><strong>Numărul de vizualizări de pe pagina produsului.</strong> Ca să afișăm câte persoane au văzut recent un produs, păstrăm pe server, pentru fiecare vizită, ora și un cod anonim calculat din adresa IP și tipul browserului, cu o cheie care se schimbă zilnic. Din acest cod nu se poate afla adresa IP și nici cine sunteți, nu folosim cookie-uri pentru asta, iar datele se șterg automat după cel mult 2 zile.</p>' . "\n";
+	$c   = $page->post_content;
+	$pos = strpos( $c, '<h3>Date furnizate voluntar</h3>' );
+	if ( false === $pos ) {
+		return; // structura paginii s-a schimbat: nu ghicim unde intră
+	}
+	$c = substr( $c, 0, $pos ) . $par . substr( $c, $pos );
+	$c = preg_replace( '/Ultima actualizare: [^<]+/u', 'Ultima actualizare: 22 octombrie 2026', $c, 1 );
+	wp_update_post( array( 'ID' => $page->ID, 'post_content' => $c ) );
+}
+add_action( 'init', 'hainute_privacy_views_paragraph', 20 );

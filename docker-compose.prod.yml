@@ -35,6 +35,9 @@ services:
     env_file:
       - ./docker/secrets.env
     environment:
+      # Site LANSAT (decizia proprietarului, 22.10.2026): suprascrie HAINUTE_PRELAUNCH
+      # din docker/secrets.env. Înapoi la pre-lansare: "1" aici + push.
+      HAINUTE_PRELAUNCH: "0"
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_USER: root
       WORDPRESS_DB_PASSWORD: ${DB_ROOT_PASSWORD}
