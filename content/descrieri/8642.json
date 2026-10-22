@@ -1,0 +1,85 @@
+{
+ "id": 8642,
+ "versiune": "v7",
+ "descriere_html": "<p>Bocancii <a href=\"/brand/geox/\">Geox</a> CASEY negri sunt <a href=\"/categorie/ghete-cizme/\">ghete pentru fete</a> cu talpă groasă, plată, din cauciuc durabil și rezistent la deteriorare, și sistemul Geox Respira: talpa în trei straturi are perforații care ajută ventilarea.</p><p>Se leagă cu șiret și au fermoar lateral, deci se încalță ușor. Vârful e rotund, tocul gros, iar branțul textil e confortabil și ține încălțămintea curată mai ușor.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic.</li><li><strong>Interior</strong>: material sintetic, material textil.</li><li><strong>Izolație</strong>: nu au.</li></ul><p>Numerele 36-39 se poartă de pe la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "CASEY"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "culoarea negru"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "groasă, plată"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "Sistemul Geox Respira"
+  },
+  {
+   "fapt": "straturi",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "Model cu siret cu fermoar lateral"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "rotund"
+  },
+  {
+   "fapt": "toc",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "toc gros"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "Brantul textil este confortabil pentru picior si usureaza pastrarea pantofilor curati"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "Material sintetic"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "Material sintetic, Material textil"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/geox-bocanci-copii-casey-culoarea-negru-j5620b-000bc-1595196",
+   "fragment": "Izolare: neizolat"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox CASEY",
+  "Talpă": "cauciuc, Geox Respira",
+  "Caracteristici": "șiret, fermoar lateral, toc gros",
+  "Cod produs": "J5620B.000BC"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea spune „piele întoarsă”, iar compoziția și atributele indică material sintetic, imitație de piele; am scris doar compoziția.",
+  "Descrierea pomenește și închidere cu velcro; atributele dau șiret și fermoar, așa că am lăsat velcro deoparte."
+ ]
+}

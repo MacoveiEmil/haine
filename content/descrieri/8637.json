@@ -1,0 +1,89 @@
+{
+ "id": 8637,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB09852 maro este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de tranziție pentru băieți</a> neizolată, din material neted, realizată parțial din poliamidă reciclată. Are guler ridicat, fără glugă, și căptușeală completă, sintetică.</p><p>Tăietura e simplă, se închide cu fermoar, iar mânecile sunt finisate cu manșetă. E o geacă ușoară, pentru zilele de primăvară sau toamnă.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliamidă reciclată.</li><li><strong>Căptușeală</strong>: 100% poliamidă.</li><li><strong>Umplutură</strong>: nu are.</li><li><strong>Croială</strong>: regular fit.</li></ul><p>Mărimile 128-176 se potrivesc orientativ copiilor de 8-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "KB0KB09852"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "culoarea maro"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "Model neizolat confecționat din material neted"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "Acest produs a fost realizat partial din poliamida reciclata"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "Guler ridicat"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "cu căptușeală completă, sintetică"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "manșetă",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "Finisaj din manseta"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "100% Poliamida reciclata"
+  },
+  {
+   "fapt": "poliamidă",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "100% Poliamida"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "fără umplutură"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-maro-kb0kb09852-1653338",
+   "fragment": "Croială: regular fit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger KB0KB09852",
+  "Material": "100% poliamidă reciclată",
+  "Caracteristici": "neizolată, guler ridicat, fermoar",
+  "Cod produs": "KB0KB09852"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "„Primăvară sau toamnă” derivă din „neizolat” și „fără umplutură”."
+ ]
+}
