@@ -1,68 +1,83 @@
 {
  "id": 10684,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/adidas-originals/\">adidas Originals</a> KD5801 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de blugi unisex</a> albastră, din denim 100% bumbac, cu croială lejeră. Nu are izolație și nici căptușeală.</p><ul><li><strong>Închidere</strong>: fermoar, deci se pune și se scoate ușor.</li><li><strong>Guler</strong>: ridicat.</li><li><strong>Mâneci și tiv</strong>: finisate cu bătături.</li><li><strong>Buzunare</strong>: două laterale.</li></ul><p>Mărimile merg de la 104 la 128, orientativ pentru copii de 4-8 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/adidas-originals/\">adidas Originals</a> KD5801 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de blugi unisex</a>, albastră, din denim rigid de bumbac 100%, care își păstrează forma. E neizolată și fără căptușeală, pentru zilele blânde de tranziție.</p><p>Croiala e lejeră, oversize, deci încape un hanorac dedesubt. Mânecile și tivul au bordură, care strânge la încheieturi și jos, iar gulerul ridicat apără gâtul.</p><p>Spre deosebire de o geacă de blugi clasică, aceasta are:</p><ul><li><strong>Închidere</strong>: fermoar.</li><li><strong>Buzunare</strong>: două, laterale.</li><li><strong>Glugă</strong>: nu are.</li></ul><p>Mărimile 104-128 sunt pentru copii de aproximativ 4-8 ani.</p>",
  "surse": [
   {
-   "fapt": "cod",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
-   "fragment": "KD5801"
-  },
-  {
-   "fapt": "tip",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
-   "fragment": "Geacă de blugi pentru copii"
-  },
-  {
-   "fapt": "culoare",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
-   "fragment": "albastru"
-  },
-  {
-   "fapt": "material",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
-   "fragment": "100% Bumbac"
+   "fapt": "model",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "adidas Originals Geacă de blugi pentru copii KD5801"
   },
   {
    "fapt": "denim",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
-   "fragment": "Material: jeans"
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "Model neizolat confecționat dindenim"
   },
   {
-   "fapt": "croială",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
-   "fragment": "Tăiere lejeră"
+   "fapt": "rigid",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "Modelul este realizat dintr-un material rigid, care păstrează forma"
   },
   {
-   "fapt": "neizolat, necăptușit",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fapt": "material",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "100% Bumbac"
+  },
+  {
+   "fapt": "necăptușit",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
    "fragment": "Model neizolat fara captuseala"
   },
   {
-   "fapt": "fermoar",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
-   "fragment": "Închiderea convenabilă cu fermoar îl face ușor de pus și scos"
+   "fapt": "tranziție",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "Izolare: tranzitional"
   },
   {
-   "fapt": "guler",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
-   "fragment": "Gulerul ridicat"
+   "fapt": "croială",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "Tăiere lejeră, fără blocare"
   },
   {
-   "fapt": "bătături",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "fapt": "oversize",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "Fit: oversize"
+  },
+  {
+   "fapt": "bordură",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
    "fragment": "Mânecile și marginea inferioară sunt finisate cu bătături"
   },
   {
+   "fapt": "guler",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "Gulerul ridicat oferă protecție suplimentară împotriva frigului"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "Închiderea convenabilă cu fermoar"
+  },
+  {
    "fapt": "buzunare",
-   "url": "answear.ro/p/…adidas-originals-geaca-de-blugi…",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
    "fragment": "Două buzunare laterale"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/adidas-originals-geaca-de-blugi-pentru-copii-kd5801-1709463",
+   "fragment": "albastru"
   }
  ],
  "specificatii_tehnice": {
   "Model": "adidas Originals KD5801",
-  "Material": "denim, 100% bumbac",
-  "Caracteristici": "croială lejeră, fără izolație și căptușeală, fermoar, guler ridicat, două buzunare laterale",
+  "Material": "100% bumbac (denim)",
+  "Caracteristici": "oversize, neizolată, fermoar, guler ridicat",
   "Cod produs": "KD5801"
  },
  "categorie_complementara": null,
