@@ -1,0 +1,84 @@
+{
+ "id": 14805,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca matlasată <a href=\"/brand/head/\">Head</a> NISSA vișinie este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> ușoară, cu umplutură călduroasă, bună pentru oraș, școală și plimbări pe vreme rece. Gluga e fixă și se reglează cu un șnur elastic.</p><p>Fermoarul are protecție în zona bărbiei, iar înăuntru e o etichetă pentru nume. Magazinul o prezintă ca geacă pentru fete, cu un design elegant.</p><p>Detaliile de bază:</p><ul><li><strong>Buzunare</strong>: două, cu fermoar.</li><li><strong>Material</strong>: 75% nailon, 25% elastan.</li><li><strong>Căptușeală</strong>: 100% poliester.</li></ul><p>Mărimile 116-122 până la 164-170 sunt pentru copii de aproximativ 6-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "Head NISSA"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "Vișiniu (vișiniu / roz)"
+  },
+  {
+   "fapt": "ușoară",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "în același timp, foarte ușoară"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "umplutură călduroasă"
+  },
+  {
+   "fapt": "oraș",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "Este potrivită pentru purtare în oraș, la școală, dar și pentru plimbări pe vreme rece"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "glugă fixă, reglabilă cu ajutorul șnurului elastic"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "fermoar cu protecție în zona bărbiei"
+  },
+  {
+   "fapt": "etichetă",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "etichetă interioară pentru nume"
+  },
+  {
+   "fapt": "fete",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "Geaca matlasată pentru fete Head NISSA"
+  },
+  {
+   "fapt": "design",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "Beneficiază de un design elegant"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "2 buzunare cu fermoar"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "75 % nailon, 25 % elastan"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "www.sportisimo.ro/head/nissa/643933/",
+   "fragment": "100 % poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Head NISSA",
+  "Material": "75% nailon, 25% elastan",
+  "Caracteristici": "matlasată, glugă reglabilă, protecție la bărbie",
+  "Cod produs": "130278"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul o descrie ca geacă pentru fete; pe site e unisex."
+ ]
+}

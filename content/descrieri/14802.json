@@ -1,0 +1,84 @@
+{
+ "id": 14802,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de schi fond <a href=\"/brand/swix/\">Swix</a> CROSS somon este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> din softshell stretch, gândită pentru antrenamentele de zi cu zi ale copiilor și juniorilor care schiază repede. E respirabilă, iar în față are membrană rezistentă la vânt.</p><p>Spatele și laturile sunt din material elastic fără membrană. Izolația termică e ușoară, iar elementele reflectorizante ajută la vizibilitate.</p><p>Detaliile de bază:</p><ul><li><strong>Buzunare</strong>: două în față, cu fermoar.</li><li><strong>Material</strong>: 100% poliester; 85% poliester, 15% spandex.</li><li><strong>Culoare</strong>: somon cu albastru închis.</li></ul><p>Mărimile 128-164 sunt pentru copii de cam 8-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "Swix CROSS"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "Somon (somon / albastru închis)"
+  },
+  {
+   "fapt": "schi fond",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "Geacă de schi fond copii"
+  },
+  {
+   "fapt": "juniori",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "pentru copiii și juniorii, care apreciază viteza"
+  },
+  {
+   "fapt": "antrenament",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "Este ideală pentru antrenamentele intense de zi cu zi"
+  },
+  {
+   "fapt": "softshell",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "țesătura principală din softshell stretch"
+  },
+  {
+   "fapt": "membrană",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "este respirabilă, iar în față are membrană rezistentă la vânt"
+  },
+  {
+   "fapt": "spate",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "spatele și părțile laterale sunt din material elastic fără membrană"
+  },
+  {
+   "fapt": "izolație",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "Izolația termică cu greutatea redusă"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "elemente reflectorizante"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "2 în față cu fermoar"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "100 % poliester"
+  },
+  {
+   "fapt": "spandex",
+   "url": "www.sportisimo.ro/swix/cross/767795/",
+   "fragment": "85 % poliester, 15 % spandex"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Swix CROSS",
+  "Material": "softshell stretch, poliester și spandex",
+  "Caracteristici": "membrană în față, schi fond, reflectorizante",
+  "Cod produs": "142180"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Specificațiile spun „2 în față cu fermoar”, iar lista de caracteristici „două buzunare laterale”; am folosit specificațiile."
+ ]
+}

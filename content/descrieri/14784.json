@@ -1,84 +1,81 @@
 {
  "id": 14784,
- "versiune": "v6",
- "descriere_html": "<p><a href=\"/brand/loap/\">LOAP</a> Cuwielo este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de schi unisex</a> portocalie, cu glugă, gândită pentru pârtie și pentru iernile cu zăpadă udă. Membrana AQUA PRO și materialul exterior STORMEX o fac rezistentă la zăpadă, ploaie și vânt, iar umplutura POLYTHERM ține de cald pe frig.</p><p>Pe pârtie, zăpada intră de obicei pe la încheieturi, pe la cusături și pe la spate, iar acolo geaca are protecții separate:</p><ul><li><strong>Cusături</strong>: cele critice sunt lipite, iar materialul are o coloană de apă de 3000 mm.</li><li><strong>Mâneci</strong>: se strâng cu arici și au manșete elastice cu orificiu pentru deget.</li><li><strong>Spate</strong>: croiala e mulată, cu partea din spate ușor alungită, care rămâne acoperită când copilul se apleacă.</li><li><strong>Fermoar</strong>: principal, cu capac care protejează bărbia de fermoarul rece.</li><li><strong>Buzunare</strong>: două laterale cu fermoar și unul pe antebrațul stâng.</li></ul><p>Capul și mâinile se echipează separat, cu <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciuli și mănuși unisex</a>. Geaca vine în mărimi duble, de la 112-116 până la 158-164, adică orientativ pentru copii între 5 și 14 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de schi <a href=\"/brand/loap/\">LOAP</a> CUWIELO portocalie este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> cu glugă, membrană AQUA PRO, coloană de apă de 3000 mm și cusături critice lipite. Exteriorul STORMEX rezistă la zăpadă, ploaie și vânt, iar umplutura POLYTHERM din fibre tubulare ține de cald.</p><p>Croiala e mulată, cu spatele ușor alungit. Mânecile se ajustează cu velcro și au manșete elastice cu orificiu pentru deget, iar fermoarul principal are capac la bărbie.</p><p>Detaliile de bază:</p><ul><li><strong>Buzunare</strong>: trei, două laterale cu fermoar și unul pe antebrațul stâng.</li><li><strong>Căptușeală</strong>: tafta 100% poliester.</li><li><strong>Respirabilitate</strong>: 3000 g/m2/24h.</li></ul><p>Mărimile 112-116 până la 158-164 sunt pentru copii de cam 5-14 ani.</p>",
  "surse": [
   {
-   "fapt": "geacă de schi cu glugă",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
-   "fragment": "Geaca de schi cu glugă pentru copii Loap CUWIELO"
+   "fapt": "model",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "LOAP CUWIELO"
   },
   {
    "fapt": "culoare",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
    "fragment": "Portocaliu (portocaliu / albastru / argintiu)"
   },
   {
-   "fapt": "AQUA PRO",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
-   "fragment": "membrană AQUA PRO impermeabilă"
+   "fapt": "coloană",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "are o coloană de apă de 3000 mm"
   },
   {
-   "fapt": "umplutură",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
-   "fragment": "umplutura călduroasă"
-  },
-  {
-   "fapt": "coloană de apă",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
-   "fragment": "coloană de apă de 3000 mm"
-  },
-  {
-   "fapt": "cusături",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "fapt": "lipite",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
    "fragment": "cusături critice lipite"
   },
   {
+   "fapt": "AQUA PRO",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "membrană AQUA PRO impermeabilă"
+  },
+  {
    "fapt": "STORMEX",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
    "fragment": "Materialul exterior STORMEX este rezistent împotriva zăpezii, a ploii și a vântului"
   },
   {
    "fapt": "POLYTHERM",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
-   "fragment": "fibre tubulare POLYTHERM"
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "umplutura călduroasă este realizată din fibre tubulare POLYTHERM"
   },
   {
-   "fapt": "tafta",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
-   "fragment": "tafta 100% poliester"
+   "fapt": "mulată",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "Dispune de croială mulată, cu partea din spate ușor alungită"
   },
   {
    "fapt": "mâneci",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
    "fragment": "Mânecile se ajustează cu bandă velcro și au manșete elastice cu orificiu pentru deget"
   },
   {
-   "fapt": "croială",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
-   "fragment": "croială mulată, cu partea din spate ușor alungită"
+   "fapt": "fermoar",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "Fermoarul principal cu capac practic protejează bărbia"
   },
   {
    "fapt": "buzunare",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
    "fragment": "două buzunare laterale cu fermoar și un buzunar pe antebrațul stâng"
   },
   {
-   "fapt": "capac fermoar",
-   "url": "sportisimo.ro/loap/cuwielo/783681/",
-   "fragment": "Fermoarul principal cu capac practic protejează bărbia de fermoarul rece"
+   "fapt": "tafta",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "tafta 100% poliester"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "www.sportisimo.ro/loap/cuwielo/783681/",
+   "fragment": "3000 g/m2/24h"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "LOAP Cuwielo",
-  "Material": "exterior STORMEX (100% poliester), căptușeală tafta, umplutură POLYTHERM",
-  "Caracteristici": "membrană AQUA PRO, coloană de apă 3000 mm, cusături lipite, mâneci cu arici, 3 buzunare",
+  "Model": "LOAP CUWIELO",
+  "Material": "100% poliester (Stormex)",
+  "Caracteristici": "membrană Aqua Pro, umplutură Polytherm, orificiu pentru deget",
   "Cod produs": "143648"
  },
- "categorie_complementara": {
-  "slug": "/categorie/unisex-accesorii-caciuli-manusi-accesorii/",
-  "motiv": "geacă de schi: se poartă cu căciulă și mănuși"
- },
+ "categorie_complementara": null,
  "varsta_orientativa": "5-14 ani",
  "date_insuficiente": false,
  "confidence_notes": []

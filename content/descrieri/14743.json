@@ -1,0 +1,84 @@
+{
+ "id": 14743,
+ "versiune": "v7",
+ "descriere_html": "<p>Mănușile <a href=\"/brand/reima/\">Reima</a> VANUKKO negre sunt <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">mănuși unisex</a> de iarnă care țin mâinile calde: materialul e respirabil, rezistent la vânt, impermeabil și rezistent la murdărie, iar inserția Hipora adaugă încă un strat de protecție.</p><p>Pe dos au izolație dublă cu PrimaLoft, înăuntru o căptușeală moale din fleece, iar la încheietură o curea care se reglează ușor.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester reciclat, laminare TPU reciclată.</li><li><strong>Coloană de apă</strong>: 10.000 mm.</li><li><strong>Respirabilitate</strong>: 7.000 g/m²/24 h.</li><li><strong>Greutate</strong>: 150 g.</li></ul><p>Mărimile 5Y-8Y se potrivesc orientativ copiilor de 5-8 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "REIMA VANUKKO"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "Negru (negru / argintiu)"
+  },
+  {
+   "fapt": "calde",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "vor menține mâinile calde"
+  },
+  {
+   "fapt": "respirabil",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "Materialul respirabil și rezistent la vânt este impermeabil și rezistent la murdărie"
+  },
+  {
+   "fapt": "Hipora",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "inserția impermeabilă Hipora adaugă un strat suplimentar de protecție"
+  },
+  {
+   "fapt": "dublă",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "izolație dublă în partea superioară de pe exterior"
+  },
+  {
+   "fapt": "PrimaLoft",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "izolație PrimaLoft® de înaltă calitate"
+  },
+  {
+   "fapt": "fleece",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "căptușeală moale, călduroasă din fleece"
+  },
+  {
+   "fapt": "curea",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "curea pentru reglare ușoară pe încheietura mâinii"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "100% poliester reciclat, laminare TPU reciclată"
+  },
+  {
+   "fapt": "coloană",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "10.000 mm"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "7.000 g/m²/24 h"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/vanukko/1291554/",
+   "fragment": "150 g"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima VANUKKO",
+  "Material": "100% poliester reciclat",
+  "Caracteristici": "Hipora, PrimaLoft, curea la încheietură",
+  "Cod produs": "199965"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "5-8 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Vârsta calculată automat era nefolositoare (1-1 ani); am trecut 5-8 ani după mărimile 5Y-8Y."
+ ]
+}
