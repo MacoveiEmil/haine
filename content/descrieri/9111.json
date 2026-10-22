@@ -1,0 +1,72 @@
+{
+ "id": 9111,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T3A9-33988 sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași cu platformă unisex</a>, gri, din piele întoarsă și piele ecologică, cu profil scurt. Sunt ușori și făcuți pentru purtat zilnic.</p><p>Șireturile sunt plate, ca să nu apese pe partea de sus a piciorului, iar contorul de călcâi rigid ține piciorul în pantof; vârful e rotund și întărit.</p><p>Pe dinăuntru și pe dedesubt:</p><ul><li><strong>Platformă</strong>: talpă înălțată, din cauciuc.</li><li><strong>Interior</strong>: textil.</li><li><strong>Material</strong>: piele întoarsă și piele ecologică.</li></ul><p>Numerele 35-40 sunt pentru copii mari, de obicei de la 10 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "T3A9-33988"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "culoarea gri"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "combinația pielii intoarse cu pielea ecologică"
+  },
+  {
+   "fapt": "zilnic",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "ideal pentru purtarea zilnică"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "Înălțime: mic de statură"
+  },
+  {
+   "fapt": "platformă",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "Pantof cu platforma"
+  },
+  {
+   "fapt": "șireturi",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "Sireturile plate elimina punctele de presiune de pe arcada piciorului"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "Contorul de călcâi rigid"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "Interiorul textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-gri-t3a9-33988-1605849",
+   "fragment": "Talpa exterioară din cauciuc"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger T3A9-33988",
+  "Material": "piele întoarsă și piele ecologică, interior textil, talpă din cauciuc",
+  "Caracteristici": "platformă, șireturi plate, călcâi rigid",
+  "Cod produs": "T3A9-33988"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 10 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
