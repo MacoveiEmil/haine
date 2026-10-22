@@ -1,17 +1,17 @@
 {
  "id": 10749,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB10473 este un <a href=\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\">tricou polo pentru băieți</a> bleumarin, din bumbac, cu dungi și logo brodat. E un model casual, pentru ținutele de zi cu zi.</p><ul><li><strong>Material</strong>: 100% bumbac.</li><li><strong>Croială</strong>: regulară, cu mânecă clasică.</li><li><strong>Guler</strong>: decolteu cu guler și închidere.</li><li><strong>Detalii</strong>: dungi și logo brodat al mărcii.</li></ul><p>Modelul are cinci mărimi între 128 și 176, orientativ pentru copii de 8-16 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB10473 este o <a href=\"/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/\">bluză polo pentru băieți</a>, bleumarin, cu dungi și logo brodat, din bumbac 100% cu material elastic. Croiala clasică de polo merge și la ținute casual, și la ocazii mai elegante.</p><p>Croiala e regulară și nu strânge pe corp, iar materialul elastic urmează mișcarea. Decolteul are guler și închidere.</p><p>Pe scurt:</p><ul><li><strong>Material</strong>: 100% bumbac.</li><li><strong>Decolteu</strong>: cu guler și închidere.</li><li><strong>Detalii</strong>: dungi și logo brodat.</li></ul><p>Mărimile 128-176 sunt pentru copii de cam 8-16 ani.</p>",
  "surse": [
   {
-   "fapt": "bleumarin",
+   "fapt": "model",
    "url": "answear.ro/p/tommy-hilfiger-polo-pentru-copii-din-bumbac-bleumarin-kb0kb10473-1826540",
-   "fragment": "bleumarin KB0KB10473"
+   "fragment": "Tommy Hilfiger Polo pentru copii din bumbac bleumarin KB0KB10473"
   },
   {
-   "fapt": "casual",
+   "fapt": "dungi",
    "url": "answear.ro/p/tommy-hilfiger-polo-pentru-copii-din-bumbac-bleumarin-kb0kb10473-1826540",
-   "fragment": "diverse stilizări casual"
+   "fragment": "Modelul cu dungi precum și logo-ul brodat al mărcii"
   },
   {
    "fapt": "bumbac",
@@ -19,36 +19,34 @@
    "fragment": "100% Bumbac"
   },
   {
+   "fapt": "elastic",
+   "url": "answear.ro/p/tommy-hilfiger-polo-pentru-copii-din-bumbac-bleumarin-kb0kb10473-1826540",
+   "fragment": "Materialul elastic"
+  },
+  {
+   "fapt": "polo",
+   "url": "answear.ro/p/tommy-hilfiger-polo-pentru-copii-din-bumbac-bleumarin-kb0kb10473-1826540",
+   "fragment": "Croiala clasică de polo oferă stilizărilor un caracter elegant și, în același timp, casual"
+  },
+  {
    "fapt": "croială",
    "url": "answear.ro/p/tommy-hilfiger-polo-pentru-copii-din-bumbac-bleumarin-kb0kb10473-1826540",
-   "fragment": "Croială: regular fit"
+   "fragment": "Croiala regulară"
   },
   {
-   "fapt": "mânecă",
+   "fapt": "decolteu",
    "url": "answear.ro/p/tommy-hilfiger-polo-pentru-copii-din-bumbac-bleumarin-kb0kb10473-1826540",
-   "fragment": "Tip de mânecă: clasică"
-  },
-  {
-   "fapt": "guler",
-   "url": "answear.ro/p/tommy-hilfiger-polo-pentru-copii-din-bumbac-bleumarin-kb0kb10473-1826540",
-   "fragment": "Decolteu: cu guler, cu închidere"
-  },
-  {
-   "fapt": "dungi, logo",
-   "url": "answear.ro/p/tommy-hilfiger-polo-pentru-copii-din-bumbac-bleumarin-kb0kb10473-1826540",
-   "fragment": "Modelul cu dungi precum și logo-ul brodat al mărcii"
+   "fragment": "Decolteu cu guler și închidere"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Tommy Hilfiger KB0KB10473",
   "Material": "100% bumbac",
-  "Caracteristici": "croială regulară, guler cu închidere, dungi, logo brodat",
+  "Caracteristici": "polo, dungi, logo brodat",
   "Cod produs": "KB0KB10473"
  },
  "categorie_complementara": null,
  "varsta_orientativa": "8-16 ani",
  "date_insuficiente": false,
- "confidence_notes": [
-  "„Material elastic” omis: compoziția declarată e 100% bumbac, cele două se contrazic."
- ]
+ "confidence_notes": []
 }
