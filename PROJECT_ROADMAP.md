@@ -74,7 +74,7 @@ cd tools/crawler && npm install
 - Link public de test (Cloudflare quick tunnel, fără cont):
   `docker compose --profile share up -d tunnel` apoi `docker compose logs tunnel` → adresa
   `https://….trycloudflare.com` (se schimbă la fiecare repornire a tunelului). Pe adresa
-  publică site-ul are `noindex`, iar wp-admin se deschide doar cu `/?acces=<HAINUTE_ADMIN_KEY>`.
+  publică site-ul are `noindex`.
 - Resetare completă a DB la snapshot: `docker compose down -v && docker compose up -d`
   (șterge tot ce s-a schimbat local în DB).
 - Fișierele temei și pluginului sunt montate direct din repo: editezi, dai refresh.
@@ -97,8 +97,10 @@ Comanda e în CLAUDE.md, secțiunea „Snapshot DB". Exportul trebuie sanitizat 
   `docker/secrets.env`; înapoi la pre-lansare: `"1"` + push). **Pre-lansarea** (logica în `docker/gate.php`): fără cookie de acces,
   orice pagină dă „Site în pregătire” (401), `robots.txt` blochează tot, noindex peste tot.
   Acces o dată: `https://beestyle.ro/?acces=HAINUTE_PRELAUNCH_KEY` (cookie 30 zile);
-  wp-admin: apoi `https://beestyle.ro/?admin=HAINUTE_ADMIN_KEY`. Cheile le vede proprietarul cu
-  `ssh … root@89.37.212.245 "grep -E 'PRELAUNCH_KEY|ADMIN_KEY' /opt/beestyle/docker/secrets.env"`.
+  Cheia o vede proprietarul cu `ssh … root@89.37.212.245 "grep PRELAUNCH_KEY /opt/beestyle/docker/secrets.env"`.
+- **wp-admin** (din 22.10.2026, fără cheie): direct pe `https://beestyle.ro/wp-admin/`, user `emil`.
+  Împotriva ghicirii parolei: 5 încercări greșite de pe un IP în 15 minute blochează IP-ul 15 minute,
+  iar mesajul de eroare nu spune dacă utilizatorul există (`hainute-core/includes/login-guard.php`).
 - Parola de admin WordPress (o setează proprietarul):
   `ssh … root@89.37.212.245` apoi `cd /opt/beestyle && COMPOSE_FILE=docker-compose.prod.yml bash docker/set-admin-password.sh`.
 - Verificarea stocului: serviciul `beestyle-worker` (Node + Chrome, utilizator `crawler`,

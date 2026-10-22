@@ -62,7 +62,7 @@ function hainute_is_bot_request() {
  * Folosit doar ca un refresh să nu fie numărat drept altă persoană.
  */
 function hainute_visitor_hash() {
-	$ip = isset( $_SERVER['HTTP_CF_CONNECTING_IP'] ) ? (string) $_SERVER['HTTP_CF_CONNECTING_IP'] : (string) ( $_SERVER['REMOTE_ADDR'] ?? '' );
+	$ip = hainute_client_ip(); // IP-ul real, nu al lui Caddy (login-guard.php)
 	$ua = (string) ( $_SERVER['HTTP_USER_AGENT'] ?? '' );
 	return substr( hash_hmac( 'sha256', $ip . '|' . $ua, wp_salt( 'nonce' ) . gmdate( 'Y-m-d' ) ), 0, 12 );
 }

@@ -11,7 +11,7 @@
  *    răspuns are „X-Robots-Tag: noindex, nofollow". Acces o dată prin
  *    /?acces=HAINUTE_PRELAUNCH_KEY (cookie 30 de zile). La lansare:
  *    HAINUTE_PRELAUNCH=0 în docker/secrets.env + repornire.
- * 3. wp-admin pe adresa publică: doar cu HAINUTE_ADMIN_KEY (/?admin=CHEIA).
+ * 3. wp-admin pe adresa publică: direct, fără cheie (limită de încercări la login în plugin).
  */
 
 $hn_host  = $_SERVER['HTTP_X_FORWARDED_HOST'] ?? ( $_SERVER['HTTP_HOST'] ?? 'localhost:8090' );
@@ -61,20 +61,10 @@ if ( HAINUTE_PRELAUNCH && ! $hn_local ) {
 }
 
 // --- 3. wp-admin pe adresa publică ----------------------------------------
-$hn_admin = (string) getenv( 'HAINUTE_ADMIN_KEY' );
-if ( '' !== $hn_admin && isset( $_GET['admin'] ) && hash_equals( $hn_admin, (string) $_GET['admin'] ) ) {
-	setcookie( 'hnt_adm', hash( 'sha256', $hn_admin ), time() + 43200, '/', '', $hn_secure, true );
+// Fără cheie din 22.10.2026 (decizia proprietarului): login-ul WordPress e direct pe
+// /wp-admin/. Împotriva ghicirii parolei: limita de încercări din
+// hainute-core/includes/login-guard.php. Linkul vechi /?admin=... duce doar la wp-admin.
+if ( isset( $_GET['admin'] ) && '' !== (string) getenv( 'HAINUTE_ADMIN_KEY' ) && hash_equals( (string) getenv( 'HAINUTE_ADMIN_KEY' ), (string) $_GET['admin'] ) ) {
 	header( 'Location: /wp-admin/', true, 302 );
 	exit;
-}
-// Compatibil cu linkul vechi de test (/?acces=CHEIA_ADMIN) când nu e pre-lansare.
-if ( ! HAINUTE_PRELAUNCH && '' !== $hn_admin && isset( $_GET['acces'] ) && hash_equals( $hn_admin, (string) $_GET['acces'] ) ) {
-	setcookie( 'hnt_adm', hash( 'sha256', $hn_admin ), time() + 43200, '/', '', $hn_secure, true );
-	header( 'Location: /wp-admin/', true, 302 );
-	exit;
-}
-$hn_adm_ok = '' !== $hn_admin && isset( $_COOKIE['hnt_adm'] ) && hash_equals( hash( 'sha256', $hn_admin ), (string) $_COOKIE['hnt_adm'] );
-if ( ! $hn_adm_ok && ! $hn_local && preg_match( '#^/(wp-admin|wp-login\.php)#', $_SERVER['REQUEST_URI'] ?? '' ) ) {
-	http_response_code( 403 );
-	exit( 'Acces restricționat.' );
 }
