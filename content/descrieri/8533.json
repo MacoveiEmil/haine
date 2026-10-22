@@ -1,0 +1,69 @@
+{
+ "id": 8533,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/biomecanics/\">Biomecanics</a> 262166 sunt <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidași pentru bebeluși</a>, albi pe site, din piele naturală și piele ecologică, cu profil scurt. Au fost creați împreună cu medici pediatri și ingineri de la Institutul de Biomecanică din Valencia.</p><p>Deschiderea e largă, iar curelele cu arici se reglează pe piciorul copilului, inclusiv pe unul mai plinuț. Cutia degetelor e lată și lasă loc degetelor.</p><p>Pentru primii ani de mers, contează și:</p><ul><li><strong>Inserție</strong>: Plantilla, cu perforații.</li><li><strong>Vârf</strong>: rotund, întărit.</li><li><strong>Călcâi</strong>: contor rigidizat.</li></ul><p>Numerele de pe site, 19-26, se potrivesc cam copiilor de 1-4 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-262166-1725867",
+   "fragment": "262166"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-262166-1725867",
+   "fragment": "combinația pielii naturale cu cea ecologică"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-262166-1725867",
+   "fragment": "Înălțime: mic de statură"
+  },
+  {
+   "fapt": "Valencia",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-262166-1725867",
+   "fragment": "medici pediatri si ingineri de la Institutul de Biomecanica din Valencia"
+  },
+  {
+   "fapt": "deschidere",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-262166-1725867",
+   "fragment": "Deschidere larga"
+  },
+  {
+   "fapt": "curele",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-262166-1725867",
+   "fragment": "Curelele cu velcro pentru prindere ușoară"
+  },
+  {
+   "fapt": "cutie lată",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-262166-1725867",
+   "fragment": "Cutia lată a degetelor"
+  },
+  {
+   "fapt": "inserție",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-262166-1725867",
+   "fragment": "Inserția Plantilla cu perforații"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-262166-1725867",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-262166-1725867",
+   "fragment": "Contorul de călcâi rigidizat"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Biomecanics 262166",
+  "Material": "piele naturală și piele ecologică, interior textil",
+  "Caracteristici": "curele cu arici, deschidere largă, cutie lată a degetelor, inserție Plantilla",
+  "Cod produs": "262166"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site spune alb; pagina magazinului din link dă culoarea albastru."
+ ]
+}
