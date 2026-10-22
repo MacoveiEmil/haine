@@ -1,5 +1,8 @@
 # Raport publicare
 
+## 2026-10-22 09:52 (3fc26b9, Macovei Emil)
+- cod/configurație actualizate: wp-content/plugins/hainute-core/includes/analytics.php 
+
 ## 2026-10-22 09:43 (70b88df, Macovei Emil)
 - PUBLICAT, verificare OK: 10134 119 cuv | OK
 - PUBLICAT, verificare OK: 11867 129 cuv | OK
