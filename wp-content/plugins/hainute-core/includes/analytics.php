@@ -123,17 +123,25 @@ function hainute_analytics_enqueue() {
 		return;
 	}
 	$pid = ( is_singular( 'product' ) ) ? get_queried_object_id() : 0;
+	// Google Analytics 4: doar pe site-ul live (nu în pre-lansare) și doar după „Accept”.
+	$ga = defined( 'HAINUTE_GA_ID' ) ? (string) HAINUTE_GA_ID : 'G-7LR8THNFJ4';
+	if ( ( function_exists( 'hainute_is_test_host' ) && hainute_is_test_host() ) || ! preg_match( '/^G-[A-Z0-9]+$/', $ga ) ) {
+		$ga = '';
+	}
 	$js  = "(function(){
 		/* Cookie-urile de statistică (hnt_sid, hnt_src) DOAR cu acordul vizitatorului
 		   (Legea 506/2004). Fără acord: evenimente anonime, fără nimic stocat în browser. */
 		function ok(){return /(?:^|; )hnt_consent=1/.test(document.cookie);}
+		var GA='".$ga."';
+		function ga(){if(!GA||!ok()||window.hntGa)return;window.hntGa=1;var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+GA;document.head.appendChild(s);window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag('js',new Date());gtag('config',GA);}
+		ga();
 		function sid(){if(!ok())return '';var m=document.cookie.match(/hnt_sid=([^;]+)/);if(m)return m[1];var s=Math.random().toString(36).slice(2)+Date.now().toString(36);document.cookie='hnt_sid='+s+';path=/;max-age='+(60*60*24*30)+';SameSite=Lax';return s;}
 		function firstSrc(ref,utm){var v=utm||ref||'';if(!ok())return v;var m=document.cookie.match(/hnt_src=([^;]+)/);if(m)return decodeURIComponent(m[1]);document.cookie='hnt_src='+encodeURIComponent(v)+';path=/;max-age='+(60*60*24*30)+';SameSite=Lax';return v;}
 		function banner(){
 			var old=document.getElementById('hnt-cookies');if(old)old.remove();
 			var b=document.createElement('div');b.id='hnt-cookies';b.className='cookie-banner';b.setAttribute('role','dialog');b.setAttribute('aria-label','Cookie-uri');
-			b.innerHTML='<p>Folosim cookie-uri proprii de statistică (fără Google sau Facebook), ca să vedem ce pagini sunt utile. Le punem doar dacă ești de acord. <a href=\"".esc_url( home_url( '/politica-cookies/' ) )."\">Politica de cookie-uri</a></p><div class=\"cookie-actions\"><button type=\"button\" data-c=\"0\">Refuz</button><button type=\"button\" data-c=\"1\">Accept</button></div>';
-			b.addEventListener('click',function(e){var x=e.target.closest('[data-c]');if(!x)return;var c=x.getAttribute('data-c');document.cookie='hnt_consent='+c+';path=/;max-age='+(60*60*24*180)+';SameSite=Lax';if(c!=='1'){document.cookie='hnt_sid=;path=/;max-age=0';document.cookie='hnt_src=;path=/;max-age=0';}b.remove();});
+			b.innerHTML='<p>Folosim cookie-uri de statistică (ale noastre și Google Analytics), ca să vedem ce pagini sunt utile. Le punem doar dacă ești de acord. <a href=\"".esc_url( home_url( '/politica-cookies/' ) )."\">Politica de cookie-uri</a></p><div class=\"cookie-actions\"><button type=\"button\" data-c=\"0\">Refuz</button><button type=\"button\" data-c=\"1\">Accept</button></div>';
+			b.addEventListener('click',function(e){var x=e.target.closest('[data-c]');if(!x)return;var c=x.getAttribute('data-c');document.cookie='hnt_consent='+c+';path=/;max-age='+(60*60*24*180)+';SameSite=Lax';if(c!=='1'){document.cookie='hnt_sid=;path=/;max-age=0';document.cookie='hnt_src=;path=/;max-age=0';}else{ga();}b.remove();});
 			document.body.appendChild(b);
 		}
 		if(!/(?:^|; )hnt_consent=/.test(document.cookie))banner();
@@ -142,7 +150,7 @@ function hainute_analytics_enqueue() {
 		var src=firstSrc(document.referrer,utm);
 		function send(d){d.sid=sid();d.utm=utm;d.referer=document.referrer;d.path=location.pathname;try{navigator.sendBeacon('".esc_url_raw( rest_url( 'hainute/v1/track' ) )."',new Blob([JSON.stringify(d)],{type:'application/json'}));}catch(e){}}
 		send({type:'view',product_id:".$pid."});
-		document.addEventListener('click',function(e){var a=e.target.closest('a.offer-cta');if(!a)return;var row=a.closest('[data-store-row]');var st=row?(row.querySelector('.offer-store')||{}).textContent:'';send({type:'click',product_id:".$pid.",store:(st||'').trim()});},true);
+		document.addEventListener('click',function(e){var a=e.target.closest('a.offer-cta');if(!a)return;var row=a.closest('[data-store-row]');var st=row?(row.querySelector('.offer-store')||{}).textContent:'';send({type:'click',product_id:".$pid.",store:(st||'').trim()});if(window.gtag)gtag('event','click_magazin',{magazin:(st||'').trim(),product_id:".$pid.",transport_type:'beacon'});},true);
 	})();";
 	wp_register_script( 'hainute-analytics', '', array(), HAINUTE_CORE_VERSION, true );
 	wp_enqueue_script( 'hainute-analytics' );
