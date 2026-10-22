@@ -1,0 +1,79 @@
+{
+ "id": 9908,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/lego/\">LEGO</a> LWJERI 702 este o <a href=\"/categorie/bebe-imbracaminte-geci-jachete/\">geacă de iarnă pentru bebeluși</a>, roz, izolată și căptușită, cu confort termic de la -5°C la -20°C. Cusăturile lipite opresc vântul și umezeala, iar impermeabilitatea de 10000 mm o face bună pentru zăpadă și lapoviță.</p><p>Croiala e simplă, dreaptă, deci încape un strat gros dedesubt. Gulerul ridicat și gluga detașabilă apără gâtul și capul de frig.</p><p>Pentru zilele scurte de iarnă, mai are:</p><ul><li><strong>Elemente reflectorizante</strong>: pentru drumurile pe întuneric.</li><li><strong>BIONIC-FINISH® ECO</strong>: finisaj hidrofob, alternativă la DWR.</li><li><strong>Buzunare</strong>: interioare, oblice, cu închidere.</li><li><strong>Respirabilitate</strong>: 6000 g/m2/24h.</li></ul><p>Mărimile 80-104 sunt pentru cei mici de aproximativ 1-4 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "Lego Geacă copii LWJERI 702 culoarea roz, 11010978"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "Model izolat cu captuseala"
+  },
+  {
+   "fapt": "temperatură",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "Oferă confort termic de la -5°C până la -20°C"
+  },
+  {
+   "fapt": "cusături",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "Toate cusăturile sunt lipite"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "împiedică pătrunderea vântului și a umezelii"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "Impermeabilitate: 10000 mm/m2/24h"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "guler, glugă",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "Gulerul ridicat și gluga detașabilă"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "Elementele reflectorizante sporesc vizibilitatea și siguranța după întuneric"
+  },
+  {
+   "fapt": "BIONIC",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "BIONIC-FINISH® ECO - o alternativa ecologica la acoperirea traditionala, hidrofoba DWR"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "Buzunare interioare oblice, incheiate"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "answear.ro/p/lego-geaca-copii-lwjeri-702-culoarea-roz-11010978-1643725",
+   "fragment": "Respirabilitate: 6000 g/m2/24h"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "LEGO LWJERI 702",
+  "Material": "100% poliester",
+  "Caracteristici": "izolată (-5°C până la -20°C), cusături lipite, 10000 mm, glugă detașabilă, reflectorizante",
+  "Cod produs": "11010978"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul precizează că rezistența la apă nu garantează impermeabilitatea completă."
+ ]
+}

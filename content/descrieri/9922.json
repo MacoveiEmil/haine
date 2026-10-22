@@ -1,0 +1,74 @@
+{
+ "id": 9922,
+ "versiune": "v7",
+ "descriere_html": "<p>Ghetele de iarnă <a href=\"/brand/geox/\">Geox</a> LAQUINNY J66M3D sunt <a href=\"/categorie/ghete-cizme/\">ghete înalte pentru fete</a> (negru pe site, albe la magazin), din imitație de piele și material textil, cu branț din piele naturală. Membrana din talpă scoate umezeala și blochează apa, deci talpa rămâne etanșă pe zăpadă.</p><p>Au și șireturi, și fermoar: șiretul se reglează după picior, iar fermoarul ajută la încălțat repede. Vârful rotund lasă degetele să se așeze liber.</p><p>Pentru zilele reci, gheata are:</p><ul><li><strong>Partea de sus</strong>: înaltă, ține frigul departe.</li><li><strong>Călcâi</strong>: întărit.</li><li><strong>Talpă</strong>: plată, din cauciuc, perforată (Original Breathing System).</li></ul><p>Numerele 28-39 se poartă, cu aproximație, de la 4 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "Geox Încălțăminte de iarnă pentru copii LAQUINNY albă J66M3D.05402"
+  },
+  {
+   "fapt": "înalt",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "ghete înalte pentru fete"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "Partea superioară înaltă din imitație de piele și material textil"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "Piele naturală"
+  },
+  {
+   "fapt": "membrană",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "Membrana în talpă ajută la eliminarea umidității, blocând în același timp pătrunderea apei"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "Închiderea cu șireturi și fermoar"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "Vârful rotund permite așezarea liberă a degetelor"
+  },
+  {
+   "fapt": "frig",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "sprijină protecția împotriva frigului"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "Călcâi întărit"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "Talpa plată din cauciuc"
+  },
+  {
+   "fapt": "perforat",
+   "url": "answear.ro/p/geox-incaltaminte-de-iarna-pentru-copii-laquinny-alba-j66m3d-05402-1839110",
+   "fragment": "Sistemul Original Breathing System cu talpă perforată"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox LAQUINNY",
+  "Material": "imitație de piele și textil, branț din piele naturală, talpă din cauciuc",
+  "Caracteristici": "membrană în talpă, șireturi și fermoar",
+  "Cod produs": "J66M3D.05402"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 4 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site spune negru; magazinul arată albă."
+ ]
+}
