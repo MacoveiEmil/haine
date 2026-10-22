@@ -1,63 +1,63 @@
 {
  "id": 12617,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> GISLI sunt <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidași pentru băieți</a> maro, cu profil înalt și guler ușor întărit. Au logo Geox și se închid cu șireturi, plus o bandă cu arici.</p><ul><li><strong>Geox Respira</strong>: membrană microporoasă care ajută la menținerea picioarelor uscate.</li><li><strong>Material</strong>: exterior din imitație de piele și material textil, interior căptușit cu material textil.</li><li><strong>Talpă</strong>: plată, din cauciuc.</li><li><strong>Călcâi</strong>: întărit.</li></ul><p>Mărimile merg de la 20 la 27, orientativ pentru copii de 1-4 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Varianta B461NC a modelului <a href=\"/brand/geox/\">Geox</a> GISLI: <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidași pentru băieți</a> maro, înalți, cu logo Geox, din imitație de piele și material textil, în stil casual. Se strâng cu șiret, iar velcro-ul suplimentar fixează pantoful pe picior.</p><p>Gulerul ușor întărit sprijină glezna, iar membrana microporoasă GEOX Respira ajută la păstrarea piciorului uscat. Călcâiul întărit ține piciorul în poziție corectă la joacă.</p><p>Detaliile de construcție:</p><ul><li><strong>Interior</strong>: căptușit cu material textil.</li><li><strong>Călcâi</strong>: întărit.</li><li><strong>Talpă</strong>: plată, din cauciuc.</li></ul><p>Mărimile 20-27 sunt pentru băieți mici, de aproximativ 1-4 ani.</p>",
  "surse": [
   {
    "fapt": "model",
-   "url": "answear.ro/p/…geox-gisli…",
-   "fragment": "Geox GISLI sneakers pentru copii"
+   "url": "answear.ro/p/geox-gisli-sneakers-pentru-copii-maro-b461nc-0mefu-1839103",
+   "fragment": "Geox GISLI sneakers pentru copii maro B461NC.0MEFU"
   },
   {
-   "fapt": "culoare",
-   "url": "answear.ro/p/…geox-gisli…",
-   "fragment": "maro"
-  },
-  {
-   "fapt": "profil, guler",
-   "url": "answear.ro/p/…geox-gisli…",
-   "fragment": "Profil înalt al părții superioare cu guler ușor întărit"
+   "fapt": "înalt",
+   "url": "answear.ro/p/geox-gisli-sneakers-pentru-copii-maro-b461nc-0mefu-1839103",
+   "fragment": "Profil înalt al părții superioare cu guler ușor întărit sprijină glezna"
   },
   {
    "fapt": "logo",
-   "url": "answear.ro/p/…geox-gisli…",
+   "url": "answear.ro/p/geox-gisli-sneakers-pentru-copii-maro-b461nc-0mefu-1839103",
    "fragment": "Model cu logo Geox"
   },
   {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-gisli-sneakers-pentru-copii-maro-b461nc-0mefu-1839103",
+   "fragment": "Partea superioară din imitație de piele și material textil"
+  },
+  {
+   "fapt": "casual",
+   "url": "answear.ro/p/geox-gisli-sneakers-pentru-copii-maro-b461nc-0mefu-1839103",
+   "fragment": "stilurile casual"
+  },
+  {
    "fapt": "închidere",
-   "url": "answear.ro/p/…geox-gisli…",
+   "url": "answear.ro/p/geox-gisli-sneakers-pentru-copii-maro-b461nc-0mefu-1839103",
    "fragment": "Sistem de închidere cu șireturi și velcro suplimentar"
   },
   {
    "fapt": "Respira",
-   "url": "answear.ro/p/…geox-gisli…",
-   "fragment": "ajută la menținerea picioarelor uscate, datorită membranei microporoase"
-  },
-  {
-   "fapt": "material",
-   "url": "answear.ro/p/…geox-gisli…",
-   "fragment": "Partea superioară din imitație de piele și material textil"
+   "url": "answear.ro/p/geox-gisli-sneakers-pentru-copii-maro-b461nc-0mefu-1839103",
+   "fragment": "Tehnologia GEOX Respira™ ajută la menținerea picioarelor uscate, datorită membranei microporoase"
   },
   {
    "fapt": "interior",
-   "url": "answear.ro/p/…geox-gisli…",
+   "url": "answear.ro/p/geox-gisli-sneakers-pentru-copii-maro-b461nc-0mefu-1839103",
    "fragment": "Interior căptușit cu material textil"
   },
   {
-   "fapt": "talpă",
-   "url": "answear.ro/p/…geox-gisli…",
-   "fragment": "Talpă plată din cauciuc"
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-gisli-sneakers-pentru-copii-maro-b461nc-0mefu-1839103",
+   "fragment": "Călcâi întărit"
   },
   {
-   "fapt": "călcâi",
-   "url": "answear.ro/p/…geox-gisli…",
-   "fragment": "Călcâi întărit"
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-gisli-sneakers-pentru-copii-maro-b461nc-0mefu-1839103",
+   "fragment": "Talpă plată din cauciuc"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Geox GISLI",
-  "Material": "exterior din imitație de piele și material textil, interior textil, talpă din cauciuc",
-  "Caracteristici": "Geox Respira, șireturi și arici, profil înalt, călcâi întărit",
+  "Material": "imitație de piele și textil, interior textil, talpă din cauciuc",
+  "Caracteristici": "Geox Respira, șiret și velcro, profil înalt",
   "Cod produs": "B461NC.0MEFU"
  },
  "categorie_complementara": null,
