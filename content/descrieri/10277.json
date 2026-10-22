@@ -1,0 +1,62 @@
+{
+ "id": 10277,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> ECLYPER B665MB sunt <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidași pentru bebeluși</a> albi, cu profil înalt, din imitație de piele și material textil. Membrana Geox Respira™ scoate umiditatea și protejează împotriva apei, iar culoarea albă merge la multe ținute.</p><p>Șireturile elastice se strâng repede pe picior, iar profilul înalt cuprinde glezna, deci pantoful stă bine pe picior și nu iese când copilul aleargă.</p><p>Înăuntru și dedesubt:</p><ul><li><strong>Branț</strong>: textil.</li><li><strong>Interior</strong>: căptușit cu material textil.</li><li><strong>Talpă</strong>: plată, din cauciuc.</li></ul><p>Numerele 20-23 sunt pentru copii de aproximativ 1-3 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665mb-0bcq6-1827660",
+   "fragment": "Geox ECLYPER sneakers pentru copii albi B665MB.0BCQ6"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665mb-0bcq6-1827660",
+   "fragment": "Profil înalt al părții superioare"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665mb-0bcq6-1827660",
+   "fragment": "Partea superioară din imitație de piele și material textil"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665mb-0bcq6-1827660",
+   "fragment": "Tehnologia GEOX Respira™ cu membrană, care susține eliminarea umidității și protejează împotriva apei"
+  },
+  {
+   "fapt": "alb",
+   "url": "answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665mb-0bcq6-1827660",
+   "fragment": "Culoare albă universală"
+  },
+  {
+   "fapt": "șireturi",
+   "url": "answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665mb-0bcq6-1827660",
+   "fragment": "Șireturi elastice , care facilitează încălțarea rapidă"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665mb-0bcq6-1827660",
+   "fragment": "Branț respirabil din material textil"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665mb-0bcq6-1827660",
+   "fragment": "Interior căptușit cu material textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-eclyper-sneakers-pentru-copii-albi-b665mb-0bcq6-1827660",
+   "fragment": "Talpă plată din cauciuc"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox ECLYPER",
+  "Material": "imitație de piele și textil, interior textil, talpă din cauciuc",
+  "Caracteristici": "profil înalt, șireturi elastice, Geox Respira™",
+  "Cod produs": "B665MB.0BCQ6"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-3 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

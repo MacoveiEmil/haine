@@ -1,0 +1,59 @@
+{
+ "id": 10275,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Tahti 5200048A este un <a href=\"/categorie/bebe-imbracaminte-bluze-tricouri-hanorace/\">romper pentru bebeluși</a>, bleumarin, din tricot neted de poliester reciclat, cu mânecă lungă. Se închide cu fermoar, deci se îmbracă și se dă jos ușor, fără să fie tras peste cap.</p><p>Fasonul e drept, simplu, fără strângeri, deci cel mic se mișcă liber în el.</p><p>Pe scurt, despre romper:</p><ul><li><strong>Închidere</strong>: fermoar.</li><li><strong>Mâneci</strong>: lungi.</li><li><strong>Material</strong>: 100% poliester, reciclat.</li></ul><p>Mărimile 74-98 sunt pentru cei mici de pe la 9 luni până pe la 3 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-rampe-pentru-copii-tahti-831297",
+   "fragment": "Reima bleumarin 5200048A"
+  },
+  {
+   "fapt": "romper",
+   "url": "answear.ro/p/reima-rampe-pentru-copii-tahti-831297",
+   "fragment": "Rampers bebe din colectia Reima"
+  },
+  {
+   "fapt": "tricot",
+   "url": "answear.ro/p/reima-rampe-pentru-copii-tahti-831297",
+   "fragment": "Model confectionat din tricot neted"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/reima-rampe-pentru-copii-tahti-831297",
+   "fragment": "fabricat din poliester reciclat"
+  },
+  {
+   "fapt": "mânecă",
+   "url": "answear.ro/p/reima-rampe-pentru-copii-tahti-831297",
+   "fragment": "Maneca lunga"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/reima-rampe-pentru-copii-tahti-831297",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "fason",
+   "url": "answear.ro/p/reima-rampe-pentru-copii-tahti-831297",
+   "fragment": "Fason drept"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/reima-rampe-pentru-copii-tahti-831297",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Tahti",
+  "Material": "100% poliester reciclat",
+  "Caracteristici": "romper, fermoar, mânecă lungă",
+  "Cod produs": "5200048A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "9 luni - 3 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "E un romper (salopetă), listat la Bluze."
+ ]
+}

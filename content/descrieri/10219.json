@@ -1,0 +1,69 @@
+{
+ "id": 10219,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca din denim <a href=\"/brand/levis/\">Levi&#39;s</a> este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de blugi pentru băieți</a>, albastră, din bumbac 100%, neizolată și necăptușită. E pentru zilele blânde, ca strat subțire peste un tricou sau un hanorac.</p><p>Tiparul e drept, deci geaca cade simplu pe corp și lasă loc unei bluze dedesubt. Nu are glugă.</p><p>Ca orice geacă de blugi clasică, are:</p><ul><li><strong>Închidere</strong>: nasturi.</li><li><strong>Buzunare</strong>: oblice, plus unul pe piept.</li><li><strong>Material</strong>: 100% bumbac.</li></ul><p>Mărimile 140-176 sunt pentru copii de în jur de 10-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/levis-geaca-din-denim-pentru-copii-484387",
+   "fragment": "Levi's Geacă din denim pentru copii"
+  },
+  {
+   "fapt": "denim",
+   "url": "answear.ro/p/levis-geaca-din-denim-pentru-copii-484387",
+   "fragment": "Model neizolat confectionat din denim"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/levis-geaca-din-denim-pentru-copii-484387",
+   "fragment": "100% Bumbac"
+  },
+  {
+   "fapt": "necăptușit",
+   "url": "answear.ro/p/levis-geaca-din-denim-pentru-copii-484387",
+   "fragment": "Captuseala: necaptusit"
+  },
+  {
+   "fapt": "tipar",
+   "url": "answear.ro/p/levis-geaca-din-denim-pentru-copii-484387",
+   "fragment": "Tipar drept"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/levis-geaca-din-denim-pentru-copii-484387",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/levis-geaca-din-denim-pentru-copii-484387",
+   "fragment": "Incheiere cu nasturi"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/levis-geaca-din-denim-pentru-copii-484387",
+   "fragment": "Buzunare oblice"
+  },
+  {
+   "fapt": "buzunar piept",
+   "url": "answear.ro/p/levis-geaca-din-denim-pentru-copii-484387",
+   "fragment": "Buzunar pe piept"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/levis-geaca-din-denim-pentru-copii-484387",
+   "fragment": "albastru"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Levi's (geacă din denim)",
+  "Material": "100% bumbac",
+  "Caracteristici": "neizolată, necăptușită, nasturi, tipar drept",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "10-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "„Ca strat peste un tricou sau un hanorac” e dedus din faptul că e neizolată și necăptușită."
+ ]
+}

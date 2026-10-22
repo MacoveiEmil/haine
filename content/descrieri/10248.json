@@ -1,47 +1,32 @@
 {
  "id": 10248,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/didriksons/\">Didriksons</a> Roxen Kids este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> de iarnă, maro, matlasată, cu izolație sintetică și membrană impermeabilă. E potrivită pentru frig, ploaie și zăpadă, iar elementele reflectorizante o fac vizibilă după lăsarea întunericului.</p><ul><li><strong>Material</strong>: exterior din poliester, căptușeală și umplutură din poliester reciclat.</li><li><strong>Glugă și guler</strong>: glugă detașabilă și guler ridicat, cu protecție pentru bărbie.</li><li><strong>Închidere</strong>: fermoar pe toată lungimea, cu clapă interioară.</li><li><strong>Mâneci</strong>: orificii pentru degetul mare, ca mânecile să nu se ridice.</li><li><strong>Buzunare</strong>: două, laterale.</li></ul><p>Mărimile merg de la 90 la 140, orientativ pentru copii de 2-10 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/didriksons/\">Didriksons</a> ROXEN KIDS JACKET 505811 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de iarnă unisex</a>, maro, matlasată, izolată cu umplutură din poliester reciclat, pentru temperaturile mai reci. Gulerul ridicat, gluga detașabilă și protecția pentru bărbie țin frigul departe.</p><p>Croiala e simplă, dreaptă. Mânecile au găuri pentru degetul mare, care nu lasă mânecile să se ridice și apără mâinile, iar bordura de la mâneci și tiv strânge pe corp.</p><p>Pentru zilele scurte de iarnă:</p><ul><li><strong>Elemente reflectorizante</strong>: copilul se vede pe întuneric.</li><li><strong>Fermoar</strong>: pe toată lungimea, cu clapă împotriva furtunii.</li><li><strong>Buzunare</strong>: două, laterale.</li></ul><p>Mărimile 90-140 sunt pentru copii de în jur de 2-10 ani.</p>",
  "surse": [
   {
-   "fapt": "culoare",
+   "fapt": "model",
    "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "culoarea maro"
+   "fragment": "Didriksons Geacă copii ROXEN KIDS JACKET culoarea maro, 505811"
   },
   {
-   "fapt": "izolat",
-   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "Model izolat"
-  },
-  {
-   "fapt": "matlasat, izolație sintetică",
+   "fapt": "matlasat",
    "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
    "fragment": "Model matlasat cu izolație sintetică"
   },
   {
-   "fapt": "membrană",
-   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "membrană impermeabilă"
-  },
-  {
-   "fapt": "reflectorizant",
-   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "Elementele reflectorizante sporesc vizibilitatea și siguranța după întuneric"
-  },
-  {
-   "fapt": "material",
-   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "Materialul de baza: 100% Poliester"
-  },
-  {
    "fapt": "reciclat",
    "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "Captuseala: 100% Poliester reciclat"
+   "fragment": "Umplutura: 100% Poliester reciclat"
   },
   {
-   "fapt": "umplutură reciclată",
+   "fapt": "reci",
    "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "Umplutura: 100% Poliester reciclat"
+   "fragment": "temperaturi mai reci"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
+   "fragment": "Gulerul ridicat oferă protecție suplimentară împotriva frigului"
   },
   {
    "fapt": "glugă",
@@ -49,24 +34,34 @@
    "fragment": "Gluga detasabila"
   },
   {
-   "fapt": "guler",
-   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "Gulerul ridicat"
-  },
-  {
    "fapt": "bărbie",
    "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "protecție pentru bărbie"
+   "fragment": "Model echipat cu protecție pentru bărbie"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "deget",
+   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
+   "fragment": "Găurile pentru degetul mare din partea de jos a mânecilor protejează mâinile și împiedică mânecile să se sufle"
+  },
+  {
+   "fapt": "bordură",
+   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
+   "fragment": "Mânecile și marginea inferioară sunt finisate cu bătături"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
+   "fragment": "Elementele reflectorizante sporesc vizibilitatea și siguranța după întuneric"
   },
   {
    "fapt": "fermoar",
    "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "Închidere cu fermoar pe toată lungimea cu clapă interioară"
-  },
-  {
-   "fapt": "degetul mare",
-   "url": "answear.ro/p/didriksons-geaca-copii-roxen-kids-jacket-culoarea-maro-505811-1625447",
-   "fragment": "Găurile pentru degetul mare din partea de jos a mânecilor"
+   "fragment": "Închidere cu fermoar pe toată lungimea cu clapă interioară împotriva furtunii"
   },
   {
    "fapt": "buzunare",
@@ -75,16 +70,13 @@
   }
  ],
  "specificatii_tehnice": {
-  "Model": "Didriksons Roxen Kids",
-  "Material": "exterior din poliester, căptușeală și umplutură din poliester reciclat",
-  "Caracteristici": "matlasată, izolație sintetică, membrană impermeabilă, glugă detașabilă, elemente reflectorizante",
+  "Model": "Didriksons ROXEN KIDS JACKET",
+  "Material": "100% poliester, căptușeală și umplutură din poliester reciclat",
+  "Caracteristici": "matlasată, izolată, glugă detașabilă, găuri pentru deget, reflectorizante",
   "Cod produs": "505811"
  },
  "categorie_complementara": null,
  "varsta_orientativa": "2-10 ani",
  "date_insuficiente": false,
- "confidence_notes": [
-  "Membrana impermeabilă apare în caracteristicile paginii; descrierea v4 o omisese.",
-  "Extracția a salvat categoria „imbracaminte-fete”, magazinul are breadcrumb Băieți; pe site e unisex."
- ]
+ "confidence_notes": []
 }
