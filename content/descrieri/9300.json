@@ -1,0 +1,82 @@
+{
+ "id": 9300,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/karl-lagerfeld/\">Karl Lagerfeld</a> Z30607 este o <a href=\"/categorie/geci-jachete/\">geacă de tranziție pentru fete</a>, maro, din poliester neted, cu căptușeală din viscoză, fără izolație și fără glugă. Se poartă primăvara și toamna, ca strat exterior.</p><p>Croiala e simplă, cu guler, iar fermoarul o închide până sus. Magazinul precizează că mărimile sunt italiene, convertite la cele europene, deci merită verificat tabelul de mărimi.</p><p>Pe scurt:</p><ul><li><strong>Buzunare</strong>: oblice.</li><li><strong>Căptușeală</strong>: 100% viscoză.</li><li><strong>Material</strong>: 100% poliester.</li><li><strong>Glugă</strong>: nu are.</li></ul><p>Pe vânt, capul se acoperă cu o piesă din <a href=\"/categorie/caciuli-manusi-accesorii/\">căciulile și accesoriile pentru fete</a>. Mărimile 114-150 sunt pentru copii de pe la 6 până pe la 12 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Geacă copii culoarea maro, Z30607"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Model neizolat"
+  },
+  {
+   "fapt": "neted",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "material neted"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Captuseala: 100% Viscoza"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Model cu guler"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "mărimi italiene",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Dimensiunile disponibile sunt cele ale producatorul italian"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Buzunare oblice"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/karl-lagerfeld-geaca-copii-culoarea-maro-z30607-1607575",
+   "fragment": "Material de bază: 100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Karl Lagerfeld Z30607",
+  "Material": "100% poliester, căptușeală 100% viscoză",
+  "Caracteristici": "de tranziție, căptușită, guler, fermoar, fără glugă",
+  "Cod produs": "Z30607"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/caciuli-manusi-accesorii/",
+  "motiv": "geacă fără glugă"
+ },
+ "varsta_orientativa": "6-12 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Mărimi italiene convertite la europene (după magazin)."
+ ]
+}

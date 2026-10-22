@@ -1,0 +1,79 @@
+{
+ "id": 9317,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/mini-rodini/\">Mini Rodini</a> Planet este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă subțire unisex</a>, din nailon neted, căptușită cu plasă, fără izolație. Pe site apare roz, iar magazinul o dă albastră. E pentru primăvară și toamnă.</p><p>Croiala e oversize, cu umerii coborâți, deci vine largă și lasă loc de straturi dedesubt; mânecile și marginea de jos au bătături, care o strâng la încheieturi și jos.</p><p>Detaliile:</p><ul><li><strong>Guler</strong>: moale.</li><li><strong>Închidere</strong>: fermoar.</li><li><strong>Căptușeală</strong>: plasă.</li><li><strong>Material</strong>: 100% nailon.</li></ul><p>Mărimile duble, de la 80-86 până la 140-146, sunt pentru copii de pe la 1 până pe la 11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "Mini Rodini Geacă copii Planet 26210105"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "Model neizolat"
+  },
+  {
+   "fapt": "neted",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "tesatura neteda"
+  },
+  {
+   "fapt": "nailon",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "100% Nailon"
+  },
+  {
+   "fapt": "plasă",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "Model captusit cu plasa"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "oversize",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "Fit: oversize"
+  },
+  {
+   "fapt": "umeri",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "linie coborâtă a umerilor"
+  },
+  {
+   "fapt": "bătături",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "Mânecile și marginea inferioară sunt finisate cu bătături"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "Model cu guler moale"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "Închiderea convenabilă cu fermoar"
+  },
+  {
+   "fapt": "culoare magazin",
+   "url": "answear.ro/p/mini-rodini-geaca-copii-planet-26210105-1714640",
+   "fragment": "albastru"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Mini Rodini Planet",
+  "Material": "100% nailon, căptușeală plasă",
+  "Caracteristici": "oversize, fără izolație, bătături la mâneci și bază",
+  "Cod produs": "26210105"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site spune roz; magazinul dă albastru."
+ ]
+}
