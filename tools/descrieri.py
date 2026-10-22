@@ -55,7 +55,8 @@ TITLU_GENERIC = {'FETE', 'BĂIEȚI', 'BAIETI', 'UNISEX', 'BEBE', 'JACKET', 'KIDS
 def entitati(p, text):
     """Ce trebuie să apară în text, scos din produse.json: brand, model, culoare, mărimi."""
     low, issues = text.lower(), []
-    if p.get('brand') and p['brand'].lower() not in low:
+    fara_apostrof = lambda s: s.replace("'", '').replace('’', '')
+    if p.get('brand') and fara_apostrof(p['brand'].lower()) not in fara_apostrof(low):
         issues.append('lipsește brandul: ' + p['brand'])
     brand_w = {w.upper() for w in re.split(r'\W+', p.get('brand') or '') if w}
     model = [w for w in re.findall(r'[A-ZĂÂÎȘȚ0-9][A-ZĂÂÎȘȚ0-9-]{2,}', p.get('titlu', ''))

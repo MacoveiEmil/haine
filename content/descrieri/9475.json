@@ -1,0 +1,75 @@
+{
+ "id": 9475,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/donsje/\">Donsje</a> Ceasie Jacket este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă ușor izolată unisex</a>, bleumarin, din material rezistent de poliester, fără glugă, cu izolație sintetică, pentru temperaturile mai scăzute din perioada de tranziție.</p><p>Fermoarul pe toată lungimea are clapă interioară și exterioară, care țin vântul afară, iar mânecile se termină cu bandă elastică. Croiala e simplă.</p><p>Pe scurt:</p><ul><li><strong>Căptușeală</strong>: are, cu izolație ușoară.</li><li><strong>Glugă</strong>: nu are.</li><li><strong>Material</strong>: 100% poliester.</li></ul><p>Pentru vânt, capul se acoperă cu ceva din <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">căciulile și accesoriile unisex</a>. Mărimile 86-140 sunt pentru copii de pe la 1 până pe la 10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "Donsje Geacă copii Ceasie Jacket culoarea bleumarin, 4110400"
+  },
+  {
+   "fapt": "ușor izolat",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "Model usor izolat"
+  },
+  {
+   "fapt": "rezistent",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "material rezistent"
+  },
+  {
+   "fapt": "izolație",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "izolație sintetică"
+  },
+  {
+   "fapt": "temperaturi",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "temperaturi mai scăzute"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "Închidere cu fermoar pe toată lungimea, cu clapă interioară și exterioară"
+  },
+  {
+   "fapt": "elastic",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "Mâneci finisate cu o coadă elastică"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/donsje-geaca-copii-ceasie-jacket-culoarea-bleumarin-4110400-1676447",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Donsje Ceasie Jacket",
+  "Material": "100% poliester",
+  "Caracteristici": "ușor izolată, fermoar cu dublă clapă, fără glugă",
+  "Cod produs": "4110400"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/unisex-accesorii-caciuli-manusi-accesorii/",
+  "motiv": "geacă fără glugă"
+ },
+ "varsta_orientativa": "1-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

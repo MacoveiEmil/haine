@@ -1,0 +1,62 @@
+{
+ "id": 9476,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Kulkuri Low sunt pantofi negri cu membrana ReimaTec, care oprește ploaia și vântul, listați pe site la <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a>. Nu au izolație, deci sunt pentru toamnă și primăvară, pe vreme umedă.</p><p>Se leagă cu șiret clasic, care se reglează exact pe picior, iar inserțiile detașabile Happy Fit ajută la alegerea mărimii. Bucla de la spate ajută la încălțat.</p><p>Pentru seară și pentru teren:</p><ul><li><strong>Elemente reflectorizante</strong>: pentru vizibilitate după lăsarea întunericului.</li><li><strong>Talpă</strong>: exterioară, din cauciuc.</li><li><strong>Material</strong>: sintetic și textil.</li></ul><p>Numerele 28-38 îi fac potriviți pentru copii de la cam 4 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-pantofi-copii-kulkuri-low-culoarea-negru-5400179a-1718320",
+   "fragment": "Reima Pantofi copii Kulkuri Low culoarea negru, 5400179A"
+  },
+  {
+   "fapt": "ReimaTec",
+   "url": "answear.ro/p/reima-pantofi-copii-kulkuri-low-culoarea-negru-5400179a-1718320",
+   "fragment": "ReimaTec oferă protecție împotriva ploii și vântului"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/reima-pantofi-copii-kulkuri-low-culoarea-negru-5400179a-1718320",
+   "fragment": "Izolare: neizolat"
+  },
+  {
+   "fapt": "nu complet",
+   "url": "answear.ro/p/reima-pantofi-copii-kulkuri-low-culoarea-negru-5400179a-1718320",
+   "fragment": "nu garantează impermeabilitatea completă"
+  },
+  {
+   "fapt": "șiret",
+   "url": "answear.ro/p/reima-pantofi-copii-kulkuri-low-culoarea-negru-5400179a-1718320",
+   "fragment": "Șiretul clasic permite ajustarea individuală"
+  },
+  {
+   "fapt": "Happy Fit",
+   "url": "answear.ro/p/reima-pantofi-copii-kulkuri-low-culoarea-negru-5400179a-1718320",
+   "fragment": "Inserțiile detașabile Happy Fit"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/reima-pantofi-copii-kulkuri-low-culoarea-negru-5400179a-1718320",
+   "fragment": "Bucla de la spate"
+  },
+  {
+   "fapt": "reflectorizante",
+   "url": "answear.ro/p/reima-pantofi-copii-kulkuri-low-culoarea-negru-5400179a-1718320",
+   "fragment": "Elementele reflectorizante sporesc vizibilitatea"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/reima-pantofi-copii-kulkuri-low-culoarea-negru-5400179a-1718320",
+   "fragment": "Talpa exterioară din cauciuc"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Kulkuri Low",
+  "Material": "sintetic și textil, talpă din cauciuc",
+  "Caracteristici": "ReimaTec, neizolați, Happy Fit, reflectorizante",
+  "Cod produs": "5400179A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 4 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
