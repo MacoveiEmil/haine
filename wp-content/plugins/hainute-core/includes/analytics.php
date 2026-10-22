@@ -228,3 +228,31 @@ function hainute_analytics_page() {
 	echo '<p style="margin-top:20px;color:#666"><strong>' . esc_html__( 'Comenzile', 'hainute' ) . ':</strong> ' . esc_html__( 'nu se pot urmări pe site-ul nostru (se întâmplă pe site-ul magazinului). Le vezi în dashboard-ul rețelei de afiliere (CJ / 2Performant / Profitshare), corelate cu click-urile de aici.', 'hainute' ) . '</p>';
 	echo '</div>';
 }
+
+/**
+ * Politica de confidențialitate spunea „nu folosim Google Analytics", dar site-ul
+ * folosește GA4 cu Consent Mode v2 (vezi hainute_analytics_enqueue). Corectăm pagina
+ * din DB o singură dată, la prima cerere după publicare.
+ */
+function hainute_privacy_ga_fix() {
+	if ( get_option( 'hainute_privacy_ga_v1' ) || ! add_option( 'hainute_privacy_ga_v1', time(), '', false ) ) {
+		return;
+	}
+	$page = get_page_by_path( 'politica-de-confidentialitate' );
+	if ( ! $page || false !== strpos( $page->post_content, 'Google Analytics 4' ) ) {
+		return;
+	}
+	$c = str_replace(
+		'(maximum 30 de zile pentru cookie-urile de statistică, puse doar cu acordul tău; nu folosim Google Analytics)',
+		'(maximum 30 de zile pentru cookie-urile noastre de statistică, puse doar cu acordul tău; pentru Google Analytics, vezi mai sus)',
+		$page->post_content
+	);
+	$par = '<p><strong>Google Analytics.</strong> Folosim Google Analytics 4 (serviciu Google) ca să vedem ce pagini sunt utile. Fără acordul dumneavoastră, Google Analytics nu pune cookie-uri în browser și primește doar semnale anonime despre vizită (de exemplu pagina vizitată), folosite de Google pentru statistici agregate. Numai dacă apăsați „Accept” în bannerul de cookie-uri, Google Analytics pune cookie-urile lui (<em>_ga</em>), ca să deosebească vizitele. Nu folosim aceste date pentru reclame: stocarea pentru publicitate rămâne mereu dezactivată. Vă puteți retrage oricând acordul din „Setări cookie-uri”, în subsolul paginii, iar cookie-urile <em>_ga</em> se șterg. Google poate prelucra datele și în afara Spațiului Economic European, cu garanțiile prevăzute de GDPR (Cadrul UE-SUA privind protecția datelor).</p>' . "\n";
+	$pos = strpos( $c, '<h2>Temeiul legal' );
+	if ( false === $pos ) {
+		return; // structura paginii s-a schimbat: nu ghicim unde intră
+	}
+	$c = substr( $c, 0, $pos ) . $par . substr( $c, $pos );
+	wp_update_post( array( 'ID' => $page->ID, 'post_content' => $c ) );
+}
+add_action( 'init', 'hainute_privacy_ga_fix', 21 );
