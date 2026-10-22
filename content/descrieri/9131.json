@@ -1,0 +1,74 @@
+{
+ "id": 9131,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> GISLI sunt ghete de iarnă maro, listate pe site la <a href=\"/categorie/baieti-incaltaminte-pantofi/\">încălțămintea de iarnă pentru băieți</a>, din imitație de piele și material textil, cu tehnologia GEOX Respira™, care ține picioarele uscate la joacă. Se poartă în zilele reci, la ținute casual.</p><p>Se închid cu arici, deci se încalță și se descalță repede; gulerul ușor întărit stă fix pe gleznă, iar călcâiul e ușor întărit.</p><p>Pe scurt:</p><ul><li><strong>Talpă</strong>: plată, din cauciuc.</li><li><strong>Branț</strong>: din material textil.</li><li><strong>Interior</strong>: textil.</li></ul><p>Numerele 28-39 se potrivesc copiilor de la aproximativ 4 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "Geox Încălțăminte pentru copii GISLI maro J465CC.0MEFU"
+  },
+  {
+   "fapt": "iarnă",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "Ghetele de iarnă pentru copii Geox GISLI"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "Partea superioară din imitație de piele și material textil"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "Tehnologia GEOX Respira"
+  },
+  {
+   "fapt": "uscat",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "menținând picioarele uscate"
+  },
+  {
+   "fapt": "casual",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "stilizațiile casual și streetwear în zilele reci"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "Închidere practică cu arici"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "Gulerul superior ușor întărit"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "Călcâi ușor întărit"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "Talpă plată din cauciuc"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-maro-j465cc-0mefu-1839090",
+   "fragment": "Branț din material textil"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox GISLI",
+  "Material": "imitație de piele și textil, talpă din cauciuc",
+  "Caracteristici": "ghete de iarnă, GEOX Respira™, arici",
+  "Cod produs": "J465CC.0MEFU"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 4 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pe site e la Pantofi; magazinul o descrie ca ghetă de iarnă."
+ ]
+}

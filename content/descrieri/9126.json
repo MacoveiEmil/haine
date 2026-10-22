@@ -1,0 +1,82 @@
+{
+ "id": 9126,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/lego/\">LEGO</a> LWJAZ 806 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de schi unisex</a>, roz, izolată și căptușită, pentru sporturi de iarnă. Materialul exterior e rezistent la vânt și la apă, cu tratamentul BIONIC-FINISH® ECO și respirabilitate de 4000 g/m2/24h, deci geaca merge și la efort pe pârtie.</p><p>Manșetele elastice au găuri pentru degetul mare, care țin mânecile pe mâini și opresc zăpada să intre; croiala e simplă, cu loc pentru un strat cald dedesubt.</p><p>Detaliile de pârtie:</p><ul><li><strong>Buzunar ski-pass</strong>: pe mânecă, cu fermoar.</li><li><strong>Elemente reflectorizante</strong>: 3M™ Scotchlite.</li><li><strong>Fermoare</strong>: YKK®.</li><li><strong>Glugă</strong>: detașabilă, cu guler ridicat.</li></ul><p>Mărimile 98-164 sunt pentru copii de aproximativ 3-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "Lego Geacă copii LWJAZ 806 culoarea roz, 11010966"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "Model izolat cu captuseala"
+  },
+  {
+   "fapt": "iarnă",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "Sporturi de iarnă"
+  },
+  {
+   "fapt": "vânt, apă",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "Materialul exterior este rezistent la vânt și apă"
+  },
+  {
+   "fapt": "BIONIC",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "BIONIC-FINISH® ECO"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "Respirabilitate: 4000 g/m2/24h"
+  },
+  {
+   "fapt": "degetar",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "Manșete elastice cu găuri pentru degetul mare"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "ski-pass",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "Buzunar funcțional pentru permis de schi, cu fermoar, pe mânecă"
+  },
+  {
+   "fapt": "reflectorizante",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "3M ™ Scotchlite"
+  },
+  {
+   "fapt": "YKK",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "Fermoarele YKK"
+  },
+  {
+   "fapt": "glugă, guler",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "Gulerul ridicat și gluga detașabilă"
+  },
+  {
+   "fapt": "nu complet",
+   "url": "answear.ro/p/lego-geaca-copii-lwjaz-806-culoarea-roz-11010966-1635915",
+   "fragment": "nu garantează impermeabilitatea completă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "LEGO LWJAZ 806",
+  "Material": "100% poliester",
+  "Caracteristici": "geacă de schi, BIONIC-FINISH® ECO, manșete cu degetar, buzunar ski-pass, 3M Scotchlite",
+  "Cod produs": "11010966"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "3-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
