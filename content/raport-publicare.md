@@ -1,5 +1,8 @@
 # Raport publicare
 
+## 2026-10-22 19:38 (60f1d0e, Macovei Emil)
+- cod/configurație actualizate: CLAUDE.md PROJECT_ROADMAP.md 
+
 ## 2026-10-22 19:36 (6faa293, Macovei Emil)
 - containerele au fost repornite (configurație Docker modificată)
 - cod/configurație actualizate: docker-compose.prod.yml wp-content/plugins/hainute-core/includes/engagement.php 
