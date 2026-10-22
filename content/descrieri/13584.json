@@ -1,45 +1,45 @@
 {
  "id": 13584,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/konges-slojd/\">Konges Sløjd</a> Magot sunt <a href=\"/categorie/pantaloni-treninguri/\">blugi pentru fete</a> albi, din denim, cu fason baggy și talie înaltă. Sunt cusuți din bumbac organic certificat GOTS.</p><ul><li><strong>Material</strong>: 100% bumbac organic, cultivat fără îngrășăminte sau pesticide.</li><li><strong>Talie</strong>: bandă elastică, pantalonii stau pe loc fără curea.</li><li><strong>Croială</strong>: lejeră.</li><li><strong>Buzunare</strong>: oblice.</li></ul><p>Modelul are opt mărimi, de la 86 la 134-140, orientativ pentru copii de 1-10 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Blugii <a href=\"/brand/konges-slojd/\">Konges Sløjd</a> MAGOT FRILL PANTS sunt <a href=\"/categorie/pantaloni-treninguri/\">pantaloni pentru fete</a> în culoarea alb, cu model, din denim confortabil de bumbac organic certificat, cu fason baggy și talie înaltă. Bumbacul organic e cultivat fără îngrășăminte și pesticide.</p><p>Talia are bandă elastică, deci se trag ușor pe corp, iar fasonul lejer lasă loc de mișcare.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% bumbac organic.</li><li><strong>Talie</strong>: înaltă, cu elastic.</li><li><strong>Buzunare</strong>: oblice.</li></ul><p>Mărimile 86 până la 134-140 se potrivesc fetelor de aproximativ 1-10 ani.</p>",
  "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
+   "fragment": "Konges Sløjd Jeans copii MAGOT FRILL PANTS GOTS KS104970"
+  },
   {
    "fapt": "culoare",
    "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
-   "fragment": "Culoare: Alb"
+   "fragment": "Culoare alb"
+  },
+  {
+   "fapt": "model print",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
+   "fragment": "Model: cu modele"
   },
   {
    "fapt": "denim",
    "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
-   "fragment": "confecționat din denim"
+   "fragment": "Model confecționat din denim confortabil"
   },
   {
-   "fapt": "baggy, talie înaltă",
-   "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
-   "fragment": "fason baggy cu talia înaltă"
-  },
-  {
-   "fapt": "bumbac organic certificat",
+   "fapt": "organic",
    "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
    "fragment": "bumbac organic certificat"
   },
   {
-   "fapt": "GOTS",
-   "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
-   "fragment": "MAGOT FRILL PANTS GOTS"
-  },
-  {
-   "fapt": "100% organic",
-   "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
-   "fragment": "100% Bumbac organic"
-  },
-  {
-   "fapt": "fără pesticide",
+   "fapt": "pesticide",
    "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
    "fragment": "fara utilizarea ingrasamintelor sau pesticidelor"
   },
   {
-   "fapt": "talie elastică",
+   "fapt": "baggy",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
+   "fragment": "fason baggy cu talia înaltă"
+  },
+  {
+   "fapt": "elastic",
    "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
    "fragment": "Banda elastica in talie"
   },
@@ -52,18 +52,21 @@
    "fapt": "buzunare",
    "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
    "fragment": "Buzunare oblice"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/konges-slojd-jeans-copii-magot-frill-pants-gots-ks104970-1701729",
+   "fragment": "100% Bumbac organic"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "Konges Sløjd Magot",
-  "Material": "100% bumbac organic (GOTS)",
-  "Caracteristici": "fason baggy, talie înaltă cu bandă elastică, buzunare oblice",
+  "Model": "Konges Sløjd MAGOT FRILL PANTS",
+  "Material": "100% bumbac organic",
+  "Caracteristici": "talie înaltă elastică, fason baggy",
   "Cod produs": "KS104970"
  },
  "categorie_complementara": null,
  "varsta_orientativa": "1-10 ani",
  "date_insuficiente": false,
- "confidence_notes": [
-  "Extracția a salvat categoria „imbracaminte-baieti”, magazinul are breadcrumb Fete; pe site e la fete."
- ]
+ "confidence_notes": []
 }

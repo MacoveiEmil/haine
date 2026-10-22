@@ -83,7 +83,7 @@ w(13567,
 w(13568,
   f'<p>Hanoracul {TH} KB0KB10766 bleumarin e un {A("/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/", "hanorac pentru băieți")} clasic, tras pe cap, fără glugă și fără închidere, din bumbac 100%. E uni, cu un logo mic, și merge cu multe ținute casual și streetwear.</p>'
   '<p>N-are căptușeală, deci e ușor. Decolteul rotund și bordurile elastice de la bază și manșete îl țin bine pe corp, iar croiala simplă stă lejer.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Câteva detalii:</p>'
   + L(('Material', 'bumbac moale.'), ('Croială', 'simplă, lejeră.'), ('Logo', 'discret.'))
   + '<p>Mărimile 104-122 sunt pentru băieți de vreo 4-7 ani, orientativ.</p>',
   [('model', 'Tommy Hilfiger Hanorac pentru copii din bumbac bleumarin KB0KB10766'), ('pulover', 'Modelul fără glugă și fără închidere este un hanorac clasic tip pulover'),
