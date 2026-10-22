@@ -1,0 +1,84 @@
+{
+ "id": 12936,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele de zăpadă <a href=\"/brand/primigi/\">Primigi</a> 88840 negre sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">cizme unisex</a> ușor izolate, din material textil, piele naturală și piele întoarsă, cu membrană GORE-TEX subțire, rezistentă la vânt. Rezistă la apă, deși magazinul nu garantează impermeabilitatea completă.</p><p>Partea de sus ridicată sprijină glezna pe teren denivelat, iar velcro-ul face încălțatul rapid.</p><p>Pe dinăuntru și dedesubt:</p><ul><li><strong>Vârf</strong>: cutie rotundă, ușor întărită.</li><li><strong>Călcâi</strong>: contrafort rigid.</li><li><strong>Interior</strong>: textil.</li><li><strong>Talpă exterioară</strong>: din cauciuc.</li></ul><p>Numerele 36-40 sunt pentru copii de la aproximativ 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "Primigi Cizme de iarnă copii culoarea negru, PFZGT 88840"
+  },
+  {
+   "fapt": "zăpadă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "Cizme de zapada pentru copii"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "Izolare: usor izolat"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "combinație de material textil, piele naturală și piele întoarsă"
+  },
+  {
+   "fapt": "GORE-TEX",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "Model cu membrana GORE-TEX®, care este extrem de subtire"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "rezistenta la vant"
+  },
+  {
+   "fapt": "apă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "nu garantează impermeabilitatea completă"
+  },
+  {
+   "fapt": "gleznă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "Partea superioară ridicată ajută la rigidizarea gleznei"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "Închiderea cu velcro facilitează încălțarea și scoaterea pantofilor"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "Cutie rotunda, usor intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "Contorul de călcâi rigid"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "Interiorul textil este confortabil pentru picior"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pfzgt-88840-1597266",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 88840",
+  "Material": "textil, piele naturală și piele întoarsă, interior textil, talpă din cauciuc",
+  "Caracteristici": "GORE-TEX, ușor izolate, velcro",
+  "Cod produs": "PFZGT 88840"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul scrie că membrana e 100% impermeabilă, dar și că produsul nu garantează impermeabilitatea completă; am scris varianta prudentă."
+ ]
+}

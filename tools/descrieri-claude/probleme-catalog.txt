@@ -50,3 +50,4 @@
 12698 | Pantofi Biomecanics 261242 bleumarin: magazinul îi descrie drept ghete înalte de iarnă, izolate; categoria Pantofi
 12716 | Bluză Tommy Jeans DW0DW22023 (cardigan negru): același cod de damă ca 8668 și 12393, mărimi XS-L; produs pentru adulți
 12925 | Pantofi Geox GISLI J465CC verde: magazinul îi descrie drept ghete de iarnă; categoria Pantofi
+12938 | Adidași Geox WASHIBA J55LQD verde (31-35): titlul spune Verde, magazinul dă culoarea albastru (aceeași referință e verde la 12693 și 12733)
