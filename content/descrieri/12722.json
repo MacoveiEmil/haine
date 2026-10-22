@@ -1,0 +1,80 @@
+{
+ "id": 12722,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T3X9-34364 albi sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> cu gambă ridicată și talpă plată, ușori și confortabili pentru purtat zilnic. Se închid cu șiret, fermoar lateral și velcro, deci se pun repede.</p><p>Vârful rotund e întărit, contrafortul rigidizat sprijină glezna și călcâiul, iar interiorul textil e plăcut pe picior și se păstrează ușor curat.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Lungime branț</strong>: 22 cm la numărul 34.</li></ul><p>Numerele 30-34 merg cam la 6-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "T3X9-34364"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "culoarea alb"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "Gamba ridicata"
+  },
+  {
+   "fapt": "plată",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "plată"
+  },
+  {
+   "fapt": "ușor",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "Model ușor și confortabil, ideal pentru purtarea zilnică"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "Model cu siret cu fermoar lateral si inchidere cu Velcro"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "contrafort",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "Contorul de călcâi rigidizat oferă un sprijin excelent pentru gleznă și călcâi"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "Interiorul textil este confortabil"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "Material sintetic"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "Lungimea brantului pentru marimea este de: 22 cm"
+  },
+  {
+   "fapt": "mărime",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3x9-34364-1732968",
+   "fragment": "Dimensiunile date pentru marimea: 34"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger T3X9-34364",
+  "Material": "material sintetic",
+  "Caracteristici": "gambă ridicată, șiret, fermoar, velcro",
+  "Cod produs": "T3X9.34364"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea spune „piele întoarsă”, iar compoziția indică material sintetic, imitație de piele; am scris doar compoziția.",
+  "Caracteristicile spun profil „înalt”, atributele „jos”; am scris doar „gambă ridicată”, din descriere."
+ ]
+}

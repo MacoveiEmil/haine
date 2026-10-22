@@ -1,0 +1,94 @@
+{
+ "id": 12881,
+ "versiune": "v7",
+ "descriere_html": "<p>Ghetele de iarnă <a href=\"/brand/biomecanics/\">Biomecanics</a> 261242 bleumarin, în numerele 25-27, sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete unisex</a> înalte, făcute împreună cu podologi. Membrana BioTEX ajută la păstrarea piciorului uscat, iar talpa Flexi Lite e ușoară și flexibilă.</p><p>Vârful și călcâiul sunt întărite, profilul înalt din textil și material sintetic ține glezna, iar interiorul căptușit cu textil păstrează căldura. Se închid cu arici.</p><p>Detaliile de bază:</p><ul><li><strong>Față</strong>: material sintetic, material textil.</li><li><strong>Talpă</strong>: cauciuc, plată.</li><li><strong>Branț</strong>: material textil.</li></ul><p>Numerele 25-27 țin cam de vârsta 2-4 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "261242"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "Culoare bleumarin"
+  },
+  {
+   "fapt": "podologi",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "creat în colaborare cu podologi"
+  },
+  {
+   "fapt": "BioTEX",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "Membrana BioTEX"
+  },
+  {
+   "fapt": "uscat",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "contribuie la menținerea uscăciunii"
+  },
+  {
+   "fapt": "Flexi Lite",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "Talpa Flexi Lite"
+  },
+  {
+   "fapt": "ușoară",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "asigură lejeritate și flexibilitate"
+  },
+  {
+   "fapt": "întărit",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "Vârful întărit și călcâiul întărit"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "Profilul înalt"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "Interiorul căptușit"
+  },
+  {
+   "fapt": "căldură",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "contribuie la menținerea căldurii"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "Închiderea practică cu arici"
+  },
+  {
+   "fapt": "față",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "Partea superioară:Material sintetic, Material textil"
+  },
+  {
+   "fapt": "cauciuc",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "cauciuc"
+  },
+  {
+   "fapt": "plată",
+   "url": "answear.ro/p/biomecanics-incaltaminte-de-iarna-pentru-copii-bleumarin-261242-1831954",
+   "fragment": "plată"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Biomecanics 261242",
+  "Membrană": "BioTEX",
+  "Caracteristici": "talpă Flexi Lite, arici, profil înalt",
+  "Cod produs": "261242"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Caracteristicile spun „fără impermeabilitate”, deși descrierea pomenește membrana BioTEX; nu am scris „impermeabile”."
+ ]
+}

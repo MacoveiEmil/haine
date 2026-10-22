@@ -105,3 +105,6 @@
 12481 Columbia 2090241 parka: titlul site-ului are „parka” în loc de culoare (la magazin: burgundia)
 12401 Geox J36FWB: magazinul dă „roz” în titlu și „alb” în date
 12470 Tommy Hilfiger T1A5-34005: descrierea spune piele întoarsă, compoziția e sintetică
+12500 LEGO 22881: titlul site-ului nu are culoare („Unisex”), la magazin albastru
+12616 Geox MAGNETAR: titlul site-ului are „MAGNETAR” în loc de culoare (la magazin: albastru)
+12561 Geox SPRINTYE și 12597 Tommy Hilfiger T1X9-34347: descrierea spune piele, compoziția e sintetică
