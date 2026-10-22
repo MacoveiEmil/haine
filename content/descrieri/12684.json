@@ -1,74 +1,67 @@
 {
  "id": 12684,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T3X9-35233 sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> din imitație de piele albă, cu profil scurt. Talpa este plată, din cauciuc, iar închiderea se face cu șiret.</p><ul><li><strong>Material</strong>: exterior din imitație de piele, interior căptușit cu material textil.</li><li><strong>Călcâi și guler</strong>: călcâi întărit și guler ușor întărit al părții superioare.</li><li><strong>Branț</strong>: din material textil, nedetașabil.</li></ul><p>Mărimile merg de la 35 la 41, orientativ pentru copii de la 10 ani în sus.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T3X9-35233 albi sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> cu profil scurt și șiret, din imitație de piele, pentru copiii mai mari. Șiretul permite o strângere precisă pe picior, iar gulerul ușor întărit e confortabil în jurul gleznei.</p><p>Talpa din cauciuc, cu profil plat și grosime de 2-4 cm, izolează bine de sol. Călcâiul întărit ține piciorul în pantof.</p><p>Pe dinăuntru:</p><ul><li><strong>Interior</strong>: căptușit cu textil.</li><li><strong>Branț</strong>: material textil.</li><li><strong>Partea de sus</strong>: material sintetic.</li></ul><p>Numerele 35-41 se potrivesc copiilor de la aproximativ 10 ani în sus.</p>",
  "surse": [
   {
-   "fapt": "model și culoare",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
-   "fragment": "albi T3X9-35233"
+   "fapt": "model",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
+   "fragment": "Tommy Hilfiger Sneakers pentru copii albi T3X9-35233"
   },
   {
-   "fapt": "profil scurt",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
+   "fapt": "profil",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
    "fragment": "Profilul scurt al încălțămintei"
   },
   {
-   "fapt": "ținute casual",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
-   "fragment": "varietate de ținute casual"
-  },
-  {
-   "fapt": "imitație de piele",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
+   "fapt": "imitație",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
    "fragment": "Partea superioară din imitație de piele"
   },
   {
-   "fapt": "interior textil",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
-   "fragment": "Interior căptușit cu material textil"
+   "fapt": "șiret",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
+   "fragment": "Închiderea cu șiret permite ajustarea precisă"
   },
   {
-   "fapt": "talpă cauciuc profil plat",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
+   "fapt": "guler",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
+   "fragment": "Gulerul ușor întărit al părții superioare contribuie la confortul din jurul gleznei"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
    "fragment": "Talpa din cauciuc cu profil plat"
   },
   {
-   "fapt": "călcâi întărit",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
+   "fapt": "grosime",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
+   "fragment": "Grosimea tălpii în intervalul 2-4 cm permite o izolare adecvată față de sol"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
    "fragment": "Călcâiul întărit"
   },
   {
-   "fapt": "guler întărit",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
-   "fragment": "Gulerul ușor întărit al părții superioare"
+   "fapt": "interior",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
+   "fragment": "Interior căptușit cu material textil"
   },
   {
-   "fapt": "branț textil",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
+   "fapt": "branț",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
    "fragment": "Branț din material textil"
-  },
-  {
-   "fapt": "branț nedetașabil",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
-   "fragment": "Branțuri detașabile\nnu"
-  },
-  {
-   "fapt": "închidere cu șiret",
-   "url": "https://answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-albi-t3x9-35233-1829232",
-   "fragment": "Închiderea cu șiret"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Tommy Hilfiger T3X9-35233",
-  "Material": "partea superioară din imitație de piele, interior căptușit cu material textil, talpă din cauciuc",
-  "Caracteristici": "profil scurt, talpă plată cu grosime 2-4 cm, călcâi întărit, guler ușor întărit, branț textil fix, închidere cu șiret",
-  "Cod produs": "T3X9.35233.35.41"
+  "Material": "imitație de piele, interior textil, talpă din cauciuc",
+  "Caracteristici": "șiret, profil scurt, guler întărit",
+  "Cod produs": "T3X9-35233"
  },
  "categorie_complementara": null,
  "varsta_orientativa": "de la 10 ani în sus",
  "date_insuficiente": false,
- "confidence_notes": [
-  "Magazinul listează produsul la secțiunea Băieți în breadcrumbs, însă catalogul îl încadrează unisex."
- ]
+ "confidence_notes": []
 }

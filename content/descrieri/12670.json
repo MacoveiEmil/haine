@@ -1,64 +1,62 @@
 {
  "id": 12670,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T1X9-35219 sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> bleumarin, cu profil jos. Fața e din imitație de piele, ușor de ținut curată.</p><ul><li><strong>Material</strong>: partea superioară din material sintetic, interior din material textil, cu branț textil.</li><li><strong>Talpă</strong>: de cauciuc, plată.</li><li><strong>Călcâi</strong>: întărit.</li><li><strong>Închidere</strong>: arici, deci copilul se încalță fără ajutor.</li></ul><p>Mărimile merg de la 20 la 29, orientativ pentru copii de 1-5 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Pentru copiii mai mici, modelul <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T1X9-35219 vine și în numerele 24-29: <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> bleumarin, cu profil jos, din imitație de piele rezistentă, care se șterge ușor. Aricii permit încălțatul rapid, fără ajutor.</p><p>Profilul jos lasă glezna liberă, iar călcâiul întărit ține piciorul drept la joacă. Culoarea bleumarin se poartă ușor cu multe haine.</p><p>Pe dinăuntru și dedesubt:</p><ul><li><strong>Interior</strong>: textil moale.</li><li><strong>Branț</strong>: textil.</li><li><strong>Talpă</strong>: plată, din cauciuc, ține bine pe sol.</li></ul><p>Numerele acestea se potrivesc copiilor de aproximativ 2-5 ani.</p>",
  "surse": [
   {
    "fapt": "model",
-   "url": "answear.ro/p/…tommy-hilfiger-sneakers…t1x9-35219…",
-   "fragment": "bleumarin T1X9-35219"
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-bleumarin-t1x9-35219-1845707",
+   "fragment": "Tommy Hilfiger Sneakers pentru copii bleumarin T1X9-35219"
   },
   {
    "fapt": "profil",
-   "url": "answear.ro/p/…tommy-hilfiger-sneakers…t1x9-35219…",
-   "fragment": "Profil jos al feței superioare"
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-bleumarin-t1x9-35219-1845707",
+   "fragment": "Profil jos al feței superioare permite libertatea de mișcare a gleznei"
   },
   {
-   "fapt": "imitație de piele",
-   "url": "answear.ro/p/…tommy-hilfiger-sneakers…t1x9-35219…",
-   "fragment": "Imitație de piele rezistentă  la nivelul feței superioare facilitează menținerea curățeniei încălțămintei"
-  },
-  {
-   "fapt": "interior",
-   "url": "answear.ro/p/…tommy-hilfiger-sneakers…t1x9-35219…",
-   "fragment": "Material textil moale  în interiorul pantofului"
-  },
-  {
-   "fapt": "partea superioară",
-   "url": "answear.ro/p/…tommy-hilfiger-sneakers…t1x9-35219…",
-   "fragment": "Material sintetic"
-  },
-  {
-   "fapt": "branț",
-   "url": "answear.ro/p/…tommy-hilfiger-sneakers…t1x9-35219…",
-   "fragment": "Branț textil"
-  },
-  {
-   "fapt": "talpă",
-   "url": "answear.ro/p/…tommy-hilfiger-sneakers…t1x9-35219…",
-   "fragment": "Talpă de cauciuc, plată"
-  },
-  {
-   "fapt": "călcâi",
-   "url": "answear.ro/p/…tommy-hilfiger-sneakers…t1x9-35219…",
-   "fragment": "Călcâi întărit"
+   "fapt": "imitație",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-bleumarin-t1x9-35219-1845707",
+   "fragment": "Imitație de piele rezistentă la nivelul feței superioare facilitează menținerea curățeniei"
   },
   {
    "fapt": "arici",
-   "url": "answear.ro/p/…tommy-hilfiger-sneakers…t1x9-35219…",
-   "fragment": "Închidere practică cu arici"
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-bleumarin-t1x9-35219-1845707",
+   "fragment": "Închidere practică cu arici facilitează încălțarea și descălțarea rapidă"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-bleumarin-t1x9-35219-1845707",
+   "fragment": "Călcâi întărit contribuie la stabilizarea piciorului"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-bleumarin-t1x9-35219-1845707",
+   "fragment": "Material textil moale în interiorul pantofului"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-bleumarin-t1x9-35219-1845707",
+   "fragment": "Branț textil"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-bleumarin-t1x9-35219-1845707",
+   "fragment": "Cromatică universală bleumarin face ca încălțămintea să fie ușor de asortat"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-bleumarin-t1x9-35219-1845707",
+   "fragment": "Talpă de cauciuc, plată oferă o bună aderență la sol"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Tommy Hilfiger T1X9-35219",
-  "Material": "exterior sintetic (imitație de piele), interior textil, talpă din cauciuc",
-  "Caracteristici": "profil jos, închidere cu arici, călcâi întărit, branț textil",
+  "Material": "imitație de piele, interior textil, talpă din cauciuc",
+  "Caracteristici": "arici, profil jos",
   "Cod produs": "T1X9-35219"
  },
  "categorie_complementara": null,
- "varsta_orientativa": "1-5 ani",
+ "varsta_orientativa": "2-5 ani",
  "date_insuficiente": false,
- "confidence_notes": [
-  "Mărimile 20-23 apar la alt magazin cu același cod EAN."
- ]
+ "confidence_notes": []
 }

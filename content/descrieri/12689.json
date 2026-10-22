@@ -1,0 +1,84 @@
+{
+ "id": 12689,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> CIUFCIUF B455QB sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> bej pe site (violet la magazin), cu profil jos, din material textil, piele întoarsă și piele naturală, care se închid cu velcro. Sistemul Check Your Feet ajută la verificarea mărimii.</p><p>Vârful rotund, ușor rigid, lasă degetele libere, iar contrafortul rigidizat sprijină călcâiul. Talpa din spumă e moale la pas.</p><p>Pe dinăuntru și dedesubt:</p><ul><li><strong>Geox Respira</strong>: talpă în trei straturi, cu perforări.</li><li><strong>Inserție</strong>: textilă, detașabilă, ușor de curățat.</li><li><strong>Interior</strong>: material textil.</li></ul><p>Numerele 20-23 merg la fetițe de cam 1-3 ani; la 23 branțul are 13 cm.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Geox Sneakers pentru copii CIUFCIUF culoarea bej, B455QB.0FU22"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Culoare violet"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Înălțime: mic de statură"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "combinație de material textil, piele întoarsă și piele naturală"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Închiderea cu velcro facilitează încălțarea și scoaterea pantofilor"
+  },
+  {
+   "fapt": "Check",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Check Your Feet ajuta la ajustarea pantofilor"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Degetul rotund, ușor rigid"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Contorul de călcâi rigidizat"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Talpa din spumă oferă o senzație mai moale"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "inserție",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Inserție textilă detașabilă, ușor de curățat"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Un model cu interior textil"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-ciufciuf-culoarea-bej-b455qb-0fu22-1711641",
+   "fragment": "Lungimea brantului pentru marimea este de: 13 cm"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox CIUFCIUF",
+  "Material": "textil, piele întoarsă și piele naturală, interior textil, talpă din spumă",
+  "Caracteristici": "velcro, Check Your Feet, Geox Respira",
+  "Cod produs": "B455QB.0FU22"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-3 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul spune bej, magazinul dă culoarea violet; am scris ambele."
+ ]
+}
