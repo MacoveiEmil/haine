@@ -1,0 +1,74 @@
+{
+ "id": 9669,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/napapijri/\">Napapijri</a> RAINFOREST WI 2 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> bleumarin, ușor izolată cu umplutura Comfortemp®, din poliester 100% reciclat, care își păstrează proprietățile și când aerul e umed. E pentru zilele cu temperaturi mai scăzute.</p><p>Croiala e simplă, dreaptă, fără strângeri, deci geaca stă lejer și peste un pulover. Gulerul ridicat și gluga fixă țin frigul departe de gât și de cap.</p><p>Materialele și detaliile:</p><ul><li><strong>Material</strong>: 100% poliamidă, cu acoperire din poliuretan.</li><li><strong>Buzunar</strong>: pe piept.</li><li><strong>Căptușeală</strong>: 100% poliester.</li></ul><p>Mărimile 134-140 până la 168-172 sunt pentru copii de în jur de 9-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "Napapijri Geaca copii RAINFOREST WI 2 culoarea albastru marin, NP0A4HHK1761"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "Model usor izolat"
+  },
+  {
+   "fapt": "Comfortemp",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "Un model cu umplutură Comfortemp®, care este o izolație inovatoare din poliester reciclat 100%"
+  },
+  {
+   "fapt": "umiditate",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "își păstrează toate proprietățile și în condiții de umiditate ridicată a aerului"
+  },
+  {
+   "fapt": "frig",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "temperaturi mai scăzute"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "guler, glugă",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "Gulerul ridicat și gluga fixă"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "100% Poliamida"
+  },
+  {
+   "fapt": "acoperire",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "Acoperire: Poliuretan"
+  },
+  {
+   "fapt": "buzunar",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "Buzunar pe piept"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/napapijri-geaca-copii-rainforest-wi-2-culoarea-albastru-marin-np0a4hhk1761-1376146",
+   "fragment": "Captuseala: 100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Napapijri RAINFOREST WI 2",
+  "Material": "100% poliamidă cu acoperire din poliuretan, căptușeală și umplutură poliester",
+  "Caracteristici": "ușor izolată, Comfortemp®, glugă fixă, guler ridicat",
+  "Cod produs": "NP0A4HHK1761"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "9-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul scrie „căptușeală din lână”, dar compoziția dă căptușeală 100% poliester; am folosit compoziția."
+ ]
+}
