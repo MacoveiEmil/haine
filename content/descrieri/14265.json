@@ -1,0 +1,75 @@
+{
+ "id": 14265,
+ "versiune": "v7",
+ "descriere_html": "<p>Setul termo <a href=\"/brand/reima/\">Reima</a> TAITOA, roz după titlul de pe site, e listat la <a href=\"/categorie/unisex-imbracaminte-salopete-compleuri/\">salopete unisex</a>, dar e un strat de bază din tricot cu două fețe: Tencel moale, care absoarbe umezeala, și lână, care ține de cald chiar dacă copilul transpiră. E potrivit pentru vremea rece.</p><p>Cusăturile plate și moi nu freacă pielea, iar talia e elastică. Imprimeul acoperă toată suprafața.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 48% lână, 43% lyocell, 9% poliamidă.</li><li><strong>Greutate</strong>: 270 g.</li><li><strong>Talie</strong>: elastică.</li></ul><p>Mărimile 100-150 sunt pentru copii de aproximativ 3-12 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "REIMA TAITOA"
+  },
+  {
+   "fapt": "set",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "Set termo pentru copii"
+  },
+  {
+   "fapt": "Tencel",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "Tencel® moale și mătăsos pentru absorbția umezelii"
+  },
+  {
+   "fapt": "lână",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "lână pentru asigurarea căldurii la nivelul stratului de bază"
+  },
+  {
+   "fapt": "transpiră",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "menține căldura, chiar dacă copilul transpiră"
+  },
+  {
+   "fapt": "rece",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "adecvat pentru vremea rece"
+  },
+  {
+   "fapt": "cusături",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "cusături plate moi pentru un plus de confort - fără frecare"
+  },
+  {
+   "fapt": "talie",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "talie elastică"
+  },
+  {
+   "fapt": "imprimeu",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "imprimeu pe toată suprafața"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "48% lână, 43% lyocel, 9% poliamidă"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/taitoa/1945395/",
+   "fragment": "270 g"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima TAITOA (set termo)",
+  "Material": "48% lână, 43% lyocell, 9% poliamidă",
+  "Caracteristici": "strat de bază, lână și Tencel, cusături plate",
+  "Cod produs": "260009"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "3-12 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată VÂNDUT și nu dă culoarea; culoarea e cea din titlu.",
+  "E set termo (strat de bază), listat la Salopete."
+ ]
+}

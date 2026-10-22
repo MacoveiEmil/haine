@@ -1,0 +1,59 @@
+{
+ "id": 14192,
+ "versiune": "v7",
+ "descriere_html": "<p>Pantofii sport <a href=\"/brand/geox/\">Geox</a> MAWAZY B bej sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> cu aspect modern și casual, din piele întoarsă moale, piele Nappa, material textil și sintetic. Preiau șocurile la pas și lasă aerul să circule, fiind gândiți pentru școală și joacă.</p><p>Talpa e din cauciuc termoplastic, iar culoarea bej are detalii roz și albastru deschis.</p><p>Din ce sunt făcuți:</p><ul><li><strong>Față</strong>: 42% sintetic, 27% textil, 21% piele întoarsă, 10% piele Nappa.</li><li><strong>Talpă</strong>: TPR.</li><li><strong>Stil</strong>: casual, modern.</li></ul><p>Numerele 28-35 se potrivesc copiilor de aproximativ 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/geox/mawazy-b/1227288/",
+   "fragment": "Geox MAWAZY B"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/geox/mawazy-b/1227288/",
+   "fragment": "bej (bej / roz / albastru deschis)"
+  },
+  {
+   "fapt": "modern",
+   "url": "www.sportisimo.ro/geox/mawazy-b/1227288/",
+   "fragment": "moderni și casual"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/geox/mawazy-b/1227288/",
+   "fragment": "Sunt confecționați din piele întoarsă moale și țesătură"
+  },
+  {
+   "fapt": "respirabil",
+   "url": "www.sportisimo.ro/geox/mawazy-b/1227288/",
+   "fragment": "beneficiază de amortizare și oferă respirabilitate"
+  },
+  {
+   "fapt": "școală",
+   "url": "www.sportisimo.ro/geox/mawazy-b/1227288/",
+   "fragment": "fiind ideali pentru școală și joacă"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/geox/mawazy-b/1227288/",
+   "fragment": "42% sintetic; 27% textil, 21% piele întoarsă, 10% piele Nappa"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/geox/mawazy-b/1227288/",
+   "fragment": "TPR (cauciuc termoplastic)"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox MAWAZY B",
+  "Material": "sintetic, textil, piele întoarsă și piele Nappa, talpă TPR",
+  "Caracteristici": "casual, respirabili",
+  "Cod produs": "192424"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina nu spune tipul de închidere."
+ ]
+}

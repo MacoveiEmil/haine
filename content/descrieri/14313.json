@@ -1,0 +1,66 @@
+{
+ "id": 14313,
+ "versiune": "v7",
+ "descriere_html": "<p>Tricoul <a href=\"/brand/gap/\">GAP</a> RAGLAN FASHION gri e listat la <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geci unisex</a>, dar e un tricou imprimat cu logo GAP 1969, cu mâneci raglan în culoare contrastantă și decolteu rotund cu tiv. Croiala dreaptă și tricotul moale îl fac comod.</p><p>E din bumbac 100%, în gri cu detalii roșii și turcoaz.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% bumbac.</li><li><strong>Mâneci</strong>: raglan, contrastante.</li><li><strong>Decolteu</strong>: rotund.</li></ul><p>Mărimile, de la L la XXL, corespund de obicei copiilor mai mari, de aproximativ 10-16 ani; verificați tabelul magazinului.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/gap/raglan-fashion/1423072/",
+   "fragment": "GAP RAGLAN FASHION"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/gap/raglan-fashion/1423072/",
+   "fragment": "Gri (gri / roșu / turcoaz)"
+  },
+  {
+   "fapt": "imprimat",
+   "url": "www.sportisimo.ro/gap/raglan-fashion/1423072/",
+   "fragment": "Tricoul imprimat pentru copii GAP RAGLAN FASHION"
+  },
+  {
+   "fapt": "logo",
+   "url": "www.sportisimo.ro/gap/raglan-fashion/1423072/",
+   "fragment": "logo GAP 1969"
+  },
+  {
+   "fapt": "raglan",
+   "url": "www.sportisimo.ro/gap/raglan-fashion/1423072/",
+   "fragment": "mâneci lungi raglan într-o culoare contrastantă"
+  },
+  {
+   "fapt": "decolteu",
+   "url": "www.sportisimo.ro/gap/raglan-fashion/1423072/",
+   "fragment": "decolteu rotund cu tiv"
+  },
+  {
+   "fapt": "croială",
+   "url": "www.sportisimo.ro/gap/raglan-fashion/1423072/",
+   "fragment": "croială dreaptă"
+  },
+  {
+   "fapt": "tricot",
+   "url": "www.sportisimo.ro/gap/raglan-fashion/1423072/",
+   "fragment": "tricot moale"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/gap/raglan-fashion/1423072/",
+   "fragment": "100 % bumbac"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "GAP RAGLAN FASHION",
+  "Material": "100% bumbac",
+  "Caracteristici": "mâneci raglan contrastante, logo GAP 1969",
+  "Cod produs": "213478"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "10-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Mărimile sunt în litere (L-XXL), fără tabel; vârsta e estimată.",
+  "Descrierea spune și mânecă scurtă, și mâneci lungi; n-am precizat lungimea mânecii.",
+  "E tricou, listat la Geci."
+ ]
+}

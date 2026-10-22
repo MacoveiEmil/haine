@@ -61,3 +61,5 @@
 14091 | Geacă Reima PORTIT 5100155K (Sportisimo): pagina magazinului arată VÂNDUT și nu dă culoarea; specificațiile pomenesc și crac lung, ca la un set
 14123 | Hanorac GAP FASHION LOGO 826982-01 (Sportisimo): pagina arată VÂNDUT, fără culoare; e hanorac listat la Geci; mărimi în litere (L-XXL) fără tabel
 14137 | Salopetă softshell Reima MJOSA 5100006A (Sportisimo): e overal, listat la Geci
+14265 | Salopetă Reima TAITOA 5200030E (Sportisimo): e set termo (strat de bază), listat la Salopete; pagina arată VÂNDUT, fără culoare
+14313 | Tricou GAP RAGLAN FASHION 636386-00 (Sportisimo): tricou listat la Geci; mărimi în litere (L-XXL); descrierea spune și mânecă scurtă, și mânecă lungă
