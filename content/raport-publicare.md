@@ -1,5 +1,9 @@
 # Raport publicare
 
+## 2026-10-22 09:55 (6e3f2af, Macovei Emil)
+- worker-ul de verificare a stocului a fost repornit
+- cod/configurație actualizate: tools/crawler/desc-extract.js 
+
 ## 2026-10-22 09:52 (3fc26b9, Macovei Emil)
 - cod/configurație actualizate: wp-content/plugins/hainute-core/includes/analytics.php 
 
