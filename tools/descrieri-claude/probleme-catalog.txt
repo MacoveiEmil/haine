@@ -44,3 +44,4 @@
 11538 | Geacă LEGO LWSAKU 612: e set geacă + pantaloni, listat la Geci
 11763 | Pantofi Geox SHAYLAX J46EYA: încălțăminte de iarnă cu partea de sus ridicată (ghete), categoria Pantofi
 11859 | Fular Reima Kuuraan 5300214B: titlu Fular circular, magazinul îl descrie drept căciulă (mărimi 46-54 = circumferința capului)
+12393 | Bluză Tommy Jeans DW0DW22023 (cardigan): același cod de damă ca 8668, mărimi XS-L, mânecă 64 cm la S; produs pentru adulți

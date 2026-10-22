@@ -1,0 +1,74 @@
+{
+ "id": 12389,
+ "versiune": "v7",
+ "descriere_html": "<p>Bocancii <a href=\"/brand/geox/\">Geox</a> negri sunt <a href=\"/categorie/ghete-cizme/\">bocanci pentru fete</a> neizolați, cu partea de sus neporoasă, care se curăță cu o cârpă umedă, pentru sezonul de tranziție. Interiorul e textil, iar branțul moale e profilat.</p><p>Au șiret cu fermoar lateral și închidere cu Velcro, deci se reglează o dată după picior și apoi se încalță repede. Bucla de la spate ajută la tras bocancul.</p><p>Pe dinăuntru și pe dinafară:</p><ul><li><strong>Vârf</strong>: cutie rotundă, întărită.</li><li><strong>Călcâi</strong>: contrafort rigid.</li><li><strong>Geox Respira</strong>: talpă în trei straturi, perforată.</li><li><strong>Talpă exterioară</strong>: din cauciuc.</li></ul><p>Numerele 28-35 sunt pentru copii de 4-11 ani, de regulă.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "Geox Bocanci copii culoarea negru"
+  },
+  {
+   "fapt": "neporos",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "Partea superioară neporoasă, ușor de curățat cu o cârpă umedă"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "Izolare: neizolat"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "Interiorul textil este confortabil pentru picior și facilitează păstrarea pantofilor curați"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "Branțul moale și profilat"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "Model cu siret cu fermoar lateral si inchidere cu Velcro"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "Contorul de călcâi rigid"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-negru-1040924",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox (bocanci)",
+  "Material": "sintetic, interior textil, talpă din cauciuc",
+  "Caracteristici": "neizolați, șiret, fermoar lateral și Velcro, Geox Respira",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul scrie „piele întoarsă” în descriere, dar compoziția dă material sintetic; nu am pomenit materialul."
+ ]
+}
