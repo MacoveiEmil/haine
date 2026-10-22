@@ -1,0 +1,69 @@
+{
+ "id": 12646,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> FASTICS sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> negri, cu buline, din imitație de piele și material textil, ușor de ținut curați, în stil casual și streetwear. Tehnologia GEOX Respira scoate umezeala spre exterior.</p><p>Aricii și inserția elastică fac încălțatul și descălțatul rapid, iar călcâiul întărit ține piciorul pe loc. Talpa plată din cauciuc ține bine pe sol, deci pantoful merge și la joacă.</p><p>Pe dinăuntru și dedesubt:</p><ul><li><strong>Interior</strong>: căptușit cu textil moale.</li><li><strong>Branț</strong>: material textil.</li><li><strong>Talpă</strong>: plată, din cauciuc.</li></ul><p>Numerele 28-35 sunt pentru fete de aproximativ 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-fastics-sneakers-pentru-copii-negri-j46gzb-0bcbl-1834689",
+   "fragment": "Geox FASTICS sneakers pentru copii negri J46GZB.0BCBL"
+  },
+  {
+   "fapt": "buline",
+   "url": "answear.ro/p/geox-fastics-sneakers-pentru-copii-negri-j46gzb-0bcbl-1834689",
+   "fragment": "designul atractiv cu buline"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-fastics-sneakers-pentru-copii-negri-j46gzb-0bcbl-1834689",
+   "fragment": "Partea superioară din imitație de piele și material sintetic facilitează menținerea încălțămintei curate"
+  },
+  {
+   "fapt": "stil",
+   "url": "answear.ro/p/geox-fastics-sneakers-pentru-copii-negri-j46gzb-0bcbl-1834689",
+   "fragment": "stilizări casual și streetwear"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-fastics-sneakers-pentru-copii-negri-j46gzb-0bcbl-1834689",
+   "fragment": "Tehnologia GEOX Respira™ susține termoreglarea naturală a piciorului, eliminând umiditatea spre exterior"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/geox-fastics-sneakers-pentru-copii-negri-j46gzb-0bcbl-1834689",
+   "fragment": "Închidere cu arici și inserție elastică facilitează încălțarea și descălțarea rapidă"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-fastics-sneakers-pentru-copii-negri-j46gzb-0bcbl-1834689",
+   "fragment": "Călcâi întărit"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-fastics-sneakers-pentru-copii-negri-j46gzb-0bcbl-1834689",
+   "fragment": "Interior căptușit cu material textil"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-fastics-sneakers-pentru-copii-negri-j46gzb-0bcbl-1834689",
+   "fragment": "Branț din material textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-fastics-sneakers-pentru-copii-negri-j46gzb-0bcbl-1834689",
+   "fragment": "Talpă plată din cauciuc"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox FASTICS",
+  "Material": "imitație de piele și textil, interior textil, talpă din cauciuc",
+  "Caracteristici": "Geox Respira, arici cu inserție elastică, buline",
+  "Cod produs": "J46GZB.0BCBL"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Compoziția magazinului scrie „Piatră sintetică” (probabil eroare pentru piele sintetică); am folosit „imitație de piele” din descriere."
+ ]
+}
