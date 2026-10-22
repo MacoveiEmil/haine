@@ -1,5 +1,18 @@
 # Raport publicare
 
+## 2026-10-22 11:23 (9de02e8, Claude)
+- PUBLICAT, verificare OK: 10036 86 cuv | OK
+- PUBLICAT, verificare OK: 10053 90 cuv | OK
+- PUBLICAT, verificare OK: 10101 97 cuv | OK
+- PUBLICAT, verificare OK: 10105 89 cuv | OK
+- PUBLICAT, verificare OK: 10116 99 cuv | OK
+- PUBLICAT, verificare OK: 10118 101 cuv | OK
+- PUBLICAT, verificare OK: 10125 97 cuv | OK
+- PUBLICAT, verificare OK: 10126 97 cuv | OK
+- PUBLICAT, verificare OK: 10139 86 cuv | OK
+- PUBLICAT, verificare OK: 10141 83 cuv | OK
+- cod/configurație actualizate: tools/descrieri-claude/loturi/b036.py 
+
 ## 2026-10-22 11:22 (440547f, Claude)
 - PUBLICAT, verificare OK: 10006 87 cuv | OK
 - PUBLICAT, verificare OK: 10007 89 cuv | OK
