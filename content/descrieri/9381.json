@@ -1,0 +1,62 @@
+{
+ "id": 9381,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KG0KG08911 sunt <a href=\"/categorie/pantaloni-treninguri/\">pantaloni din tricot pentru fete</a>, roșii, uni, din tricot fin cu bumbac, poliester, poliamidă și elastan. Sunt pantaloni simpli, de purtat zilnic, acasă sau la școală.</p><p>Talia e regulată, cu bandă elastică și șnururi, deci se strânge și pe un copil slab, iar crăcii sunt drepți, nici largi, nici mulați. Cei 2% elastan îi fac să se întindă la mișcare.</p><p>Pe scurt:</p><ul><li><strong>Buzunare</strong>: două, laterale.</li><li><strong>Compoziție</strong>: 46% bumbac, 40% poliester, 12% poliamidă, 2% elastan.</li><li><strong>Model</strong>: uni.</li></ul><p>Mărimile 128-176 se potrivesc copiilor de pe la 8 până pe la 16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-copii-culoarea-rosu-uni-kg0kg08911-1640515",
+   "fragment": "Pantaloni copii culoarea rosu, uni, KG0KG08911"
+  },
+  {
+   "fapt": "tricot",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-copii-culoarea-rosu-uni-kg0kg08911-1640515",
+   "fragment": "Model confectionat din tricot fin"
+  },
+  {
+   "fapt": "talie",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-copii-culoarea-rosu-uni-kg0kg08911-1640515",
+   "fragment": "Talie regulata"
+  },
+  {
+   "fapt": "elastic",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-copii-culoarea-rosu-uni-kg0kg08911-1640515",
+   "fragment": "Banda elastica in talie"
+  },
+  {
+   "fapt": "șnururi",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-copii-culoarea-rosu-uni-kg0kg08911-1640515",
+   "fragment": "In talie snururi"
+  },
+  {
+   "fapt": "picior",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-copii-culoarea-rosu-uni-kg0kg08911-1640515",
+   "fragment": "Picior drept"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-copii-culoarea-rosu-uni-kg0kg08911-1640515",
+   "fragment": "Două buzunare laterale"
+  },
+  {
+   "fapt": "compoziție",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-copii-culoarea-rosu-uni-kg0kg08911-1640515",
+   "fragment": "46% Bumbac, 40% Poliester , 12% Poliamida, 2% Elastan"
+  },
+  {
+   "fapt": "uni",
+   "url": "answear.ro/p/tommy-hilfiger-pantaloni-copii-culoarea-rosu-uni-kg0kg08911-1640515",
+   "fragment": "Model: uni"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger KG0KG08911",
+  "Material": "46% bumbac, 40% poliester, 12% poliamidă, 2% elastan",
+  "Caracteristici": "tricot fin, talie elastică cu șnur, picior drept",
+  "Cod produs": "KG0KG08911"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
