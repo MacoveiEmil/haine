@@ -1,0 +1,80 @@
+{
+ "id": 11288,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/columbia/\">Columbia</a> Bugaboo 2089842 sunt <a href=\"/categorie/unisex-imbracaminte-pantaloni-treninguri/\">pantaloni de schi unisex</a> (negru pe site, albaștri la magazin), cu Omni-tech® și cusături sudate pentru vreme rea și Omni-Heat pentru căldură. Sistemul OUTGROWN îi face să țină mai multe sezoane.</p><p>Talia se reglează în lățime cu scai, deci se strânge pe un copil slab. Cracii sunt drepți, cu manșetă cauciucată jos, care ține zăpada afară.</p><p>Pe scurt:</p><ul><li><strong>Închidere</strong>: fermoar.</li><li><strong>Buzunare</strong>: cu închidere.</li><li><strong>Umplutură</strong>: 85% poliester reciclat, 15% poliester.</li></ul><p>Mărimile 104-164 sunt pentru copii de 4-14 ani, de obicei.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "Columbia Pantaloni de schi pentru copii Bugaboo 2089842"
+  },
+  {
+   "fapt": "Omni-tech",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "Tehnologia Omni-tech®"
+  },
+  {
+   "fapt": "cusături",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "cusaturilor sudate acoperite cu un strat impermeabil"
+  },
+  {
+   "fapt": "Omni-Heat",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "Tehnologia Omni-Heat"
+  },
+  {
+   "fapt": "OUTGROWN",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "Sistemul OUTGROWN Grow de la Columbia"
+  },
+  {
+   "fapt": "talie",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "Talia regleaza latimea cu scai"
+  },
+  {
+   "fapt": "craci",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "Picior drept"
+  },
+  {
+   "fapt": "manșetă",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "Partea de jos a piciorului cu manseta cauciucata"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "Inchidere si fixare cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "Buzunare incheiate"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "85% Poliester reciclat, 15% Poliester"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/columbia-pantaloni-de-schi-pentru-copii-bugaboo-2089842-1366595",
+   "fragment": "albastru"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Columbia Bugaboo",
+  "Material": "100% poliester; umplutură 85% poliester reciclat",
+  "Caracteristici": "Omni-tech®, Omni-Heat, OUTGROWN, talie reglabilă",
+  "Cod produs": "2089842"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site spune negru; magazinul dă culoarea albastru.",
+  "Magazinul precizează că rezistența la apă nu garantează impermeabilitatea completă."
+ ]
+}

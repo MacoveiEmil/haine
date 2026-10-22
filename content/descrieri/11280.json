@@ -1,54 +1,62 @@
 {
  "id": 11280,
- "versiune": "v6",
- "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> LIGHTYLOO sunt <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidași pentru bebeluși</a> de culoare argintie, realizați din material textil și piele ecologică. Modelul are o talpă din cauciuc și un profil scurt.</p><p>La încălțarea celor mici contează câteva soluții constructive simple:</p><ul><li><strong>Închidere</strong>: baretele cu velcro simplifică prinderea și desfacerea pantofului.</li><li><strong>Vârf</strong>: cutie rotundă și întărită.</li><li><strong>Călcâi</strong>: contor rigidizat la spate, care păstrează forma încălțămintei.</li><li><strong>Talpă</strong>: structură în trei straturi cu sistem de perforații dedicate ventilației.</li><li><strong>Interior</strong>: căptușeală simplă din material textil.</li></ul><p>Modelul nu declară protecție la apă, așa că pentru vreme ploioasă sau noroi sunt mai potrivite <a href=\"/categorie/bebe-incaltaminte-ghete-cizme/\">ghete pentru bebeluși</a>. Mărimile de la 20 până la 27 acoperă, orientativ, copiii cu vârsta între 1 și 4 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> LIGHTYLOO x Lilo &amp; Stitch B6561C sunt <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidași pentru bebeluși</a> argintii, cu profil scurt, din material textil și piele ecologică, cu personaje din Lilo și Stitch. Talpa are sistemul Geox Respira, în trei straturi cu perforări.</p><p>Velcro-ul îi face ușor de încălțat și de scos, iar contrafortul rigidizat ține călcâiul în pantof la primii pași prin parc.</p><p>Pe scurt:</p><ul><li><strong>Vârf</strong>: cutie rotundă, întărită.</li><li><strong>Interior</strong>: textil, ușor de ținut curat.</li><li><strong>Talpă</strong>: din cauciuc, rezistentă la uzură.</li></ul><p>Numerele 20-27 sunt pentru cei mici de 1-4 ani, în general.</p>",
  "surse": [
   {
-   "fapt": "material textil și piele ecologică",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
+   "fapt": "model",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
+   "fragment": "Geox Sneakers pentru copii LIGHTYLOO x Lilo & Stitch culoarea argintiu, B6561C.0AJAS"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
+   "fragment": "Înălțime: mic de statură"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
    "fragment": "combinația materialului textil cu pielea ecologică"
   },
   {
-   "fapt": "închidere cu velcro",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
-   "fragment": "Închiderea cu velcro facilitează încălțarea și scoaterea pantofilor."
-  },
-  {
-   "fapt": "vârf rotund și întărit",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
-   "fragment": "Cutie rotunda, intarita."
-  },
-  {
-   "fapt": "călcâi rigidizat",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
-   "fragment": "Contorul de călcâi rigidizat"
-  },
-  {
-   "fapt": "talpă cu trei straturi și perforații",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
    "fragment": "talpei in trei straturi cu sistemul de perforari"
   },
   {
-   "fapt": "interior textil",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
-   "fragment": "Interiorul textil"
+   "fapt": "velcro",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
+   "fragment": "Închiderea cu velcro facilitează încălțarea și scoaterea pantofilor"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
+   "fragment": "Contorul de călcâi rigidizat"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
+   "fragment": "Interiorul textil este confortabil pentru picior și facilitează păstrarea pantofilor curați"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lightyloo-x-lilo-stitch-culoarea-argintiu-b6561c-0ajas-1723028",
+   "fragment": "talpă din cauciuc care este durabilă și rezistentă la deteriorare"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "LIGHTYLOO x Lilo & Stitch",
-  "Material": "Material textil, piele ecologică",
-  "Caracteristici": "Închidere velcro, talpă cu perforații Geox Respira, vârf întărit, contor de călcâi rigidizat",
-  "Cod produs": "B6561C.0AJAS.20.27"
+  "Model": "Geox LIGHTYLOO x Lilo & Stitch",
+  "Material": "textil și piele ecologică, interior textil, talpă din cauciuc",
+  "Caracteristici": "velcro, Geox Respira",
+  "Cod produs": "B6561C.0AJAS"
  },
- "categorie_complementara": {
-  "slug": "/categorie/bebe-incaltaminte-ghete-cizme/",
-  "motiv": "Modelul este din material textil și nu oferă protecție la apă, astfel că pentru vreme rece și umedă sunt necesare ghete."
- },
+ "categorie_complementara": null,
  "varsta_orientativa": "1-4 ani",
  "date_insuficiente": false,
- "confidence_notes": [
-  "Magazinul listează produsul la secțiunea Fete, însă în catalog este încadrat la Bebe.",
-  "Mărimile 24-27 sunt semnalate ca epuizate pe answear.ro, dar sunt incluse în intervalul general al produsului conform catalogului.",
-  "Scris de Gemini (gemini-flash-latest); retușat manual: scoase afirmații care nu apar în sursă."
- ]
+ "confidence_notes": []
 }
