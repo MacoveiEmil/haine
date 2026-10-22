@@ -1,0 +1,105 @@
+{
+ "id": 9050,
+ "versiune": "v7",
+ "descriere_html": "<p>Pantofii <a href=\"/brand/reima/\">Reima</a> Hyppii albaștri sunt <a href=\"/categorie/bebe-incaltaminte-pantofi/\">pantofi pentru bebeluși</a> cu profil înalt și talpă din gumă canelată, care prinde bine solul. Fața e din Vegan PU și textil, cu acoperire PFC Repellent fără compuși perfluorurați, rezistentă la apă.</p><p>Partea de sus ridicată sprijină glezna pe teren denivelat, contrafortul rigid ține călcâiul, iar vârful e rotund, ușor întărit. Se închid cu velcro, au buclă la spate și elemente reflectorizante.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic, material textil.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Izolație</strong>: nu au.</li></ul><p>Numerele 22-31 sunt pentru copii de aproximativ 1-7 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Hyppii"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "albastru"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "înalt"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Talpa din guma"
+  },
+  {
+   "fapt": "canelată",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Modelul cu talpa exterioara canelata asigura o aderenta ridicata la sol"
+  },
+  {
+   "fapt": "Vegan PU",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Vegan PU este o alternativă ecologică la PVC"
+  },
+  {
+   "fapt": "PFC",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Modelul cu acoperire ecologica PFC Repellent cu apa libera, care asigura rezistenta la apa"
+  },
+  {
+   "fapt": "glezna",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Partea superioară ridicată ajută la rigidizarea gleznei"
+  },
+  {
+   "fapt": "neuniforme",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "atunci când se deplasează pe suprafețe neuniforme"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Contorul de călcâi rigid"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Cutie rotunda, usor intarita"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Închiderea cu velcro"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Bucla de la spate"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Elementele reflectorizante sporesc vizibilitatea"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Material sintetic, Material textil"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Material textil"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/reima-pantofi-copii-hyppii-5400144a-1578004",
+   "fragment": "Izolare: neizolat"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Hyppii",
+  "Material": "Vegan PU, textil",
+  "Caracteristici": "PFC Repellent, velcro, profil înalt",
+  "Cod produs": "5400144A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-7 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „Hyppii” în locul culorii; culoarea e cea de la magazin (albastru).",
+  "Rezistența la apă e cea declarată de magazin, care precizează că nu garantează impermeabilitatea completă."
+ ]
+}

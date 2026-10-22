@@ -1,0 +1,84 @@
+{
+ "id": 9218,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/reima/\">Reima</a> Sydvest roz este o <a href=\"/categorie/geci-jachete/\">geacă de iarnă pentru fete</a> cu membrană ReimaTec, care apără de ploaie și vânt și rămâne respirabilă. Cusăturile principale sunt sigilate cu bandă, iar izolația e groasă.</p><p>Căptușeala se poate purta și separat. Gulerul ridicat și gluga detașabilă apără de frig, iar fermoarul pe toată lungimea are clapă interioară și exterioară. Tăietura e simplă, fără blocare.</p><p>Detaliile de bază:</p><ul><li><strong>Material 1</strong>: 100% poliester cu strat de poliuretan.</li><li><strong>Umplutură</strong>: 100% poliester.</li><li><strong>Glugă</strong>: detașabilă.</li></ul><p>Mărimile 92-140 sunt pentru copii de aproximativ 2-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "Sydvest"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "culoarea roz"
+  },
+  {
+   "fapt": "ReimaTec",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "ReimaTec oferă protecție împotriva ploii și vântului, asigurând în același timp o respirabilitate ridicată"
+  },
+  {
+   "fapt": "cusături",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "Cusăturile principale cu bandă etanșează"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "groasă"
+  },
+  {
+   "fapt": "membrană",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "membrană impermeabilă"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "Model cu captuseala care poate fi purtata separat"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "Gulerul ridicat și gluga detașabilă"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "Închidere cu fermoar pe toată lungimea, cu clapă interioară și exterioară"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "100% Poliester cu strat de poliuretan"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "detașabilă",
+   "url": "answear.ro/p/reima-geaca-copii-sydvest-culoarea-roz-5100158a-1718334",
+   "fragment": "detașabilă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Sydvest",
+  "Material": "poliester cu strat de poliuretan",
+  "Caracteristici": "ReimaTec, cusături sigilate, căptușeală detașabilă",
+  "Cod produs": "5100158A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea scurtă spune „ușor izolat”, caracteristicile „izolație groasă”; am urmat caracteristicile."
+ ]
+}

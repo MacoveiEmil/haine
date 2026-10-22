@@ -1,0 +1,94 @@
+{
+ "id": 9146,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/adidas-performance/\">adidas Performance</a> AJAX JN0245 neagră este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> de tranziție, neizolată, din material textil cu imprimeu, cu glugă și căptușeală din plasă. Poliesterul o face rezistentă la îndoire.</p><p>Fasonul e drept, se închide cu fermoar, iar mânecile se termină cu elastic. Cele două buzunare laterale au fermoar, ca lucrurile mici să nu cadă.</p><p>Detaliile de bază:</p><ul><li><strong>Material 1</strong>: 100% poliester.</li><li><strong>Material 2</strong>: 100% poliuretan termoplastic.</li><li><strong>Lungime</strong>: 60 cm la mărimea 152.</li></ul><p>Mărimile 116-164 sunt pentru copii de cam 6-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "AJAX"
+  },
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "JN0245"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "culoarea negru"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "Model neizolat confecționat din material textil cu imprimeu"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "Model cu gluga"
+  },
+  {
+   "fapt": "plasă",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "Model captusit cu plasa"
+  },
+  {
+   "fapt": "îndoire",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "Poliesterul oferă o rezistență mai mare la îndoire"
+  },
+  {
+   "fapt": "fason",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "Fason drept"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "Mâneci finisate cu o coadă elastică"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "Două buzunare laterale antiderapante și cu fermoar"
+  },
+  {
+   "fapt": "material1",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "material2",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "100% Poliuretan termoplastic"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "Lungimea: 60 cm"
+  },
+  {
+   "fapt": "mărime",
+   "url": "answear.ro/p/adidas-performance-geaca-copii-ajax-culoarea-negru-jn0245-1577246",
+   "fragment": "152 cm"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "adidas Performance AJAX",
+  "Material": "poliester, poliuretan termoplastic",
+  "Caracteristici": "glugă, căptușeală din plasă, buzunare cu fermoar",
+  "Cod produs": "JN0245"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Modelul e legat de clubul Ajax doar după numele din titlu; magazinul nu spune mai mult."
+ ]
+}
