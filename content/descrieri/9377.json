@@ -1,0 +1,94 @@
+{
+ "id": 9377,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/columbia/\">Columbia</a> Hikebound bordo pe site (roz la magazin) este o <a href=\"/categorie/geci-jachete/\">geacă de iarnă pentru fete</a> izolată, din material neted, cu izolație sintetică medie spre groasă. Tehnologia Omni-Tech are membrană microporoasă, respirabilă, și cusături sudate, iar Omni-Heat ajută la reglarea temperaturii corpului.</p><p>Are glugă integrată, se închide cu fermoar și velcro, iar mânecile se termină cu elastic. În talie are bandă elastică, iar cele două buzunare laterale au fermoar.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Lungime</strong>: 57 cm la mărimea 116.</li><li><strong>Impermeabilitate</strong>: membrană impermeabilă.</li></ul><p>Mărimile 104-164 se potrivesc orientativ copiilor de 4-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "Hikebound"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "roz"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "Model izolat confecționat din material neted"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "medie, groasă"
+  },
+  {
+   "fapt": "Omni-Tech",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "Tehnologia Omni-tech® ofera protectie completa impotriva schimbarilor bruste ale vremii datorita membranei microporoase, respirabile si a cusaturilor sudate"
+  },
+  {
+   "fapt": "Omni-Heat",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "Tehnologia Omni-Heat regleaza temperatura corpului"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "integrată"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "Fixarea cu fermoar si velcro"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "Mâneci finisate cu o coadă elastică"
+  },
+  {
+   "fapt": "talie",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "Banda elastica in talie"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "Două buzunare laterale antiderapante și cu fermoar"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "Lungimea: 57 cm"
+  },
+  {
+   "fapt": "mărime",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "116 cm"
+  },
+  {
+   "fapt": "membrană",
+   "url": "answear.ro/p/columbia-geaca-copii-hikebound-culoarea-bordo-2089971-1606686",
+   "fragment": "membrană impermeabilă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Columbia Hikebound",
+  "Material": "100% poliester",
+  "Caracteristici": "Omni-Tech, Omni-Heat, glugă integrată",
+  "Cod produs": "2089971"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Culoarea din titlul site-ului (bordo) nu se potrivește cu cea a magazinului (roz)."
+ ]
+}

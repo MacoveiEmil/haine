@@ -1,0 +1,74 @@
+{
+ "id": 9255,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KG0KG08927 violet este o <a href=\"/categorie/geci-jachete/\">geacă de tranziție pentru fete</a> ușor izolată, din material neted, realizată parțial din poliester reciclat. Nu are glugă, iar izolația ușoară e prinsă pe căptușeală.</p><p>Tăietura e simplă, fără blocare, iar închiderea se face cu fermoar. E o geacă potrivită pentru zilele răcoroase, când o haină groasă ar fi prea mult.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Căptușeală</strong>: completă.</li><li><strong>Izolație</strong>: ușoară.</li></ul><p>Mărimile 116-122 sunt pentru copii de cam 6-7 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "KG0KG08927"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "culoarea violet"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "Model usor izolat confecționat din material neted"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "Acest produs este realizat partial din poliester reciclat"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "Model usor izolat pe captuseala"
+  },
+  {
+   "fapt": "tăiere",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "ușoară",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "ușoară"
+  },
+  {
+   "fapt": "completă",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-copii-culoarea-violet-kg0kg08927-1653396",
+   "fragment": "cu căptușeală completă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger KG0KG08927",
+  "Material": "100% poliester",
+  "Caracteristici": "ușor izolată, fermoar",
+  "Cod produs": "KG0KG08927"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-7 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Sursa are puține detalii; „zilele răcoroase” derivă din izolația ușoară."
+ ]
+}

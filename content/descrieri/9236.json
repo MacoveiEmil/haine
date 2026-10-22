@@ -1,0 +1,94 @@
+{
+ "id": 9236,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de schi <a href=\"/brand/rossignol/\">Rossignol</a> WISPILE turcoaz pe site (bleumarin la magazin) este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> ușor izolată, din material modelat, cu umplutură sintetică și glugă integrată. Înăuntru are centură de zăpadă, care oprește zăpada să intre sub geacă chiar și la o căzătură.</p><p>Mânecile raglan nu încurcă mișcarea și au manșon cu gaură pentru degetul mare. Pe lângă cele două buzunare laterale cu fermoar, are unul pe piept și unul pe mânecă.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Căptușeală</strong>: completă, sintetică.</li><li><strong>Croială</strong>: regular fit.</li></ul><p>Mărimile 128-170 se potrivesc orientativ copiilor de 8-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "WISPILE"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "bleumarin"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "Model ușor izolat confecționat din material modelat"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "sintetică"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "integrată"
+  },
+  {
+   "fapt": "centură",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "La interior, o centură de zăpadă încorporată"
+  },
+  {
+   "fapt": "cădere",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "împiedică pătrunderea zăpezii sub jachetă, chiar și în caz de cădere"
+  },
+  {
+   "fapt": "raglan",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "Maneca raglan"
+  },
+  {
+   "fapt": "degetul",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "Manson cu gaura pentru degetul mare"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "Două buzunare laterale antiderapante și cu fermoar"
+  },
+  {
+   "fapt": "piept",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "Buzunar pe piept"
+  },
+  {
+   "fapt": "mânecă",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "Un buzunar suplimentar pe mânecă"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "cu căptușeală completă, sintetică"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/rossignol-geaca-copii-wispile-culoarea-turcoaz-rlnyj02-1648267",
+   "fragment": "Croială: regular fit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Rossignol WISPILE",
+  "Material": "100% poliester",
+  "Caracteristici": "centură de zăpadă, mâneci raglan, 4 buzunare",
+  "Cod produs": "RLNYJ02"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Culoarea din titlul site-ului (turcoaz) nu se potrivește cu cea a magazinului (bleumarin)."
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "id": 9258,
+ "versiune": "v7",
+ "descriere_html": "<p>Bocancii <a href=\"/brand/geox/\">Geox</a> JUNETTE negri sunt <a href=\"/categorie/ghete-cizme/\">ghete pentru fete</a> cu talpă groasă, plată, canelată, din spumă EVA ușoară și elastică, și sistemul Geox Respira, cu talpă în trei straturi perforată pentru ventilare.</p><p>Se leagă cu șiret clasic și au fermoar lateral, deci se pun și se scot ușor. Vârful e rotund, ușor întărit, contrafortul rigid ține călcâiul pe loc, iar bucla de la spate ajută la încălțat. Interiorul e textil.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Izolație</strong>: nu au.</li></ul><p>Numerele 36-39 se poartă de pe la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "JUNETTE"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "culoarea negru"
+  },
+  {
+   "fapt": "canelată",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Modelul cu talpa exterioară canelată"
+  },
+  {
+   "fapt": "EVA",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Talpa exterioară este realizată din spumă EVA ușoară, elastică"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "groasă, plată"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Sistemul Geox Respira"
+  },
+  {
+   "fapt": "straturi",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "șiret",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Șiretul clasic permite ajustarea individuală"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Închiderea laterală convenabilă cu fermoar"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Cutie rotunda, usor intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "ține piciorul în pantof, astfel încât să nu alunece"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Bucla de la spate"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Interiorul textil este confortabil"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Material sintetic"
+  },
+  {
+   "fapt": "textil",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Material textil"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/geox-bocanci-copii-junette-culoarea-negru-j56hvb-000bc-1612540",
+   "fragment": "Izolare: neizolat"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox JUNETTE",
+  "Talpă": "EVA, Geox Respira",
+  "Caracteristici": "șiret, fermoar lateral, talpă groasă",
+  "Cod produs": "J56HVB.000BC"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea spune „piele întoarsă”, iar compoziția indică material sintetic, imitație de piele; am scris doar compoziția."
+ ]
+}

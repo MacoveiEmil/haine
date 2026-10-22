@@ -69,3 +69,5 @@
 14670 KILPI ORLETI-JB: titlul site-ului nu are numele modelului
 8642 Geox CASEY: descrierea spune piele întoarsă, compoziția e sintetică (imitație de piele)
 8714 Biomecanics 262158: descrierea spune „numai materiale naturale”, compoziția e sintetică
+9050 Reima Hyppii: titlul site-ului are „Hyppii” în loc de culoare (la magazin: albastru)
+8998 Biomecanics 262271: compoziția spune piele naturală, atributele spun sintetic/textil
