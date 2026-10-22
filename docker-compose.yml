@@ -24,7 +24,7 @@ services:
       retries: 20
 
   wp:
-    image: wordpress:php8.2-apache
+    image: wordpress:php8.3-apache
     restart: unless-stopped
     depends_on:
       db:
