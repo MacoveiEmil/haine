@@ -1,32 +1,17 @@
 {
  "id": 10433,
- "versiune": "v6",
- "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB10587 este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de tranziție pentru băieți</a>, bleumarin, de tip windbreaker: un strat ușor din nailon care oprește rafalele de vânt. E făcută pentru zilele de primăvară și toamnă petrecute afară, când o geacă de iarnă ar fi prea mult.</p><p>Fiind o geacă pentru vreme schimbătoare, detaliile ei servesc la reglat și la acoperit capul:</p><ul><li><strong>Glugă</strong>: integrată, pentru momentele în care se schimbă vremea.</li><li><strong>Tiv și manșete</strong>: cu bordură elastică, strâng geaca la încheieturi și pe șolduri.</li><li><strong>Căptușeală</strong>: parțială, din plasă.</li><li><strong>Închidere</strong>: fermoar pe toată lungimea.</li><li><strong>Buzunare</strong>: laterale, de tip slip-on.</li></ul><p>Croiala e relaxed fit, cu lungimea până la șolduri, iar pe față are logo și inscripție. Se găsește în mărimile 104-122, orientativ pentru copii de 4-7 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KB0KB10587 este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de tranziție pentru băieți</a>, bleumarin, de tip windbreaker, din nailon 100%, care oprește rafalele de vânt. Are modele cu logo și inscripție și e ușoară, pentru ieșirile de primăvară și toamnă.</p><p>Croiala e relaxed fit, cu lungimea până la șolduri, iar tivul și manșetele cu bordură elastică strâng geaca pe corp, ca să nu fluture în vânt.</p><p>Pentru zilele cu vreme schimbătoare:</p><ul><li><strong>Glugă</strong>: integrată.</li><li><strong>Căptușeală</strong>: parțială, din plasă.</li><li><strong>Buzunare</strong>: laterale, tip slip-on.</li><li><strong>Închidere</strong>: fermoar pe toată lungimea.</li></ul><p>Mărimile 104-122 sunt pentru copii de cam 4-7 ani.</p>",
  "surse": [
   {
-   "fapt": "tip",
+   "fapt": "model",
    "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "Geacă de tranziție pentru copii"
-  },
-  {
-   "fapt": "culoare",
-   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "bleumarin"
-  },
-  {
-   "fapt": "cod",
-   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "KB0KB10587"
-  },
-  {
-   "fapt": "ușoară, tranziție",
-   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "geacă ușoară de tranziție"
+   "fragment": "Tommy Hilfiger Geacă de tranziție pentru copii bleumarin KB0KB10587"
   },
   {
    "fapt": "windbreaker",
    "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "protejează împotriva rafalelor de vânt"
+   "fragment": "Construcția gecii windbreaker protejează împotriva rafalelor de vânt"
   },
   {
    "fapt": "material",
@@ -34,34 +19,19 @@
    "fragment": "100% Nailon"
   },
   {
-   "fapt": "anotimpuri",
+   "fapt": "logo",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
+   "fragment": "Decorată cu modele cu logo și inscripție"
+  },
+  {
+   "fapt": "sezon",
    "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
    "fragment": "activitățile în aer liber de primăvară și toamnă"
   },
   {
-   "fapt": "glugă",
+   "fapt": "ușoară",
    "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "integrată oferă protecție suplimentară capului pe vreme schimbătoare"
-  },
-  {
-   "fapt": "tiv și manșete",
-   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "Tivul și manșetele cu bordură elastică"
-  },
-  {
-   "fapt": "căptușeală",
-   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "Căptușeala parțială din plasă"
-  },
-  {
-   "fapt": "fermoar",
-   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "pe toată lungimea facilitează"
-  },
-  {
-   "fapt": "buzunare",
-   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "laterale slip-on"
+   "fragment": "geacă ușoară de tranziție"
   },
   {
    "fapt": "croială",
@@ -74,15 +44,35 @@
    "fragment": "Lungimea până la șolduri"
   },
   {
-   "fapt": "logo",
+   "fapt": "elastic",
    "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
-   "fragment": "modele cu logo și inscripție"
+   "fragment": "Tivul și manșetele cu bordură elastică"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
+   "fragment": "Gluga integrată"
+  },
+  {
+   "fapt": "plasă",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
+   "fragment": "Căptușeala parțială din plasă"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
+   "fragment": "Buzunarele practice laterale slip-on"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/tommy-hilfiger-geaca-de-tranzitie-pentru-copii-bleumarin-kb0kb10587-1822927",
+   "fragment": "Închiderea cu fermoar pe toată lungimea"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Tommy Hilfiger KB0KB10587",
-  "Material": "100% nailon, căptușeală parțială din plasă",
-  "Caracteristici": "windbreaker, glugă integrată, tiv și manșete elastice, fermoar pe toată lungimea, buzunare laterale",
+  "Material": "100% nailon",
+  "Caracteristici": "windbreaker, glugă integrată, căptușeală din plasă, tiv și manșete elastice",
   "Cod produs": "KB0KB10587"
  },
  "categorie_complementara": null,

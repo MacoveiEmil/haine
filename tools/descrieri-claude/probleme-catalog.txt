@@ -30,3 +30,4 @@
 10275 | Bluză Reima Tahti 5200048A: e romper (salopetă), listat la Bluze
 10364 | Geacă Calvin Klein Jeans LVCKTJM15B: titlu Violet, magazinul spune neagră
 10396 | Pantofi Biomecanics 261104: sunt ghete (căptușite cu lână), categoria Pantofi
+10466 | Pantofi Biomecanics 261102: sunt ghete de iarnă (categoria Pantofi)
