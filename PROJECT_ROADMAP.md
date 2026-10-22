@@ -83,7 +83,7 @@ cd tools/crawler && npm install
 ### Snapshot DB (când datele s-au schimbat și vrei să le pui în git)
 Comanda e în CLAUDE.md, secțiunea „Snapshot DB". Exportul trebuie sanitizat (repo public).
 
-## Server (beestyle.ro, pre-lansare)
+## Server (beestyle.ro, LIVE din 22.10.2026)
 
 - VPS ROMARG RMGP-2 (Ubuntu 24.04, 2 vCPU, 4 GB RAM + 4 GB swap), IP 89.37.212.245.
   DNS la ROMARG: `beestyle.ro` A → IP, `www` CNAME → `beestyle.ro`.
@@ -93,7 +93,8 @@ Comanda e în CLAUDE.md, secțiunea „Snapshot DB". Exportul trebuie sanitizat 
   `cd /opt/beestyle && git pull && docker compose -f docker-compose.prod.yml up -d`
   (WordPress + MySQL + Caddy cu HTTPS automat). Cheile sunt DOAR pe server:
   `docker/secrets.env` (sync, admin, pre-lansare, CJ) și `.env` (parola DB); nu se comit.
-- **Pre-lansare** (`HAINUTE_PRELAUNCH=1`, logica în `docker/gate.php`): fără cookie de acces,
+- **Lansat** pe 22.10.2026: `HAINUTE_PRELAUNCH: "0"` în `docker-compose.prod.yml` (suprascrie
+  `docker/secrets.env`; înapoi la pre-lansare: `"1"` + push). **Pre-lansarea** (logica în `docker/gate.php`): fără cookie de acces,
   orice pagină dă „Site în pregătire” (401), `robots.txt` blochează tot, noindex peste tot.
   Acces o dată: `https://beestyle.ro/?acces=HAINUTE_PRELAUNCH_KEY` (cookie 30 zile);
   wp-admin: apoi `https://beestyle.ro/?admin=HAINUTE_ADMIN_KEY`. Cheile le vede proprietarul cu

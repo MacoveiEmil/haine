@@ -1,6 +1,7 @@
 # CLAUDE.md: reguli pentru AI-ul care lucrează pe beestyle.ro
 
-Site-ul se numește **beestyle.ro** (fost hainute.ro; prefixul intern `hainute_` din cod rămâne). Pe server e în **pre-lansare** (încuiat, noindex): nu-l debloca fără acordul proprietarului.
+Site-ul se numește **beestyle.ro** (fost hainute.ro; prefixul intern `hainute_` din cod rămâne). Site-ul e **LIVE** din 22.10.2026 (indexabil, public): orice push în `main` ajunge la vizitatori reali în 1–2 minute.
+Pre-lansarea se reactivează doar cu acordul proprietarului (`HAINUTE_PRELAUNCH: "1"` în `docker-compose.prod.yml`).
 
 Citește întâi [PROJECT_ROADMAP.md](PROJECT_ROADMAP.md): ce e proiectul, setup, ce urmează.
 
