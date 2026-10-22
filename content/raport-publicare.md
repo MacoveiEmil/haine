@@ -1,5 +1,15 @@
 # Raport publicare
 
+## 2026-10-22 09:43 (70b88df, Macovei Emil)
+- PUBLICAT, verificare OK: 10134 119 cuv | OK
+- PUBLICAT, verificare OK: 11867 129 cuv | OK
+- PUBLICAT, verificare OK: 12727 143 cuv | OK
+- PUBLICAT, verificare OK: 13276 128 cuv | OK
+- PUBLICAT, verificare OK: 13331 124 cuv | OK
+- PUBLICAT, verificare OK: 13507 130 cuv | OK
+- PUBLICAT, verificare OK: 8602 134 cuv | OK
+- PUBLICAT, verificare OK: 9797 126 cuv | OK
+
 ## 2026-10-21 12:15 (447cc3a, Macovei Emil)
 - cod/configurație actualizate: wp-content/themes/hainute/data/categorii-seo.json wp-content/themes/hainute/inc/category-seo.php 
 
