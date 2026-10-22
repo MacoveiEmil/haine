@@ -1,51 +1,69 @@
 {
  "id": 9083,
- "versiune": "v6",
- "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Tepastelu sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> verzi, realizați din combinația materialului textil cu pielea ecologică. Modelul este prevăzut cu membrana ReimaTec pentru protecție împotriva ploii și vântului, fiind gândit pentru purtarea zilnică afară.</p><p>Pentru ieșirile pe vreme schimbătoare, pantofii includ câteva detalii practice de construcție:</p><ul><li><strong>Închidere</strong>: închiderea cu velcro ușurează încălțarea fără legat de șireturi.</li><li><strong>Vârf</strong>: cutia lată a degetelor lasă spațiu și previne ciupirea degetelor la pășit.</li><li><strong>Branț</strong>: inserțiile detașabile Happy Fit ajută la verificarea directă a mărimii potrivite.</li><li><strong>Talpă</strong>: flexibilă, din material sintetic.</li></ul><p>Mărimile de pe site sunt cuprinse între 22 și 28, ceea ce corespunde orientativ copiilor cu vârste între 1 și 5 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Tepastelu sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași impermeabili unisex</a> verzi, din material textil și piele ecologică, cu membrana ReimaTec, care oprește ploaia și vântul. Sunt ușori și făcuți pentru purtat zilnic, inclusiv pe vreme umedă.</p><p>Cutia degetelor e lată, cu loc pentru un picior mai plinuț, iar aricii se ajustează repede. Inserțiile detașabile Happy Fit ajută la alegerea mărimii.</p><p>Mai trebuie știut:</p><ul><li><strong>Talpă</strong>: flexibilă.</li><li><strong>Profil</strong>: scurt.</li><li><strong>Apă</strong>: rezistență sporită, fără impermeabilitate completă.</li></ul><p>Numerele 22-28 sunt pentru copii între aproximativ 1 și 5 ani.</p>",
  "surse": [
   {
-   "fapt": "material exterior textil și piele ecologică",
-   "url": "https://answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
+   "fapt": "model",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
+   "fragment": "Sneakers pentru copii Tepastelu 5400141B"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
    "fragment": "combinația materialului textil cu pielea ecologică"
   },
   {
-   "fapt": "protecție ReimaTec împotriva ploii și vântului",
-   "url": "https://answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
+   "fapt": "ReimaTec",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
    "fragment": "ReimaTec oferă protecție împotriva ploii și vântului"
   },
   {
-   "fapt": "închidere cu velcro",
-   "url": "https://answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
-   "fragment": "Închiderea cu velcro"
+   "fapt": "zilnic",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
+   "fragment": "ideal pentru purtarea zilnică"
   },
   {
-   "fapt": "cutie lată a degetelor",
-   "url": "https://answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
+   "fapt": "cutie lată",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
    "fragment": "Cutia lată a degetelor"
   },
   {
-   "fapt": "branț detașabil Happy Fit",
-   "url": "https://answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
+   "fapt": "arici",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
+   "fragment": "Închiderea cu velcro"
+  },
+  {
+   "fapt": "Happy Fit",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
    "fragment": "Inserțiile detașabile Happy Fit"
   },
   {
-   "fapt": "talpă flexibilă",
-   "url": "https://answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
+   "fapt": "talpă",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
    "fragment": "Talpa flexibilă"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
+   "fragment": "Înălțime: mic de statură"
+  },
+  {
+   "fapt": "nu complet",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-tepastelu-5400141b-1716712",
+   "fragment": "nu garantează impermeabilitatea completă"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "Tepastelu",
-  "Material": "Gamba: Material sintetic, Material textil; Interiorul: Material sintetic, Material textil; Talpa: Material sintetic",
-  "Caracteristici": "Membrană ReimaTec, închidere cu arici / velcro, inserții detașabile Happy Fit, cutie lată a degetelor, talpă flexibilă",
+  "Model": "Reima Tepastelu",
+  "Material": "textil și piele ecologică",
+  "Caracteristici": "ReimaTec, arici, cutie lată a degetelor, Happy Fit",
   "Cod produs": "5400141B"
  },
  "categorie_complementara": null,
  "varsta_orientativa": "1-5 ani",
  "date_insuficiente": false,
  "confidence_notes": [
-  "Magazinul listează culoarea ca albastru, dar titlul din baza de date a site-ului specifică verde; a fost utilizată culoarea verde din titlu conform instrucțiunilor.",
-  "Produsul este încadrat la băieți pe pagina magazinului partener, dar este tratat ca unisex conform fișierului produse.json.",
-  "Scris de Gemini (gemini-flash-latest); retușat manual: scoase afirmații care nu apar în sursă."
+  "Titlul de pe site spune verde; magazinul listează culoarea albastru."
  ]
 }
