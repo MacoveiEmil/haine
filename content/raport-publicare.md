@@ -1,5 +1,16 @@
 # Raport publicare
 
+## 2026-10-22 10:03 (0d6676c, Macovei Emil)
+- PUBLICAT, verificare OK: 4944 114 cuv | OK
+- PUBLICAT, verificare OK: 4949 114 cuv | OK
+- PUBLICAT, verificare OK: 8523 108 cuv | OK
+- PUBLICAT, verificare OK: 8545 94 cuv | OK
+- PUBLICAT, verificare OK: 8566 164 cuv | OK
+- PUBLICAT, verificare OK: 8609 101 cuv | OK
+- PUBLICAT, verificare OK: 8618 85 cuv | OK
+- PUBLICAT, verificare OK: 8619 105 cuv | OK
+- PUBLICAT, verificare OK: 8628 90 cuv | OK
+
 ## 2026-10-22 09:55 (6e3f2af, Macovei Emil)
 - worker-ul de verificare a stocului a fost repornit
 - cod/configurație actualizate: tools/crawler/desc-extract.js 
