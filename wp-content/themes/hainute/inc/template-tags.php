@@ -212,22 +212,23 @@ function hainute_ro_count( $n, $singular, $plural ) {
 }
 
 /**
- * Dovadă socială: „X persoane se uită la acest produs acum". Dummy realist la
- * început (nu exagerat, variază puțin la refresh), înlocuit de datele reale când
- * crește audiența — vezi hainute_viewers_now() în plugin.
+ * Dovadă socială din vizite reale: „X persoane în ultimele 15 minute" (de la 5 în
+ * sus), altfel „X vizualizări în ultimele 24 de ore". Vezi hainute_viewers_now().
  */
 function hainute_the_social_proof( $product_id ) {
 	if ( ! function_exists( 'hainute_viewers_now' ) ) {
 		return;
 	}
-	// Vizualizări reale ale paginii în ultimele 15 minute (afișate de la 3 în sus).
-	$n = (int) hainute_viewers_now( $product_id );
-	if ( $n < 3 ) {
+	$v = hainute_viewers_now( $product_id );
+	if ( ! is_array( $v ) || '' === $v['type'] ) {
 		return;
 	}
+	$txt = 'acum' === $v['type']
+		? hainute_ro_count( $v['n'], 'persoană', 'persoane' ) . ' în ultimele 15 minute'
+		: hainute_ro_count( $v['n'], 'vizualizare', 'vizualizări' ) . ' în ultimele 24 de ore';
 	echo '<p class="social-proof" aria-live="polite">';
 	echo '<span class="social-proof-dot" aria-hidden="true"></span>';
-	echo esc_html( hainute_ro_count( $n, 'vizualizare', 'vizualizări' ) . ' în ultimele 15 minute' );
+	echo esc_html( $txt );
 	echo '</p>';
 }
 
