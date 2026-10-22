@@ -1,5 +1,18 @@
 # Raport publicare
 
+## 2026-10-22 11:29 (250228e, Claude)
+- PUBLICAT, verificare OK: 10428 92 cuv | OK
+- PUBLICAT, verificare OK: 10433 98 cuv | OK
+- PUBLICAT, verificare OK: 10434 91 cuv | OK
+- PUBLICAT, verificare OK: 10440 91 cuv | OK
+- PUBLICAT, verificare OK: 10441 91 cuv | OK
+- PUBLICAT, verificare OK: 10455 81 cuv | OK
+- PUBLICAT, verificare OK: 10460 105 cuv | OK
+- PUBLICAT, verificare OK: 10461 82 cuv | OK
+- PUBLICAT, verificare OK: 10466 85 cuv | OK
+- PUBLICAT, verificare OK: 10467 82 cuv | OK
+- cod/configurație actualizate: tools/descrieri-claude/loturi/b041.py tools/descrieri-claude/probleme-catalog.txt 
+
 ## 2026-10-22 11:28 (cb6476f, Claude)
 - PUBLICAT, verificare OK: 10368 92 cuv | OK
 - PUBLICAT, verificare OK: 10375 88 cuv | OK
