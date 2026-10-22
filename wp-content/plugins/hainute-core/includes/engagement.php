@@ -89,6 +89,31 @@ function hainute_track_view( $pid ) {
 		$list = array_slice( $list, -3000 );
 	}
 	set_transient( $key, $list, 2 * DAY_IN_SECONDS );
+	hainute_auto_recheck( $pid );
+}
+
+/**
+ * Produs căutat acum (peste 10 persoane diferite în 15 minute) → îl punem în coada
+ * de reverificare (aceeași ca butonul editorilor; worker-ul o ia în ~10 secunde),
+ * ca vizitatorii să vadă stocul proaspăt. Nu dacă a fost verificat în ultima oră
+ * sau dacă l-am pus deja în coadă în ultima oră (nu lovim magazinul în rafale).
+ */
+function hainute_auto_recheck( $pid ) {
+	$min_visitors = (int) hainute_config( 'HAINUTE_AUTO_RECHECK_VISITORS', 10 );
+	$cooldown     = (int) hainute_config( 'HAINUTE_AUTO_RECHECK_MIN', 60 ) * MINUTE_IN_SECONDS;
+	if ( ! defined( 'HAINUTE_RECHECK_OPTION' ) || hainute_recent_visitors( $pid ) <= $min_visitors ) {
+		return;
+	}
+	if ( time() - hainute_stock_checked_time( $pid ) < $cooldown || get_transient( 'hainute_arc_' . $pid ) ) {
+		return;
+	}
+	set_transient( 'hainute_arc_' . $pid, time(), $cooldown );
+	$q = get_option( HAINUTE_RECHECK_OPTION, array() );
+	$q = is_array( $q ) ? $q : array();
+	if ( ! isset( $q[ $pid ] ) ) {
+		$q[ $pid ] = time();
+		update_option( HAINUTE_RECHECK_OPTION, $q, false );
+	}
 }
 
 /** Vizitele din ultimele 24 de ore: [[timestamp, hash], ...]. */
