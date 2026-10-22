@@ -140,9 +140,9 @@ function hainute_analytics_enqueue() {
 			gtag('set','ads_data_redaction',true);gtag('js',new Date());gtag('config',GA);
 			var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+GA;document.head.appendChild(s);}
 		/* La refuz: GA trece pe denied și ștergem cookie-urile _ga puse înainte (pe host și pe domeniul părinte). */
-		function gaConsent(c){if(!window.gtag)return;gtag('consent','update',{analytics_storage:c?'granted':'denied'});if(c)return;
-			document.cookie.split('; ').forEach(function(k){var n=k.split('=')[0];if(/^_ga/.test(n)){var d=location.hostname.replace(/^www\./,'');document.cookie=n+'=;path=/;max-age=0';document.cookie=n+'=;path=/;max-age=0;domain=.'+d;}});}
-		ga();
+		function gaClean(){document.cookie.split('; ').forEach(function(k){var n=k.split('=')[0];if(/^_ga/.test(n)){var d=location.hostname.replace(/^www\./,'');document.cookie=n+'=;path=/;max-age=0';document.cookie=n+'=;path=/;max-age=0;domain=.'+d;}});}
+		function gaConsent(c){if(!window.gtag)return;gtag('consent','update',{analytics_storage:c?'granted':'denied'});if(!c)gaClean();}
+		ga();if(/(?:^|; )hnt_consent=0/.test(document.cookie))gaClean();
 		function sid(){if(!ok())return '';var m=document.cookie.match(/hnt_sid=([^;]+)/);if(m)return m[1];var s=Math.random().toString(36).slice(2)+Date.now().toString(36);document.cookie='hnt_sid='+s+';path=/;max-age='+(60*60*24*30)+';SameSite=Lax';return s;}
 		function firstSrc(ref,utm){var v=utm||ref||'';if(!ok())return v;var m=document.cookie.match(/hnt_src=([^;]+)/);if(m)return decodeURIComponent(m[1]);document.cookie='hnt_src='+encodeURIComponent(v)+';path=/;max-age='+(60*60*24*30)+';SameSite=Lax';return v;}
 		function banner(){
