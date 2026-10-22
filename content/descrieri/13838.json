@@ -1,0 +1,89 @@
+{
+ "id": 13838,
+ "versiune": "v7",
+ "descriere_html": "<p>Șapca de soare <a href=\"/brand/reima/\">Reima</a> KILPIKONNA portocalie, din gama SunProof, e una dintre <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">accesoriile unisex</a> pentru vară: material ușor și elastic, care elimină umezeala și se usucă repede, cu protecție UV 50+. Cozorocul moale și apărătoarea de la spate feresc fața și gâtul de soare.</p><p>Banda elastică o ține pe cap și la joacă. Nu are căptușeală, deci e ușoară.</p><p>Detaliile de protecție:</p><ul><li><strong>UPF</strong>: 50+, testat după EN 13758-1 +A1.</li><li><strong>UVA și UVB</strong>: oxid de titan integrat în fibre.</li><li><strong>Material</strong>: 80% poliamidă reciclată, 20% elastan.</li></ul><p>Mărimile 44-46, 48-50 și 52-54 sunt circumferința capului, pentru copii de la aproximativ 1 an în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "REIMA KILPIKONNA"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "Portocaliu (portocaliu / negru / alb)"
+  },
+  {
+   "fapt": "SunProof",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "acest model ușor din gama Reima SunProof"
+  },
+  {
+   "fapt": "ușor",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "Materialul ușor și respirabil"
+  },
+  {
+   "fapt": "umezeală",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "elimină eficient umezeala"
+  },
+  {
+   "fapt": "uscare",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "proprietăților sale de uscare rapidă"
+  },
+  {
+   "fapt": "UPF",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "protecția UV ridicată UPF 50+"
+  },
+  {
+   "fapt": "cozoroc",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "Cozorocul moale"
+  },
+  {
+   "fapt": "spate",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "Are o protecție la spate"
+  },
+  {
+   "fapt": "elastic",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "Banda elastică asigură o adaptare perfectă formei capului"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "croială ușoară, fără căptușeală"
+  },
+  {
+   "fapt": "EN",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "factor de protecție UV 50+, testat conform standardului EN 13758-1 +A1"
+  },
+  {
+   "fapt": "TiO2",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "protecție împotriva razelor UVA și UVB datorită TiO₂ (oxidului de titan) integrat în fibre"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/kilpikonna/2128089/",
+   "fragment": "80% poliamidă (reciclată), 20% elastan"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima KILPIKONNA",
+  "Material": "80% poliamidă reciclată, 20% elastan",
+  "Caracteristici": "UPF 50+, SunProof, uscare rapidă",
+  "Cod produs": "278406"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 1 an în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Mărimile sunt circumferința capului în cm (44-46 … 52-54); vârsta e dată orientativ."
+ ]
+}

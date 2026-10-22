@@ -1,0 +1,62 @@
+{
+ "id": 13832,
+ "versiune": "v7",
+ "descriere_html": "<p>Tenișii <a href=\"/brand/reima/\">Reima</a> TOMERA roz sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> pentru copiii mici, cu partea de sus din textil și material sintetic și căptușeală textilă, fără fluorură de carbon. Velcro-ul îl ajută pe copil să se încalțe singur.</p><p>Talpa EVA e moale și flexibilă și ține foarte bine pe teren, iar branțul se scoate ușor.</p><p>Ce mai au tenișii:</p><ul><li><strong>Branț</strong>: EVA, detașabil, cu suprafață textilă și imprimeu Happy Fit.</li><li><strong>Căptușeală</strong>: textilă.</li><li><strong>Închidere</strong>: velcro.</li></ul><p>Numerele 22-28 sunt pentru copii de în jur de 1-5 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/tomera/1276262/",
+   "fragment": "REIMA TOMERA"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/tomera/1276262/",
+   "fragment": "Roz (roz / alb)"
+  },
+  {
+   "fapt": "mici",
+   "url": "www.sportisimo.ro/reima/tomera/1276262/",
+   "fragment": "Tenișii Reima TOMERA sunt indicați pentru copiii mici"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/tomera/1276262/",
+   "fragment": "Partea superioară este din textil și material sintetic"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "www.sportisimo.ro/reima/tomera/1276262/",
+   "fragment": "căptușeală din textil"
+  },
+  {
+   "fapt": "fluor",
+   "url": "www.sportisimo.ro/reima/tomera/1276262/",
+   "fragment": "fără fluorură de carbon"
+  },
+  {
+   "fapt": "velcro",
+   "url": "www.sportisimo.ro/reima/tomera/1276262/",
+   "fragment": "Încheierea cu velcro facilitează copilului încălțarea"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/tomera/1276262/",
+   "fragment": "Au talpă moale și flexibilă EVA, care asigură o aderență foarte bună în teren"
+  },
+  {
+   "fapt": "branț",
+   "url": "www.sportisimo.ro/reima/tomera/1276262/",
+   "fragment": "Au branț detașabil EVA cu suprafață de textil și imprimeu Happy Fit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima TOMERA",
+  "Material": "textil și sintetic, talpă EVA",
+  "Caracteristici": "velcro, branț Happy Fit, fără fluorură de carbon",
+  "Cod produs": "198079"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-5 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

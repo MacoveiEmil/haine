@@ -1,0 +1,80 @@
+{
+ "id": 13946,
+ "versiune": "v7",
+ "descriere_html": "<p>Bluza cu mânecă lungă <a href=\"/brand/reima/\">Reima</a> VIISAS e un <a href=\"/categorie/unisex-imbracaminte-bluze-tricouri-hanorace/\">tricou unisex</a> în culoarea gri pe site (mix la magazin), complet imprimat, moale, călduros și plăcut la atingere, pentru purtarea de zi cu zi. Absoarbe umezeala, deci merge și înăuntru, și afară.</p><p>Croiala e dreaptă, cu mâneci raglan, care lasă brațele libere.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 48% bumbac, 43% viscoză din bambus, 9% poliamidă.</li><li><strong>Greutate</strong>: 130 g.</li><li><strong>Mânecă</strong>: lungă, raglan.</li></ul><p>Mărimile 110-164 sunt pentru copii de aproximativ 5-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "REIMA VIISAS"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "Mix"
+  },
+  {
+   "fapt": "imprimat",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "material complet imprimat"
+  },
+  {
+   "fapt": "moale",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "moale, călduros, foarte plăcut la atingere"
+  },
+  {
+   "fapt": "zilnic",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "este indicat pentru purtarea de zi cu zi"
+  },
+  {
+   "fapt": "umezeală",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "absoarbe umezeala"
+  },
+  {
+   "fapt": "indoor",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "orice activitate indoor și outdoor"
+  },
+  {
+   "fapt": "croială",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "croială dreaptă"
+  },
+  {
+   "fapt": "raglan",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "mânecă raglan"
+  },
+  {
+   "fapt": "mânecă",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "are mâneca lungă"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "48 % bumbac, 43 % viscoză (bambus), 9 % poliamidă"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/viisas/1116024/",
+   "fragment": "130 g"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima VIISAS",
+  "Material": "48% bumbac, 43% viscoză din bambus, 9% poliamidă",
+  "Caracteristici": "imprimeu integral, mâneci raglan",
+  "Cod produs": "178250"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "5-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul spune gri, magazinul dă culoarea „Mix”.",
+  "Descrierea pomenește lână Merino, dar compoziția nu conține lână; am scris compoziția din specificații."
+ ]
+}

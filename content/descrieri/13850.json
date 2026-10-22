@@ -1,0 +1,82 @@
+{
+ "id": 13850,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/reima/\">Reima</a> ENKKARI roz sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> vegani, impermeabili, de primăvară-toamnă, cu membrană laminată pe partea de sus, din poliester și poliuretan, care ține picioarele uscate și pe ploaie. Elementele reflectorizante ajută seara.</p><p>Velcro-ul și șireturile elastice fac încălțatul ușor, iar talpa din Phylon și cauciuc e ușoară și flexibilă, ca piciorul să se miște ușor. Sunt făcuți pentru perioadele de tranziție.</p><p>Detaliile de bază:</p><ul><li><strong>Căptușeală</strong>: textilă, elastică.</li><li><strong>Talpă</strong>: EVA și cauciuc.</li><li><strong>Greutate</strong>: 450 g.</li></ul><p>Numerele 28-35 se potrivesc copiilor de cam 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "REIMA ENKKARI"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "Roz (roz / vișiniu / alb)"
+  },
+  {
+   "fapt": "vegan",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "produs vegan"
+  },
+  {
+   "fapt": "sezon",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "încălțăminte impermeabilă de primăvară-toamnă"
+  },
+  {
+   "fapt": "membrană",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "Datorită unei membrane impermeabile laminate la partea superioară realizată dintr-o combinație de poliester și poliuretan, picioarele rămân uscate chiar și în zilele ploioase"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "Elementele reflectorizante îmbunătățesc siguranța"
+  },
+  {
+   "fapt": "închidere",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "Fixarea practică cu velcro în combinație cu șireturile elastice facilitează încălțarea"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "talpă flexibilă și ușoară din Phylon/cauciuc"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "căptușeala elastică asigură confort"
+  },
+  {
+   "fapt": "talpă 2",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "EVA, cauciuc"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "450 g"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "Sunt ideali pentru perioadele de tranziție"
+  },
+  {
+   "fapt": "ușor",
+   "url": "www.sportisimo.ro/reima/enkkari/1703643/",
+   "fragment": "designul tălpii le permite copiilor să se miște cu ușurință"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima ENKKARI",
+  "Material": "poliester și poliuretan, talpă EVA și cauciuc",
+  "Caracteristici": "membrană impermeabilă, velcro și șireturi elastice, reflectorizante",
+  "Cod produs": "240084"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

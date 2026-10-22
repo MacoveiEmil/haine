@@ -1,0 +1,67 @@
+{
+ "id": 13828,
+ "versiune": "v7",
+ "descriere_html": "<p>Ghetuțele <a href=\"/brand/reima/\">Reima</a> KIRITIN albastre sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> de primăvară și toamnă, cu membrană impermeabilă, care țin piciorul uscat și la temperatură bună pe orice vreme. Detaliile reflectorizante îl fac pe copil mai vizibil seara.</p><p>Talpa moale și flexibilă din Phylon e gândită să urmeze mișcarea naturală a piciorului.</p><p>Pe dinăuntru și pe dinafară:</p><ul><li><strong>Branț</strong>: textil, detașabil, cu imprimeu Happy Fit pentru mărime.</li><li><strong>Față</strong>: material sintetic și textil.</li><li><strong>Talpă</strong>: Phylon.</li></ul><p>Numerele 28-35 se potrivesc copiilor de aproximativ 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/kiritin/1495560/",
+   "fragment": "REIMA KIRITIN"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/kiritin/1495560/",
+   "fragment": "Albastru (albastru / verde deschis)"
+  },
+  {
+   "fapt": "sezon",
+   "url": "www.sportisimo.ro/reima/kiritin/1495560/",
+   "fragment": "Ghetuțele pentru copii Reima KIRITIN sunt indicate pentru anotimpul de primăvară și toamnă"
+  },
+  {
+   "fapt": "membrană",
+   "url": "www.sportisimo.ro/reima/kiritin/1495560/",
+   "fragment": "membrană impermeabilă"
+  },
+  {
+   "fapt": "uscat",
+   "url": "www.sportisimo.ro/reima/kiritin/1495560/",
+   "fragment": "asigură piciorului confortul termic și uscat pe orice fel de vreme"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/reima/kiritin/1495560/",
+   "fragment": "detalii reflectorizante"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/kiritin/1495560/",
+   "fragment": "talpă moale și flexibilă din material Phylon"
+  },
+  {
+   "fapt": "natural",
+   "url": "www.sportisimo.ro/reima/kiritin/1495560/",
+   "fragment": "designul tălpii susține mișcarea naturală a piciorului"
+  },
+  {
+   "fapt": "branț",
+   "url": "www.sportisimo.ro/reima/kiritin/1495560/",
+   "fragment": "Au branț detașabil de textil, cu imprimeu Happy Fit"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/reima/kiritin/1495560/",
+   "fragment": "material sintetic și textil"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima KIRITIN",
+  "Material": "sintetic și textil, talpă Phylon",
+  "Caracteristici": "membrană impermeabilă, reflectorizante, Happy Fit",
+  "Cod produs": "220326"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

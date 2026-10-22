@@ -57,3 +57,4 @@
 13151 | Cizme Geox HIMALAYA J46FRE: titlul spune Negru, magazinul dă culoarea gri
 13182 | Geacă Liewood Nolan Pile LW19877: titlul spune Maro, magazinul dă culoarea bej
 13537 | Cizme Columbia SNOWTROT MID 2078911: titlul spune Negru, magazinul dă culoarea bej
+13946 | Tricou Reima VIISAS 5200012B: titlul spune Gri, magazinul dă culoarea Mix; descrierea pomenește lână Merino, dar compoziția e bumbac, viscoză (bambus) și poliamidă

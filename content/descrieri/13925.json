@@ -1,0 +1,74 @@
+{
+ "id": 13925,
+ "versiune": "v7",
+ "descriere_html": "<p>Șapca <a href=\"/brand/reima/\">Reima</a> MUSTEKALA roz e unul dintre <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">accesoriile unisex</a> de vară, din jerseu elastic, cu protecție UV 50+, ca cei mici să stea mai mult la soare în siguranță. Cozorocul moale apără ochii, iar borul extins la spate apără gâtul.</p><p>Nu are căptușeală, deci e ușoară, iar materialul se usucă repede, bun pentru plajă și locul de joacă.</p><p>Detaliile de protecție:</p><ul><li><strong>UPF</strong>: 50+, testat după EN 13758-1 +A1.</li><li><strong>UVA și UVB</strong>: oxid de titan în fibre.</li><li><strong>Material</strong>: 80% poliamidă reciclată, 20% elastan.</li></ul><p>Mărimile 44-46 până la 52-54 sunt circumferința capului, pentru copii de la aproximativ 1 an în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "REIMA MUSTEKALA"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "Roz"
+  },
+  {
+   "fapt": "jerseu",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "material jerseu elastic"
+  },
+  {
+   "fapt": "UPF",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "Datorită protecției ridicate împotriva razelor UV (UPF 50+)"
+  },
+  {
+   "fapt": "cozoroc",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "Cozorocul moale protejează eficient ochii împotriva strălucirii"
+  },
+  {
+   "fapt": "gât",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "spatele extins al borului protejează zona sensibilă a gâtului"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "Nu are căptușeală, astfel încât are o greutate redusă"
+  },
+  {
+   "fapt": "uscare",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "datorită materialului care se usucă rapid, este ideală pentru plajă, terenul de joacă"
+  },
+  {
+   "fapt": "EN",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "factor de protecție UV 50+, testat conform standardului EN 13758-1 +A1"
+  },
+  {
+   "fapt": "TiO2",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "protecție împotriva razelor UVA și UVB datorită TiO₂ (oxidului de titan) integrat în fibre"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/mustekala/2128093/",
+   "fragment": "80% poliamidă (reciclată), 20% elastan"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima MUSTEKALA",
+  "Material": "80% poliamidă reciclată, 20% elastan",
+  "Caracteristici": "UPF 50+, protecție la gât, uscare rapidă",
+  "Cod produs": "278410"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 1 an în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Mărimile sunt circumferința capului în cm (44-46 … 52-54); vârsta e dată orientativ."
+ ]
+}
