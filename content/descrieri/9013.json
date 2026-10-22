@@ -1,0 +1,79 @@
+{
+ "id": 9013,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/burton/\">Burton</a> HILLSLOPE este o <a href=\"/categorie/geci-jachete/\">geacă de schi pentru fete</a>, izolată și căptușită, cu umplutură din poliester în mare parte reciclat (verde pe site, albastră la magazin). E făcută pentru sporturile de iarnă și pentru pârtie.</p><p>În interior are o centură flexibilă, cauciucată, care oprește zăpada să intre pe dedesubt, iar gulerul ridicat și gluga fixă apără gâtul și capul.</p><p>Detaliile de pârtie:</p><ul><li><strong>Buzunar ski-pass</strong>: pe mânecă.</li><li><strong>Buzunare</strong>: exterioare, cu închidere.</li><li><strong>Închidere</strong>: fermoar.</li><li><strong>Certificări</strong>: Bluesign®; Burton e companie B Corporation.</li></ul><p>Mărimile de pe site, de la 116-122 la 164-166, sunt pentru copii de aproximativ 6-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "Burton Geaca copii HILLSLOPE 243131"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "Model izolat cu captuseala"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "Umplutura: 95% Poliester reciclat, 5% Poliester"
+  },
+  {
+   "fapt": "sporturi de iarnă",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "Sporturi de iarnă"
+  },
+  {
+   "fapt": "centură",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "centura flexibila, cauciucata"
+  },
+  {
+   "fapt": "glugă, guler",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "Gulerul ridicat și gluga fixă"
+  },
+  {
+   "fapt": "ski-pass",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "Buzunar ski-pass pe maneca"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "Buzunare exterioare incheiata"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "Bluesign",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "Model certificat Bluesign"
+  },
+  {
+   "fapt": "B Corp",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "B Corporation"
+  },
+  {
+   "fapt": "culoare magazin",
+   "url": "answear.ro/p/burton-geaca-copii-hillslope-243131-1362425",
+   "fragment": "albastru"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Burton HILLSLOPE",
+  "Material": "100% poliester, umplutură 95% poliester reciclat",
+  "Caracteristici": "geacă de schi, centură anti-zăpadă, buzunar ski-pass, glugă fixă",
+  "Cod produs": "243131"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site spune verde; magazinul dă albastru."
+ ]
+}

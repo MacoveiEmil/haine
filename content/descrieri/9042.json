@@ -1,0 +1,74 @@
+{
+ "id": 9042,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> LOFTUS sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a>, negri, din imitație de piele și material textil, cu logo. Talpa GEOX Respira™ are membrană microporoasă, care ține apa afară și elimină umezeala, deci adidașii merg și în zilele umede.</p><p>Aricii sunt combinați cu o inserție elastică, astfel că pantoful se pune și se scoate repede, iar gulerul ușor întărit stă bine pe gleznă.</p><p>Mai trebuie știut:</p><ul><li><strong>Talpă</strong>: plată, din cauciuc.</li><li><strong>Călcâi</strong>: întărit.</li><li><strong>Căptușeală</strong>: textilă, moale.</li><li><strong>Branț</strong>: din material textil.</li></ul><p>Pe site sunt numerele 24-35, pentru copii de cam 2-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "Geox LOFTUS sneakers pentru copii negri J46M2A.0FU54"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "Construcția din imitație de piele și material textil"
+  },
+  {
+   "fapt": "logo",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "modelul cu logo"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "Talpă respirabilă GEOX Respira"
+  },
+  {
+   "fapt": "membrană",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "Membrana microporoasă din talpă protejează interiorul pantofului împotriva apei"
+  },
+  {
+   "fapt": "arici, elastic",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "Sistem de închidere cu arici în combinație cu o inserție elastică"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "Gulerul superior ușor întărit"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "Talpă plată din cauciuc"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "Călcâi întărit"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "Căptușeala moale din material textil"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-loftus-sneakers-pentru-copii-negri-j46m2a-0fu54-1834691",
+   "fragment": "Branț din material textil"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox LOFTUS",
+  "Material": "imitație de piele și textil, talpă din cauciuc",
+  "Caracteristici": "GEOX Respira™, membrană în talpă, arici cu elastic",
+  "Cod produs": "J46M2A.0FU54"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site nu are culoare; magazinul arată negru."
+ ]
+}

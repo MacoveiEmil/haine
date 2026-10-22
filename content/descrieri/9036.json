@@ -1,0 +1,57 @@
+{
+ "id": 9036,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/hugo/\">HUGO</a> G00238 este o <a href=\"/categorie/geci-jachete/\">geacă de iarnă pentru fete</a>, roz, matlasată, izolată și căptușită, cu glugă. E din 100% poliester și e făcută pentru zilele reci, pentru copiii mari.</p><p>Croiala e simplă, iar matlasarea ține umplutura distribuită uniform; fermoarul închide geaca până sus. Fiind căptușită, se îmbracă ușor și peste un hanorac gros.</p><p>Detaliile gecii:</p><ul><li><strong>Glugă</strong>: are.</li><li><strong>Buzunare</strong>: în față.</li><li><strong>Închidere</strong>: fermoar.</li><li><strong>Material</strong>: 100% poliester.</li></ul><p>Pe site sunt doar mărimile 156 și 162, potrivite cam pentru 13-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-roz-g00238-1315170",
+   "fragment": "Geaca copii culoarea roz, G00238"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-roz-g00238-1315170",
+   "fragment": "Model izolat cu captuseala"
+  },
+  {
+   "fapt": "matlasare",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-roz-g00238-1315170",
+   "fragment": "Matlasare"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-roz-g00238-1315170",
+   "fragment": "Model cu gluga"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-roz-g00238-1315170",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-roz-g00238-1315170",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-roz-g00238-1315170",
+   "fragment": "In fata buzunare"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/hugo-geaca-copii-culoarea-roz-g00238-1315170",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "HUGO G00238",
+  "Material": "100% poliester",
+  "Caracteristici": "izolată, matlasată, glugă, fermoar",
+  "Cod produs": "G00238"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "13-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
