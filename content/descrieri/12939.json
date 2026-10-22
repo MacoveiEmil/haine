@@ -1,0 +1,99 @@
+{
+ "id": 12939,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele <a href=\"/brand/primigi/\">Primigi</a> 8875333 negre, din material sintetic și piele întoarsă, sunt <a href=\"/categorie/ghete-cizme/\">cizme de zăpadă pentru fete</a> cu izolație și branț de lână, deci păstrează căldura la frig. Membrana GORE-TEX e foarte subțire, respirabilă și oprește vântul.</p><p>Pe gleznă, partea înaltă se strânge cu un șnur cu opritor, iar șiretul reglează potrivirea. Degetele au loc în vârful lat și moale, talpa groasă e antiderapantă și preia șocurile, iar branțul cu contur se scoate.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic, piele întoarsă.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Profil</strong>: înalt.</li></ul><p>Numerele 31-35 țin, cu aproximație, de 6-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "8875333"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "culoarea negru"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "Izolare: izolat"
+  },
+  {
+   "fapt": "lână",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "Un model cu interior din lână"
+  },
+  {
+   "fapt": "GORE-TEX",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "Model cu membrana GORE-TEX®"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "rezistenta la vant si respirabila"
+  },
+  {
+   "fapt": "șnur",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "Reglarea circumferinței superioare cu șnururi cu opritoare"
+  },
+  {
+   "fapt": "șiret",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "Fixare: cu snur"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "Cutia lată a degetelor"
+  },
+  {
+   "fapt": "moale",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "moale"
+  },
+  {
+   "fapt": "antiderapantă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "absorbție a șocurilor, cu bandă de rulare, antiderapantă"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "groasă, profilată"
+  },
+  {
+   "fapt": "contur",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "Brant confortabil, cu contur"
+  },
+  {
+   "fapt": "detașabil",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "Branțuri detașabile"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "Material sintetic, Piele intoarsa"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-negru-pikgt-88753-1662473",
+   "fragment": "înalt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 8875333",
+  "Membrană": "GORE-TEX",
+  "Caracteristici": "izolate, branț din lână, șiret și șnur",
+  "Cod produs": "8875333"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul descrie membrana ca 100% impermeabilă; nu am scris „impermeabile”."
+ ]
+}

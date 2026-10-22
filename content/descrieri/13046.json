@@ -1,0 +1,94 @@
+{
+ "id": 13046,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca matlasată <a href=\"/brand/calvin-klein-jeans/\">Calvin Klein Jeans</a> LVCKTJM15B neagră este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de tranziție pentru băieți</a> cu izolație termică medie, din material textil, cu căptușeală completă, sintetică. Are glugă integrată și guler ridicat.</p><p>Se închide cu fermoar pe toată lungimea, manșetele au nervuri, iar pe laterale are buzunare. Magazinul o descrie ca lungă până la genunchi și precizează că nu e impermeabilă.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Izolație</strong>: medie.</li><li><strong>Mânecă</strong>: clasică.</li></ul><p>Mărimile 104-116 merg orientativ la 4-6 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "LVCKTJM15B"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Culoare negru"
+  },
+  {
+   "fapt": "matlasat",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Geaca matlasată neagră Calvin Klein Jeans"
+  },
+  {
+   "fapt": "medie",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Izolație termică medie"
+  },
+  {
+   "fapt": "textil",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Confecționată din material textil"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Căptușeală completă, sintetică"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Glugă integrată"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Guler și revere: ridicat"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Închidere cu fermoar pe toată lungimea"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Manșete cu nervuri"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Buzunare laterale practice"
+  },
+  {
+   "fapt": "genunchi",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Lungime până la genunchi"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "fără impermeabilitate"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Întregul produs:100% Poliester"
+  },
+  {
+   "fapt": "mânecă",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-petrecuta-pentru-copii-neagra-lvcktjm15b-1800620",
+   "fragment": "Tip de mânecă: clasică"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Calvin Klein Jeans LVCKTJM15B",
+  "Material": "100% poliester",
+  "Caracteristici": "matlasată, glugă, fermoar",
+  "Cod produs": "LVCKTJM15B"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-6 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „petrecută” în locul culorii; culoarea e cea de la magazin (negru)."
+ ]
+}

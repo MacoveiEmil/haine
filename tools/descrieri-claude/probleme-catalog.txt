@@ -108,3 +108,5 @@
 12500 LEGO 22881: titlul site-ului nu are culoare („Unisex”), la magazin albastru
 12616 Geox MAGNETAR: titlul site-ului are „MAGNETAR” în loc de culoare (la magazin: albastru)
 12561 Geox SPRINTYE și 12597 Tommy Hilfiger T1X9-34347: descrierea spune piele, compoziția e sintetică
+12722 Tommy Hilfiger T3X9-34364: descrierea spune piele întoarsă, compoziția e sintetică
+12881 Biomecanics 261242: membrană BioTEX în descriere, „fără impermeabilitate” în caracteristici
