@@ -71,3 +71,8 @@
 8714 Biomecanics 262158: descrierea spune „numai materiale naturale”, compoziția e sintetică
 9050 Reima Hyppii: titlul site-ului are „Hyppii” în loc de culoare (la magazin: albastru)
 8998 Biomecanics 262271: compoziția spune piele naturală, atributele spun sintetic/textil
+9236 Rossignol WISPILE: culoare diferită (turcoaz pe site / bleumarin la magazin)
+9377 Columbia Hikebound: culoare diferită (bordo pe site / roz la magazin)
+9306 Biomecanics 262159: titlul site-ului nu are culoare („Bebe”), la magazin alb
+9387 Primigi 24192: titlul site-ului nu are culoare („Unisex”), la magazin negru
+9258 Geox JUNETTE: descrierea spune piele întoarsă, compoziția e sintetică

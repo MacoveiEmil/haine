@@ -1,0 +1,80 @@
+{
+ "id": 9413,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/reima/\">Reima</a> Kiritin violet pe site (albaștri la magazin) sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> ușori, din textil și piele ecologică, pentru purtat zilnic. Fața are finisaj hidrofob, care ține umezeala afară pe vreme urâtă.</p><p>Inserțiile detașabile Happy Fit ajută la alegerea numărului, iar șireturile rapide cu opritor și bucla de la spate fac încălțatul mai ușor. Elementele reflectorizante se văd după lăsarea întunericului, iar talpa din cauciuc rezistă la deteriorare.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic, material textil.</li><li><strong>Interior</strong>: material sintetic, material textil.</li><li><strong>Profil</strong>: scurt.</li></ul><p>Numerele 28-38 se poartă de pe la 4 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "Kiritin"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "Culoare: Albastru"
+  },
+  {
+   "fapt": "ușor",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "Model ușor și confortabil, ideal pentru purtarea zilnică"
+  },
+  {
+   "fapt": "piele",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "pielea ecologică"
+  },
+  {
+   "fapt": "hidrofob",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "Finisajul hidrofob al feței superioare nu permite umezelii să pătrundă în interior"
+  },
+  {
+   "fapt": "Happy Fit",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "Inserțiile detașabile Happy Fit"
+  },
+  {
+   "fapt": "șireturi",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "Sistemul rapid de șireturi cu opritoare"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "Bucla de la spate"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "Elementele reflectorizante sporesc vizibilitatea și siguranța după întuneric"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "Material sintetic, Material textil"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/reima-sneakers-pentru-copii-kiritin-5400134b-1716328",
+   "fragment": "scurt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Kiritin",
+  "Material": "textil, piele ecologică",
+  "Caracteristici": "hidrofobi, Happy Fit, reflectorizante",
+  "Cod produs": "5400134B"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 4 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Culoarea din titlul site-ului (violet) nu se potrivește cu cea a magazinului (albastru).",
+  "Rezistența la apă e cea declarată de magazin, care precizează că nu garantează impermeabilitatea completă."
+ ]
+}
