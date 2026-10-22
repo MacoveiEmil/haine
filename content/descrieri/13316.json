@@ -1,0 +1,79 @@
+{
+ "id": 13316,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T1X5-34087 maro sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">cizme unisex</a> numite de magazin „de iarnă”, dar neizolate, din imitație de piele nubuc, ușor de curățat. Au șiret, fermoar lateral și Velcro, deci se reglează o dată și se încalță repede.</p><p>Partea de sus ridicată sprijină glezna, iar cutia rotundă e întărită. Spatele călcâiului e puternic rigidizat.</p><p>Pe dinăuntru și dedesubt:</p><ul><li><strong>Interior</strong>: sintetic și textil, confortabil.</li><li><strong>Talpă exterioară</strong>: din cauciuc, durabilă.</li><li><strong>Închidere</strong>: șiret, fermoar și Velcro.</li></ul><p>Numerele 30-34 se potrivesc copiilor de cam 6-11 ani; la 34 branțul are 22 cm.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Tommy Hilfiger Cizme de iarnă pentru copii culoarea maro, T1X5-34087"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Izolare: neizolat"
+  },
+  {
+   "fapt": "nubuc",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "imitație de piele năbuc"
+  },
+  {
+   "fapt": "întreținere",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Modelul este ușor de curățat și de întreținut"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Model cu siret cu fermoar lateral si inchidere cu Velcro"
+  },
+  {
+   "fapt": "gleznă",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Partea superioară ridicată ajută la rigidizarea gleznei"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Spatele calcaiului peternic rigidizat"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Interior confortabil"
+  },
+  {
+   "fapt": "textil",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Material sintetic, Material textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/tommy-hilfiger-cizme-de-iarna-pentru-copii-culoarea-maro-t1x5-34087-1625117",
+   "fragment": "Lungimea brantului pentru marimea este de: 22 cm"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger T1X5-34087",
+  "Material": "imitație de piele nubuc, interior sintetic și textil, talpă din cauciuc",
+  "Caracteristici": "șiret, fermoar lateral și Velcro, neizolate",
+  "Cod produs": "T1X5-34087"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul spune „cizme de iarnă”, dar atributele dau „neizolat”; am scris ambele."
+ ]
+}
