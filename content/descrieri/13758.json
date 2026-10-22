@@ -1,0 +1,94 @@
+{
+ "id": 13758,
+ "versiune": "v7",
+ "descriere_html": "<p>Pantalonii de iarnă <a href=\"/brand/reima/\">Reima</a> Matias sunt <a href=\"/categorie/unisex-imbracaminte-pantaloni-treninguri/\">pantaloni unisex</a> de schi, bordo (burgundia la magazin), impermeabili și respirabili, cu bretele și cusături complet lipite. Rezistă la apă și la pete, cu finisaj BIONIC-FINISH ECO, iar fibra REPREVE e din sticle reciclate.</p><p>Talia înaltă are bandă elastică, iar fermoarul scurt face îmbrăcatul ușor. Fasonul e drept, uni.</p><p>Materialele, pe rând:</p><ul><li><strong>Exterior</strong>: poliester reciclat și poliester cu poliuretan.</li><li><strong>Căptușeală</strong>: poliester, parțial reciclat.</li><li><strong>Umplutură</strong>: 100% poliester reciclat.</li></ul><p>Mărimile 80-110 sunt pentru copii de aproximativ 1-5 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Reima Matias burgundia 5100130A"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "burgundia"
+  },
+  {
+   "fapt": "iarnă",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Pantaloni sport de iarnă copii"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "material impermeabil cu respirabilitate ridicată"
+  },
+  {
+   "fapt": "bretele",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Model cu bretele"
+  },
+  {
+   "fapt": "lipite",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Cusaturi complet lipite"
+  },
+  {
+   "fapt": "pete",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Rezistent la apa si la pete"
+  },
+  {
+   "fapt": "BIONIC",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "BIONIC-FINISH ECO este o finisare hidrofoba ecologica"
+  },
+  {
+   "fapt": "REPREVE",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Fibra REPREVE este fabricata din sticle de plastic reciclate"
+  },
+  {
+   "fapt": "talie",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Talie inalta cu banda elastica in talie"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Incheiere scurta cu fermoar"
+  },
+  {
+   "fapt": "fason",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Fason drept"
+  },
+  {
+   "fapt": "uni",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Model: uni"
+  },
+  {
+   "fapt": "exterior",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "52% Poliester reciclat, 48% Poliester cu strat de poliuretan"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias-culoarea-bordo-1368443",
+   "fragment": "Umplutura: 100% Poliester reciclat"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Matias",
+  "Material": "poliester reciclat cu poliuretan, umplutură din poliester reciclat",
+  "Caracteristici": "impermeabili, bretele, cusături lipite",
+  "Cod produs": "5100130A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-5 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul spune bordo, magazinul scrie burgundia; e aceeași nuanță."
+ ]
+}
