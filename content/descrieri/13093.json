@@ -1,0 +1,74 @@
+{
+ "id": 13093,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> FLEXYPER J569BA bleumarin sunt <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">cizme pentru băieți</a> numite de magazin „de iarnă”, dar neizolate, din piele ecologică, piele naturală și material textil. Se închid cu scai, iar bucla de la spate ajută la încălțat.</p><p>Vârful rotund, ușor rigid, lasă loc degetelor, iar partea de sus rigidizată ține forma. Talpa absoarbe șocurile.</p><p>Talpa și interiorul:</p><ul><li><strong>Geox Respira</strong>: trei straturi, cu perforări.</li><li><strong>Căptușeală</strong>: textilă.</li><li><strong>Talpă exterioară</strong>: din cauciuc, durabilă.</li></ul><p>Numerele 28-35 se potrivesc băieților de cam 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "Geox Cizme de iarnă pentru copii FLEXYPER culoarea bleumarin, J569BA.0ME32"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "Izolare: neizolat"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "combinatie de piele ecologica, piele naturala si material textil"
+  },
+  {
+   "fapt": "scai",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "Incheiere cu scai"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "Degetul rotund, ușor rigid"
+  },
+  {
+   "fapt": "rigid",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "Partea superioară rigidizată"
+  },
+  {
+   "fapt": "șoc",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "Absorbtia socului"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "Model cu captuseala textila"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-cizme-de-iarna-pentru-copii-flexyper-culoarea-bleumarin-j569ba-0me32-1615514",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox FLEXYPER",
+  "Material": "piele ecologică, piele naturală și textil, talpă din cauciuc",
+  "Caracteristici": "scai, Geox Respira, neizolate",
+  "Cod produs": "J569BA.0ME32"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul spune „cizme de iarnă”, dar atributele dau „neizolat”; am scris ambele."
+ ]
+}
