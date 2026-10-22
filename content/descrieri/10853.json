@@ -1,0 +1,69 @@
+{
+ "id": 10853,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> STEPPIEUP B465WA sunt <a href=\"/categorie/bebe-incaltaminte-pantofi/\">pantofi pentru bebeluși</a> maro, din piele naturală, cu interior din piele, iar inserția din piele e făcută fără crom. Deschiderea largă face încălțatul ușor, chiar și la un picior mai plin.</p><p>Curelele cu velcro se strâng după piciorul copilului, iar cutia lată a degetelor nu le ciupește. Bucla de la spate ajută la tras pantoful pe picior.</p><p>Sub picior, pantoful are:</p><ul><li><strong>Geox Respira</strong>: talpă în trei straturi, cu perforări.</li><li><strong>Talpă</strong>: flexibilă, din cauciuc.</li><li><strong>Interior</strong>: piele naturală.</li></ul><p>Numerele 20-27 sunt pentru copii de 1-4 ani, cu aproximație.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-incaltaminte-din-piele-pentru-copii-steppieup-culoarea-maro-b465wa-000cl-1711527",
+   "fragment": "Geox Încălțăminte din piele pentru copii STEPPIEUP culoarea maro, B465WA.000CL"
+  },
+  {
+   "fapt": "piele",
+   "url": "answear.ro/p/geox-incaltaminte-din-piele-pentru-copii-steppieup-culoarea-maro-b465wa-000cl-1711527",
+   "fragment": "confecționat din piele naturală"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-incaltaminte-din-piele-pentru-copii-steppieup-culoarea-maro-b465wa-000cl-1711527",
+   "fragment": "Interiorul: Piele naturala"
+  },
+  {
+   "fapt": "crom",
+   "url": "answear.ro/p/geox-incaltaminte-din-piele-pentru-copii-steppieup-culoarea-maro-b465wa-000cl-1711527",
+   "fragment": "Inserția din piele a fost realizată fără utilizarea cromului"
+  },
+  {
+   "fapt": "deschidere",
+   "url": "answear.ro/p/geox-incaltaminte-din-piele-pentru-copii-steppieup-culoarea-maro-b465wa-000cl-1711527",
+   "fragment": "Deschidere larga pentru incaltarea usoara a pantofilor"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/geox-incaltaminte-din-piele-pentru-copii-steppieup-culoarea-maro-b465wa-000cl-1711527",
+   "fragment": "Curelele cu velcro pentru prindere ușoară permit o potrivire personalizată"
+  },
+  {
+   "fapt": "cutie lată",
+   "url": "answear.ro/p/geox-incaltaminte-din-piele-pentru-copii-steppieup-culoarea-maro-b465wa-000cl-1711527",
+   "fragment": "Cutia lată a degetelor previne ciupirea degetelor"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/geox-incaltaminte-din-piele-pentru-copii-steppieup-culoarea-maro-b465wa-000cl-1711527",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-incaltaminte-din-piele-pentru-copii-steppieup-culoarea-maro-b465wa-000cl-1711527",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-incaltaminte-din-piele-pentru-copii-steppieup-culoarea-maro-b465wa-000cl-1711527",
+   "fragment": "Talpa flexibilă din cauciuc"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox STEPPIEUP",
+  "Material": "piele naturală, interior din piele, talpă din cauciuc",
+  "Caracteristici": "curele cu velcro, deschidere largă, cutie lată, Geox Respira",
+  "Cod produs": "B465WA.000CL"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul și h1 spun maro; atributul de culoare al magazinului spune bleumarin."
+ ]
+}
