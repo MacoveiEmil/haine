@@ -1,0 +1,54 @@
+{
+ "id": 11661,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/konges-slojd/\">Konges Sløjd</a> FRANKIE OVERALL KS105393 este o <a href=\"/categorie/bebe-imbracaminte-salopete-compleuri/\">salopetă cu bretele pentru bebeluși</a>, multicoloră, cu dungi, din bumbac 100% certificat GOTS, cu broderie decorativă pe piept. Se poartă peste un body sau un tricou.</p><p>Bretelele nu se scot, dar se reglează după înălțimea copilului, deci salopeta crește puțin cu el. Materialul neelastic își păstrează forma și după multe spălări și zile de joacă.</p><p>Pe scurt:</p><ul><li><strong>Închidere</strong>: nasturi.</li><li><strong>Material</strong>: 100% bumbac.</li><li><strong>Detalii</strong>: broderie pe piept.</li></ul><p>Mărimile 80-116 sunt pentru copii de aproximativ 1-6 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-salopeta-pentru-copii-frankie-overall-gots-multicolor-ks105393-1789622",
+   "fragment": "Konges Sløjd Salopetă pentru copii FRANKIE OVERALL GOTS multicolor KS105393"
+  },
+  {
+   "fapt": "dungi",
+   "url": "answear.ro/p/konges-slojd-salopeta-pentru-copii-frankie-overall-gots-multicolor-ks105393-1789622",
+   "fragment": "Acest model cu dungi"
+  },
+  {
+   "fapt": "bumbac",
+   "url": "answear.ro/p/konges-slojd-salopeta-pentru-copii-frankie-overall-gots-multicolor-ks105393-1789622",
+   "fragment": "Confecționată din bumbac 100%"
+  },
+  {
+   "fapt": "broderie",
+   "url": "answear.ro/p/konges-slojd-salopeta-pentru-copii-frankie-overall-gots-multicolor-ks105393-1789622",
+   "fragment": "Broderie decorativă – pe piept"
+  },
+  {
+   "fapt": "bretele",
+   "url": "answear.ro/p/konges-slojd-salopeta-pentru-copii-frankie-overall-gots-multicolor-ks105393-1789622",
+   "fragment": "Bretele reglabile – neamovibile, permit ajustarea la înălțimea copilului"
+  },
+  {
+   "fapt": "neelastic",
+   "url": "answear.ro/p/konges-slojd-salopeta-pentru-copii-frankie-overall-gots-multicolor-ks105393-1789622",
+   "fragment": "Material neelastic – își menține forma"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/konges-slojd-salopeta-pentru-copii-frankie-overall-gots-multicolor-ks105393-1789622",
+   "fragment": "Închidere cu nasturi"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Konges Sløjd FRANKIE OVERALL",
+  "Material": "100% bumbac (GOTS)",
+  "Caracteristici": "bretele reglabile, nasturi, broderie",
+  "Cod produs": "KS105393"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-6 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "„Peste un body sau un tricou” e dedus din faptul că e salopetă cu bretele."
+ ]
+}
