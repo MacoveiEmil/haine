@@ -379,7 +379,8 @@ function hainute_product_specs( $product_id ) {
 	}
 	$gt = get_the_terms( $product_id, 'product_gender' );
 	if ( $gt && ! is_wp_error( $gt ) ) {
-		$out['Gen'] = $gt[0]->name;
+		// Produsele unisex au ambii termeni (Băieți + Fete): nu afișăm doar primul.
+		$out['Gen'] = count( $gt ) > 1 ? 'Unisex' : $gt[0]->name;
 	}
 	if ( ! empty( $specs['Cod produs'] ) ) {
 		$out['Cod produs'] = $specs['Cod produs'];

@@ -33,20 +33,45 @@ get_header();
 </section>
 
 <?php
+// Produsele găsite în mai multe magazine (cu stoc), cele mai noi primele;
+// _hainute_store_count = magazinele cu stoc, ca pe pagina produsului.
 $latest = new WP_Query(
 	array(
 		'post_type'      => 'product',
 		'posts_per_page' => 8,
+		'meta_query'     => array(
+			'hainute_magazine' => array(
+				'key'     => '_hainute_store_count',
+				'value'   => 2,
+				'type'    => 'NUMERIC',
+				'compare' => '>=',
+			),
+		),
+		'orderby'        => 'date', // nu după numărul de magazine: ar ieși 8 produse ale aceluiași brand
 	)
 );
+// Prea puține (ex. după un crawl ratat): completăm cu cele mai noi produse cu stoc.
+if ( $latest->post_count < 8 ) {
+	$fill   = get_posts(
+		array(
+			'post_type'      => 'product',
+			'posts_per_page' => 8 - $latest->post_count,
+			'post__not_in'   => wp_list_pluck( $latest->posts, 'ID' ),
+			'meta_key'       => '_hainute_buyable', // phpcs:ignore WordPress.DB.SlowDBQuery
+			'meta_value'     => 1, // phpcs:ignore WordPress.DB.SlowDBQuery
+		)
+	);
+	$latest->posts      = array_merge( $latest->posts, $fill );
+	$latest->post_count = count( $latest->posts );
+}
 
 if ( $latest->have_posts() ) :
 	?>
 	<section class="home-section">
 		<div class="container">
 			<div class="home-title-row">
-				<h2 class="home-title"><?php esc_html_e( 'Produse noi', 'hainute' ); ?></h2>
-				<a class="link-more" href="<?php echo esc_url( get_post_type_archive_link( 'product' ) ); ?>"><?php esc_html_e( 'Vezi toate', 'hainute' ); ?> &rarr;</a>
+				<h2 class="home-title"><?php esc_html_e( 'Pe stoc în mai multe magazine', 'hainute' ); ?></h2>
+				<a class="link-more" href="<?php echo esc_url( add_query_arg( 'cross', 1, get_post_type_archive_link( 'product' ) ) ); ?>"><?php esc_html_e( 'Vezi toate', 'hainute' ); ?> &rarr;</a>
 			</div>
 			<div class="product-grid">
 				<?php

@@ -109,7 +109,11 @@ function hainute_apply_listing_filters( $query ) {
 		$meta_query['hainute_pret'] = array( 'key' => '_hainute_min_price', 'type' => 'DECIMAL(10,2)' );
 		$query->set( 'orderby', array( 'hainute_buyable' => 'DESC', 'hainute_pret' => 'pret-asc' === $sort ? 'ASC' : 'DESC' ) );
 	} else {
-		$query->set( 'orderby', array( 'hainute_buyable' => 'DESC', 'date' => 'DESC' ) );
+		// Implicit: produsele găsite în mai multe magazine primele (scopul site-ului:
+		// mărimea la magazinul care o are), apoi cele noi. _hainute_store_count există
+		// pe toate produsele publicate (îl scrie hainute_refresh_buyable).
+		$meta_query['hainute_magazine'] = array( 'key' => '_hainute_store_count', 'type' => 'NUMERIC' );
+		$query->set( 'orderby', array( 'hainute_buyable' => 'DESC', 'hainute_magazine' => 'DESC', 'date' => 'DESC' ) );
 	}
 	$query->set( 'meta_query', $meta_query );
 }
