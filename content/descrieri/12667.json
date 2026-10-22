@@ -1,0 +1,70 @@
+{
+ "id": 12667,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> BISLI sunt <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidași pentru băieți</a> în culoarea negru (bleumarin la magazin), din piele ecologică și material textil, cu membrana Geox Respira, care lasă umezeala să iasă și ține apa afară. Rezistă la apă, dar magazinul nu garantează impermeabilitatea completă.</p><p>Șireturile elastice și velcro-ul fac încălțatul ușor, iar călcâiul întărit ține piciorul în pantof, ca să nu alunece la mers.</p><p>Restul detaliilor:</p><ul><li><strong>Vârf</strong>: rotund.</li><li><strong>Căptușeală</strong>: textilă, se curăță ușor.</li><li><strong>Talpă exterioară</strong>: din cauciuc.</li></ul><p>Numerele 24-27 sunt pentru băieți de cam 2-4 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-bisli-culoarea-negru-b461na-054fu-1603114",
+   "fragment": "Geox Sneakers pentru copii BISLI culoarea negru, B461NA.054FU"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-bisli-culoarea-negru-b461na-054fu-1603114",
+   "fragment": "Culoare bleumarin"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-bisli-culoarea-negru-b461na-054fu-1603114",
+   "fragment": "combinație de piele ecologică și material textil"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-bisli-culoarea-negru-b461na-054fu-1603114",
+   "fragment": "Tehnologia Geox Respira, datorită unei membrane speciale respirabile și impermeabile"
+  },
+  {
+   "fapt": "apă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-bisli-culoarea-negru-b461na-054fu-1603114",
+   "fragment": "nu garantează impermeabilitate completă"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-bisli-culoarea-negru-b461na-054fu-1603114",
+   "fragment": "Șireturile elastice și închiderea cu velcro facilitează încălțarea și descălțarea pantofilor"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-bisli-culoarea-negru-b461na-054fu-1603114",
+   "fragment": "Un fulger întărit pentru călcâi stabilizează călcâiul"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-bisli-culoarea-negru-b461na-054fu-1603114",
+   "fragment": "Vârf rotund"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-bisli-culoarea-negru-b461na-054fu-1603114",
+   "fragment": "Căptușeala textilă este confortabilă pentru picior și facilitează curățarea pantofilor"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-bisli-culoarea-negru-b461na-054fu-1603114",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox BISLI",
+  "Material": "piele ecologică și textil, căptușeală textilă, talpă din cauciuc",
+  "Caracteristici": "Geox Respira cu membrană, șireturi elastice și velcro",
+  "Cod produs": "B461NA.054FU"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul spune negru, magazinul dă culoarea bleumarin; am scris ambele.",
+  "Descrierea spune „ușor izolat”, atributele dau „neizolat”; n-am pomenit izolația."
+ ]
+}
