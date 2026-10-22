@@ -1,0 +1,79 @@
+{
+ "id": 10357,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele de iarnă <a href=\"/brand/geox/\">Geox</a> HIMALAYA AB J46FTA sunt <a href=\"/categorie/ghete-cizme/\">cizme de zăpadă pentru fete</a>, bordo, izolate, din material sintetic și textil, cu gambă ridicată. Tehnologia AMPHIBIOX le face impermeabile și rezistente la vânt, deci sunt pentru zăpadă și lapoviță.</p><p>Gura cizmei se strânge cu șnur cu opritor, ca zăpada să nu intre pe sus, iar interiorul căptușit moale ține de cald.</p><p>Sub și în față:</p><ul><li><strong>Vârf</strong>: cutie rotundă, întărită.</li><li><strong>Talpă</strong>: exterioară, din cauciuc, rezistentă la uzură.</li><li><strong>Geox Respira</strong>: talpă în trei straturi, cu perforări.</li></ul><p>Numerele 28-35 sunt, de obicei, pentru copii de 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "Geox Cizme de iarnă copii HIMALAYA AB culoarea bordo, J46FTA.0FU50"
+  },
+  {
+   "fapt": "zăpadă",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "Cizme de zăpadă pentru copii"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "Model Izolat"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "combinația materialului sintetic cu cel textil"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "Gamba ridicata"
+  },
+  {
+   "fapt": "AMPHIBIOX",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "Tehnologia patentata AMPHIBIOX asigura impermeabilitate"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "rezistenta la vant"
+  },
+  {
+   "fapt": "șnur",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "Reglarea circumferinței superioare cu șnururi cu opritoare"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "Interiorul moale căptușit"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-himalaya-ab-culoarea-bordo-j46fta-0fu50-1628321",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox HIMALAYA AB",
+  "Material": "sintetic și textil, interior căptușit",
+  "Caracteristici": "AMPHIBIOX, izolate, șnur cu opritor, Geox Respira",
+  "Cod produs": "J46FTA.0FU50"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul și h1 spun bordo; atributul de culoare al magazinului spune negru."
+ ]
+}
