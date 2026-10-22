@@ -669,6 +669,11 @@ function hainute_schema_size_variants( $product_id, $name, $by_store ) {
 	return $out;
 }
 
+/** Linkul spre magazin cum îl afișăm: afiliat când avem program (hainute_affiliate_url). */
+function hainute_out_url( $url ) {
+	return function_exists( 'hainute_affiliate_url' ) ? hainute_affiliate_url( $url ) : (string) $url;
+}
+
 /**
 * Toate „listările" cumpărabile ale unui produs: fiecare = un (magazin, culoare,
  * interval de mărimi) cu linkul, prețul și mărimile lui. Answear împarte adesea
@@ -903,7 +908,7 @@ function hainute_shop_listings_build( $product_id ) {
 				'color'    => $own ? $prim_color : (string) ( $ext_color[ (int) $o->store_id ] ?? '' ),
 				'sizes'    => hainute_norm_sizes( $own ? $prim_sizes : (array) ( $store_sizes[ (int) $o->store_id ] ?? array() ), $clothing ),
 				'unavail'  => hainute_norm_sizes( $own ? $prim_unavail : (array) ( $store_unavail[ (int) $o->store_id ] ?? array() ), $clothing ),
-				'url'      => $o->affiliate_url,
+				'url'      => hainute_out_url( $o->affiliate_url ),
 				'price'    => (float) $o->price,
 				'in_stock' => 'out_of_stock' !== $o->stock_status,
 				'image'    => $ext ? (string) ( $ext_image[ (int) $o->store_id ] ?? '' ) : $prim_img,
@@ -933,7 +938,7 @@ function hainute_shop_listings_build( $product_id ) {
 				'color'    => (string) ( $v['color'] ?? '' ),
 				'sizes'    => $fresh ? hainute_norm_sizes( explode( ',', (string) ( $v['sizes'] ?? '' ) ), $clothing ) : array(),
 				'unavail'  => $fresh ? hainute_norm_sizes( explode( ',', (string) ( $v['unavail'] ?? '' ) ), $clothing ) : array(),
-				'url'      => (string) ( $v['url'] ?? '' ),
+				'url'      => hainute_out_url( (string) ( $v['url'] ?? '' ) ),
 				'price'    => (float) ( $v['price'] ?? 0 ),
 				'in_stock' => ! empty( $v['in_stock'] ),
 				'image'    => (string) ( $v['image'] ?? '' ),
@@ -1297,7 +1302,7 @@ function hainute_the_offers_panel( $product_id ) {
 			}
 			echo hainute_format_price( $offer->price, $offer->currency );
 			echo '</span>';
-			echo '<a class="offer-cta" href="' . esc_url( $offer->affiliate_url ) . '" target="_blank" rel="nofollow sponsored noopener">'
+			echo '<a class="offer-cta" href="' . esc_url( hainute_out_url( $offer->affiliate_url ) ) . '" target="_blank" rel="nofollow sponsored noopener">'
 				. esc_html__( 'Vezi în magazin', 'hainute' ) . ' &rarr;</a>';
 		}
 		echo '</div>';
@@ -1333,7 +1338,7 @@ function hainute_the_variant_offers( $product_id ) {
 	$colors      = '' !== $colors ? array_map( 'trim', explode( ',', $colors ) ) : array();
 	$prim_label  = $colors ? $colors[0] : __( 'Varianta principală', 'hainute' );
 	$prim_image  = hainute_product_image( $product_id, 'large' );
-	$prim_url    = $primary ? $primary->affiliate_url : '';
+	$prim_url    = $primary ? hainute_out_url( $primary->affiliate_url ) : '';
 	$prim_price  = $primary ? hainute_format_price( $primary->price, $primary->currency ) : '';
 
 	// Build the swatch list: primary first, then each variant with a photo.
@@ -1357,7 +1362,7 @@ function hainute_the_variant_offers( $product_id ) {
 		$swatches[] = array(
 			'label' => ! empty( $v['color'] ) ? $v['color'] : sprintf( __( 'Varianta %d', 'hainute' ), $i + 1 ),
 			'image' => $v['image'],
-			'url'   => $v['url'] ?? '',
+			'url'   => hainute_out_url( (string) ( $v['url'] ?? '' ) ),
 			'price' => ( isset( $v['price'] ) && (float) $v['price'] > 0 ) ? hainute_format_price( $v['price'], $v['currency'] ?? 'RON' ) : '',
 			'sizes' => (string) ( $v['sizes'] ?? '' ),
 		);

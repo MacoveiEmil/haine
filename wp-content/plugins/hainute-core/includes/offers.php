@@ -169,6 +169,26 @@ function hainute_get_min_price( $product_id ) {
 	return $min;
 }
 
+/**
+ * Linkul spre magazin, afiliat dacă avem program cu magazinul: adresele directe
+ * (oferte „cross" de la Zalando, epantofi, Modivo...) se trec prin formatul de
+ * link al rețelei, din afiliere.json. Se aplică DOAR la afișare: în DB rămâne
+ * adresa directă (verificarea „expirat" o folosește ca cheie).
+ */
+function hainute_affiliate_url( $url ) {
+	static $map = null;
+	if ( null === $map ) {
+		$cfg = json_decode( (string) @file_get_contents( HAINUTE_CORE_DIR . 'afiliere.json' ), true ); // phpcs:ignore
+		$map = is_array( $cfg['magazine'] ?? null ) ? $cfg['magazine'] : array();
+	}
+	$url  = (string) $url;
+	$host = preg_replace( '/^www\./', '', (string) wp_parse_url( $url, PHP_URL_HOST ) );
+	if ( '' === $host || empty( $map[ $host ] ) ) {
+		return $url; // fără program (sau deja link de rețea: alt domeniu)
+	}
+	return strtr( (string) $map[ $host ], array( '{url}' => rawurlencode( $url ), '{url_raw}' => $url ) );
+}
+
 /** Magazinele ascunse manual din admin pentru un produs (ID-uri de termen `store`). */
 function hainute_hidden_store_ids( $product_id ) {
 	$hidden = get_post_meta( $product_id, '_hainute_hidden_stores', true );

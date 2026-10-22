@@ -1,0 +1,4 @@
+{
+	"_info": "Linkuri afiliate pentru magazinele cu link direct. Cheia = domeniul magazinului (fără www), valoarea = formatul linkului din rețea, cu {url} = adresa produsului codificată (ex. https%3A%2F%2F...) sau {url_raw} = adresa necodificată. Magazinele care nu apar aici rămân cu link direct.",
+	"magazine": {}
+}
