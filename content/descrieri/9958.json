@@ -1,0 +1,69 @@
+{
+ "id": 9958,
+ "versiune": "v7",
+ "descriere_html": "<p>Bocancii <a href=\"/brand/geox/\">Geox</a> cu toc plat sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete unisex</a> negre, din piele naturală și piele ecologică, fără izolație, deci pentru zilele de tranziție, nu pentru ger. Talpa are sistemul Geox Respira, în trei straturi perforate.</p><p>Se închid cu fermoar, deci se încalță repede, fără șireturi de legat. Vârful e o cutie rotundă, întărită.</p><p>Din ce sunt făcuți:</p><ul><li><strong>Partea de sus</strong>: piele naturală și material sintetic.</li><li><strong>Interior</strong>: sintetic și textil.</li><li><strong>Talpă</strong>: din gumă, plată.</li></ul><p>Numerele 36-41 sunt pentru adolescenți, cam de la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-bocanci-copii-femei-culoarea-negru-cu-toc-plat-520116",
+   "fragment": "Geox Bocanci copii femei, culoarea negru, cu toc plat"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-bocanci-copii-femei-culoarea-negru-cu-toc-plat-520116",
+   "fragment": "combinatia pielii naturale cu pielea ecologica"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/geox-bocanci-copii-femei-culoarea-negru-cu-toc-plat-520116",
+   "fragment": "Izolare: neizolat"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-bocanci-copii-femei-culoarea-negru-cu-toc-plat-520116",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/geox-bocanci-copii-femei-culoarea-negru-cu-toc-plat-520116",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-bocanci-copii-femei-culoarea-negru-cu-toc-plat-520116",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "parte de sus",
+   "url": "answear.ro/p/geox-bocanci-copii-femei-culoarea-negru-cu-toc-plat-520116",
+   "fragment": "Material sintetic, Piele naturala"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-bocanci-copii-femei-culoarea-negru-cu-toc-plat-520116",
+   "fragment": "Material sintetic, Material textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-bocanci-copii-femei-culoarea-negru-cu-toc-plat-520116",
+   "fragment": "Talpa din guma"
+  },
+  {
+   "fapt": "plat",
+   "url": "answear.ro/p/geox-bocanci-copii-femei-culoarea-negru-cu-toc-plat-520116",
+   "fragment": "Toc: plat"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox (bocanci cu toc plat)",
+  "Material": "piele naturală și piele ecologică, interior sintetic și textil, talpă din gumă",
+  "Caracteristici": "neizolați, fermoar, Geox Respira",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul scrie „Bocanci copii femei”, mărimi 36-41; posibil model de adolescente/adulte."
+ ]
+}

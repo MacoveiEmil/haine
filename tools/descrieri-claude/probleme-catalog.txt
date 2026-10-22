@@ -26,3 +26,4 @@
 9773 | Geacă Mini Rodini Travel agency 26210101: titlu Portocaliu, magazinul dă albastru
 9795 | Cizme Reima Qing 5400026A: titlu Roz, magazinul spune albastru
 9922 | Ghete Geox LAQUINNY J66M3D: titlu Negru, magazinul spune albă
+9958 | Bocanci Geox (toc plat): magazinul scrie „Bocanci copii femei”, mărimi 36-41; de verificat dacă e pentru adulți
