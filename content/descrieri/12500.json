@@ -1,0 +1,95 @@
+{
+ "id": 12500,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de schi <a href=\"/brand/lego/\">LEGO</a> 22881 albastră este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> matlasată, cu dungi, pentru activități de iarnă și ținute de oraș. Umplutura sintetică de grosime medie ține de cald fără să o îngreuneze, iar finisajul DWR limitează absorbția apei.</p><p>Gluga e integrată, gulerul e înalt, iar închiderea se face cu fermoar. Are buzunare exterioare, iar croiala regular fit lasă loc de mișcare.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester.</li><li><strong>Izolație</strong>: medie, sintetică.</li><li><strong>Tehnologie</strong>: DWR.</li></ul><p>Mărimile 104-164 se potrivesc pe la 4-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "22881"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "schi",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Geaca de schi Lego"
+  },
+  {
+   "fapt": "matlasat",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Construcția matlasată"
+  },
+  {
+   "fapt": "dungi",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Modelul cu dungi"
+  },
+  {
+   "fapt": "iarnă",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "concepută pentru activități de iarnă și ținute casual"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Umplutura sintetică asigură izolație termică fără a adăuga greutate inutilă"
+  },
+  {
+   "fapt": "medie",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Izolația sintetică medie"
+  },
+  {
+   "fapt": "DWR",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Finisajul hidrofob DWR ajută la limitarea absorbției apei"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Gluga integrată"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Gulerul înalt"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Închiderea cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Buzunarele exterioare practice"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Croiala regular fit"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/lego-geaca-copii-1110262",
+   "fragment": "Întregul produs:100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "LEGO 22881",
+  "Material": "100% poliester",
+  "Caracteristici": "matlasată, DWR, glugă integrată",
+  "Cod produs": "22881"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului nu are culoare („Unisex”); culoarea e cea de la magazin (albastru).",
+  "Atributele spun „necăptușit”, caracteristicile „fără căptușeală, sintetică”; nu am scris despre căptușeală."
+ ]
+}

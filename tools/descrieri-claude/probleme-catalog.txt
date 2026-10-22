@@ -101,3 +101,7 @@
 11957 4F jachetă trekking: titlul site-ului are „membrana” în loc de culoare (albastră)
 11892 11939 11942 11957 12023 12025 (Fashion Days): pagina nu are descriere, doar titlul; descrieri scurte cu date_insuficiente
 12027 12037 12039 12063 12075 12111 12339 12343 12345 12346 (Fashion Days): pagina nu are descriere, doar titlul; descrieri scurte cu date_insuficiente
+12434 Primigi 1420000: titlul site-ului nu are culoare („Fete”), la magazin alb
+12481 Columbia 2090241 parka: titlul site-ului are „parka” în loc de culoare (la magazin: burgundia)
+12401 Geox J36FWB: magazinul dă „roz” în titlu și „alb” în date
+12470 Tommy Hilfiger T1A5-34005: descrierea spune piele întoarsă, compoziția e sintetică

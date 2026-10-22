@@ -1,0 +1,89 @@
+{
+ "id": 12619,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele de zăpadă <a href=\"/brand/primigi/\">Primigi</a> 8934422 verzi sunt <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">cizme de iarnă pentru băieți</a> izolate, din textil și piele ecologică, cu membrană GORE-TEX subțire, rezistentă la vânt și respirabilă. Interiorul e din fleece moale.</p><p>Fața e rigidizată, vârful lat nu ciupește degetele, iar talpa groasă din cauciuc, cu bandă de rulare antiderapantă, preia șocurile. Se închid cu velcro.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material textil, piele artificială.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Profil</strong>: înalt.</li></ul><p>Numerele 30-35 sunt gândite pentru aproximativ 6-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "8934422"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "culoarea verde"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "Izolare: izolat"
+  },
+  {
+   "fapt": "GORE-TEX",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "Model cu membrana GORE-TEX®"
+  },
+  {
+   "fapt": "vânt",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "rezistenta la vant si respirabila"
+  },
+  {
+   "fapt": "fleece",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "Interior fleece"
+  },
+  {
+   "fapt": "rigidizat",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "Partea superioară rigidizată"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "Cutia lată a degetelor previne ciupirea degetelor"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "antiderapantă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "absorbție a șocurilor, cu bandă de rulare, antiderapantă"
+  },
+  {
+   "fapt": "groasă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "groasă, profilată"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "Închiderea cu velcro"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "Material textil, Piele artificiala"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/primigi-cizme-de-iarna-copii-culoarea-verde-ppe-gtx-89344-1662335",
+   "fragment": "înalt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Primigi 8934422",
+  "Membrană": "GORE-TEX",
+  "Caracteristici": "izolate, interior fleece, velcro",
+  "Cod produs": "8934422"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul descrie membrana ca 100% impermeabilă; nu am scris „impermeabile”."
+ ]
+}

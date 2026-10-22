@@ -1,0 +1,85 @@
+{
+ "id": 12616,
+ "versiune": "v7",
+ "descriere_html": "<p>Pantofii <a href=\"/brand/geox/\">Geox</a> MAGNETAR ABX albaștri sunt <a href=\"/categorie/incaltaminte-pantofi/\">pantofi pentru fete</a> izolați, cu profil înalt, din textil și piele ecologică, cu membrana Amphibiox, respirabilă, care apără talpa și fața de apă. Sistemul Geox Respira ajută ventilarea prin talpa perforată în trei straturi.</p><p>Talpa din cauciuc are caneluri și ține bine pe teren, iar vârful cauciucat protejează degetele. Partea de sus ridicată sprijină glezna, iar șireturile rapide și bucla de la spate ajută la încălțat.</p><p>Detaliile de bază:</p><ul><li><strong>Gambă</strong>: material sintetic, material textil.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Profil</strong>: înalt.</li></ul><p>Numerele 36-39 se poartă orientativ de la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "MAGNETAR. ABX"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Culoare albastru"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Model izolat confectionat din combinatia materialului textil cu pielea ecologica"
+  },
+  {
+   "fapt": "Amphibiox",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Tehnologia Amphibiox®"
+  },
+  {
+   "fapt": "membrană",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Membrana special respirabila si nepermeabila protejeaza atat talpa exterioara, cat si cea superioara"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Sistemul Geox Respira"
+  },
+  {
+   "fapt": "caneluri",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Talpa exterioară din cauciuc cu caneluri este durabilă și oferă o tracțiune bună"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Zona cauciucata de pe degete ofera protectie suplimentara"
+  },
+  {
+   "fapt": "gleznă",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Partea superioară ridicată ajută la rigidizarea gleznei"
+  },
+  {
+   "fapt": "șireturi",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Sistemul rapid de șireturi cu comutatoare"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Bucla de la spate"
+  },
+  {
+   "fapt": "gambă",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "Material sintetic, Material textil"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/geox-pantofi-copii-magnetar-abx-j464lb-050fu-1364568",
+   "fragment": "înalt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox MAGNETAR ABX",
+  "Membrană": "Amphibiox",
+  "Caracteristici": "izolați, Geox Respira, șireturi rapide",
+  "Cod produs": "J464LB.050FU"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „MAGNETAR” în locul culorii; culoarea e cea de la magazin (albastru).",
+  "Magazinul îi numește „impermeabili”, dar spune și că nu garantează impermeabilitatea completă."
+ ]
+}
