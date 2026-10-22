@@ -1,0 +1,62 @@
+{
+ "id": 5494,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> Lace Up Bootie sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete unisex</a> albe, din piele ecologică cu finisaj neted, înalte peste gleznă și cu șireturi. Sunt ghete de oraș, pentru ținute lifestyle: magazinul nu declară izolație sau protecție la apă, deci nu sunt ghete de iarnă.</p><p>Șiretul se strânge pe toată înălțimea, așa că gheata se potrivește și pe o gleznă mai subțire. Talpa masivă are un toc gros integrat.</p><p>Detaliile care se văd:</p><ul><li><strong>Talpă</strong>: groasă, cu profil adânc și striații.</li><li><strong>Vârf</strong>: rotund.</li><li><strong>Logo</strong>: discret, pe limbă și pe lateral.</li><li><strong>Material</strong>: piele ecologică.</li></ul><p>Pe site sunt numerele 35-39, de regulă pentru copii de la 10 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.various-brands.ro/lace-up-bootie-tommy-hilfiger-t4a5-33030-1453100.html",
+   "fragment": "Ghete Tommy Hilfiger Lace UP BootIE albe"
+  },
+  {
+   "fapt": "închidere, gleznă",
+   "url": "www.various-brands.ro/lace-up-bootie-tommy-hilfiger-t4a5-33030-1453100.html",
+   "fragment": "închidere cu șireturi și acoperire înaltă la gleznă"
+  },
+  {
+   "fapt": "material",
+   "url": "www.various-brands.ro/lace-up-bootie-tommy-hilfiger-t4a5-33030-1453100.html",
+   "fragment": "piele ecologică, cu finisaj neted"
+  },
+  {
+   "fapt": "utilizare",
+   "url": "www.various-brands.ro/lace-up-bootie-tommy-hilfiger-t4a5-33030-1453100.html",
+   "fragment": "lifestyle și ținute moderne"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.various-brands.ro/lace-up-bootie-tommy-hilfiger-t4a5-33030-1453100.html",
+   "fragment": "Talpa este groasă, cu profil pronunțat"
+  },
+  {
+   "fapt": "toc",
+   "url": "www.various-brands.ro/lace-up-bootie-tommy-hilfiger-t4a5-33030-1453100.html",
+   "fragment": "Talpa masivă include un toc gros integrat"
+  },
+  {
+   "fapt": "striații",
+   "url": "www.various-brands.ro/lace-up-bootie-tommy-hilfiger-t4a5-33030-1453100.html",
+   "fragment": "striații vizibile"
+  },
+  {
+   "fapt": "vârf",
+   "url": "www.various-brands.ro/lace-up-bootie-tommy-hilfiger-t4a5-33030-1453100.html",
+   "fragment": "vârful este rotund"
+  },
+  {
+   "fapt": "logo",
+   "url": "www.various-brands.ro/lace-up-bootie-tommy-hilfiger-t4a5-33030-1453100.html",
+   "fragment": "logo-ul este prezent discret pe limbă și pe lateral"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger Lace Up Bootie",
+  "Material": "piele ecologică",
+  "Caracteristici": "înalte peste gleznă, șireturi, talpă groasă cu toc integrat",
+  "Cod produs": "T4A5-33030"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 10 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

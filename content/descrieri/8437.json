@@ -1,0 +1,60 @@
+{
+ "id": 8437,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/guess/\">GUESS</a> L6RL05 este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de tranziție pentru băieți</a>, neagră, din material neted de poliamidă, fără glugă. Nu are izolație, deci e pentru primăvară și toamnă.</p><p>Fermoarul e dublat de capse, iar buzunarele sunt oblice. Pentru că nu are glugă, pe vânt capul se acoperă separat, cu o piesă din {A(\"/categorie/baieti-accesorii-caciuli-manusi-accesorii/\", \"căciulile și accesoriile pentru băieți\")}.</p><p>Geaca e simplă, cu puține elemente:</p><ul><li><strong>Închidere</strong>: fermoar și capse.</li><li><strong>Buzunare</strong>: oblice.</li><li><strong>Glugă</strong>: nu are.</li><li><strong>Material</strong>: 100% poliamidă.</li></ul><p>Mărimile de pe site încep la 122-125 și urcă până la 175, potrivite în mare copiilor de 7-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-l6rl05-w4210-1697734",
+   "fragment": "L6RL05 W4210"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-l6rl05-w4210-1697734",
+   "fragment": "culoarea negru"
+  },
+  {
+   "fapt": "material neted",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-l6rl05-w4210-1697734",
+   "fragment": "material neted"
+  },
+  {
+   "fapt": "poliamidă",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-l6rl05-w4210-1697734",
+   "fragment": "Materialul de baza: 100% Poliamida"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-l6rl05-w4210-1697734",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-l6rl05-w4210-1697734",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-l6rl05-w4210-1697734",
+   "fragment": "Fixare cu fermoar si snap"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/guess-geaca-copii-culoarea-negru-l6rl05-w4210-1697734",
+   "fragment": "Buzunare oblice"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "GUESS L6RL05",
+  "Material": "100% poliamidă",
+  "Caracteristici": "de tranziție, fermoar și capse, buzunare oblice, fără glugă",
+  "Cod produs": "L6RL05.W4210"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/baieti-accesorii-caciuli-manusi-accesorii/",
+  "motiv": "geacă fără glugă"
+ },
+ "varsta_orientativa": "7-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

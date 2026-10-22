@@ -1,0 +1,85 @@
+{
+ "id": 8443,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/wheat/\">Wheat</a> 7664-927R este o <a href=\"/categorie/geci-jachete/\">geacă pentru fete</a> roșie, ușor izolată, cu izolație sintetică și impermeabilitate declarată de 8000 mm. E pentru toamnă și zilele mai reci, inclusiv pe ploaie măruntă, cu precizarea magazinului că nu garantează impermeabilitate completă.</p><p>Croiala e simplă, iar gulerul ridicat acoperă gâtul. Se încheie cu nasturi, nu cu fermoar, ceea ce la copiii mici cere puțin ajutor la îmbrăcat. Fără glugă, capul se acoperă cu o piesă din {A(\"/categorie/caciuli-manusi-accesorii/\", \"căciulile și mănușile pentru fete\")}.</p><p>Ce declară magazinul despre material:</p><ul><li><strong>Impermeabilitate</strong>: 8000 mm/m2/24h.</li><li><strong>Respirabilitate</strong>: 5000 g/m2/24h.</li><li><strong>Material</strong>: 100% poliester.</li><li><strong>Glugă</strong>: nu are.</li></ul><p>Pe site sunt mărimile 92-152, pentru copii de aproximativ 2-12 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "7664-927R GRS"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "culoarea roșu"
+  },
+  {
+   "fapt": "ușor izolat",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "Model ușor izolat"
+  },
+  {
+   "fapt": "izolație sintetică",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "izolație sintetică"
+  },
+  {
+   "fapt": "temperaturi",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "temperaturi mai scăzute"
+  },
+  {
+   "fapt": "impermeabilitate",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "Impermeabilitate: 8000 mm/m2/24h"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "Respirabilitate: 5000 g/m2/24h"
+  },
+  {
+   "fapt": "nu e complet impermeabil",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "nu garantează impermeabilitatea completă"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "Incheiere cu nasturi"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "Gulerul ridicat"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7664-927r-grs-1729745",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Wheat 7664-927R",
+  "Material": "100% poliester, izolație sintetică",
+  "Caracteristici": "ușor izolată, impermeabilitate 8000 mm, respirabilitate 5000 g, nasturi, guler ridicat",
+  "Cod produs": "7664-927R"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/caciuli-manusi-accesorii/",
+  "motiv": "geacă fără glugă"
+ },
+ "varsta_orientativa": "2-12 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
