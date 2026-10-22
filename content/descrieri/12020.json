@@ -1,0 +1,24 @@
+{
+ "id": 12020,
+ "versiune": "v7",
+ "descriere_html": "<p>Bomberul <a href=\"/brand/4f/\">4F</a> în varianta neagră este o <a href=\"/categorie/geci-jachete/\">geacă bomber pentru fete</a> din material sintetic, cu croială oversize și fără glugă. Fiind larg, se poartă comod peste o bluză groasă. Pe site, mărimile 122-164 merg la copii de 7-14 ani, în mare.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/jacheta-bomber-pentru-fete-neagra-sintetic-croiala-oversize-fara-gluga-fete-4f-p16893602-7/",
+   "fragment": "Jacheta bomber pentru fete neagra, sintetic, croiala oversize, fara gluga"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (bomber)",
+  "Material": "sintetic",
+  "Caracteristici": "bomber, oversize, fără glugă",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-14 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

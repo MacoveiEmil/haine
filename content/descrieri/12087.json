@@ -1,0 +1,24 @@
+{
+ "id": 12087,
+ "versiune": "v7",
+ "descriere_html": "<p>Ghetele <a href=\"/brand/columbia/\">Columbia</a> de zăpadă sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete de zăpadă unisex</a>, în culoarea albastru, din material textil, pentru iarnă, plimbările pe zăpadă și joaca afară în zilele reci, cu prietenii.</p><p>Pe site sunt numerele 32-37, pentru copii de la, cu aproximație, 8 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/ghete-de-zapada-copii-albastru-material-textil-baieti-columbia-p16859072-8/",
+   "fragment": "Ghete de zapada copii, albastru, material textil"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Columbia (ghete de zăpadă)",
+  "Material": "material textil",
+  "Caracteristici": "ghete de zăpadă",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 8 ani în sus",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

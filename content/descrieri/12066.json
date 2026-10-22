@@ -1,0 +1,24 @@
+{
+ "id": 12066,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/blue-seven/\">Blue Seven</a> 895553X este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă pentru băieți</a>, bleumarin, o culoare închisă, practică pentru zilele obișnuite, care merge ușor la blugi și la pantaloni de trening.</p><p>Mărimile 110-128 de pe site sunt, de regulă, pentru copii de 5-8 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/geaca-baieti-895553x-bleumarin-baieti-blue-seven-p16882163-8/",
+   "fragment": "Geaca Baieti, 895553X, Bleumarin"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Blue Seven 895553X",
+  "Material": "",
+  "Caracteristici": "",
+  "Cod produs": "895553X"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "5-8 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

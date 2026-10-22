@@ -1,0 +1,24 @@
+{
+ "id": 11944,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/columbia/\">Columbia</a> 305283887 sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete de trekking unisex</a>, în culoarea albastru, din material textil, gândite pentru drumeții, plimbări pe trasee de munte și ieșiri în natură, în weekend sau în vacanțe.</p><p>Mărimile de pe site, 32-39, acoperă copiii de pe la 8 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/ghete-de-trekking-copii-305283887-textil-albastru-baieti-columbia-p16903632-8/",
+   "fragment": "Ghete de trekking copii, 305283887, textil, albastru"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Columbia 305283887",
+  "Material": "material textil",
+  "Caracteristici": "ghete de trekking",
+  "Cod produs": "305283887"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 8 ani în sus",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

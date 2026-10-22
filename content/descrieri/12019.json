@@ -1,0 +1,24 @@
+{
+ "id": 12019,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/4f/\">4F</a> propune o <a href=\"/categorie/geci-jachete/\">geacă bomber pentru fete</a>, bej, de tranziție, din material sintetic, cu croială supradimensionată și fără glugă, deci încape lejer un hanorac dedesubt.</p><p>Mărimile 122-164 sunt pentru copii de aproximativ 7-14 ani. Croiala largă lasă loc și pentru un pulover în zilele mai răcoroase.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/jacheta-bomber-de-tranzitie-fete-bej-croiala-supradimensionata-sintetic-fara-gluga-fete-4f-p16893618-7/",
+   "fragment": "Jacheta bomber de tranzitie fete bej, croiala supradimensionata, sintetic, fara gluga"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (bomber de tranziție)",
+  "Material": "sintetic",
+  "Caracteristici": "bomber, supradimensionată, fără glugă",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-14 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

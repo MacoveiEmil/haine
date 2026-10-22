@@ -1,0 +1,24 @@
+{
+ "id": 11912,
+ "versiune": "v7",
+ "descriere_html": "<p>Pantofii <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> 305127815 sunt <a href=\"/categorie/incaltaminte-pantofi/\">pantofi pentru fete</a> albi, din piele ecologică, un model simplu, de purtat la ținute îngrijite sau de zi cu zi. </p><p>Pe site sunt numerele 30-31, care se potrivesc copiilor de cam 6-7 ani, la începutul școlii.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/pantofi-fete-305127815-piele-ecologica-alb-fete-tommy-hilfiger-p16909934-7/",
+   "fragment": "Pantofi fete 305127815, Piele ecologica, Alb"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger 305127815",
+  "Material": "piele ecologică",
+  "Caracteristici": "",
+  "Cod produs": "305127815"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-7 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

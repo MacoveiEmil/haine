@@ -1,0 +1,25 @@
+{
+ "id": 11929,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/columbia/\">Columbia</a> Youth Snowtrot Mid sunt <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">cizme pentru băieți</a>, negre, din material textil, un model de zăpadă cu profil mediu, după numele modelului, pentru iarnă și joaca afară pe zăpadă.</p><p>Pe site e disponibil doar numărul 37, potrivit, de obicei, copiilor de la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/cizme-youth-snowtrot-mid-negru-material-textil-pentru-baieti-baieti-columbia-p16263807-8/",
+   "fragment": "Cizme Youth Snowtrot Mid, negru, material textil, pentru baieti"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Columbia Youth Snowtrot Mid",
+  "Material": "material textil",
+  "Caracteristici": "",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu.",
+  "„Model de zăpadă” și „iarnă” sunt deduse din numele Snowtrot."
+ ]
+}
