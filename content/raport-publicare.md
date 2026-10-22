@@ -1,5 +1,8 @@
 # Raport publicare
 
+## 2026-10-22 14:48 (1d6b7bd, Macovei Emil)
+- cod/configurație actualizate: wp-content/themes/hainute/front-page.php wp-content/themes/hainute/inc/filters.php wp-content/themes/hainute/inc/template-tags.php 
+
 ## 2026-10-22 14:44 (4816ad1, Macovei Emil)
 - cod/configurație actualizate: tools/audit-magazine.php wp-content/plugins/hainute-core/includes/offers.php wp-content/themes/hainute/inc/template-tags.php wp-content/themes/hainute/template-parts/product-card.php 
 
