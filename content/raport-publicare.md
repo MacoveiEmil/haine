@@ -1,5 +1,9 @@
 # Raport publicare
 
+## 2026-10-22 19:36 (6faa293, Macovei Emil)
+- containerele au fost repornite (configurație Docker modificată)
+- cod/configurație actualizate: docker-compose.prod.yml wp-content/plugins/hainute-core/includes/engagement.php 
+
 ## 2026-10-22 16:19 (ba79f26, Macovei Emil)
 - cod/configurație actualizate: wp-content/plugins/hainute-core/afiliere.json wp-content/plugins/hainute-core/includes/offers.php wp-content/themes/hainute/inc/template-tags.php 
 
