@@ -30,18 +30,23 @@ const realUrl = (u) => { try { const x = new URL(u); return x.searchParams.get('
   const browser = await puppeteer.launch({ executablePath: CHROME, headless: 'new' });
   const ua = (await browser.userAgent()).replace('HeadlessChrome', 'Chrome');
   const out = [];
-  for (const [id, src, cat, title, url0] of rows) {
+  const one = async ([id, src, cat, title, url0]) => {
+    let rec;
     const url = realUrl(url0).split('?channable')[0];
     const page = await browser.newPage();
     await page.setUserAgent(ua);
+    await page.setRequestInterception(true);
+    page.on('request', (r) => (['image', 'font', 'media'].includes(r.resourceType()) ? r.abort() : r.continue()));
     try {
-      await page.goto(url, { waitUntil: 'networkidle2', timeout: 45000 });
+      // Rapid: nu așteptăm toate scripturile de tracking, doar datele produsului (stare React / JSON-LD).
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+      await page.waitForFunction(() => window.__REACT_QUERY_STATE__ || document.querySelector('script[type="application/ld+json"]'), { timeout: 15000 }).catch(() => {});
       if (/various-brands/.test(url)) { // consent Cookiebot, apoi reîncarcă
         await page.evaluate(() => { const b = document.getElementById('CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll') || [...document.querySelectorAll('button,a')].find((x) => /permite toate|accept all/i.test(x.textContent || '')); if (b) b.click(); }).catch(() => {});
         await sleep(1500);
         await page.goto(url, { waitUntil: 'networkidle2', timeout: 45000 });
       }
-      await sleep(2500);
+      await sleep(1200);
       const data = await page.evaluate(() => {
         const r = { h1: (document.querySelector('h1') || {}).innerText || document.title };
         // JSON-LD Product
@@ -70,19 +75,25 @@ const realUrl = (u) => { try { const x = new URL(u); return x.searchParams.get('
         r.text = (main.innerText || '').replace(/\n{2,}/g, '\n').slice(0, 7000);
         return r;
       });
-      out.push({ id: +id, sursa: src, categorie: cat, titlu_site: title, url, ...data });
+      out.push(rec = { id: +id, sursa: src, categorie: cat, titlu_site: title, url, ...data });
       console.log(`✓ #${id} ${src} ${data.h1.slice(0, 60)}`);
     } catch (e) {
-      out.push({ id: +id, sursa: src, url, eroare: e.message });
+      out.push(rec = { id: +id, sursa: src, url, eroare: e.message });
       console.log(`✗ #${id} ${e.message}`);
     }
     await page.close();
-    await sleep(1500);
-  }
+    if (BY_IDS) {
+      const o = rec;
+      fs.mkdirSync(path.join(CONTENT, 'surse'), { recursive: true });
+      fs.writeFileSync(path.join(CONTENT, 'surse', `${o.id}.json`), JSON.stringify({ extras_la: new Date().toISOString(), ...o }, null, 1));
+    }
+    await sleep(800);
+  };
+  const queue = rows.slice();
+  const conc = Math.max(1, +(process.env.CONC || 1));
+  await Promise.all(Array.from({ length: conc }, async () => { while (queue.length) await one(queue.shift()); }));
   await browser.close();
   if (BY_IDS) {
-    fs.mkdirSync(path.join(CONTENT, 'surse'), { recursive: true });
-    for (const o of out) fs.writeFileSync(path.join(CONTENT, 'surse', `${o.id}.json`), JSON.stringify({ extras_la: new Date().toISOString(), ...o }, null, 1));
     console.log(`scrise ${out.length} fișiere în content/surse/`);
   } else {
     fs.writeFileSync(process.argv[3], JSON.stringify(out, null, 1));
