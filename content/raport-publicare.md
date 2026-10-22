@@ -1,5 +1,18 @@
 # Raport publicare
 
+## 2026-10-22 12:53 (d5fa2ba, Claude)
+- PUBLICAT, verificare OK: 14743 90 cuv | OK
+- PUBLICAT, verificare OK: 14745 96 cuv | OK
+- PUBLICAT, verificare OK: 14749 100 cuv | OK
+- PUBLICAT, verificare OK: 14784 105 cuv | OK
+- PUBLICAT, verificare OK: 14786 95 cuv | OK
+- PUBLICAT, verificare OK: 14797 86 cuv | OK
+- PUBLICAT, verificare OK: 14802 90 cuv | OK
+- PUBLICAT, verificare OK: 14805 86 cuv | OK
+- PUBLICAT, verificare OK: 14812 101 cuv | OK
+- PUBLICAT, verificare OK: 14864 91 cuv | OK
+- cod/configurație actualizate: tools/descrieri-claude/loturi/b105.py 
+
 ## 2026-10-22 12:51 (e17cb8b, Claude)
 - PUBLICAT, verificare OK: 14620 95 cuv | OK
 - PUBLICAT, verificare OK: 14621 101 cuv | OK
