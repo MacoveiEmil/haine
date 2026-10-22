@@ -1,0 +1,62 @@
+{
+ "id": 12610,
+ "versiune": "v7",
+ "descriere_html": "<p>Perechea <a href=\"/brand/reima/\">Reima</a> Ankka în mărimi mari: <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">cizme unisex</a> negre, de ploaie, din masă plastică mată și netedă, care țin piciorul uscat chiar și la precipitații mari. Elementele reflectorizante fac copilul mai vizibil seara.</p><p>Inserțiile detașabile Happy Fit ajută la alegerea mărimii potrivite, iar bucla din spate ușurează încălțatul și descălțatul.</p><p>Ce mai trebuie știut:</p><ul><li><strong>Interior</strong>: sintetic și textil.</li><li><strong>Talpă exterioară</strong>: din cauciuc, rezistentă.</li><li><strong>Apă</strong>: impermeabile, dar fără garanția impermeabilității complete.</li></ul><p>Sunt disponibile doar numerele 39-40, de la 12 ani în sus, orientativ.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-cizme-copii-ankka-culoarea-negru-5400158a-1718163",
+   "fragment": "Reima Cizme copii Ankka culoarea negru, 5400158A"
+  },
+  {
+   "fapt": "plastic",
+   "url": "answear.ro/p/reima-cizme-copii-ankka-culoarea-negru-5400158a-1718163",
+   "fragment": "Model confecționat din masa plastica mat, neted"
+  },
+  {
+   "fapt": "uscat",
+   "url": "answear.ro/p/reima-cizme-copii-ankka-culoarea-negru-5400158a-1718163",
+   "fragment": "Modelul este realizat din materiale care asigură uscăciunea în timpul precipitațiilor mari"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/reima-cizme-copii-ankka-culoarea-negru-5400158a-1718163",
+   "fragment": "Elementele reflectorizante sporesc vizibilitatea și siguranța după întuneric"
+  },
+  {
+   "fapt": "Happy Fit",
+   "url": "answear.ro/p/reima-cizme-copii-ankka-culoarea-negru-5400158a-1718163",
+   "fragment": "Inserțiile detașabile Happy Fit vă permit să alegeți dimensiunea potrivită"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/reima-cizme-copii-ankka-culoarea-negru-5400158a-1718163",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/reima-cizme-copii-ankka-culoarea-negru-5400158a-1718163",
+   "fragment": "Material sintetic, Material textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/reima-cizme-copii-ankka-culoarea-negru-5400158a-1718163",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "apă",
+   "url": "answear.ro/p/reima-cizme-copii-ankka-culoarea-negru-5400158a-1718163",
+   "fragment": "nu garantează impermeabilitatea completă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Ankka",
+  "Material": "masă plastică, interior sintetic și textil, talpă din cauciuc",
+  "Caracteristici": "cizme de ploaie, reflectorizante, inserții Happy Fit",
+  "Cod produs": "5400158A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

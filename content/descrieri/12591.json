@@ -1,0 +1,64 @@
+{
+ "id": 12591,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T1A9-34231 bej sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> cu profil jos, cu partea de sus din material sintetic, care se închid cu velcro, deci se încalță și se descalță ușor. Cutia rotundă, întărită, apără degetele la joacă.</p><p>Contrafortul rigidizat sprijină călcâiul și glezna, iar interiorul textil se păstrează curat ușor.</p><p>Câteva detalii de construcție:</p><ul><li><strong>Talpă exterioară</strong>: din cauciuc, durabilă.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Închidere</strong>: velcro.</li></ul><p>Numerele 30-34 merg, orientativ, la fete de 6-11 ani; la 30 branțul are 19,5 cm.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-bej-t1a9-34231-1719354",
+   "fragment": "Tommy Hilfiger Sneakers pentru copii culoarea bej, T1A9-34231"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-bej-t1a9-34231-1719354",
+   "fragment": "Înălțime: mic de statură"
+  },
+  {
+   "fapt": "gamba",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-bej-t1a9-34231-1719354",
+   "fragment": "Gamba: Material sintetic"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-bej-t1a9-34231-1719354",
+   "fragment": "Închiderea cu velcro facilitează încălțarea și scoaterea pantofilor"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-bej-t1a9-34231-1719354",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-bej-t1a9-34231-1719354",
+   "fragment": "Contorul de călcâi rigidizat oferă un sprijin excelent pentru gleznă și călcâi"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-bej-t1a9-34231-1719354",
+   "fragment": "Interiorul textil este confortabil pentru picior și facilitează păstrarea pantofilor curați"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-bej-t1a9-34231-1719354",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-bej-t1a9-34231-1719354",
+   "fragment": "Lungimea brantului pentru marimea este de: 19,5 cm"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger T1A9-34231",
+  "Material": "sintetic, interior textil, talpă din cauciuc",
+  "Caracteristici": "velcro, vârf întărit, contrafort rigidizat",
+  "Cod produs": "T1A9-34231"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea magazinului spune piele întoarsă, dar compoziția și atributele dau material sintetic (imitație de piele); am scris material sintetic."
+ ]
+}
