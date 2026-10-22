@@ -1,0 +1,89 @@
+{
+ "id": 12824,
+ "versiune": "v7",
+ "descriere_html": "<p>Hanoracul <a href=\"/brand/reima/\">Reima</a> Neulomus albastru este un <a href=\"/categorie/unisex-imbracaminte-bluze-tricouri-hanorace/\">hanorac unisex</a> din polar melanj, moale și plăcut la atingere, în mare parte din poliester reciclat. Fermoarul îl face ușor de pus și de scos, iar gulerul ridicat apără de frig.</p><p>Mânecile raglan lasă brațele libere, iar mânecile și tivul au margine elastică, care ține vântul afară. Croiala e simplă și dreaptă, iar modelul uni se poartă ușor cu restul hainelor.</p><p>Restul detaliilor:</p><ul><li><strong>Buzunare</strong>: două, laterale.</li><li><strong>Material</strong>: 90% poliester reciclat, 10% poliester.</li><li><strong>Glugă</strong>: nu are.</li></ul><p>Mărimile 104-164 merg cam la 4-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Reima Neulomus albastru 5200365A"
+  },
+  {
+   "fapt": "polar",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Material: polar"
+  },
+  {
+   "fapt": "melanj",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Model: melanj"
+  },
+  {
+   "fapt": "moale",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Model realizat din material moale si placut la atingere"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Acest produs este realizat partial din poliester reciclat"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Închiderea convenabilă cu fermoar"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Gulerul ridicat oferă protecție suplimentară împotriva frigului"
+  },
+  {
+   "fapt": "raglan",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Maneca raglan"
+  },
+  {
+   "fapt": "margini",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Mânecile și marginea inferioară sunt finisate cu bătături"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Două buzunare laterale"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "90% Poliester reciclat, 10% Poliester"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "uni",
+   "url": "answear.ro/p/reima-hanorac-polar-pentru-copii-neulomus-melanj-5200365a-1596008",
+   "fragment": "Model: uni"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima Neulomus",
+  "Material": "90% poliester reciclat, 10% poliester (polar)",
+  "Caracteristici": "fermoar, guler ridicat, mâneci raglan",
+  "Cod produs": "5200365A"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea scurtă spune „material de lână”, compoziția e poliester (polar); am scris polar."
+ ]
+}
