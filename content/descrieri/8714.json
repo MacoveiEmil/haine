@@ -1,0 +1,99 @@
+{
+ "id": 8714,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/biomecanics/\">Biomecanics</a> 262158 bej sunt <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidași pentru bebeluși</a>, ușori și confortabili, din textil, imitație de piele întoarsă și piele ecologică. Au fost creați împreună cu medici pediatri și ingineri de la Institutul de Biomecanică din Valencia.</p><p>Vârful lat nu ciupește degetele, deschiderea largă ajută la încălțat, iar tăietura în formă de U lasă glezna să se miște liber. Se închid cu șireturi elastice și cârlig, iar bucla de la spate ajută la pus și la scos.</p><p>Detaliile de bază:</p><ul><li><strong>Branț</strong>: detașabil, antibacterian, profilat.</li><li><strong>Lungime branț</strong>: 15 cm la numărul 23.</li><li><strong>Talpă</strong>: material sintetic, profilată.</li></ul><p>Numerele 19-23 sunt pentru copii de aproximativ 1-3 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "262158"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "culoarea bej"
+  },
+  {
+   "fapt": "materiale",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "combinatie de material textil, imitatie de piele întoarsă și piele ecologică"
+  },
+  {
+   "fapt": "ușor",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "Model ușor și confortabil"
+  },
+  {
+   "fapt": "pediatri",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "create in cooperare cu medici pediatri si ingineri de la Institutul de Biomecanica din Valencia"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "Cutia lată a degetelor previne ciupirea degetelor"
+  },
+  {
+   "fapt": "deschidere",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "Deschidere larga pentru incaltarea usoara"
+  },
+  {
+   "fapt": "U",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "taieturi in forma de U"
+  },
+  {
+   "fapt": "glezna",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "permit gleznei sa se miste liber"
+  },
+  {
+   "fapt": "șireturi",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "Șireturile elastice și închiderea cu cârlig"
+  },
+  {
+   "fapt": "buclă",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "Brant detasabil si antibacterian, profilat la mijlocul piciorului"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "Lungimea brantului pentru marimea este de: 15 cm"
+  },
+  {
+   "fapt": "mărime",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "Dimensiunile date pentru marimea: 23"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "Talpa: Material sintetic"
+  },
+  {
+   "fapt": "profilată",
+   "url": "answear.ro/p/biomecanics-sneakers-pentru-copii-culoarea-bej-262158-1727488",
+   "fragment": "profilată"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Biomecanics 262158",
+  "Material": "textil, imitație de piele întoarsă, piele ecologică",
+  "Caracteristici": "vârf lat, branț antibacterian, șireturi elastice",
+  "Cod produs": "262158"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-3 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea spune „fabricat numai din materiale naturale”, dar compoziția indică materiale sintetice; nu am preluat afirmația."
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": 8700,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/colmar/\">Colmar</a> CAPTION roz este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> pentru cei mici, ușor izolată, din material matlasat, cu umplutură de puf și căptușeală completă, sintetică. Gulerul ridicat ține gâtul la adăpost, iar gluga lipsește.</p><p>Se închide cu fermoar și capsă, iar buzunarele exterioare se închid. Compoziția combină mai multe materiale, inclusiv unul cu puțin elastan.</p><p>Detaliile de bază:</p><ul><li><strong>Material 1</strong>: 100% poliester.</li><li><strong>Material 3</strong>: 90% poliamidă, 10% puf.</li><li><strong>Material 4</strong>: 99% poliester, 1% elastan.</li><li><strong>Croială</strong>: regular fit.</li></ul><p>Mărimile 86-98 sunt pentru copii de aproximativ 1-3 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "CAPTION"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "culoarea roz"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "Model ușor izolat confecționat din material matlasat"
+  },
+  {
+   "fapt": "puf",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "puf"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "cu căptușeală completă, sintetică"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "Guler ridicat"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "Fixare cu fermoar si snap"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "Buzunare exterioare incheiata"
+  },
+  {
+   "fapt": "material1",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "material3",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "90% Poliamida, 10% Puf"
+  },
+  {
+   "fapt": "material4",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "99% Poliester , 1% Elastan"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/colmar-geaca-copii-caption-culoarea-roz-3484-2xx-1608109",
+   "fragment": "Croială: regular fit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Colmar CAPTION",
+  "Material": "poliester, poliamidă cu puf",
+  "Caracteristici": "matlasată, umplutură de puf, guler ridicat",
+  "Cod produs": "3484.2XX"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-3 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
