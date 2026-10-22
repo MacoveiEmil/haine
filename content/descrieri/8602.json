@@ -1,7 +1,7 @@
 {
  "id": 8602,
  "versiune": "v7",
- "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Oikotie sunt <a href=\"/categorie/unisex-imbracaminte-pantaloni-treninguri/\">pantaloni unisex rezistenți la apă</a>, violet, din țesătură Teflon EcoElite, de origine vegetală, cu impermeabilitate de 10000 g/m2. Sunt pentru ploaie și bălți, cu precizarea magazinului că rezistența la apă nu garantează impermeabilitate completă.</p><p>Magazinul spune că croiala, clasică și simplă, se potrivește tuturor tipurilor de corp. Talia e înaltă, cu bandă elastică, deci acoperă spatele când copilul se apleacă și se strânge singură pe un copil mai slab, iar picioarele se termină într-un tiv elastic îngust, care ține crăcii aproape de gleznă.</p><p>În compoziție intră 92% poliamidă și 8% elastan, iar respirabilitatea declarată e de 3000 g/m2/24h. Se poartă cu <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete sau cizme unisex</a>, iar pe site sunt mărimile de la 92 la 140, pentru copii de aproximativ 2-10 ani.</p>",
+ "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Oikotie sunt <a href=\"/categorie/unisex-imbracaminte-pantaloni-treninguri/\">pantaloni unisex rezistenți la apă</a>, violet, din țesătură Teflon EcoElite, de origine vegetală. Sunt pentru ploaie și bălți, cu precizarea magazinului că rezistența la apă nu garantează impermeabilitate completă.</p><p>Magazinul spune că croiala, clasică și simplă, se potrivește tuturor tipurilor de corp. Talia e înaltă, cu bandă elastică, deci acoperă spatele când copilul se apleacă și se strânge singură pe un copil mai slab, iar picioarele se termină într-un tiv elastic îngust, care ține crăcii aproape de gleznă.</p><p>Ca să știi cât rezistă afară, magazinul declară:</p><ul><li><strong>Impermeabilitate</strong>: 10000 g/m2.</li><li><strong>Respirabilitate</strong>: 3000 g/m2/24h.</li><li><strong>Material</strong>: Teflon EcoElite, 92% poliamidă și 8% elastan.</li><li><strong>Model</strong>: uni.</li></ul><p>Se poartă cu <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete sau cizme unisex</a>, iar pe site sunt mărimile de la 92 la 140, pentru copii de aproximativ 2-10 ani.</p>",
  "surse": [
   {
    "fapt": "model",
@@ -62,6 +62,11 @@
    "fapt": "respirabilitate",
    "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
    "fragment": "Respirabilitate: 3000 g/m2/24h"
+  },
+  {
+   "fapt": "model uni",
+   "url": "answear.ro/p/reima-pantaloni-copii-oikotie-culoarea-violet-5100010b-1583928",
+   "fragment": "Model: uni"
   }
  ],
  "specificatii_tehnice": {

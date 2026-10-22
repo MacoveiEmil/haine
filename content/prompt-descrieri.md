@@ -9,6 +9,7 @@ Textul se scrie în română, cu diacritice corecte (ș, ț cu virgulă dedesubt
 
 - **Vârsta nu mai are formulă fixă.** „Orientativ” apărea pe fiecare pagină, în aceeași frază. Vârsta rămâne
   aproximativă (așa e corect), dar o spui de fiecare dată altfel. Vezi punctul 5.
+- **Lista de caracteristici revine obligatorie** (3-6 puncte), introdusă de o frază legată de text.
 - **Cum vine pe copil.** O frază sau două despre croială și potrivire (cât de larg, până unde e lung,
   manșete, talie, calapod) și ce înseamnă asta pentru copil, doar din fapte. Vezi secțiunea dedicată.
 
@@ -72,8 +73,9 @@ Funcțiile tehnice declarate concret se păstrează, spuse simplu: „membrană 
 
 - **Lungime: 80-240 de cuvinte.** Primul paragraf are 25-66 de cuvinte și e un paragraf adevărat,
   de 2-3 fraze, nu o etichetă. Scrii mai mult acolo unde ai fapte, nu umplutură.
-- **Lista e opțională.** O folosești când ai 3 sau mai multe detalii de construcție care se citesc mai
-  ușor ca listă. Dacă o folosești:
+- **Lista de caracteristici e obligatorie** (3-6 puncte): materialul, închiderea, talpa, gluga, buzunarele,
+  tehnologiile. Textul rămâne liber, dar părintele trebuie să vadă repede ce are produsul. Detaliile tehnice
+  stau în listă și nu se mai repetă în paragrafe (paragrafele spun ce e, pentru ce e bun și cum vine pe copil). Lista:
   - o **introduci cu o frază care o leagă de ce ai spus înainte** și se termină cu două puncte. Fraza
     spune de ce contează detaliile care urmează, pentru produsul ăsta. Bune: „Dimineața, când copilul
     se încalță singur, contează câteva detalii:”, „Pe pârtie, zăpada intră de obicei pe la încheieturi
