@@ -1,0 +1,67 @@
+{
+ "id": 10915,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de blugi <a href=\"/brand/hugo/\">HUGO</a> G01053 este o <a href=\"/categorie/geci-jachete/\">geacă de blugi pentru fete</a>, albastră, din denim de bumbac 100%, neizolată și fără căptușeală. Se poartă în sezonul de tranziție, când e nevoie doar de un strat subțire.</p><p>Croiala e simplă, dreaptă, iar mânecile au manșete care se încheie, deci se strâng pe încheietura unui copil mai slab. Nu are glugă.</p><p>Pe scurt, despre geacă:</p><ul><li><strong>Închidere</strong>: nasturi.</li><li><strong>Material</strong>: 100% bumbac (denim).</li><li><strong>Căptușeală</strong>: nu are.</li></ul><p>Mărimile 114-150 sunt pentru copii de în jur de 6-12 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/hugo-geaca-de-blugi-pentru-copii-g01053-1725079",
+   "fragment": "HUGO Geacă de blugi pentru copii G01053"
+  },
+  {
+   "fapt": "denim",
+   "url": "answear.ro/p/hugo-geaca-de-blugi-pentru-copii-g01053-1725079",
+   "fragment": "Model neizolat confecționat din denim"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/hugo-geaca-de-blugi-pentru-copii-g01053-1725079",
+   "fragment": "100% Bumbac"
+  },
+  {
+   "fapt": "necăptușit",
+   "url": "answear.ro/p/hugo-geaca-de-blugi-pentru-copii-g01053-1725079",
+   "fragment": "Model neizolat fara captuseala"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/hugo-geaca-de-blugi-pentru-copii-g01053-1725079",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/hugo-geaca-de-blugi-pentru-copii-g01053-1725079",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/hugo-geaca-de-blugi-pentru-copii-g01053-1725079",
+   "fragment": "Maneci cu mansete incheiate"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/hugo-geaca-de-blugi-pentru-copii-g01053-1725079",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/hugo-geaca-de-blugi-pentru-copii-g01053-1725079",
+   "fragment": "Închiderea convenabilă cu buton"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/hugo-geaca-de-blugi-pentru-copii-g01053-1725079",
+   "fragment": "albastru"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "HUGO G01053",
+  "Material": "100% bumbac (denim)",
+  "Caracteristici": "neizolată, necăptușită, nasturi",
+  "Cod produs": "G01053"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "6-12 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

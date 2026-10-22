@@ -1,0 +1,74 @@
+{
+ "id": 10947,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> CIUFCIUF Looney Tunes B665QA sunt <a href=\"/categorie/bebe-incaltaminte-adidasi/\">adidași pentru bebeluși</a> roz, cu logo și licență, din piele întoarsă, material textil și sintetic. Membrana microporoasă Geox Respira™ din talpă scoate umezeala și ține apa afară.</p><p>Aricii permit încălțatul și descălțatul rapid, de către copil, iar branțurile textile se scot, pentru curățat sau verificat mărimea.</p><p>Pe scurt:</p><ul><li><strong>Talpă</strong>: plată, din spumă, ușoară.</li><li><strong>Călcâi</strong>: ușor întărit.</li><li><strong>Interior</strong>: căptușit cu material textil.</li></ul><p>Numerele 20-27 sunt pentru cei mici de aproximativ 1-4 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "Geox CIUFCIUF Looney Tunes sneakers pentru copii roz B665QA.05422"
+  },
+  {
+   "fapt": "logo",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "Model cu logo și licență"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "Piele întoarsă, Material textil, Material sintetic"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "Tehnologia GEOX Respira™"
+  },
+  {
+   "fapt": "membrană",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "Membrana microporoasă din talpă protejează interiorul pantofului împotriva pătrunderii apei"
+  },
+  {
+   "fapt": "umezeală",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "membranei din talpă, care elimină umezeala"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "Închidere practică cu arici permite încălțarea și descălțarea rapidă și ușoară de către copil"
+  },
+  {
+   "fapt": "branțuri",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "Branțuri detașabile din material textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "Talpă plată din spumă asigură lejeritate"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "Călcâi ușor întărit"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-ciufciuf-looney-tunes-sneakers-pentru-copii-roz-b665qa-05422-1839383",
+   "fragment": "Interior căptușit cu material textil"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox CIUFCIUF Looney Tunes",
+  "Material": "piele întoarsă, textil și sintetic, interior textil, talpă din spumă",
+  "Caracteristici": "arici, branțuri detașabile, Geox Respira™",
+  "Cod produs": "B665QA.05422"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul scrie „licență Disney” la un model Looney Tunes; am scris doar „licență”."
+ ]
+}

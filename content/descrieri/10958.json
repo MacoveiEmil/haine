@@ -1,0 +1,64 @@
+{
+ "id": 10958,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/konges-slojd/\">Konges Sløjd</a> LUC OVERALLS GOTS KS104956 este o <a href=\"/categorie/unisex-imbracaminte-salopete-compleuri/\">salopetă cu bretele unisex</a>, albastră, cu imprimeu, din bumbac organic certificat GOTS, în stil casual. Se poartă peste un body sau un tricou.</p><p>Croiala e simplă, dreaptă, iar bretelele țin salopeta pe umeri. Se închide cu nasturi, care se desfac ușor când copilul trebuie schimbat.</p><p>Pe scurt:</p><ul><li><strong>Închidere</strong>: nasturi.</li><li><strong>Buzunar</strong>: în față.</li><li><strong>Material</strong>: 100% bumbac organic.</li></ul><p>Mărimile 74-116 sunt pentru copii mici, de cam 9 luni până la 6 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-salopeta-copii-luc-overalls-gots-cu-imprimeu-ks104956-1712092",
+   "fragment": "Konges Sløjd Salopetă copii LUC OVERALLS GOTS cu imprimeu, KS104956"
+  },
+  {
+   "fapt": "organic",
+   "url": "answear.ro/p/konges-slojd-salopeta-copii-luc-overalls-gots-cu-imprimeu-ks104956-1712092",
+   "fragment": "bumbac organic certificat"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/konges-slojd-salopeta-copii-luc-overalls-gots-cu-imprimeu-ks104956-1712092",
+   "fragment": "100% Bumbac organic"
+  },
+  {
+   "fapt": "casual",
+   "url": "answear.ro/p/konges-slojd-salopeta-copii-luc-overalls-gots-cu-imprimeu-ks104956-1712092",
+   "fragment": "Ocazie: casual"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/konges-slojd-salopeta-copii-luc-overalls-gots-cu-imprimeu-ks104956-1712092",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "bretele",
+   "url": "answear.ro/p/konges-slojd-salopeta-copii-luc-overalls-gots-cu-imprimeu-ks104956-1712092",
+   "fragment": "Model cu bretele"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/konges-slojd-salopeta-copii-luc-overalls-gots-cu-imprimeu-ks104956-1712092",
+   "fragment": "Incheiere cu nasturi"
+  },
+  {
+   "fapt": "buzunar",
+   "url": "answear.ro/p/konges-slojd-salopeta-copii-luc-overalls-gots-cu-imprimeu-ks104956-1712092",
+   "fragment": "Buzunar alunecat în față"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/konges-slojd-salopeta-copii-luc-overalls-gots-cu-imprimeu-ks104956-1712092",
+   "fragment": "albastru"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Konges Sløjd LUC OVERALLS",
+  "Material": "100% bumbac organic (GOTS)",
+  "Caracteristici": "bretele, nasturi, imprimeu",
+  "Cod produs": "KS104956"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "9 luni - 6 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "„Peste un body sau un tricou” e dedus din faptul că e salopetă cu bretele."
+ ]
+}
