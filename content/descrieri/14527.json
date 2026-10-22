@@ -1,0 +1,84 @@
+{
+ "id": 14527,
+ "versiune": "v7",
+ "descriere_html": "<p>Combinezonul de iarnă <a href=\"/brand/reima/\">Reima</a> TUOHI verde este un <a href=\"/categorie/unisex-imbracaminte-salopete-compleuri/\">combinezon unisex</a> din material reciclat, respirabil, rezistent la vânt și la apă, care respinge murdăria. Umplutura Fellex ține de cald, iar cusăturile sunt ermetice.</p><p>Gluga se detașează, gulerul e înalt, mânecile sunt raglan, iar fermoarul lung, de la gât la picior, are clapetă cu capse. Talia are elastic la spate, mânecile și cracul se termină cu elastic, iar buclele din silicon pentru încălțăminte se scot.</p><p>Detaliile de bază:</p><ul><li><strong>Coloană de apă</strong>: 10.000 mm.</li><li><strong>Respirabilitate</strong>: 6 000 g/m²/24h.</li><li><strong>Greutate</strong>: 700 g.</li></ul><p>Mărimile 80-98 sunt gândite pentru cam 1-3 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "REIMA TUOHI"
+  },
+  {
+   "fapt": "respirabil",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "material respirabil, rezistent la vânt și la apă, care respinge murdăria"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "Materialul utilizat este reciclat"
+  },
+  {
+   "fapt": "Fellex",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "Umplutura Fellex® asigură un confort termic excelent"
+  },
+  {
+   "fapt": "ermetice",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "cusături ermetice"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "Are o glugă detașabilă, un guler înalt și mâneci raglan"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "fermoar pe toată lungimea, de la gât până la picior, acoperit cu o clapetă cu capse"
+  },
+  {
+   "fapt": "talie",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "talie elastică în partea din spate"
+  },
+  {
+   "fapt": "elastic",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "Mânecile și cracul sunt finisate cu manșete elastice"
+  },
+  {
+   "fapt": "bucle",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "bucle detașabile din silicon pentru încălțăminte"
+  },
+  {
+   "fapt": "coloană",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "10.000 mm"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "6 000 g/m²/24h"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/tuohi/1115966/",
+   "fragment": "700 g"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima TUOHI",
+  "Material": "100% poliester reciclat",
+  "Caracteristici": "Fellex, glugă detașabilă, fermoar lung",
+  "Cod produs": "178236"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-3 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului."
+ ]
+}

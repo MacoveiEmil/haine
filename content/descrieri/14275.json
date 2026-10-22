@@ -1,0 +1,70 @@
+{
+ "id": 14275,
+ "versiune": "v7",
+ "descriere_html": "<p>Căciula <a href=\"/brand/reima/\">Reima</a> PAMPULA gri închis este un <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">accesoriu unisex</a> de iarnă, tricotat jacquard pe toată suprafața, din amestec moale de lână merino, cu ciucure. Lâna ține de cald și reglează temperatura.</p><p>Căștile rezistente la vânt apără urechile, iar căptușeala integrală din fleece e moale și caldă. Mărimea indică circumferința capului.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 50% lână merino, 50% poliester reciclat.</li><li><strong>Căptușeală</strong>: fleece.</li><li><strong>Greutate</strong>: 200 g.</li></ul><p>Mărimile 52-54 și 56-58 sunt circumferințe ale capului, potrivite orientativ copiilor de la 3 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/pampula/1945471/",
+   "fragment": "REIMA PAMPULA"
+  },
+  {
+   "fapt": "jacquard",
+   "url": "www.sportisimo.ro/reima/pampula/1945471/",
+   "fragment": "tricot jacquard pe toată suprafața"
+  },
+  {
+   "fapt": "merino",
+   "url": "www.sportisimo.ro/reima/pampula/1945471/",
+   "fragment": "amestec moale de lână merino"
+  },
+  {
+   "fapt": "ciucure",
+   "url": "www.sportisimo.ro/reima/pampula/1945471/",
+   "fragment": "ciucure"
+  },
+  {
+   "fapt": "reglare",
+   "url": "www.sportisimo.ro/reima/pampula/1945471/",
+   "fragment": "reglare termică optimă"
+  },
+  {
+   "fapt": "căști",
+   "url": "www.sportisimo.ro/reima/pampula/1945471/",
+   "fragment": "Căștile rezistente la vânt protejează urechile mici"
+  },
+  {
+   "fapt": "fleece",
+   "url": "www.sportisimo.ro/reima/pampula/1945471/",
+   "fragment": "căptușeală integrală: fleece moale și cald"
+  },
+  {
+   "fapt": "circumferință",
+   "url": "www.sportisimo.ro/reima/pampula/1945471/",
+   "fragment": "mărimea indică circumferința capului"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/pampula/1945471/",
+   "fragment": "50 % lână (Merino), 50 % poliester reciclat"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/pampula/1945471/",
+   "fragment": "200 g"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima PAMPULA",
+  "Material": "50% lână merino, 50% poliester reciclat",
+  "Caracteristici": "jacquard, ciucure, căptușeală fleece",
+  "Cod produs": "260058"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 3 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului.",
+  "Vârsta calculată automat era nefolositoare; „de la 3 ani” e estimat din circumferința capului."
+ ]
+}

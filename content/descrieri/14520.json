@@ -1,0 +1,61 @@
+{
+ "id": 14520,
+ "versiune": "v7",
+ "descriere_html": "<p>Cămașa în carouri <a href=\"/brand/gap/\">GAP</a> FASHION roșie, listată la <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geci unisex</a>, are mânecă scurtă și croială dreaptă, din bumbac cu poliester. Gulerul se încheie cu nasturi, iar pe piept are un buzunar mic.</p><p>Pe cămașă e brodat micul ursuleț Brannan, semnul GAP. Cu mânecă scurtă, e o piesă pentru zilele calde.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 77% bumbac, 23% poliester.</li><li><strong>Mânecă</strong>: scurtă.</li><li><strong>Buzunar</strong>: unul, la piept.</li></ul><p>Pe site a rămas doar mărimea XS, care la GAP corespunde, cu aproximație, vârstei de 4-5 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/gap/fashion/1423094/",
+   "fragment": "GAP FASHION"
+  },
+  {
+   "fapt": "carouri",
+   "url": "www.sportisimo.ro/gap/fashion/1423094/",
+   "fragment": "Cămașa în carouri pentru copii GAP FASHION"
+  },
+  {
+   "fapt": "mânecă",
+   "url": "www.sportisimo.ro/gap/fashion/1423094/",
+   "fragment": "are mânecă scurtă și croială dreaptă"
+  },
+  {
+   "fapt": "guler",
+   "url": "www.sportisimo.ro/gap/fashion/1423094/",
+   "fragment": "guler cu închidere cu nasturi"
+  },
+  {
+   "fapt": "buzunar",
+   "url": "www.sportisimo.ro/gap/fashion/1423094/",
+   "fragment": "Pe piept este cusut un buzunar mic"
+  },
+  {
+   "fapt": "ursuleț",
+   "url": "www.sportisimo.ro/gap/fashion/1423094/",
+   "fragment": "broderie mică cu ursulețul Brannan"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/gap/fashion/1423094/",
+   "fragment": "77 % bumbac, 23 % poliester"
+  },
+  {
+   "fapt": "piept",
+   "url": "www.sportisimo.ro/gap/fashion/1423094/",
+   "fragment": "1 buzunar la piept"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "GAP FASHION",
+  "Material": "77% bumbac, 23% poliester",
+  "Caracteristici": "carouri, mânecă scurtă, ursuleț brodat",
+  "Cod produs": "213489"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-5 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului.",
+  "Pe site e la Geci, deși e o cămașă.",
+  "Vârsta 4-5 ani pentru XS e estimată după tabelul obișnuit GAP."
+ ]
+}

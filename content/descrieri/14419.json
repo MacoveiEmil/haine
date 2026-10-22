@@ -1,0 +1,74 @@
+{
+ "id": 14419,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de vânt <a href=\"/brand/unuo/\">UNUO</a> FLOWERS mov este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> ușoară și respirabilă, care apără de vânt și ploaie ușoară fără să încurce mișcarea, bună pentru excursii, ciclism sau terenul de joacă. Nu are izolație și nici membrană.</p><p>Fermoarul e scurt, buzunarul e tip cangur, iar geaca se poate împacheta în propriul buzunar. Croiala e clasică, iar elementele reflectorizante ajută la vizibilitate.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 90% poliester, 10% elastan.</li><li><strong>Buzunar</strong>: cangur.</li><li><strong>Fermoar</strong>: scurt.</li></ul><p>Mărimile 110/116 până la 158-164 corespund aproximativ vârstei de 5-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "UNUO FLOWERS"
+  },
+  {
+   "fapt": "vânt",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "Geaca de vânt pentru copii UNUO FLOWERS"
+  },
+  {
+   "fapt": "ușor",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "material ușor și respirabil"
+  },
+  {
+   "fapt": "ploaie",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "protejează împotriva vântului și a ploii ușoare, fără a restricționa mișcarea"
+  },
+  {
+   "fapt": "activități",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "de la ciclism la drumeții"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "fermoar scurt"
+  },
+  {
+   "fapt": "cangur",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "stil cangur"
+  },
+  {
+   "fapt": "împachetată",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "Poate fi ușor împachetată în propriul buzunar"
+  },
+  {
+   "fapt": "croială",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "croială clasică"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "elemente reflectorizante pentru siguranță mai mare"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/unuo/flowers/2202075/",
+   "fragment": "90 % poliester, 10 % elastan"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "UNUO FLOWERS",
+  "Material": "90% poliester, 10% elastan",
+  "Caracteristici": "geacă de vânt, se împachetează, reflectorizante",
+  "Cod produs": "287062"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "5-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului arată produsul ca VÂNDUT și nu dă culoarea; culoarea e cea din titlul site-ului."
+ ]
+}

@@ -119,3 +119,6 @@
 14008 Reima TEPASTELU: VÂNDUT, fără mărimi și fără nicio indicație de vârstă; sărit (fără descriere)
 13933 13961 Reima PROXIMA / EKANA: VÂNDUT, fără culoare la magazin
 13668 Diesel JOMOX-FUR: titlul site-ului are „JACKET” în loc de culoare (la magazin: albastru)
+14133 Reima SUJUVA și 14326 Reima HOPPER: VÂNDUT, fără mărimi și fără indicație de vârstă; sărite (fără descriere)
+14520 GAP FASHION: cămașă listată la Geci, VÂNDUT, doar mărimea XS
+14020 14275 14413 14419 14527 14531 14654: VÂNDUT la Sportisimo, fără culoare
