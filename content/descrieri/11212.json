@@ -1,0 +1,64 @@
+{
+ "id": 11212,
+ "versiune": "v7",
+ "descriere_html": "<p>Vesta <a href=\"/brand/konges-slojd/\">Konges Sløjd</a> JODY TEDDY VEST KS103481 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">vestă din fleece unisex</a>, bej, din poliester reciclat certificat GRS, fără căptușeală. Gulerul ridicat apără gâtul de frig, iar fără mâneci lasă brațele libere.</p><p>Croiala e simplă, dreaptă, deci se poartă peste un tricou sau un hanorac. Se închide cu fermoar și nu are glugă.</p><p>Pe scurt:</p><ul><li><strong>Material</strong>: fleece, 100% poliester reciclat.</li><li><strong>Închidere</strong>: fermoar.</li><li><strong>Guler</strong>: ridicat.</li></ul><p>Mărimile 74 până la 134-140 sunt pentru copii de aproximativ 9 luni - 10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-vesta-copii-jody-teddy-vest-grs-culoarea-bej-ks103481-1601157",
+   "fragment": "Konges Sløjd Vestă copii JODY TEDDY VEST GRS culoarea bej, KS103481"
+  },
+  {
+   "fapt": "fleece",
+   "url": "answear.ro/p/konges-slojd-vesta-copii-jody-teddy-vest-grs-culoarea-bej-ks103481-1601157",
+   "fragment": "material fleece"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/konges-slojd-vesta-copii-jody-teddy-vest-grs-culoarea-bej-ks103481-1601157",
+   "fragment": "100% Poliester reciclat"
+  },
+  {
+   "fapt": "GRS",
+   "url": "answear.ro/p/konges-slojd-vesta-copii-jody-teddy-vest-grs-culoarea-bej-ks103481-1601157",
+   "fragment": "GRS (Global Recycle Standard)"
+  },
+  {
+   "fapt": "necăptușit",
+   "url": "answear.ro/p/konges-slojd-vesta-copii-jody-teddy-vest-grs-culoarea-bej-ks103481-1601157",
+   "fragment": "Captuseala: necaptusit"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/konges-slojd-vesta-copii-jody-teddy-vest-grs-culoarea-bej-ks103481-1601157",
+   "fragment": "Gulerul ridicat oferă protecție suplimentară împotriva frigului"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/konges-slojd-vesta-copii-jody-teddy-vest-grs-culoarea-bej-ks103481-1601157",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/konges-slojd-vesta-copii-jody-teddy-vest-grs-culoarea-bej-ks103481-1601157",
+   "fragment": "Închiderea convenabilă cu fermoar"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/konges-slojd-vesta-copii-jody-teddy-vest-grs-culoarea-bej-ks103481-1601157",
+   "fragment": "Gluga: fara gluga"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Konges Sløjd JODY TEDDY VEST",
+  "Material": "100% poliester reciclat (fleece, GRS)",
+  "Caracteristici": "vestă fleece, guler ridicat, fermoar",
+  "Cod produs": "KS103481"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "9 luni - 10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "„Peste un tricou sau un hanorac” e dedus din faptul că e vestă fără mâneci."
+ ]
+}
