@@ -1,0 +1,90 @@
+{
+ "id": 11449,
+ "versiune": "v7",
+ "descriere_html": "<p>Paltonul <a href=\"/brand/konges-slojd/\">Konges Sløjd</a> FUZZIE COAT roșu este listat la <a href=\"/categorie/geci-jachete/\">geci pentru fete</a> și e făcut din imitație de blană cu model, din poliester reciclat certificat GRS. Are căptușeală completă din bumbac și izolație ușoară, potrivită pentru tranziție.</p><p>Designul e simplu, nu încurcă mișcarea, iar gulerul e moale. Se închide cu capse pe un singur rând. Nu are glugă și nu e impermeabil.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester reciclat.</li><li><strong>Căptușeală</strong>: 100% bumbac.</li><li><strong>Închidere</strong>: capse.</li></ul><p>Mărimile 86 până la 134-140 sunt gândite cu aproximație pentru 1-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "FUZZIE COAT GRS"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "Culoare rosu"
+  },
+  {
+   "fapt": "blană",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "Material: imitatie blana"
+  },
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "confecționat din material cu model"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "Material principal: 100% poliester reciclat"
+  },
+  {
+   "fapt": "bumbac",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "din bumbac, cu căptușeală completă"
+  },
+  {
+   "fapt": "ușoară",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "ușoară"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "simplu",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "Design simplu care nu restricționează mișcarea"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "Guler moale"
+  },
+  {
+   "fapt": "capse",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "Închidere cu capse la un singur rând de nasturi"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "fără glugă"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "fără impermeabilitate"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/konges-slojd-palton-pentru-copii-fuzzie-coat-grs-culoare-rosie-ks104302-1658479",
+   "fragment": "Căptușeală: 100% bumbac"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Konges Sløjd FUZZIE COAT",
+  "Material": "poliester reciclat, căptușeală din bumbac",
+  "Caracteristici": "imitație de blană, capse, guler moale",
+  "Cod produs": "KS104302"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul site-ului are „FUZZIE” în locul culorii; culoarea e cea de la magazin (roșu).",
+  "Descrierea are formularea confuză „fără căptușeală, căptușită”; am urmat caracteristicile (căptușeală completă din bumbac)."
+ ]
+}

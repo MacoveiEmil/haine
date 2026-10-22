@@ -89,3 +89,7 @@
 10492 Max&Co. MAXJ1F: titlul site-ului are „JACKET” în loc de culoare (la magazin: roșu)
 10539 Max&Co. MAXJ49F: titlul site-ului are „JACKET” în loc de culoare (la magazin: albastru)
 10632 Bobo Choses Modern: titlul site-ului are „Modern” în loc de culoare (la magazin: albastru / multicolor)
+10667 Emporio Armani EB001254: titlul site-ului are „blugi” în loc de culoare (la magazin: albastru)
+11218 Konges Sløjd LOUMILLA: titlul site-ului are „SWEAT” în loc de culoare (la magazin: albastru)
+11244 Didriksons NEPTUN KIDS JKT 4: culoare diferită (roșu pe site / albastru la magazin)
+11274 Konges Sløjd ELBA: titlul site-ului are „ELBA” în loc de culoare (la magazin: bleumarin)
