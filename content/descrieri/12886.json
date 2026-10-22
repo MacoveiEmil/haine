@@ -1,0 +1,69 @@
+{
+ "id": 12886,
+ "versiune": "v7",
+ "descriere_html": "<p>Adidașii <a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> T3A9-34249 albi sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> cu profil jos, din material sintetic, parțial din poliester reciclat. Inserția elastică ajută pantoful să stea bine pe fiecare picior, iar cutia rotundă, ușor întărită, apără degetele.</p><p>Contrafortul rigid ține călcâiul în pantof, ca să nu alunece la mers.</p><p>Pe dinăuntru și dedesubt:</p><ul><li><strong>Interior</strong>: textil, ușor de ținut curat.</li><li><strong>Talpă</strong>: din cauciuc, durabilă.</li><li><strong>Partea de sus</strong>: imitație de piele.</li></ul><p>Numerele 35-40 sunt pentru fete de la aproximativ 10 ani în sus; la 40 branțul are 25,5 cm.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3a9-34249-1676980",
+   "fragment": "Tommy Hilfiger Sneakers pentru copii culoarea alb, T3A9-34249"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3a9-34249-1676980",
+   "fragment": "Înălțime: mic de statură"
+  },
+  {
+   "fapt": "sintetic",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3a9-34249-1676980",
+   "fragment": "Gamba: Material sintetic"
+  },
+  {
+   "fapt": "reciclat",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3a9-34249-1676980",
+   "fragment": "Acest produs este realizat partial din poliester reciclat"
+  },
+  {
+   "fapt": "elastic",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3a9-34249-1676980",
+   "fragment": "Inserția elastică asigură o potrivire individuală"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3a9-34249-1676980",
+   "fragment": "Cutie rotunda, usor intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3a9-34249-1676980",
+   "fragment": "Contorul de călcâi rigid stabilizează călcâiul"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3a9-34249-1676980",
+   "fragment": "Interiorul textil este confortabil pentru picior și facilitează păstrarea pantofilor curați"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3a9-34249-1676980",
+   "fragment": "talpă din cauciuc care este durabilă"
+  },
+  {
+   "fapt": "lungime",
+   "url": "answear.ro/p/tommy-hilfiger-sneakers-pentru-copii-culoarea-alb-t3a9-34249-1676980",
+   "fragment": "Lungimea brantului pentru marimea este de: 25,5 cm"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Tommy Hilfiger T3A9-34249",
+  "Material": "sintetic, interior textil, talpă din cauciuc",
+  "Caracteristici": "inserție elastică, vârf întărit",
+  "Cod produs": "T3A9-34249"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 10 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea spune piele întoarsă, compoziția și atributele dau material sintetic (imitație de piele); am scris sintetic."
+ ]
+}
