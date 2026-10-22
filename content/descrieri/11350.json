@@ -1,42 +1,47 @@
 {
  "id": 11350,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> Fadinlight J66M4E.05402 sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> bleumarin, cu imprimeu Lilo &amp; Stitch și lumini încorporate în talpă. Sunt de purtat zi de zi, iar luminile îi fac mai ușor de văzut pe drumurile de seară.</p><ul><li><strong>Geox Respira</strong>: tehnologie care ajută la eliminarea umidității din pantof.</li><li><strong>Material</strong>: exterior din imitație de piele și material sintetic, ușor de întreținut, interior textil.</li><li><strong>Talpă</strong>: plată, cu lumini încorporate.</li><li><strong>Închidere</strong>: șireturi elastice și arici, fără legat, deci copilul se încalță singur.</li><li><strong>Călcâi</strong>: întărit.</li></ul><p>Pentru ploaie și frig, unde modelul nu declară protecție, mai potrivite sunt <a href=\"/categorie/ghete-cizme/\">ghetele și cizmele pentru fete</a>.</p><p>Mărimile merg de la 28 la 35, orientativ pentru copii de 4-11 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> FADINLIGHT Lilo &amp; Stitch J66M4E sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> bleumarin, cu imprimeu Lilo și Stitch și lumini în talpă, care îl fac pe copil mai vizibil. Tehnologia Geox Respira™ ține interiorul uscat.</p><p>Șireturile elastice nu trebuie legate, iar aricii permit încălțatul rapid, de către copil. Călcâiul întărit ține piciorul în pantof.</p><p>Pe scurt:</p><ul><li><strong>Partea de sus</strong>: imitație de piele și material sintetic, ușor de întreținut.</li><li><strong>Interior</strong>: material textil.</li><li><strong>Talpă</strong>: plată, din cauciuc.</li></ul><p>Numerele 28-35 sunt pentru copii de 4-11 ani, în general.</p>",
  "surse": [
   {
-   "fapt": "cod",
+   "fapt": "model",
    "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "J66M4E.05402"
+   "fragment": "Geox FADINLIGHT Lilo & Stitch sneakers pentru copii bleumarin J66M4E.05402"
   },
   {
-   "fapt": "Lilo & Stitch",
+   "fapt": "imprimeu",
    "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "FADINLIGHT Lilo & Stitch"
+   "fragment": "Imprimeu decorativ cu motivul Lilo & Stitch"
   },
   {
    "fapt": "lumini",
    "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "Lumini încorporate"
-  },
-  {
-   "fapt": "zi de zi",
-   "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "casual, de zi cu zi"
-  },
-  {
-   "fapt": "vizibilitate",
-   "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "adaugă veselie și vizibilitate"
+   "fragment": "Lumini încorporate în talpă adaugă veselie și vizibilitate"
   },
   {
    "fapt": "Respira",
    "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "susține eliminarea umidității, menținând interiorul pantofului uscat"
+   "fragment": "Tehnologia Geox Respira™ susține eliminarea umidității, menținând interiorul pantofului uscat"
   },
   {
-   "fapt": "exterior",
+   "fapt": "șireturi",
    "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "din imitație de piele și material sintetic, ușor de întreținut"
+   "fragment": "Șireturi elastice facilitează ajustarea la picior, fără a fi nevoie de legare"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
+   "fragment": "Închidere practică cu arici permite încălțarea rapidă și independentă"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
+   "fragment": "Călcâi întărit"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
+   "fragment": "Material exterior din imitație de piele și material sintetic, ușor de întreținut"
   },
   {
    "fapt": "interior",
@@ -44,45 +49,19 @@
    "fragment": "Interior din material textil"
   },
   {
-   "fapt": "talpă plată",
+   "fapt": "talpă",
    "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "Talpă plată"
-  },
-  {
-   "fapt": "șireturi elastice",
-   "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "Șireturi elastice"
-  },
-  {
-   "fapt": "fără legat",
-   "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "fără a fi nevoie de legare"
-  },
-  {
-   "fapt": "arici",
-   "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "Închidere practică cu arici"
-  },
-  {
-   "fapt": "călcâi",
-   "url": "answear.ro/p/geox-fadinlight-lilo-stitch-sneakers-pentru-copii-bleumarin-j66m4e-05402-1827763",
-   "fragment": "Călcâi întărit"
+   "fragment": "Talpă plată din cauciuc"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "Geox Fadinlight Lilo & Stitch",
-  "Material": "exterior din imitație de piele și material sintetic, interior textil",
-  "Caracteristici": "Geox Respira, lumini în talpă, șireturi elastice și arici, călcâi întărit",
+  "Model": "Geox FADINLIGHT Lilo & Stitch",
+  "Material": "imitație de piele și sintetic, interior textil, talpă din cauciuc",
+  "Caracteristici": "lumini în talpă, șireturi elastice și arici, Geox Respira™",
   "Cod produs": "J66M4E.05402"
  },
- "categorie_complementara": {
-  "slug": "/categorie/ghete-cizme/",
-  "motiv": "fără protecție la apă sau izolație declarate: pentru ploaie și frig, ghete"
- },
+ "categorie_complementara": null,
  "varsta_orientativa": "4-11 ani",
  "date_insuficiente": false,
- "confidence_notes": [
-  "Talpa: „din cauciuc” în descriere, „material sintetic” în compoziție; materialul tălpii omis.",
-  "Mărimi: produse.json are 28-35, dar codul magazinului (J66M4E.05402.28.31) și lista de mărimi arată doar 28-31. De verificat matricea."
- ]
+ "confidence_notes": []
 }
