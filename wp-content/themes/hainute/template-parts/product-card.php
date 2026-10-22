@@ -5,33 +5,16 @@
 
 $product_id = get_the_ID();
 $brand      = hainute_get_brand( $product_id );
-$min_price  = function_exists( 'hainute_get_min_price' ) ? hainute_get_min_price( $product_id ) : null;
 $offers     = function_exists( 'hainute_get_offers' ) ? hainute_get_offers( $product_id ) : array();
 
-$stores_in  = 0;
-$has_sale   = false;
-foreach ( $offers as $offer ) {
-	if ( 'out_of_stock' !== $offer->stock_status ) {
-		$stores_in++;
-		if ( $offer->old_price && (float) $offer->old_price > (float) $offer->price ) {
-			$has_sale = true;
-		}
-	}
-}
-
-// Disponibilitate reală = și variantele de culoare (un produs poate avea oferta
-// primară fără stoc, dar o variantă pe stoc) → cardul nu mai zice fals „indisponibil".
-$variant_in = 0;
-$variants   = get_post_meta( $product_id, '_hainute_variant_offers', true );
-if ( is_array( $variants ) ) {
-	foreach ( $variants as $v ) {
-		if ( ! empty( $v['in_stock'] ) ) {
-			$variant_in++;
-		}
-	}
-}
-$buyable = ( $stores_in > 0 ) || ( $variant_in > 0 );
-$n_sizes = function_exists( 'hainute_resolve_sizes' ) ? (int) hainute_resolve_sizes( $product_id )['count'] : 0;
+// Magazinele și prețul din același rezumat ca pagina produsului (fără magazine
+// ascunse, fără oferte externe expirate sau verificate ca alt produs, cu
+// variantele de culoare cu stoc) → cardul nu poate spune altceva decât pagina.
+$sum       = hainute_offer_summary( $product_id );
+$stores_in = $sum['stores'];
+$buyable   = $stores_in > 0;
+$min_price = ( $buyable && $sum['best'] && 'out_of_stock' !== $sum['best']->stock_status ) ? (float) $sum['best']->price : null;
+$n_sizes   = function_exists( 'hainute_resolve_sizes' ) ? (int) hainute_resolve_sizes( $product_id )['count'] : 0;
 ?>
 <article <?php post_class( 'product-card' ); ?>>
 	<a class="card-link" href="<?php the_permalink(); ?>">

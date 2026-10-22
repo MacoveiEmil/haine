@@ -83,29 +83,26 @@ function hainute_offer_summary( $product_id ) {
 	if ( isset( $cache[ $product_id ] ) ) {
 		return $cache[ $product_id ];
 	}
-	$hidden = get_post_meta( $product_id, '_hainute_hidden_stores', true );
-	$hidden = is_array( $hidden ) ? array_map( 'intval', $hidden ) : array();
-	$best   = null;
-	$any    = null;
-	$stores = array();
-	foreach ( function_exists( 'hainute_get_offers' ) ? hainute_get_offers( $product_id ) : array() as $o ) {
-		if ( in_array( (int) $o->store_id, $hidden, true ) || (float) $o->price <= 0 ) {
-			continue;
-		}
-		if ( function_exists( 'hainute_offer_is_stale' ) && hainute_offer_is_stale( $product_id, $o ) ) {
+	if ( ! function_exists( 'hainute_available_stores' ) ) {
+		return array( 'best' => null, 'stores' => 0, 'store_name' => '' );
+	}
+	$best = null;
+	$any  = null;
+	foreach ( hainute_get_offers( $product_id ) as $o ) {
+		if ( (float) $o->price <= 0 || ! hainute_offer_is_shown( $product_id, $o ) ) {
 			continue;
 		}
 		$any = $any ? $any : $o;
 		if ( 'out_of_stock' === $o->stock_status ) {
 			continue;
 		}
-		$stores[ (int) $o->store_id ] = $o->store ? $o->store->name : '';
 		if ( ! $best || (float) $o->price < (float) $best->price ) {
 			$best = $o;
 		}
 	}
 	// Variantele de culoare cu stoc (aceeași pagină de produs, altă culoare) contează
 	// și ele: produsul se poate cumpăra chiar dacă culoarea principală e epuizată.
+	$hidden   = hainute_hidden_store_ids( $product_id );
 	$variants = get_post_meta( $product_id, '_hainute_variant_offers', true );
 	foreach ( is_array( $variants ) ? $variants : array() as $v ) {
 		$sid = (int) ( $v['store_id'] ?? 0 );
@@ -113,16 +110,17 @@ function hainute_offer_summary( $product_id ) {
 		if ( empty( $v['in_stock'] ) || $pr <= 0 || in_array( $sid, $hidden, true ) ) {
 			continue;
 		}
-		$st = $sid && function_exists( 'hainute_get_store' ) ? hainute_get_store( $sid ) : null;
-		$stores[ $sid ] = $stores[ $sid ] ?? ( $st ? $st->name : '' );
 		if ( ! $best || $pr < (float) $best->price ) {
+			$st   = $sid ? hainute_get_store( $sid ) : null;
 			$best = (object) array( 'price' => $pr, 'old_price' => 0, 'currency' => (string) ( $v['currency'] ?? 'RON' ), 'store' => $st, 'store_id' => $sid, 'stock_status' => 'in_stock' );
 		}
 	}
+	// Numărul de magazine: aceeași regulă ca pe card și în filtre (hainute_available_stores).
+	$stores = hainute_available_stores( $product_id );
 	$cache[ $product_id ] = array(
 		'best'       => $best ? $best : $any,
 		'stores'     => count( $stores ),
-		'store_name' => $stores ? reset( $stores ) : '',
+		'store_name' => $stores ? (string) array_key_first( $stores ) : '',
 	);
 	return $cache[ $product_id ];
 }
@@ -920,6 +918,9 @@ function hainute_shop_listings_build( $product_id ) {
 			// stoc, pe care-l arătăm pt comparație).
 			if ( isset( $v['in_stock'] ) && empty( $v['in_stock'] ) ) {
 				continue;
+			}
+			if ( in_array( (int) ( $v['store_id'] ?? 0 ), $hidden, true ) ) {
+				continue; // magazin ascuns manual: nici variantele lui
 			}
 			$st = ! empty( $v['store_id'] ) && function_exists( 'hainute_get_store' ) ? hainute_get_store( (int) $v['store_id'] ) : null;
 			// Mărimile unei variante neverificate de 7 zile nu mai sunt de încredere →

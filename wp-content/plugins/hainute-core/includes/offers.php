@@ -152,14 +152,14 @@ function hainute_get_offers( $product_id ) {
  * @return float|null
  */
 function hainute_get_min_price( $product_id ) {
-	// Cea mai mică ofertă cu stoc, ignorând ofertele externe expirate (neverificate
-	// de prea mult timp) — același set ca lista de magazine și schema produsului.
+	// Cea mai mică ofertă cu stoc, ignorând magazinele ascunse și ofertele externe
+	// expirate (neverificate de prea mult timp) — același set ca lista de magazine.
 	$min = null;
 	foreach ( hainute_get_offers( $product_id ) as $o ) {
 		if ( HAINUTE_STOCK_OUT === $o->stock_status || (float) $o->price <= 0 ) {
 			continue;
 		}
-		if ( function_exists( 'hainute_offer_is_stale' ) && hainute_offer_is_stale( $product_id, $o ) ) {
+		if ( ! hainute_offer_is_shown( $product_id, $o ) ) {
 			continue;
 		}
 		if ( null === $min || (float) $o->price < $min ) {
@@ -167,6 +167,55 @@ function hainute_get_min_price( $product_id ) {
 		}
 	}
 	return $min;
+}
+
+/** Magazinele ascunse manual din admin pentru un produs (ID-uri de termen `store`). */
+function hainute_hidden_store_ids( $product_id ) {
+	$hidden = get_post_meta( $product_id, '_hainute_hidden_stores', true );
+	return is_array( $hidden ) ? array_map( 'intval', $hidden ) : array();
+}
+
+/**
+ * Oferta apare pe pagina produsului? Nu, dacă magazinul e ascuns manual sau dacă
+ * oferta externă e expirată / verificată ca alt produs (hainute_offer_is_stale).
+ */
+function hainute_offer_is_shown( $product_id, $offer ) {
+	if ( in_array( (int) $offer->store_id, hainute_hidden_store_ids( $product_id ), true ) ) {
+		return false;
+	}
+	return ! ( function_exists( 'hainute_offer_is_stale' ) && hainute_offer_is_stale( $product_id, $offer ) );
+}
+
+/**
+ * Magazinele în care produsul se poate cumpăra ACUM, exact cum le arată pagina
+ * produsului: ofertele afișate cu stoc + variantele de culoare cu stoc, grupate
+ * după numele afișat al magazinului. SINGURA sursă pentru „în N magazine" (card,
+ * rezumatul de pe pagină, filtrul „Doar în mai multe magazine", „are stoc").
+ *
+ * @return array<string,int> nume magazin => store_id
+ */
+function hainute_available_stores( $product_id ) {
+	$hidden = hainute_hidden_store_ids( $product_id );
+	$stores = array();
+	foreach ( hainute_get_offers( $product_id ) as $o ) {
+		if ( HAINUTE_STOCK_OUT === $o->stock_status || ! hainute_offer_is_shown( $product_id, $o ) ) {
+			continue;
+		}
+		$name = $o->store ? $o->store->name : '';
+		$name = '' !== $name ? $name : 'store-' . (int) $o->store_id;
+		$stores[ $name ] = $stores[ $name ] ?? (int) $o->store_id;
+	}
+	$variants = get_post_meta( $product_id, '_hainute_variant_offers', true );
+	foreach ( is_array( $variants ) ? $variants : array() as $v ) {
+		$sid = (int) ( $v['store_id'] ?? 0 );
+		if ( empty( $v['in_stock'] ) || in_array( $sid, $hidden, true ) ) {
+			continue;
+		}
+		$st   = $sid ? hainute_get_store( $sid ) : null;
+		$name = $st ? $st->name : 'store-' . $sid;
+		$stores[ $name ] = $stores[ $name ] ?? $sid;
+	}
+	return $stores;
 }
 
 /**
@@ -191,21 +240,12 @@ function hainute_get_offer_for_store( $product_id, $store_id ) {
 }
 
 /**
- * Cache the number of DISTINCT stores a product is available in, as post meta,
- * so listings can filter/sort by "cross-store" without joining the offers table.
+ * Câte magazine au produsul pe stoc acum (ca pe pagina produsului), ca post meta:
+ * filtrul „Doar în mai multe magazine" din listări nu face join pe oferte.
+ * Recalculat și din cron (/recompute-buyable): o ofertă externă expiră în timp.
  */
 function hainute_refresh_store_count_meta( $product_id ) {
-	global $wpdb;
-
-	$table = hainute_offers_table_name();
-	$count = (int) $wpdb->get_var(
-		$wpdb->prepare(
-			"SELECT COUNT(DISTINCT store_id) FROM {$table} WHERE product_id = %d",
-			(int) $product_id
-		)
-	);
-
-	update_post_meta( $product_id, '_hainute_store_count', $count );
+	update_post_meta( $product_id, '_hainute_store_count', count( hainute_available_stores( (int) $product_id ) ) );
 }
 
 /**
@@ -247,31 +287,10 @@ add_action( 'wp_trash_post', 'hainute_delete_offers_for_product' );
  * fiecare scriere de ofertă și complet din cron (/recompute-buyable).
  */
 function hainute_refresh_buyable( $product_id ) {
-	$hidden = get_post_meta( $product_id, '_hainute_hidden_stores', true );
-	$hidden = is_array( $hidden ) ? array_map( 'intval', $hidden ) : array();
-	$buy    = 0;
-	foreach ( hainute_get_offers( $product_id ) as $o ) {
-		if ( HAINUTE_STOCK_OUT === $o->stock_status || in_array( (int) $o->store_id, $hidden, true ) ) {
-			continue;
-		}
-		if ( function_exists( 'hainute_offer_is_stale' ) && hainute_offer_is_stale( $product_id, $o ) ) {
-			continue;
-		}
-		$buy = 1;
-		break;
-	}
-	if ( ! $buy ) {
-		$variants = get_post_meta( $product_id, '_hainute_variant_offers', true );
-		if ( is_array( $variants ) ) {
-			foreach ( $variants as $v ) {
-				if ( ! empty( $v['in_stock'] ) ) {
-					$buy = 1;
-					break;
-				}
-			}
-		}
-	}
+	$stores = count( hainute_available_stores( $product_id ) );
+	$buy    = $stores > 0 ? 1 : 0;
 	update_post_meta( $product_id, '_hainute_buyable', $buy );
+	update_post_meta( $product_id, '_hainute_store_count', $stores );
 	hainute_refresh_instock_sizes( $product_id );
 	if ( function_exists( 'hainute_default_unisex' ) ) {
 		hainute_default_unisex( $product_id ); // fără semnal de gen de la magazin → Unisex
