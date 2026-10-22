@@ -1,62 +1,69 @@
 {
  "id": 12508,
- "versiune": "v6",
- "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> JISLI sunt <a href=\"/categorie/baieti-incaltaminte-pantofi/\">pantofi pentru băieți</a> în nuanță bleumarin, confecționați din combinația materialului textil cu pielea ecologică. Modelul are vârf rotund și talpă exterioară din cauciuc, fiind prevăzut cu membrana impermeabilă a tehnologiei Geox Respira pentru protecție împotriva apei.</p><p>Pentru activitățile zilnice în care copilul se încalță singur, câteva detalii de fabricație contează:</p><ul><li><strong>Închidere</strong>: șireturile elastice și banda cu arici permit încălțarea rapidă, fără noduri.</li><li><strong>Călcâi</strong>: contorul de călcâi rigidizat întărește spatele pantofului.</li><li><strong>Interior</strong>: căptușeala textilă ajută la curățarea ușoară a încălțămintei.</li><li><strong>Talpă</strong>: cauciucul exterior este durabil și rezistent la deteriorare.</li></ul><p>Pentru că pantoful nu garantează impermeabilitatea completă, pe vreme ploioasă sunt potrivite câteva modele de <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">ghete și cizme pentru băieți</a>. Mărimile de la 36 la 39 acoperă, orientativ, copiii de la 12 ani în sus.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Pantofii <a href=\"/brand/geox/\">Geox</a> JISLI bleumarin sunt <a href=\"/categorie/baieti-incaltaminte-pantofi/\">pantofi pentru băieți</a> din material textil și piele ecologică, cu membrana Geox Respira, care scade umezeala din interior. Șireturile elastice și cârligul fac pantoful ușor de pus și de scos, fără legat.</p><p>Vârful e rotund, iar contrafortul rigidizat sprijină călcâiul și glezna. Rezistă la apă, dar nu sunt complet impermeabili.</p><p>Din ce e făcută încălțămintea:</p><ul><li><strong>Interior</strong>: textil, ușor de ținut curat.</li><li><strong>Talpă exterioară</strong>: din cauciuc, durabilă.</li><li><strong>Partea de sus</strong>: textil și material sintetic.</li></ul><p>Numerele 36-39 se potrivesc băieților de la 12 ani în sus, orientativ.</p>",
  "surse": [
   {
-   "fapt": "confecționați din material textil și piele ecologică",
-   "url": "https://answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
+   "fapt": "model",
+   "url": "answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
+   "fragment": "Geox Pantofi copii JISLI culoarea albastru marin, J465CC.0MEFU"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
    "fragment": "combinatia materialului textil cu pielea ecologica"
   },
   {
-   "fapt": "vârf rotund",
-   "url": "https://answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
-   "fragment": "Varf rotund."
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
+   "fragment": "Membrana unica si impermeabila a tehnologiei Geox Respira ajuta la scaderea umezelii excesive"
   },
   {
-   "fapt": "talpă din cauciuc durabilă și rezistentă la deteriorare",
-   "url": "https://answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
-   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare."
+   "fapt": "închidere",
+   "url": "answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
+   "fragment": "Șireturile elastice și închiderea cu cârlig fac acești pantofi ușor de pus și de scos"
   },
   {
-   "fapt": "șireturi elastice și închidere cu cârlig (arici)",
-   "url": "https://answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
-   "fragment": "Șireturile elastice și închiderea cu cârlig fac acești pantofi ușor de pus și de scos."
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
+   "fragment": "Varf rotund"
   },
   {
-   "fapt": "contor de călcâi rigidizat",
-   "url": "https://answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
-   "fragment": "Contorul de călcâi rigidizat"
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
+   "fragment": "Contorul de călcâi rigidizat oferă un sprijin excelent pentru gleznă și călcâi"
   },
   {
-   "fapt": "interior textil ușor de curățat",
-   "url": "https://answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
-   "fragment": "Interiorul textil este confortabil pentru picior și facilitează păstrarea pantofilor curați."
-  },
-  {
-   "fapt": "membrană impermeabilă Geox Respira",
-   "url": "https://answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
-   "fragment": "Membrana unica si impermeabila a tehnologiei Geox Respira"
-  },
-  {
-   "fapt": "nu garantează impermeabilitatea completă",
-   "url": "https://answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
+   "fapt": "apă",
+   "url": "answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
    "fragment": "nu garantează impermeabilitatea completă"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
+   "fragment": "Interiorul textil este confortabil pentru picior și facilitează păstrarea pantofilor curați"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "gamba",
+   "url": "answear.ro/p/geox-pantofi-copii-jisli-culoarea-albastru-marin-j465cc-0mefu-1284192",
+   "fragment": "Material sintetic, Material textil"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "JISLI (J465CC.0MEFU)",
-  "Material": "Material sintetic, Material textil",
-  "Caracteristici": "Membrană Geox Respira, șireturi elastice, bandă arici, călcâi rigidizat, talpă cauciuc",
-  "Cod produs": "J465CC.0MEFU.36.39"
+  "Model": "Geox JISLI",
+  "Material": "textil și piele ecologică, interior textil, talpă din cauciuc",
+  "Caracteristici": "Geox Respira, șireturi elastice cu cârlig, rezistenți la apă",
+  "Cod produs": "J465CC.0MEFU"
  },
- "categorie_complementara": {
-  "slug": "/categorie/baieti-incaltaminte-ghete-cizme/",
-  "motiv": "Pantoful nu oferă impermeabilitate completă în condiții de umezeală abundentă, unde sunt indicate ghetele sau cizmele."
- },
+ "categorie_complementara": null,
  "varsta_orientativa": "de la 12 ani în sus",
  "date_insuficiente": false,
  "confidence_notes": [
-  "Scris de Gemini (gemini-flash-latest); retușat manual: scoase afirmații care nu apar în sursă."
+  "Magazinul descrie membrana ca impermeabilă, dar precizează și că produsul nu garantează impermeabilitatea completă; am scris varianta prudentă."
  ]
 }
