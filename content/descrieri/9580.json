@@ -1,0 +1,60 @@
+{
+ "id": 9580,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/columbia/\">Columbia</a> Arctic Peak 2134921 este o <a href=\"/categorie/unisex-imbracaminte-bluze-tricouri-hanorace/\">bluză polar cu glugă unisex</a>, neagră, uni, din poliester 100%. Se închide cu fermoar, deci se îmbracă și se dă jos fără să fie trasă peste cap, cu glugă cu tot.</p><p>Croiala e simplă, dreaptă, fără ajustări pe corp, așa că bluza cade drept și lasă loc unui tricou sau unei bluze subțiri dedesubt.</p><p>Pentru o bluză care se poartă des, contează din ce e făcută și ce are în față:</p><ul><li><strong>Material</strong>: polar din poliester, rezistent la îndoire.</li><li><strong>Glugă</strong>: da.</li><li><strong>Buzunare</strong>: două, în față.</li></ul><p>Pe site sunt mărimile 104-164, adică, cu aproximație, copii de 4-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/columbia-bluza-copii-arctic-peak-culoarea-negru-cu-gluga-uni-2134921-1595398",
+   "fragment": "Columbia Bluză copii Arctic Peak culoarea negru, cu glugă, uni, 2134921"
+  },
+  {
+   "fapt": "polar",
+   "url": "answear.ro/p/columbia-bluza-copii-arctic-peak-culoarea-negru-cu-gluga-uni-2134921-1595398",
+   "fragment": "Material: polar"
+  },
+  {
+   "fapt": "poliester",
+   "url": "answear.ro/p/columbia-bluza-copii-arctic-peak-culoarea-negru-cu-gluga-uni-2134921-1595398",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/columbia-bluza-copii-arctic-peak-culoarea-negru-cu-gluga-uni-2134921-1595398",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/columbia-bluza-copii-arctic-peak-culoarea-negru-cu-gluga-uni-2134921-1595398",
+   "fragment": "Tăiere simplă, fără blocare"
+  },
+  {
+   "fapt": "îndoire",
+   "url": "answear.ro/p/columbia-bluza-copii-arctic-peak-culoarea-negru-cu-gluga-uni-2134921-1595398",
+   "fragment": "Poliesterul oferă o rezistență mai mare la îndoire"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/columbia-bluza-copii-arctic-peak-culoarea-negru-cu-gluga-uni-2134921-1595398",
+   "fragment": "Gluga: cu gluga"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/columbia-bluza-copii-arctic-peak-culoarea-negru-cu-gluga-uni-2134921-1595398",
+   "fragment": "Două buzunare în față"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Columbia Arctic Peak",
+  "Material": "100% poliester (polar)",
+  "Caracteristici": "glugă, fermoar, două buzunare în față",
+  "Cod produs": "2134921"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul scrie „material de lână” în descriere, dar compoziția e 100% poliester; am folosit compoziția.",
+  "Paragraful despre Omni-tech (membrană, cusături sudate) pare text generic pe o bluză polar; omis."
+ ]
+}

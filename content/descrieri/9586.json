@@ -1,0 +1,89 @@
+{
+ "id": 9586,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> LESTRELLA J56NLC sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> albi, ușori, cu profil scurt, din material sintetic și textil, pentru purtat zi de zi. Se leagă cu șiret clasic, care se strânge după forma piciorului, fie el mai îngust sau mai plin.</p><p>Vârful e rotund și ușor rigid, iar degetele se așază liber în pantof, fără să fie strânse. Contrafortul rigid de la călcâi ține piciorul pe loc, ca să nu alunece la mers.</p><p>Interiorul are și piele naturală, iar asta se vede în detalii:</p><ul><li><strong>Branț</strong>: din piele, previne frecarea și mirosul neplăcut.</li><li><strong>Interior</strong>: sintetic, textil și piele naturală.</li><li><strong>Talpă</strong>: exterioară, din cauciuc, rezistentă la uzură.</li></ul><p>Numerele 36-39 sunt pentru copii mari, cam de la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "Geox Sneakers pentru copii LESTRELLA culoarea alb, J56NLC.000BC"
+  },
+  {
+   "fapt": "ușor",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "Model ușor"
+  },
+  {
+   "fapt": "profil",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "Înălțime: mic de statură"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "combinația materialului sintetic cu cel textil"
+  },
+  {
+   "fapt": "zilnic",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "purtarea zilnică"
+  },
+  {
+   "fapt": "șiret",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "Șiretul clasic permite ajustarea individuală a piciorului"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "Degetul rotund, ușor rigid"
+  },
+  {
+   "fapt": "degete",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "degetele se pot aranja liber în pantof"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "Contorul de călcâi rigid"
+  },
+  {
+   "fapt": "nu alunecă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "astfel încât să nu alunece în timpul mișcării"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "Brantul din piele este confortabil pentru picior si previne frecarea"
+  },
+  {
+   "fapt": "miros",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "aparitia unui miros neplacut"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "Material sintetic, Material textil, Piele naturala"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-lestrella-culoarea-alb-j56nlc-000bc-1711105",
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox LESTRELLA",
+  "Material": "sintetic și textil, interior cu piele naturală, talpă din cauciuc",
+  "Caracteristici": "șiret clasic, branț din piele, contrafort rigid",
+  "Cod produs": "J56NLC.000BC"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul și h1 spun alb; atributul de culoare al magazinului spune bej."
+ ]
+}

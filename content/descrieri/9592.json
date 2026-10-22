@@ -1,0 +1,69 @@
+{
+ "id": 9592,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/biomecanics/\">Biomecanics</a> 251133 sunt <a href=\"/categorie/bebe-incaltaminte-pantofi/\">pantofi pentru bebeluși</a> maro, din piele naturală, căptușiți cu lână, care ține căldura pe vreme rece. Au fost dezvoltați împreună cu pediatri și ingineri de la Institutul de Biomecanică din Valencia.</p><p>Se fixează cu curele Velcro, deci se strâng exact pe piciorul copilului, mai lat sau mai îngust, iar stabilizatorul lateral controlează mișcarea piciorului spre lateral.</p><p>Pentru primii ani de mers, construcția e simplă:</p><ul><li><strong>Călcâi</strong>: întărit.</li><li><strong>Talpă</strong>: flexibilă, din cauciuc, rezistentă la uzură.</li><li><strong>Căptușeală</strong>: lână.</li></ul><p>Mărimile 21-25 sunt pentru copii de aproximativ 1-3 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/biomecanics-incaltaminte-din-piele-pentru-copii-culoarea-maro-251133-1673343",
+   "fragment": "Biomecanics Incaltaminte din piele pentru copii culoarea maro, 251133"
+  },
+  {
+   "fapt": "piele",
+   "url": "answear.ro/p/biomecanics-incaltaminte-din-piele-pentru-copii-culoarea-maro-251133-1673343",
+   "fragment": "confecționat din piele naturală"
+  },
+  {
+   "fapt": "lână",
+   "url": "answear.ro/p/biomecanics-incaltaminte-din-piele-pentru-copii-culoarea-maro-251133-1673343",
+   "fragment": "căptușeală din lână"
+  },
+  {
+   "fapt": "căldură",
+   "url": "answear.ro/p/biomecanics-incaltaminte-din-piele-pentru-copii-culoarea-maro-251133-1673343",
+   "fragment": "ajută la menținerea căldurii pe vreme rece"
+  },
+  {
+   "fapt": "dezvoltați",
+   "url": "answear.ro/p/biomecanics-incaltaminte-din-piele-pentru-copii-culoarea-maro-251133-1673343",
+   "fragment": "Dezvoltați în colaborare cu pediatri și ingineri de la Institutul de Biomecanică din Valencia"
+  },
+  {
+   "fapt": "velcro",
+   "url": "answear.ro/p/biomecanics-incaltaminte-din-piele-pentru-copii-culoarea-maro-251133-1673343",
+   "fragment": "Curelele Velcro pentru fixare ușoară permit o potrivire personalizată"
+  },
+  {
+   "fapt": "stabilizator",
+   "url": "answear.ro/p/biomecanics-incaltaminte-din-piele-pentru-copii-culoarea-maro-251133-1673343",
+   "fragment": "stabilizator lateral pentru a controla mișcarea laterală a piciorului"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/biomecanics-incaltaminte-din-piele-pentru-copii-culoarea-maro-251133-1673343",
+   "fragment": "Un fulger întărit pentru călcâi"
+  },
+  {
+   "fapt": "talpă flexibilă",
+   "url": "answear.ro/p/biomecanics-incaltaminte-din-piele-pentru-copii-culoarea-maro-251133-1673343",
+   "fragment": "O talpă flexibilă din cauciuc"
+  },
+  {
+   "fapt": "rezistentă",
+   "url": "answear.ro/p/biomecanics-incaltaminte-din-piele-pentru-copii-culoarea-maro-251133-1673343",
+   "fragment": "talpă din cauciuc care este durabilă și rezistentă la deteriorare"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Biomecanics 251133",
+  "Material": "piele naturală, căptușeală din lână, talpă din cauciuc",
+  "Caracteristici": "curele Velcro, stabilizator lateral, călcâi întărit",
+  "Cod produs": "251133"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-3 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul și h1 spun maro; atributul de culoare al magazinului spune bleumarin."
+ ]
+}
