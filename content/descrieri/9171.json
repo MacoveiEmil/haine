@@ -1,0 +1,74 @@
+{
+ "id": 9171,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/colmar/\">Colmar</a> GLOWER este o <a href=\"/categorie/geci-jachete/\">geacă de puf pentru fete</a>, cu umplutură naturală din 90% puf de rață și 10% pene, izolată și căptușită, pentru frig și iarnă. Pe site apare ca neagră, iar magazinul o dă albastră.</p><p>Croiala e simplă, cu loc pentru un pulover dedesubt, iar fermoarul urcă până la gulerul ridicat. Gluga apără capul pe ger.</p><p>Detaliile:</p><ul><li><strong>Buzunare</strong>: două, laterale, cu fermoar.</li><li><strong>Glugă</strong>: are.</li><li><strong>Material</strong>: 100% poliamidă, căptușeală 100% poliamidă.</li><li><strong>Umplutură</strong>: 90% puf de rață, 10% pene de rață.</li></ul><p>Mărimile de pe site, 106-172, sunt pentru copii de aproximativ 4-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "Colmar Geacă copii GLOWER 3475.8XV"
+  },
+  {
+   "fapt": "puf",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "Umplutura din puf si pene"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "90% Duck Down, 10% Pene de rață"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "Model izolat cu captuseala"
+  },
+  {
+   "fapt": "frig",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "nivel ridicat de izolare împotriva frigului"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "fermoar, guler",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "Are inchidere cu fermoar si guler ridicat"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "Model cu gluga"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "Două buzunare laterale antiderapante și cu fermoar"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "Material de bază: 100% Poliamida"
+  },
+  {
+   "fapt": "culoare magazin",
+   "url": "answear.ro/p/colmar-geaca-copii-glower-3475-8xv-1596260",
+   "fragment": "albastru"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Colmar GLOWER",
+  "Material": "100% poliamidă, umplutură puf de rață și pene",
+  "Caracteristici": "geacă de puf, glugă, guler ridicat, buzunare cu fermoar",
+  "Cod produs": "3475.8XV"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site spune negru; magazinul dă albastru."
+ ]
+}

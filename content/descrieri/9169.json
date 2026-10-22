@@ -1,0 +1,69 @@
+{
+ "id": 9169,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> FLEXYPER sunt cizme înalte de iarnă maro, listate pe site la <a href=\"/categorie/baieti-incaltaminte-pantofi/\">încălțămintea de iarnă pentru băieți</a>, din piele naturală și material textil, cu membrana microporoasă GEOX Respira™, care elimină umezeala și ține apa afară.</p><p>Închiderea e dublă, cu șireturi și scai, deci cizma se strânge exact pe picior; vârful rotund lasă loc degetelor, iar gulerul ușor întărit ține glezna.</p><p>Pentru iarnă, cizmele mai au:</p><ul><li><strong>Talpă</strong>: din cauciuc, rezistentă la abraziune.</li><li><strong>Călcâi</strong>: întărit.</li><li><strong>Interior</strong>: textil.</li></ul><p>Numerele 36-41 sunt pentru copii mari, de obicei de la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-flexyper-maro-j369ba-032me-1839096",
+   "fragment": "Geox Încălțăminte pentru copii FLEXYPER maro J369BA.032ME"
+  },
+  {
+   "fapt": "iarnă",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-flexyper-maro-j369ba-032me-1839096",
+   "fragment": "Cizmele de iarnă pentru băieți Geox FLEXYPER sunt cizme înalte"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-flexyper-maro-j369ba-032me-1839096",
+   "fragment": "Partea superioară din combinație de piele naturală și material textil"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-flexyper-maro-j369ba-032me-1839096",
+   "fragment": "Tehnologia GEOX Respira™ cu o membrană microporoasă"
+  },
+  {
+   "fapt": "apă",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-flexyper-maro-j369ba-032me-1839096",
+   "fragment": "protejând interiorul cizmei de pătrunderea apei"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-flexyper-maro-j369ba-032me-1839096",
+   "fragment": "Închiderea dublă cu șireturi și scai"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-flexyper-maro-j369ba-032me-1839096",
+   "fragment": "Vârful rotund oferă spațiu pentru degete"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-flexyper-maro-j369ba-032me-1839096",
+   "fragment": "Gulerul superior ușor întărit"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-flexyper-maro-j369ba-032me-1839096",
+   "fragment": "Talpa din cauciuc este durabilă și rezistentă la abraziune"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-flexyper-maro-j369ba-032me-1839096",
+   "fragment": "Călcâiul întărit"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox FLEXYPER",
+  "Material": "piele naturală și textil, talpă din cauciuc",
+  "Caracteristici": "cizme de iarnă, membrană GEOX Respira™, șireturi și scai",
+  "Cod produs": "J369BA.032ME"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pe site e la Pantofi; produsul e cizmă de iarnă."
+ ]
+}

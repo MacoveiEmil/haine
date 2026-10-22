@@ -1,74 +1,61 @@
 {
  "id": 9165,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> INEK sunt <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidași pentru băieți</a> confecționați din material textil și piele ecologică, în culoarea bleumarin. Modelul este prevăzut pentru purtarea zilnică a copiilor.</p><ul><li><strong>Geox Respira</strong>: talpă în trei straturi, cu sistem de perforări pentru ventilație.</li><li><strong>Material</strong>: exterior din material textil și sintetic, cu interior textil.</li><li><strong>Închidere</strong>: șireturi elastice și baretă cu arici, ușor de încălțat fără ajutor.</li><li><strong>Talpă</strong>: realizată din material sintetic.</li><li><strong>Detalii</strong>: buclă la călcâi pentru încălțare rapidă și branțuri luminoase.</li></ul><p>Încălțămintea nu are protecție impermeabilă declarată. Pentru vreme rece sau umedă, sunt recomandate <a href=\"/categorie/baieti-incaltaminte-ghete-cizme/\">ghetele pentru băieți</a>.</p><p>Mărimile merg de la 24 la 35, orientativ pentru copii de 2-11 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> INEK J659CC sunt <a href=\"/categorie/baieti-incaltaminte-adidasi/\">adidași cu branț luminos pentru băieți</a>, bleumarin, din material textil și piele ecologică, ușori și făcuți pentru purtat zilnic. Au sistemul Geox Respira în talpă, cu perforații.</p><p>Șireturile elastice și închiderea cu cârlig se strâng fără nod, iar bucla de la spate ajută la încălțat, deci copilul se descurcă singur dimineața.</p><p>Detaliul care se vede seara și restul construcției:</p><ul><li><strong>Branț</strong>: luminos.</li><li><strong>Interior</strong>: textil.</li><li><strong>Profil</strong>: scurt.</li><li><strong>Material</strong>: textil și piele ecologică.</li></ul><p>Numerele 24-35 se potrivesc în general copiilor de 2-11 ani.</p>",
  "surse": [
   {
-   "fapt": "nume model",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
-   "fragment": "Geox sneakers pentru copii INEK"
+   "fapt": "model",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
+   "fragment": "Sneakers pentru copii INEK culoarea bleumarin, J659CC.01454"
   },
   {
-   "fapt": "culoare bleumarin",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
-   "fragment": "culoarea bleumarin"
-  },
-  {
-   "fapt": "textil cu piele ecologică",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
+   "fapt": "material",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
    "fragment": "combinația materialului textil cu pielea ecologică"
   },
   {
-   "fapt": "purtare zilnică",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
+   "fapt": "zilnic",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
    "fragment": "ideal pentru purtarea zilnică"
   },
   {
-   "fapt": "Geox Respira talpă în trei straturi",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
-   "fragment": "datorita talpei in trei straturi cu sistemul de perforari care respira imbunatateste ventilarea"
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
   },
   {
-   "fapt": "compoziție materiale",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
-   "fragment": "Gamba: Material sintetic, Material textil"
+   "fapt": "închidere",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
+   "fragment": "Șireturile elastice și închiderea cu cârlig"
   },
   {
-   "fapt": "interior textil",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
+   "fapt": "buclă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
+   "fragment": "Bucla de la spate"
+  },
+  {
+   "fapt": "branț luminos",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
+   "fragment": "Pantofi cu branturi luminoase"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
    "fragment": "Interiorul textil"
   },
   {
-   "fapt": "închidere șireturi elastice și cârlig",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
-   "fragment": "Șireturile elastice și închiderea cu cârlig fac acești pantofi ușor de pus și de scos."
-  },
-  {
-   "fapt": "talpă sintetică",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
-   "fragment": "Talpa: Material sintetic"
-  },
-  {
-   "fapt": "buclă la spate",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
-   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior și ajută la scoaterea acestuia."
-  },
-  {
-   "fapt": "branțuri luminoase",
-   "url": "https://answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
-   "fragment": "Pantofi cu branturi luminoase."
+   "fapt": "profil",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-inek-culoarea-bleumarin-j659cc-01454-1724846",
+   "fragment": "Înălțime: mic de statură"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "Geox INEK J659CC.01454",
-  "Material": "exterior textil și piele ecologică (sintetic), interior textil, talpă sintetică",
-  "Caracteristici": "Geox Respira, șireturi elastice și arici, buclă călcâi, branțuri luminoase",
+  "Model": "Geox INEK J659CC",
+  "Material": "textil și piele ecologică, interior textil",
+  "Caracteristici": "branț luminos, șireturi elastice, Geox Respira",
   "Cod produs": "J659CC.01454"
  },
- "categorie_complementara": {
-  "slug": "/categorie/baieti-incaltaminte-ghete-cizme/",
-  "motiv": "fără membrană impermeabilă declarată; pentru ploaie și frig sunt necesare ghete"
- },
+ "categorie_complementara": null,
  "varsta_orientativa": "2-11 ani",
  "date_insuficiente": false,
  "confidence_notes": []
