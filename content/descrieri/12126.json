@@ -1,0 +1,30 @@
+{
+ "id": 12126,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/puma/\">Puma</a> 78645 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> în culoarea albastru, singura variantă de culoare din pagina produsului. Pagina nu dă detalii despre material sau izolație, deci e bine de verificat eticheta înainte de sezonul rece.</p><p>Pe site sunt mărimile 128-140, adică, aproximativ, copii de 8-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/copii-78645-baieti-puma-p16587638-8/",
+   "fragment": "copii, - 78645"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.fashiondays.ro/p/copii-78645-baieti-puma-p16587638-8/",
+   "fragment": "Albastru"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Puma 78645",
+  "Material": "",
+  "Caracteristici": "",
+  "Cod produs": "78645"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-10 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu.",
+  "Titlul paginii e doar „copii, - 78645”; culoarea apare la varianta de mărime 140 CM."
+ ]
+}

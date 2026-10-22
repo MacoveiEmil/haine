@@ -1,0 +1,24 @@
+{
+ "id": 12112,
+ "versiune": "v7",
+ "descriere_html": "<p>Vesta <a href=\"/brand/4f/\">4F</a> 302874682 este o <a href=\"/categorie/geci-jachete/\">vestă pentru fete</a>, verde, din poliamidă, un strat fără mâneci care lasă brațele libere la joacă și se poartă peste un hanorac sau un pulover.</p><p>Mărimile 122-158 de pe site merg, în general, la fete de 7-13 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/vesta-fete-302874682-poliamida-verde-fete-4f-p16829903-7/",
+   "fragment": "Vesta Fete, 302874682, Poliamida, Verde"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F 302874682",
+  "Material": "poliamidă",
+  "Caracteristici": "vestă",
+  "Cod produs": "302874682"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-13 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

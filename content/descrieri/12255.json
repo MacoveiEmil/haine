@@ -1,0 +1,64 @@
+{
+ "id": 12255,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/nike/\">Nike</a> Y NK Thermal RPL Park20 Fall Jacket CW6159-010 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de toamnă unisex</a>, neagră, din poliester cu suprafață netedă, țesută, cu glugă. Magazinul o indică pentru sport și baschet, toamna.</p><p>Croiala e clasică, iar manșetele și tivul elasticizate strâng geaca la încheieturi și jos, ca vântul să nu intre pe dedesubt.</p><p>Detaliile de închidere și buzunare:</p><ul><li><strong>Închidere</strong>: fermoar, în față.</li><li><strong>Buzunare</strong>: laterale, diagonale, cu detalii cu capse.</li><li><strong>Logo</strong>: Swoosh, pe piept.</li></ul><p>Pe site e doar mărimea XL, care după tabelul Nike al magazinului se potrivește cam la 13-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.various-brands.ro/y-nk-thrm-rpl-park20-fall-jkt-nike-cw6159-010.html",
+   "fragment": "Geaca Nike Y NK Thermal RPL Park20 Fall Jacket"
+  },
+  {
+   "fapt": "poliester",
+   "url": "www.various-brands.ro/y-nk-thrm-rpl-park20-fall-jkt-nike-cw6159-010.html",
+   "fragment": "realizată din poliester, cu suprafață netedă, țesută"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.various-brands.ro/y-nk-thrm-rpl-park20-fall-jkt-nike-cw6159-010.html",
+   "fragment": "Are glugă"
+  },
+  {
+   "fapt": "sport",
+   "url": "www.various-brands.ro/y-nk-thrm-rpl-park20-fall-jkt-nike-cw6159-010.html",
+   "fragment": "Este potrivită pentru sport și baschet și este indicată pentru toamnă"
+  },
+  {
+   "fapt": "croială",
+   "url": "www.various-brands.ro/y-nk-thrm-rpl-park20-fall-jkt-nike-cw6159-010.html",
+   "fragment": "croială clasică"
+  },
+  {
+   "fapt": "elastic",
+   "url": "www.various-brands.ro/y-nk-thrm-rpl-park20-fall-jkt-nike-cw6159-010.html",
+   "fragment": "manșetele și tivul sunt elasticizate"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "www.various-brands.ro/y-nk-thrm-rpl-park20-fall-jkt-nike-cw6159-010.html",
+   "fragment": "închidere frontală cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.various-brands.ro/y-nk-thrm-rpl-park20-fall-jkt-nike-cw6159-010.html",
+   "fragment": "buzunare laterale diagonale cu detalii cu capse"
+  },
+  {
+   "fapt": "logo",
+   "url": "www.various-brands.ro/y-nk-thrm-rpl-park20-fall-jkt-nike-cw6159-010.html",
+   "fragment": "Logo-ul Nike Swoosh este poziționat pe piept"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Nike Y NK Thermal RPL Park20 Fall Jacket",
+  "Material": "poliester",
+  "Caracteristici": "glugă, manșete și tiv elasticizate",
+  "Cod produs": "CW6159-010"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "13-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Vârsta pentru XL: tabelul de mărimi Nike al magazinului (pagina produsului 4949)."
+ ]
+}

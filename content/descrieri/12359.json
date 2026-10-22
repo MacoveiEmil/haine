@@ -1,17 +1,22 @@
 {
  "id": 12359,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> J9420G sunt <a href=\"/categorie/ghete-cizme/\">bocanci pentru fete</a> bleumarin, din material sintetic, cu șiret și fermoar lateral. Modelul nu e izolat, deci nu e gândit pentru ger, iar partea de sus neporoasă se curăță ușor cu o cârpă umedă.</p><ul><li><strong>Geox Respira</strong>: talpă în trei straturi, cu perforații pentru ventilație.</li><li><strong>Material</strong>: exterior sintetic, interior textil.</li><li><strong>Talpă</strong>: exterioară, din cauciuc.</li><li><strong>Închidere</strong>: șiret cu fermoar lateral, bocancul se încalță fără să desfaci șiretul.</li><li><strong>Vârf și călcâi</strong>: vârf rotund întărit, contrafort rigid și buclă la spate pentru încălțat.</li></ul><p>Mărimile merg de la 36 la 39, orientativ pentru copii de la 12 ani în sus.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Bocancii <a href=\"/brand/geox/\">Geox</a> în culoarea bleumarin sunt <a href=\"/categorie/ghete-cizme/\">bocanci pentru fete</a> neizolați, din material sintetic neporos, care se curăță cu o cârpă umedă. Se poartă în sezonul de tranziție, nu pe ger.</p><p>Au șiret și fermoar lateral: șiretul se reglează o dată după picior, iar fermoarul ajută la încălțat. Bucla de la spate ajută la tras bocancul.</p><p>Restul construcției arată așa:</p><ul><li><strong>Vârf</strong>: cutie rotundă, întărită.</li><li><strong>Călcâi</strong>: contrafort rigid.</li><li><strong>Geox Respira</strong>: talpă în trei straturi, perforată.</li><li><strong>Talpă exterioară</strong>: din cauciuc.</li></ul><p>Numerele 36-39 se poartă, de obicei, de la 12 ani în sus.</p>",
  "surse": [
   {
-   "fapt": "culoare",
+   "fapt": "model",
    "url": "answear.ro/p/geox-bocanci-copii-culoarea-albastru-marin-1040927",
-   "fragment": "culoarea albastru marin"
+   "fragment": "Geox Bocanci copii culoarea albastru marin"
   },
   {
    "fapt": "sintetic",
    "url": "answear.ro/p/geox-bocanci-copii-culoarea-albastru-marin-1040927",
    "fragment": "confecționat din material sintetic"
+  },
+  {
+   "fapt": "neporos",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-albastru-marin-1040927",
+   "fragment": "Partea superioară neporoasă, ușor de curățat cu o cârpă umedă"
   },
   {
    "fapt": "neizolat",
@@ -24,24 +29,9 @@
    "fragment": "Model cu siret cu fermoar lateral"
   },
   {
-   "fapt": "neporos",
+   "fapt": "buclă",
    "url": "answear.ro/p/geox-bocanci-copii-culoarea-albastru-marin-1040927",
-   "fragment": "Partea superioară neporoasă, ușor de curățat cu o cârpă umedă"
-  },
-  {
-   "fapt": "Respira",
-   "url": "answear.ro/p/geox-bocanci-copii-culoarea-albastru-marin-1040927",
-   "fragment": "datorita talpei in trei straturi cu sistemul de perforari care respira imbunatateste ventilarea"
-  },
-  {
-   "fapt": "interior",
-   "url": "answear.ro/p/geox-bocanci-copii-culoarea-albastru-marin-1040927",
-   "fragment": "Interiorul: Material textil"
-  },
-  {
-   "fapt": "talpă",
-   "url": "answear.ro/p/geox-bocanci-copii-culoarea-albastru-marin-1040927",
-   "fragment": "Talpa exterioară din cauciuc"
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
   },
   {
    "fapt": "vârf",
@@ -54,27 +44,24 @@
    "fragment": "Contorul de călcâi rigid"
   },
   {
-   "fapt": "buclă",
+   "fapt": "Respira",
    "url": "answear.ro/p/geox-bocanci-copii-culoarea-albastru-marin-1040927",
-   "fragment": "Bucla de la spate"
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
   },
   {
-   "fapt": "cod",
+   "fapt": "talpă",
    "url": "answear.ro/p/geox-bocanci-copii-culoarea-albastru-marin-1040927",
-   "fragment": "J9420G"
+   "fragment": "Talpa exterioară din cauciuc este durabilă și rezistentă la deteriorare"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "Geox J9420G",
-  "Material": "exterior sintetic, interior textil, talpă din cauciuc",
-  "Caracteristici": "Geox Respira, șiret cu fermoar lateral, vârf întărit, contrafort rigid, neizolat",
-  "Cod produs": "J9420G"
+  "Model": "Geox (bocanci)",
+  "Material": "sintetic, interior textil, talpă din cauciuc",
+  "Caracteristici": "neizolați, șiret și fermoar lateral, Geox Respira",
+  "Cod produs": ""
  },
  "categorie_complementara": null,
- "varsta_orientativa": "12 ani și peste",
+ "varsta_orientativa": "de la 12 ani în sus",
  "date_insuficiente": false,
- "confidence_notes": [
-  "Fără paragraf complementar: ghetele izolate sunt în aceeași categorie, nu există o categorie diferită potrivită.",
-  "Extracția a salvat categoria „incaltaminte-baieti”, magazinul are breadcrumb Fete; pe site e la fete."
- ]
+ "confidence_notes": []
 }

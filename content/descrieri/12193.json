@@ -1,0 +1,75 @@
+{
+ "id": 12193,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/nike/\">Nike</a> G NSW FLC JKT DANCE IF1712-010 este o <a href=\"/categorie/geci-jachete/\">geacă bomber pentru fete</a>, neagră, din bumbac, cu croială clasică și aspect ușor scurt, pentru purtare casual primăvara și vara. Logo-ul Swoosh e brodat pe piept.</p><p>Gulerul înalt, manșetele și tivul sunt reiate și strâng jacheta pe corp, ca la orice bomber, deci stă aproape și de un copil mai slab.</p><p>Pentru zilele blânde, jacheta are:</p><ul><li><strong>Închidere</strong>: fermoar, în față.</li><li><strong>Buzunare</strong>: două, frontale, cu deschidere dreaptă.</li><li><strong>Guler</strong>: reiat, înalt, cu branding Nike.</li></ul><p>Pe site sunt mărimile M, L și XL, care după tabelul Nike al magazinului acoperă în mare vârsta de 10-15 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "Jacheta Nike G NSW FLC JKT DANCE neagră"
+  },
+  {
+   "fapt": "bomber",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "Jachetă Nike în stil bomber"
+  },
+  {
+   "fapt": "bumbac",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "Material: bumbac"
+  },
+  {
+   "fapt": "croială",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "cu croială clasică și aspect ușor scurt"
+  },
+  {
+   "fapt": "casual",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "Potrivită pentru purtare casual"
+  },
+  {
+   "fapt": "sezon",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "în sezonul primăvară-vară"
+  },
+  {
+   "fapt": "logo",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "logo Nike Swoosh brodat pe piept"
+  },
+  {
+   "fapt": "reiat",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "Are guler tip guler reiat, manșete reiate și tiv reiat"
+  },
+  {
+   "fapt": "guler",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "guler reiat tip guler înalt, cu branding „Nike”"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "Închiderea este frontală, cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.various-brands.ro/g-nsw-flc-jkt-dance-nike-if1712-010.html",
+   "fragment": "două buzunare frontale tip buzunar cu deschidere dreaptă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Nike G NSW FLC JKT DANCE",
+  "Material": "bumbac",
+  "Caracteristici": "bomber, guler, manșete și tiv reiate",
+  "Cod produs": "IF1712-010"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "10-15 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Vârsta pentru M-XL: tabelul de mărimi Nike al magazinului (pagina produsului 4949).",
+  "Magazinul trece la gen „Baieti”; pe site e la fete."
+ ]
+}

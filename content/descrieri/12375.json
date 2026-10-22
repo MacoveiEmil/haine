@@ -1,0 +1,64 @@
+{
+ "id": 12375,
+ "versiune": "v7",
+ "descriere_html": "<p>Bocancii <a href=\"/brand/geox/\">Geox</a> gri sunt <a href=\"/categorie/ghete-cizme/\">bocanci pentru fete</a> izolați, cu aspect de piele întoarsă, pentru zilele reci. Interiorul e textil, iar talpa are sistemul Geox Respira, în trei straturi cu perforări.</p><p>Se închid cu fermoar, deci copilul îi încalță repede, fără șireturi de legat. Vârful e rotund și lasă loc degetelor, deci bocancul merge și la un picior mai plin.</p><p>Din ce sunt făcuți:</p><ul><li><strong>Partea de sus</strong>: material sintetic.</li><li><strong>Interior</strong>: textil.</li><li><strong>Talpă</strong>: din gumă.</li></ul><p>Numerele 26-35 se potrivesc copiilor de 3-11 ani, aproximativ.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-gri-1346733",
+   "fragment": "Geox Bocanci copii culoarea gri"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-gri-1346733",
+   "fragment": "Model izolat"
+  },
+  {
+   "fapt": "piele întoarsă",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-gri-1346733",
+   "fragment": "Model confectionat din piele intoarsa"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-gri-1346733",
+   "fragment": "Interior textil"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-gri-1346733",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-gri-1346733",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-gri-1346733",
+   "fragment": "Varf rotund"
+  },
+  {
+   "fapt": "parte de sus",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-gri-1346733",
+   "fragment": "Gamba: Material sintetic"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-bocanci-copii-culoarea-gri-1346733",
+   "fragment": "Talpa din guma"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox (bocanci)",
+  "Material": "sintetic, interior textil, talpă din gumă",
+  "Caracteristici": "izolați, fermoar, Geox Respira",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "3-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul spune „piele întoarsă” în descriere, dar compoziția dă material sintetic (imitație de piele); am scris „aspect de piele întoarsă”."
+ ]
+}
