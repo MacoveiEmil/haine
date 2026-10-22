@@ -1,0 +1,114 @@
+{
+ "id": 14880,
+ "versiune": "v7",
+ "descriere_html": "<p>Pantalonii de iarnă <a href=\"/brand/reima/\">Reima</a> KOMEIN negri sunt <a href=\"/categorie/unisex-imbracaminte-pantaloni-treninguri/\">pantaloni unisex</a> impermeabili, cu cusături etanșe și tehnologie REIMATEC, rezistenți la vânt și cu izolație termică. Materialul e respirabil și rezistent la murdărie, iar finisajul hidrofug este fără PFAS. Produsul are certificare bluesign.</p><p>Croiala e lejeră, cu cusătură în cruce care nu încurcă la mers. Au bretele elastice reglabile și detașabile, talie elastică ajustabilă, manșete de zăpadă și crac întărit jos.</p><p>Detaliile de bază:</p><ul><li><strong>Buzunare</strong>: unul lateral, cu fermoar.</li><li><strong>Căptușeală</strong>: 55% poliester reciclat, 45% elastan.</li><li><strong>Respirabilitate</strong>: 5 000 g/m²/24h.</li><li><strong>Greutate</strong>: 500 g.</li></ul><p>Mărimile 104-164 sunt pentru copii de cam 4-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "REIMA KOMEIN"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "Negru"
+  },
+  {
+   "fapt": "etanșe",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "toate cusăturile sunt etanșe, impermeabile"
+  },
+  {
+   "fapt": "vânt",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "material impermeabil, rezistent la vânt"
+  },
+  {
+   "fapt": "izolație",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "Materialul rezistent și izolația termică combat frigul"
+  },
+  {
+   "fapt": "murdărie",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "material respirabil și rezistent la murdărie"
+  },
+  {
+   "fapt": "PFAS",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "finisaj hidrofug și anti-murdărie fără PFAS"
+  },
+  {
+   "fapt": "bluesign",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "Acesta este un produs bluesign®"
+  },
+  {
+   "fapt": "lejeră",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "lejeră"
+  },
+  {
+   "fapt": "cruce",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "cusătura în cruce"
+  },
+  {
+   "fapt": "bretele",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "bretele elastice reglabile și detașabile"
+  },
+  {
+   "fapt": "talie",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "talie elastică care se poate ajusta"
+  },
+  {
+   "fapt": "manșete",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "manșete de zăpadă"
+  },
+  {
+   "fapt": "întărituri",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "crac finisat cu întărituri în partea inferioară"
+  },
+  {
+   "fapt": "buzunar",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "buzunar cu fermoar"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "55 % poliester reciclat, 45 % elastan"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "5 000 g/m²/24h"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "500 g"
+  },
+  {
+   "fapt": "REIMATEC",
+   "url": "www.sportisimo.ro/reima/komein/1945269/",
+   "fragment": "REIMATEC"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima KOMEIN",
+  "Tehnologie": "REIMATEC",
+  "Caracteristici": "bretele detașabile, manșete de zăpadă, fără PFAS",
+  "Cod produs": "259999"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "În specificații, la „Izolație termică” apare „7.000 mm”, o valoare de coloană de apă; nu am folosit-o."
+ ]
+}

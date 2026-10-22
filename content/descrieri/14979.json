@@ -1,0 +1,89 @@
+{
+ "id": 14979,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de iarnă <a href=\"/brand/loap/\">LOAP</a> INVOLFA roz este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> cu fața STORMEX și membrană DryTech, care rezistă la vânt, ploaie și joacă. Izolația din fibre tubulare POLYTHERM încălzește repede și își păstrează forma.</p><p>Tivul de jos și mânecile sunt finisate cu elastic, deci geaca stă bine pe corp. Fermoarul are capac la capăt, ca să nu ciupească bărbia, iar gluga fixă are blăniță. Elementele reflectorizante ajută la vizibilitate.</p><p>Detaliile de bază:</p><ul><li><strong>Buzunare</strong>: două.</li><li><strong>Material</strong>: 100% poliester (Stormex).</li><li><strong>Căptușeală</strong>: tafta din poliester.</li></ul><p>Mărimile 112-116 până la 158-164 sunt pentru copii de aproximativ 5-14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "LOAP INVOLFA"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "Roz (roz / maro)"
+  },
+  {
+   "fapt": "STORMEX",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "Partea superioară STORMEX durabilă"
+  },
+  {
+   "fapt": "DryTech",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "DryTech"
+  },
+  {
+   "fapt": "vânt",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "pot rezista vântului, ploii și jocului cu prietenii"
+  },
+  {
+   "fapt": "POLYTHERM",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "izolația din fibre tubulare POLYTHERM asigură încălzirea rapidă"
+  },
+  {
+   "fapt": "formă",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "are o memorie excelentă a formei"
+  },
+  {
+   "fapt": "elastic",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "tiv inferior și mâneci elastice"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "Fermoarul cu capac la capăt previne ciupirea nedorită a pielii de pe bărbie"
+  },
+  {
+   "fapt": "blăniță",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "glugă fixă cu blăniță"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "elemente reflectorizante"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "2 buzunare"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "100 % poliester (Stormex)"
+  },
+  {
+   "fapt": "tafta",
+   "url": "www.sportisimo.ro/loap/involfa/1242274/",
+   "fragment": "100 % poliester (tafta)"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "LOAP INVOLFA",
+  "Material": "100% poliester (Stormex)",
+  "Caracteristici": "DryTech, umplutură Polytherm, glugă cu blăniță",
+  "Cod produs": "194515"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "5-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul spune o dată „blană nedetașabilă” și o dată „blăniță detașabilă”; nu am precizat dacă blănița se scoate."
+ ]
+}

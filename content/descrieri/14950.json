@@ -1,0 +1,94 @@
+{
+ "id": 14950,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de schi <a href=\"/brand/alpine-pro/\">ALPINE PRO</a> GERGO roz este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> cu membrană PTX SNOW și tratament DWR: materialul e impermeabil, permeabil la vapori, rezistent la vânt și elastic. Umplutura e groasă și călduroasă, cusăturile sunt lipite, iar centura de zăpadă oprește zăpada să intre.</p><p>Gluga e fixă, mânecile se ajustează cu velcro și au manșete interioare elastice, iar tivul de jos se strânge cu șnur. Imprimeul reflectorizant e în față și la spate.</p><p>Detaliile de bază:</p><ul><li><strong>Buzunare</strong>: trei.</li><li><strong>Material</strong>: 100% poliester.</li><li><strong>Coloană de apă</strong>: 8 000mm.</li><li><strong>Respirabilitate</strong>: 3000 g/m²/24h.</li></ul><p>Mărimile 104-110 până la 152-158 sunt pentru copii de cam 4-13 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "ALPINE PRO GERGO"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "Roz"
+  },
+  {
+   "fapt": "PTX",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "membrană PTX SNOW, finisaj DWR"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "material - impermeabil, permeabil la vapori, rezistent la vânt și elastic"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "umplutura groasă care va menține căldura"
+  },
+  {
+   "fapt": "lipite",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "cusături lipite"
+  },
+  {
+   "fapt": "centură",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "centură de protecție împotriva zăpezii"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "glugă fixă"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "mâneci anatomice, ajustabile cu bandă velcro și manșete interioare elastice"
+  },
+  {
+   "fapt": "tiv",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "tiv inferior ajustabil cu șnur"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "imprimeu reflectorizant pe partea din față și la spate"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "3 buzunare"
+  },
+  {
+   "fapt": "poliester",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "100 % poliester"
+  },
+  {
+   "fapt": "coloană",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "8 000mm"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "www.sportisimo.ro/alpine-pro/gergo/1094958/",
+   "fragment": "3000 g/m²/24h"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "ALPINE PRO GERGO",
+  "Material": "100% poliester",
+  "Caracteristici": "membrană PTX SNOW, centură de zăpadă, cusături lipite",
+  "Cod produs": "175068"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-13 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea vorbește de croială „ușor strâmtă”, lista de caracteristici de „croială lejeră”; nu am scris croiala."
+ ]
+}

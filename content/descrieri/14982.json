@@ -1,0 +1,99 @@
+{
+ "id": 14982,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca softshell <a href=\"/brand/alpine-pro/\">ALPINE PRO</a> FERLO mix este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> fără umplutură, cu imprimeu colorat pe toată suprafața. Materialul are tratament DWR, e hidrofug, rezistent la vânt, flexibil și permeabil la vapori, iar căptușeala e contrastantă.</p><p>Croiala e ușor strâmtă, cu spatele extins. Mânecile sunt finisate cu elastic, are protecție la bărbie, trăgătoare lungi la fermoar și imprimeu cu elemente reflectorizante în față.</p><p>Detaliile de bază:</p><ul><li><strong>Buzunare</strong>: două laterale, cu fermoar.</li><li><strong>Material</strong>: 96% poliester, 4% elastan.</li><li><strong>Tehnologie</strong>: DWR, Softshell.</li></ul><p>Mărimile 104-110 până la 152-158 se potrivesc orientativ copiilor de 4-13 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "ALPINE PRO FERLO"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "Mix"
+  },
+  {
+   "fapt": "imprimeu",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "Geaca cu imprimeu pe toată suprafața pentru copii ALPINE PRO FERLO"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "fără umplutură"
+  },
+  {
+   "fapt": "hidrofug",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "material hidrofug, rezistent la vânt și respirabil, cu tratament DWR"
+  },
+  {
+   "fapt": "flexibil",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "material hidrofug, permeabil la vapori, flexibil"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "căptușeală contrastantă"
+  },
+  {
+   "fapt": "croială",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "croială ușor strâmtă"
+  },
+  {
+   "fapt": "spate",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "spate extins"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "mâneci finisate cu elastic"
+  },
+  {
+   "fapt": "bărbie",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "protecție la bărbie"
+  },
+  {
+   "fapt": "trăgătoare",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "trăgătoare lungi pentru fermoar"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "imprimeul modern cu elemente reflectorizante în partea frontală"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "2 laterale cu fermoar"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "96 % poliester , 4 % elastan"
+  },
+  {
+   "fapt": "tehnologie",
+   "url": "www.sportisimo.ro/alpine-pro/ferlo/1073134/",
+   "fragment": "DWR , Softshell"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "ALPINE PRO FERLO",
+  "Material": "96% poliester, 4% elastan",
+  "Caracteristici": "softshell DWR, fără umplutură, reflectorizante",
+  "Cod produs": "171252"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-13 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul spune o dată „gluga detașabilă” și o dată „glugă fixă”; nu am scris despre glugă."
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "id": 14875,
+ "versiune": "v7",
+ "descriere_html": "<p>Sandalele barefoot <a href=\"/brand/reima/\">Reima</a> RANTAAN J 2.0 mov sunt listate la <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> și sunt gândite pentru un mers natural. Fața din textil e flexibilă și respirabilă, talpa din cauciuc e flexibilă și ține bine, iar drop-ul e zero.</p><p>Vârful e lat, deci degetele au loc, iar benzile velcro le fac ușor de pus și de scos. Branțul detașabil Happy Fit ajută la alegerea numărului, iar perechea se spală în mașină la 30°C.</p><p>Detaliile de bază:</p><ul><li><strong>Față</strong>: 100% poliester.</li><li><strong>Talpă</strong>: 100% cauciuc.</li><li><strong>Greutate</strong>: 200 g.</li></ul><p>Numerele 22-32 sunt pentru copii de aproximativ 1-9 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "REIMA RANTAAN J 2.0"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "Mov (mov / alb)"
+  },
+  {
+   "fapt": "barefoot",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "Sandalele tip barefoot pentru copii Reima RANTAAN J 2.0 asigură un mers sănătos și natural"
+  },
+  {
+   "fapt": "textil",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "Au o parte superioară textilă flexibilă și respirabilă"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "talpă din cauciuc pentru o aderență mai bună"
+  },
+  {
+   "fapt": "drop",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "drop zero pentru o poziție naturală"
+  },
+  {
+   "fapt": "lat",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "pantofi mai lați - spațiu suplimentar pentru degete"
+  },
+  {
+   "fapt": "velcro",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "benzi velcro pentru încălțarea și descălțarea ușoară"
+  },
+  {
+   "fapt": "Happy Fit",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "branț detașabil cu imprimeu Happy Fit"
+  },
+  {
+   "fapt": "spălare",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "a se spăla în mașina de spălat la 30°C"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "100 % poliester"
+  },
+  {
+   "fapt": "cauciuc",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "100 % cauciuc"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/rantaan-j-2.0/1703629/",
+   "fragment": "200 g"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima RANTAAN J 2.0",
+  "Talpă": "100% cauciuc, drop zero",
+  "Caracteristici": "barefoot, velcro, branț Happy Fit",
+  "Cod produs": "240077"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-9 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul le descrie ca sandale barefoot; pe site sunt la Pantofi."
+ ]
+}

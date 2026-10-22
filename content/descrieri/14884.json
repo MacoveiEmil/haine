@@ -1,0 +1,54 @@
+{
+ "id": 14884,
+ "versiune": "v7",
+ "descriere_html": "<p>Șapca <a href=\"/brand/reima/\">Reima</a> BIITSI somon este un <a href=\"/categorie/unisex-accesorii-caciuli-manusi-accesorii/\">accesoriu unisex</a> de vară, prelungit la spate, astfel încât apără de soare nu doar fața, ci și gâtul. Materialul e ușor și elastic, cu factor de protecție UV 50+.</p><p>Stilul e simplu, ușor de purtat la plajă sau în parc, iar țesătura este din poliester reciclat. Mărimea se alege după circumferința capului.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 100% poliester reciclat.</li><li><strong>Protecție</strong>: UV 50+.</li><li><strong>Cod produs</strong>: 198044.</li></ul><p>Mărimile 48-52 sunt circumferințe ale capului și se potrivesc orientativ copiilor de la 1 an în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/biitsi/1276218/",
+   "fragment": "REIMA BIITSI"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/biitsi/1276218/",
+   "fragment": "Somon"
+  },
+  {
+   "fapt": "prelungită",
+   "url": "www.sportisimo.ro/reima/biitsi/1276218/",
+   "fragment": "este prelungită la spate, astfel protejează și gâtul de razele solare, nu numai fața"
+  },
+  {
+   "fapt": "ușor",
+   "url": "www.sportisimo.ro/reima/biitsi/1276218/",
+   "fragment": "Materialul ușor și elastic dispune de factor de protecție UV"
+  },
+  {
+   "fapt": "UV",
+   "url": "www.sportisimo.ro/reima/biitsi/1276218/",
+   "fragment": "factor de protecție UV 50+"
+  },
+  {
+   "fapt": "stil",
+   "url": "www.sportisimo.ro/reima/biitsi/1276218/",
+   "fragment": "stil simplu"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/reima/biitsi/1276218/",
+   "fragment": "100 % poliester reciclat"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima BIITSI",
+  "Material": "100% poliester reciclat",
+  "Caracteristici": "UV 50+, prelungită la spate",
+  "Cod produs": "198044"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 1 an în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Vârsta calculată automat era nefolositoare (0-0 luni); mărimile sunt circumferințe ale capului."
+ ]
+}
