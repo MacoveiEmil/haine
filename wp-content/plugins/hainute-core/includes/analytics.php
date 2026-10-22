@@ -256,3 +256,35 @@ function hainute_privacy_ga_fix() {
 	wp_update_post( array( 'ID' => $page->ID, 'post_content' => $c ) );
 }
 add_action( 'init', 'hainute_privacy_ga_fix', 21 );
+
+/**
+ * Politica de cookie-uri: aceeași corectură ca la confidențialitate (spunea „nu
+ * folosim Google Analytics"), plus cookie-urile GA4 în tabel. O singură dată în DB.
+ */
+function hainute_cookies_ga_fix() {
+	if ( get_option( 'hainute_cookies_ga_v1' ) || ! add_option( 'hainute_cookies_ga_v1', time(), '', false ) ) {
+		return;
+	}
+	$page = get_page_by_path( 'politica-cookies' );
+	if ( ! $page || false !== strpos( $page->post_content, '<td>_ga</td>' ) ) {
+		return;
+	}
+	$ga_id = defined( 'HAINUTE_GA_ID' ) ? (string) HAINUTE_GA_ID : 'G-7LR8THNFJ4';
+	$c     = $page->post_content;
+	$c     = str_replace(
+		'Nu folosim Google Analytics, Facebook Pixel sau alte servicii de urmărire ale terților.',
+		'Pentru statistici folosim și Google Analytics 4, cu cookie-uri doar dacă ești de acord. Nu folosim Facebook Pixel sau alte servicii de reclame ale terților.',
+		$c
+	);
+	$rows = '<tr><td>_ga</td><td>Statistică, Google Analytics (doar cu acordul tău)</td><td>Pus de Google Analytics ca să deosebească vizitatorii între ei. Nu e folosit pentru reclame.</td><td>până la 2 ani</td></tr>' . "\n"
+		. '<tr><td>_ga_' . esc_html( preg_replace( '/^G-/', '', $ga_id ) ) . '</td><td>Statistică, Google Analytics (doar cu acordul tău)</td><td>Pus de Google Analytics ca să țină evidența vizitei curente.</td><td>până la 2 ani</td></tr>' . "\n";
+	$c = str_replace( '</tbody></table></figure>', $rows . '</tbody></table></figure>', $c );
+	$c = str_replace(
+		'Fără acordul tău nu punem cookie-urile de statistică. Vizitele se numără atunci anonim, fără niciun identificator salvat în browser.',
+		'Fără acordul tău nu punem cookie-urile de statistică, nici pe ale noastre, nici pe cele Google Analytics. Vizitele se numără atunci anonim, fără niciun identificator salvat în browser, iar Google Analytics primește doar semnale anonime despre vizită. Datele nu se folosesc pentru reclame.',
+		$c
+	);
+	$c = preg_replace( '/Ultima actualizare: [^<]+/u', 'Ultima actualizare: 22 octombrie 2026', $c, 1 );
+	wp_update_post( array( 'ID' => $page->ID, 'post_content' => $c ) );
+}
+add_action( 'init', 'hainute_cookies_ga_fix', 22 );

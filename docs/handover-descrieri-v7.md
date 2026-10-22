@@ -36,7 +36,8 @@ Lista completă: `tools/descrieri-claude/probleme-catalog.txt` (127 de rânduri)
 
 ## În așteptare
 
-- Paragraful despre cookie-uri (GA Consent Mode v2): **se scrie doar cu acordul proprietarului.**
+- Paragraful despre cookie-uri (GA Consent Mode v2): **scris pe 22.10.2026, cu acordul proprietarului**
+  (politica de cookie-uri + cea de confidențialitate, din `includes/analytics.php`).
 
 ## Cum continui într-o conversație nouă
 
