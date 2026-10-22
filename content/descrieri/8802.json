@@ -1,0 +1,87 @@
+{
+ "id": 8802,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/pinko/\">Pinko</a> KFGB013 este o <a href=\"/categorie/geci-jachete/\">geacă de iarnă pentru fete</a>, neagră, izolată și căptușită, din poliamidă cu model, fără glugă. E pentru zilele reci, iar poliamida face materialul mai rezistent la purtare.</p><p>Croiala e simplă, cu mâneci și margine finisate cu tăietură curată. Magazinul atrage atenția că mărimile sunt italiene, convertite la cele europene, deci merită verificat tabelul de mărimi înainte.</p><p>Detaliile gecii:</p><ul><li><strong>Închidere</strong>: fermoar.</li><li><strong>Buzunare</strong>: două, laterale, cu fermoar.</li><li><strong>Glugă</strong>: nu are.</li><li><strong>Material</strong>: 100% poliamidă și 100% poliester.</li></ul><p>Fără glugă, pe ger capul se acoperă separat, cu o piesă din <a href=\"/categorie/caciuli-manusi-accesorii/\">căciulile și mănușile pentru fete</a>. Mărimile de pe site, 128-164, sunt pentru copii de pe la 8 până pe la 14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "KFGB013.C.NY023"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "culoarea negru"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "Model izolat cu captuseala"
+  },
+  {
+   "fapt": "material modelat",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "material modelat"
+  },
+  {
+   "fapt": "poliamidă",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "Poliamida asigură o durabilitate mai mare a produsului"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "Gluga: fara gluga"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "Mâneci și marginea inferioară finisate cu tăiere"
+  },
+  {
+   "fapt": "mărimi italiene",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "Dimensiunile disponibile sunt cele ale producatorul italian"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "Două buzunare laterale antiderapante și cu fermoar"
+  },
+  {
+   "fapt": "material 1",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "Material 1: 100% Poliamida"
+  },
+  {
+   "fapt": "material 2",
+   "url": "answear.ro/p/pinko-geaca-copii-culoarea-negru-kfgb013-c-ny023-1644467",
+   "fragment": "Material 2: 100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Pinko KFGB013",
+  "Material": "100% poliamidă, 100% poliester",
+  "Caracteristici": "izolată, căptușită, fără glugă, fermoar, buzunare cu fermoar",
+  "Cod produs": "KFGB013.C.NY023"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/caciuli-manusi-accesorii/",
+  "motiv": "geacă fără glugă"
+ },
+ "varsta_orientativa": "8-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Mărimi italiene convertite la europene (după magazin)."
+ ]
+}

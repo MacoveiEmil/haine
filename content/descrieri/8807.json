@@ -1,0 +1,84 @@
+{
+ "id": 8807,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/lego/\">LEGO</a> 22881 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de schi unisex</a>, matlasată, cu dungi (verde pe site, albastră la magazin), făcută pentru pârtie și pentru iarna de zi cu zi. Izolația sintetică medie ține de cald, iar finisajul DWR și impregnarea apără de umezeală și de ninsoarea ușoară.</p><p>Croiala e regular fit, cu loc pentru un strat gros dedesubt fără ca geaca să stea strâmtă.</p><p>Pentru zăpadă și vânt, geaca are:</p><ul><li><strong>Glugă</strong>: integrată.</li><li><strong>Guler</strong>: înalt.</li><li><strong>Buzunare</strong>: exterioare.</li><li><strong>Material</strong>: 100% poliester, umplutură sintetică ușoară.</li></ul><p>Mărimile 104-164 sunt pentru copii între cam 4 și 14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Geacă de schi pentru copii albastră 22881"
+  },
+  {
+   "fapt": "matlasat",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Construcția matlasată"
+  },
+  {
+   "fapt": "dungi",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Modelul cu dungi"
+  },
+  {
+   "fapt": "pârtie",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "funcționalitatea necesară pe pârtie"
+  },
+  {
+   "fapt": "izolație",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Izolația sintetică medie"
+  },
+  {
+   "fapt": "DWR",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Finisajul hidrofob DWR"
+  },
+  {
+   "fapt": "impregnare",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Impregnarea impermeabilă ajută la protecția împotriva umezelii și a precipitațiilor ușoare de zăpadă"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Croiala regular fit"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Gluga integrată"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Gulerul înalt"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Buzunarele exterioare"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "100% Poliester"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "answear.ro/p/lego-geaca-copii-culoarea-verde-1646016",
+   "fragment": "Umplutura sintetică asigură izolație termică fără a adăuga greutate inutilă"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "LEGO 22881",
+  "Material": "100% poliester, izolație sintetică medie",
+  "Caracteristici": "geacă de schi, DWR, glugă integrată, guler înalt, matlasată",
+  "Cod produs": "22881"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site spune verde; magazinul o descrie ca albastră."
+ ]
+}

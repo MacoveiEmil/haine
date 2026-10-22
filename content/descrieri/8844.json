@@ -1,0 +1,72 @@
+{
+ "id": 8844,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/wheat/\">Wheat</a> 7558-941R sunt <a href=\"/categorie/pantaloni-treninguri/\">pantaloni de ploaie pentru fete</a>, roz, din poliester reciclat impermeabil, cu tratamentul BIONIC-FINISH® ECO. Impermeabilitatea e de 10 000 mm, deci sunt pentru ploaie, bălți și noroi.</p><p>Bretelele sunt reglabile, iar talia se strâmtează cu capse, deci pantalonii se potrivesc și pe un copil slab; picioarele se termină cu manșete elastice, care stau strânse peste cizme.</p><p>Ce declară magazinul:</p><ul><li><strong>Impermeabilitate</strong>: 10 000 mm.</li><li><strong>Respirabilitate</strong>: 8 000 g/m2/24h.</li><li><strong>Material</strong>: 100% poliester reciclat, certificat GRS.</li><li><strong>Bretele</strong>: nedetașabile, reglabile.</li></ul><p>Mărimile 80-128 merg pentru copii de cam 1-8 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "7558-941R GRS"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "culoarea roz"
+  },
+  {
+   "fapt": "impermeabil",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "Model confecționat din material impermeabil"
+  },
+  {
+   "fapt": "BIONIC",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "BIONIC-FINISH® ECO"
+  },
+  {
+   "fapt": "impermeabilitate",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "Impermeabilitate: 10 000 mm"
+  },
+  {
+   "fapt": "bretele",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "Model cu bretele nedetasabile, reglabile"
+  },
+  {
+   "fapt": "talie",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "Talia este ajustabilă cu capse"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "Picioarele sunt finisate cu manșete confortabile, elastice"
+  },
+  {
+   "fapt": "respirabilitate",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "Respirabilitate: 8 000 g/m2/24h"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "100% Poliester reciclat"
+  },
+  {
+   "fapt": "GRS",
+   "url": "answear.ro/p/wheat-pantaloni-copii-culoarea-roz-7558-941r-grs-1731951",
+   "fragment": "GRS (Global Recycle Standard)"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Wheat 7558-941R",
+  "Material": "100% poliester reciclat",
+  "Caracteristici": "impermeabilitate 10 000 mm, bretele reglabile, talie cu capse, manșete elastice",
+  "Cod produs": "7558-941R"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-8 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

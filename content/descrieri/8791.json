@@ -1,17 +1,17 @@
 {
  "id": 8791,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/calvin-klein-jeans/\">Calvin Klein Jeans</a> IB0IB02168 este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă pentru băieți</a> neagră, matlasată, cu izolație sintetică. Fiind un model izolat, cu glugă și guler ridicat, e făcută pentru zilele reci de toamnă și iarnă.</p><ul><li><strong>REPREVE</strong>: fibră fabricată din sticle de plastic reciclate.</li><li><strong>Material</strong>: exterior, căptușeală și umplutură din poliester.</li><li><strong>Glugă și guler</strong>: gluga e detașabilă și se poate scoate, gulerul e ridicat.</li><li><strong>Mâneci</strong>: finisate cu manșetă.</li><li><strong>Închidere</strong>: fermoar.</li><li><strong>Buzunare</strong>: exterioare, cu închidere, ca lucrurile mici să nu cadă.</li></ul><p>Modelul are cinci mărimi între 128 și 176, orientativ pentru copii de 8-16 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/calvin-klein-jeans/\">Calvin Klein Jeans</a> IB0IB02168 este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă de iarnă pentru băieți</a>, neagră, matlasată și izolată cu umplutură sintetică, pentru temperaturile mai reci. Fibra REPREVE din material e făcută din sticle de plastic reciclate.</p><p>Fasonul e drept, iar geaca e lungă, cu mâneci terminate cu manșetă; gulerul ridicat și gluga detașabilă acoperă gâtul și capul când e frig.</p><p>Mai trebuie știut:</p><ul><li><strong>Închidere</strong>: fermoar.</li><li><strong>Buzunare</strong>: exterioare, cu închidere.</li><li><strong>Material</strong>: poliester, cu căptușeală și umplutură din poliester.</li><li><strong>Bandă elastică</strong>: 97% poliester, 3% elastan.</li></ul><p>Geaca se găsește în mărimile 128-176, de obicei pentru copii de 8-16 ani.</p>",
  "surse": [
-  {
-   "fapt": "culoare",
-   "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
-   "fragment": "culoarea negru"
-  },
   {
    "fapt": "cod",
    "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
    "fragment": "IB0IB02168"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
+   "fragment": "culoarea negru"
   },
   {
    "fapt": "izolat",
@@ -19,14 +19,19 @@
    "fragment": "Model izolat"
   },
   {
-   "fapt": "matlasat, izolație sintetică",
+   "fapt": "izolație",
    "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
-   "fragment": "Model matlasat cu izolație sintetica"
+   "fragment": "izolație sintetica"
   },
   {
-   "fapt": "temperaturi reci",
+   "fapt": "matlasat",
    "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
-   "fragment": "confort suplimentar la temperaturi mai reci"
+   "fragment": "Matlasat"
+  },
+  {
+   "fapt": "temperaturi",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
+   "fragment": "temperaturi mai reci"
   },
   {
    "fapt": "REPREVE",
@@ -34,29 +39,19 @@
    "fragment": "Fibra REPREVE este fabricata din sticle de plastic reciclate"
   },
   {
-   "fapt": "material",
+   "fapt": "fason",
    "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
-   "fragment": "Materialul de baza: 100% Poliester"
+   "fragment": "Fason drept"
   },
   {
-   "fapt": "căptușeală",
+   "fapt": "manșetă",
    "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
-   "fragment": "Captuseala: 100% Poliester"
-  },
-  {
-   "fapt": "umplutură",
-   "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
-   "fragment": "Umplutura: 100% Poliester"
+   "fragment": "Manecile finisate cu manseta"
   },
   {
    "fapt": "glugă, guler",
    "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
    "fragment": "Gulerul ridicat și gluga detașabilă"
-  },
-  {
-   "fapt": "mâneci",
-   "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
-   "fragment": "Manecile finisate cu manseta"
   },
   {
    "fapt": "fermoar",
@@ -67,19 +62,26 @@
    "fapt": "buzunare",
    "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
    "fragment": "Buzunare exterioare incheiata"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
+   "fragment": "Materialul de baza: 100% Poliester"
+  },
+  {
+   "fapt": "bandă",
+   "url": "answear.ro/p/calvin-klein-jeans-geaca-copii-culoarea-negru-ib0ib02168-1290449",
+   "fragment": "Banda elastica: 97% Poliester , 3% Elastan"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Calvin Klein Jeans IB0IB02168",
-  "Material": "exterior, căptușeală și umplutură din poliester (fibră REPREVE)",
-  "Caracteristici": "matlasată, izolație sintetică, glugă detașabilă, guler ridicat, manșete, buzunare cu închidere",
+  "Material": "100% poliester, izolație sintetică, fibră REPREVE",
+  "Caracteristici": "matlasată, glugă detașabilă, guler ridicat, fason drept",
   "Cod produs": "IB0IB02168"
  },
  "categorie_complementara": null,
  "varsta_orientativa": "8-16 ani",
  "date_insuficiente": false,
- "confidence_notes": [
-  "Fără paragraf complementar: o geacă obișnuită nu are o legătură reală cu altă categorie.",
-  "Extracția a salvat categoria „imbracaminte-fete”, dar pagina magazinului are breadcrumb Băieți; pe site e la băieți."
- ]
+ "confidence_notes": []
 }

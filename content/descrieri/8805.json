@@ -1,0 +1,79 @@
+{
+ "id": 8805,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> B842HA sunt <a href=\"/categorie/baieti-incaltaminte-pantofi/\">pantofi de iarnă pentru băieți</a>, bleumarin, izolați, din material sintetic și piele naturală, cu sistemul Geox Tex Waterproof, care îi face rezistenți la apă. Sunt pentru copiii mici, pe zăpadă și pe vreme umedă.</p><p>Se închid cu scai, deci se prind repede pe orice picior, iar interiorul combină textilul cu pielea naturală. Magazinul precizează că mărimile sunt italiene, convertite la cele europene.</p><p>Talpa și construcția:</p><ul><li><strong>Geox Respira</strong>: talpă în trei straturi.</li><li><strong>Vârf</strong>: rigidizat.</li><li><strong>Călcâi</strong>: rigidizat la spate.</li><li><strong>Talpă</strong>: stabilă.</li></ul><p>Pe site sunt numerele 24-27, cam pentru 2-4 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "Geox bleumarin B842HA00032"
+  },
+  {
+   "fapt": "iarnă",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "Pantofi de iarna pentru copii"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "Model Izolat"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "combinatia materialului sintetic cu pielea naturala"
+  },
+  {
+   "fapt": "Geox Tex",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "Geox Tex Waterproof"
+  },
+  {
+   "fapt": "scai",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "Incheiere cu scai"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "Interiorul: Material textil, Piele naturala"
+  },
+  {
+   "fapt": "mărimi italiene",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "Dimensiunile disponibile sunt cele ale producatorul italian"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "Varf rigidizat"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "Spatele calcaiului rigidizat"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-pantofi-copii-32169",
+   "fragment": "Talpa stabila"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox B842HA",
+  "Material": "sintetic și piele naturală, interior textil și piele naturală",
+  "Caracteristici": "izolați, Geox Tex Waterproof, Geox Respira, scai",
+  "Cod produs": "B842HA00032"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site nu are culoare; magazinul dă bleumarin."
+ ]
+}
