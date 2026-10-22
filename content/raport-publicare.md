@@ -1,5 +1,17 @@
 # Raport publicare
 
+## 2026-10-22 10:18 (53b03ed, Macovei Emil)
+- PUBLICAT, verificare OK: 8722 86 cuv | OK
+- PUBLICAT, verificare OK: 8731 89 cuv | OK
+- PUBLICAT, verificare OK: 8735 103 cuv | OK
+- PUBLICAT, verificare OK: 8736 95 cuv | OK
+- PUBLICAT, verificare OK: 8740 80 cuv | OK
+- PUBLICAT, verificare OK: 8745 80 cuv | OK
+- PUBLICAT, cu probleme la verificare: 8746 78 cuv | lungime 78 cuvinte (trebuie 80-240)
+- PUBLICAT, verificare OK: 8748 80 cuv | OK
+- PUBLICAT, verificare OK: 8750 89 cuv | OK
+- PUBLICAT, verificare OK: 8754 91 cuv | OK
+
 ## 2026-10-22 10:16 (a9b6469, Macovei Emil)
 - PUBLICAT, verificare OK: 8665 108 cuv | OK
 - PUBLICAT, verificare OK: 8671 111 cuv | OK
