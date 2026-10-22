@@ -8,7 +8,7 @@ RESPIRA = ('Respira', 'talpei in trei straturi cu sistemul de perforari')
 w(10961,
   f'<p>{GEOX} ASSISTER x Superman J65DZA sunt {A("/categorie/baieti-incaltaminte-adidasi/", "adidași pentru băieți")} în culoarea albastru, cu motiv Superman și lumini LED cu buton de pornire și oprire. Partea de sus e din material textil și sintetic, ușoară, iar tehnologia Geox Respira™ ajută la termoreglarea piciorului.</p>'
   '<p>Croiala ajunge până la gleznă, iar șireturile elastice cu scai se strâng repede, deci copilul se încalță singur, fără nod.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Câteva detalii de construcție:</p>'
   + L(('Călcâi', 'ușor întărit.'), ('Căptușeală', 'textilă, moale.'), ('Talpă', 'plată, din cauciuc.'))
   + '<p>Numerele 24-31 sunt pentru copii de 2-7 ani, de regulă.</p>',
   [('model', 'Geox ASSISTER x Superman sneakers pentru copii albastru J65DZA.02ABC'), ('LED', 'Luminile LED integrate, cu buton de pornire/oprire'),
@@ -31,7 +31,7 @@ w(10965,
 w(10973,
   f'<p>Geaca {TH} KB0KB09815 este o {A("/categorie/baieti-imbracaminte-geci-jachete/", "geacă de puf pentru băieți")}, bej, matlasată, izolată cu puf de rață și pene (70/30), din material neted, cu sigla brandului. E pentru zilele reci de iarnă, iar gluga apără capul.</p>'
   '<p>Croiala e lejeră, deci încape un pulover gros dedesubt, iar mânecile se termină cu bandă elastică, care strânge la încheieturi.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Pentru zi de zi, are:</p>'
   + L(('Închidere', 'fermoar.'), ('Buzunare', 'oblice.'), ('Material', '100% poliester; umplutură 70% puf, 30% pene.'))
   + '<p>Mărimile 128-176 sunt pentru copii de 8-16 ani, cu aproximație.</p>',
   [('model', 'Tommy Hilfiger Geacă de puf pentru copii culoarea bej, KB0KB09815'), ('matlasat', 'Matlasat'), ('puf', '70% Duck Down, 30% Pene'), ('neted', 'Material neted'),
@@ -43,7 +43,7 @@ w(10973,
 w(10977,
   f'<p>{GEOX} NASHIK B465NC sunt {A("/categorie/bebe-incaltaminte-adidasi/", "adidași pentru bebeluși")} bej, din piele naturală, piele întoarsă și material textil, în stil casual. Membrana Geox Respira™ din talpă scoate umezeala și protejează în același timp împotriva apei.</p>'
   '<p>Aricii permit încălțatul rapid și o ajustare ușoară. Branțul detașabil din piele are imprimeu pentru verificarea mărimii, deci se vede când piciorul a crescut.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Înăuntru și dedesubt, contează:</p>'
   + L(('Călcâi', 'întărit.'), ('Interior', 'piele naturală și material textil.'), ('Talpă', 'plată, din cauciuc.'))
   + '<p>Numerele 20-23 sunt pentru cei mici de în jur de 1-3 ani.</p>',
   [('model', 'Geox NASHIK sneakers pentru copii din piele bej B465NC.0CL22'), ('material', 'Partea superioară din combinație de piele naturală, piele întoarsă și material textil'),
@@ -55,7 +55,7 @@ w(10977,
 w(10994,
   f'<p>{GEOX} LIGHTYLOO x Looney Tunes B655ZB sunt {A("/categorie/bebe-incaltaminte-adidasi/", "adidași pentru bebeluși")} bleumarin, ușori, cu profil scurt, din material textil și sintetic, pentru purtat zilnic. Talpa are sistemul Geox Respira, în trei straturi cu perforări.</p>'
   '<p>Velcro-ul se închide repede și strânge pantoful pe picior, deci încălțatul durează puțin. Branțul textil se ține ușor curat.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Materialele și talpa, pe rând:</p>'
   + L(('Partea de sus', 'material textil și sintetic.'), ('Interior', 'material sintetic și textil.'), ('Talpă exterioară', 'din cauciuc, rezistentă la uzură.'))
   + '<p>Numerele 18-27 se potrivesc celor mici de 1-4 ani, în general.</p>',
   [('model', 'Geox Sneakers pentru copii LIGHTYLOO x Looney Tunes B655ZB.05411'), ('ușor', 'Model ușor'), ('profil', 'Înălțime: mic de statură'),
@@ -80,7 +80,7 @@ w(10998,
 w(11009,
   f'<p>Pantofii {A("/brand/wheat/", "Wheat")} WF622-02 sunt {A("/categorie/bebe-incaltaminte-pantofi/", "pantofi pentru bebeluși")} portocalii, din piele întoarsă cu imprimeu floral, pentru ținutele lejere de vară. Interiorul și branțul sunt din piele tăbăcită fără crom și metale.</p>'
   '<p>Scaiul permite încălțatul și descălțatul rapid, iar contrafortul ușor rigidizat ține piciorul în pantof. Vârful e ranforsat și își păstrează forma.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce mai are, de la vârf la călcâi:</p>'
   + L(('Partea de sus', 'piele întoarsă.'), ('Interior și branț', 'piele naturală fără crom.'), ('Talpă', 'din cauciuc rezistent.'))
   + '<p>Numerele 21-26 sunt pentru copii de 1-4 ani, aproximativ.</p>',
   [('model', 'Wheat Pantofi pentru copii din piele întoarsă portocalii WF622-02'), ('piele întoarsă', 'Partea superioară din piele întoarsă'), ('floral', 'Imprimeu floral fermecător'),
@@ -92,7 +92,7 @@ w(11009,
 w(11010,
   f'<p>Geaca {A("/brand/ea7-emporio-armani/", "EA7 Emporio Armani")} 8NFB08 FNF8Z este o {A("/categorie/geci-jachete/", "geacă matlasată pentru fete")}, neagră, ușor izolată cu umplutură sintetică, din țesătură durabilă, pentru zilele reci de iarnă și de tranziție.</p>'
   '<p>Croiala e regulară, cu lungimea până la șolduri, iar căptușeala completă o face ușor de purtat peste alte straturi. Gluga se detașează când vremea se încălzește.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Mai sunt câteva detalii:</p>'
   + L(('Închidere', 'fermoar pe toată lungimea.'), ('Buzunare', 'laterale.'), ('Material', '100% poliester.'))
   + '<p>Mărimile 140-170 sunt pentru copii de 10-15 ani, de obicei.</p>',
   [('model', 'EA7 Emporio Armani Geacă petrecută pentru copii neagră 8NFB08 FNF8Z'), ('matlasat', 'structură matlasată'), ('izolat', 'Izolare: usor izolat'),
@@ -104,7 +104,7 @@ w(11010,
 w(11015,
   f'<p>Pantofii {GEOX} STEPPIEUP Barefoot B4663A sunt {A("/categorie/bebe-incaltaminte-pantofi/", "pantofi barefoot pentru bebeluși")}, maro, din piele naturală, cu interior și branț din piele. Stilul barefoot lasă piciorul să se așeze natural, iar tehnologia Geox Respira™ scoate umiditatea.</p>'
   '<p>Vârful e lat și moale, deci degetele stau liber și pantoful merge și la un picior mai lat. Aricii permit încălțatul rapid și ajustarea pe picior.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Pentru purtat zilnic, contează și:</p>'
   + L(('Partea de sus', 'piele naturală.'), ('Interior și branț', 'piele naturală.'), ('Talpă', 'din cauciuc, flexibilă.'))
   + '<p>Numerele 20-27 sunt pentru copii de în jur de 1-4 ani.</p>',
   [('model', 'Geox Pantofi pentru copii din piele STEPPIEUP Barefoot maro B4663A.000AK'), ('piele', 'Partea superioară din piele naturală'), ('interior', 'Interior din piele naturală'),

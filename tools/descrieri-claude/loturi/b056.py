@@ -18,7 +18,7 @@ w(11389,
 w(11390,
   f'<p>Geaca {TH} KS0KS00775 este o {A("/categorie/baieti-imbracaminte-geci-jachete/", "geacă de tranziție pentru băieți")}, bleumarin, ușoară, fără izolație termică, cu căptușeală completă, pentru vremea schimbătoare. Gluga integrată apără de vânt și ploaie ușoară, iar gulerul ridicat apără gâtul.</p>'
   '<p>Croiala e regulară, cu lungimea până la șolduri, iar manșetele cu nervuri strâng la încheieturi.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Mai sunt câteva detalii:</p>'
   + L(('Închidere', 'fermoar și capse.'), ('Buzunare', 'laterale, slip-on și cu clapă.'), ('Material', '100% poliester.'))
   + '<p>Mărimile 80-122 sunt pentru copii de în jur de 1-7 ani.</p>',
   [('model', 'Tommy Hilfiger Geacă de tranziție pentru copii bleumarin KS0KS00775'), ('neizolat', 'Fără izolație termică permite purtarea în perioadele de tranziție'),
@@ -30,7 +30,7 @@ w(11390,
 w(11395,
   f'<p>{A("/brand/liewood/", "Liewood")} Jesse Cat Thermo Rainboot LW20370 sunt {A("/categorie/unisex-incaltaminte-ghete-cizme/", "cizme de ploaie unisex")}, portocalii, izolate, din masă plastică mată, cu modele. Sunt făcute pentru zilele ude și reci, iar interiorul e textil.</p>'
   '<p>Bucla de la spate ajută copilul să tragă cizma pe picior și să o scoată singur. Talpa exterioară din cauciuc rezistă la uzură.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Pe dinăuntru și pe dinafară:</p>'
   + L(('Partea de sus', 'material sintetic, finisaj mat.'), ('Interior', 'material textil.'), ('Talpă', 'din cauciuc.'))
   + '<p>Numerele 22-29 sunt pentru copii de 1-5 ani, de regulă.</p>',
   [('model', 'Liewood Cizme copii Jesse Cat Thermo Rainboot culoarea portocaliu, LW20370'), ('izolat', 'Model izolat'), ('plastic', 'masa plastica mat, cu modele'),
@@ -42,7 +42,7 @@ w(11395,
 w(11408,
   f'<p>{A("/brand/konges-slojd/", "Konges Sløjd")} ISA CARDIGAN KS103829 este o {A("/categorie/unisex-imbracaminte-bluze-tricouri-hanorace/", "bluză cardigan unisex")}, portocalie, uni, din tricot ajurat subțire, jumătate lână, jumătate poliamidă. Poliamida îl face mai rezistent la purtat des.</p>'
   '<p>Croiala e simplă, dreaptă, iar mânecile raglan lasă brațele să se miște liber. Se închide cu nasturi, deci se pune și se dă jos ușor.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Construcția, în câteva puncte:</p>'
   + L(('Material', '50% poliamidă, 50% lână.'), ('Tricot', 'ajurat, subțire.'), ('Închidere', 'nasturi.'))
   + '<p>Mărimile 92 până la 122-128 sunt pentru copii de în jur de 2-8 ani.</p>',
   [('model', 'Konges Sløjd Cardigan de lână pentru copii ISA CARDIGAN culoarea portocaliu, light, KS103829'), ('uni', 'Model: uni'), ('ajurat', 'tricot ajurat'),
@@ -53,7 +53,7 @@ w(11408,
 w(11416,
   f'<p>Rochia {TH} KG0KG09264 este o {A("/categorie/rochii-fuste/", "rochie din denim pentru fete")}, bej, cu imprimeu, scurtă (mini), din bumbac 100% aerisit, pentru anotimpurile mai calde. Are bretele reglabile și decolteu în V.</p>'
   '<p>Croiala e dreaptă, simplă, iar bretelele se strâng sau se lungesc după înălțimea copilului. Nu e căptușită, deci rămâne ușoară, iar vara se poartă singură, peste un tricou sau direct.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Elementele practice:</p>'
   + L(('Închidere', 'nasturi.'), ('Lungime', 'mini.'), ('Material', '100% bumbac (denim).'))
   + '<p>Mărimile 128-176 sunt pentru copii de 8-16 ani, aproximativ.</p>',
   [('model', 'Tommy Hilfiger Rochie din denim pentru copii culoarea bej, mini, drept, KG0KG09264'), ('imprimeu', 'Model: imprimeu'), ('mini', 'Lungime: mini'), ('bumbac', '100% Bumbac'),
@@ -64,7 +64,7 @@ w(11416,
 w(11417,
   f'<p>{A("/brand/adidas-originals/", "adidas Originals")} KQ8906 este o {A("/categorie/unisex-imbracaminte-geci-jachete/", "geacă bomber din denim unisex")}, neagră, uni, cu efect prespălat și logo discret, din denim de bumbac, fără izolație și fără căptușeală. E pentru zilele mai călduroase de tranziție.</p>'
   '<p>Croiala e lejeră, supradimensionată, cu mâneci raglan și lungimea până la șolduri. Tivul și manșetele cu bordură elastică strâng bomberul pe corp, ca să nu stea larg la încheieturi.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce mai are, pe lângă croială:</p>'
   + L(('Închidere', 'fermoar.'), ('Guler', 'ridicat.'), ('Material', '100% bumbac.'))
   + '<p>Mărimile 104-128 sunt pentru copii de 4-8 ani, în mare.</p>',
   [('model', 'adidas Originals Geacă bomber pentru copii din denim neagră KQ8906'), ('uni', 'Modelul uni cu efect prespălat'), ('logo', 'un logo subtil al brandului'),
@@ -76,7 +76,7 @@ w(11417,
 w(11428,
   f'<p>{TH} KB0KB10506 este un {A("/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/", "hanorac pentru băieți")}, bleumarin, cu imprimeu expresiv, fără închidere, din tricot moale și subțire de bumbac 100%, elastic. Stilul e casual și streetwear.</p>'
   '<p>Croiala e regulară, iar bordurile elastice de la bază și manșete strâng ușor pe corp. Decolteul rotund are bordură elastică, deci hanoracul se trage ușor peste cap.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Detaliile de închidere și material:</p>'
   + L(('Material', '100% bumbac.'), ('Decolteu', 'rotund, cu bordură elastică.'), ('Închidere', 'nu are, se îmbracă peste cap.'))
   + '<p>Mărimile 104-122 sunt pentru copii de 4-7 ani, de regulă.</p>',
   [('model', 'Tommy Hilfiger Hanorac pentru copii, din bumbac bleumarin KB0KB10506'), ('imprimeu', 'Imprimeu expresiv'), ('fără închidere', 'Construcție fără închidere'),
@@ -87,7 +87,7 @@ w(11428,
 w(11439,
   f'<p>Cămașa {TH} KB0KB09554 este o {A("/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/", "cămașă cu mânecă scurtă pentru băieți")}, albastră, din bumbac natural cu puțin elastan, cu guler clasic tip kent. Mâneca scurtă o face bună pentru zilele mai calde.</p>'
   '<p>Croiala e regulară, iar elastanul o lasă să se miște cu copilul. Se închide cu nasturi și se poartă casual, singură sau peste un tricou.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Câteva detalii practice:</p>'
   + L(('Guler', 'kent, clasic.'), ('Material', '97% bumbac, 3% elastan.'), ('Închidere', 'nasturi.'))
   + '<p>Mărimile 128-176 sunt pentru copii de 8-16 ani, în general.</p>',
   [('model', 'Tommy Hilfiger Cămașă pentru copii, din bumbac albastră KB0KB09554'), ('bumbac', 'Confecționată din bumbac natural'), ('material', '97% Bumbac, 3% Elastan'),
@@ -98,7 +98,7 @@ w(11439,
 w(11457,
   f'<p>Papucii {A("/brand/ugg/", "UGG")} T TASMAN II 1019066T sunt {A("/categorie/unisex-incaltaminte-papuci/", "papuci unisex")} negri, slip-on, din piele întoarsă cu material textil, cu interior și branț din UGGplush™ (lână și TENCEL™ Lyocell), care țin piciorul cald. Merg și prin casă, și la ieșiri scurte afară.</p>'
   '<p>Construcția slip-on îi face ușor de încălțat și de scos, iar vârful e închis și apără degetele la joacă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Construcția, în câteva puncte:</p>'
   + L(('Talpă', 'din spumă EVA din trestie de zahăr, ușoară.'), ('Guler', 'cu proprietăți anti-miros.'), ('Detaliu', 'împletitură UGG din fibre reciclate.'))
   + '<p>Numerele 21-30 sunt pentru copii de 1-7 ani, cu aproximație.</p>',
   [('model', 'UGG Papuci copii piele întoarsă T TASMAN II negri 1019066T'), ('slip-on', 'Construcție de tip slip-on'), ('material', 'Partea superioară din piele întoarsă cu material textil'),
@@ -110,7 +110,7 @@ w(11457,
 w(11476,
   f'<p>Pantalonii de trening {TH} KB0KB10593 sunt {A("/categorie/baieti-imbracaminte-pantaloni-treninguri/", "pantaloni de trening pentru băieți")}, albi, din bumbac 100% elastic, cu broderii discrete. Se poartă casual și streetwear, la joacă și la ieșiri.</p>'
   '<p>Croiala e regulară, iar talia normală are bandă elastică și șnur, deci se strânge pe un copil mai slab, fără curea.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Restul detaliilor:</p>'
   + L(('Buzunare', 'laterale și unul la spate.'), ('Material', '100% bumbac.'), ('Detalii', 'broderii Tommy Hilfiger.'))
   + '<p>Mărimile 128-176 sunt pentru copii de în jur de 8-16 ani.</p>',
   [('model', 'Tommy Hilfiger Pantaloni de trening pentru copii, din bumbac albi regular waist KB0KB10593'), ('bumbac', 'Confecționați din bumbac 100%'), ('elastic', 'Material elastic'),

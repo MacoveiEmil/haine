@@ -58,7 +58,7 @@ w(9839,
 w(9847,
   f'<p>{A("/brand/mayoral/", "Mayoral")} 2439 este o {A("/categorie/bebe-imbracaminte-geci-jachete/", "geacă reversibilă pentru bebeluși")}, roz, cu o față matlasată, în stil sportiv, și una din imitație de blană moale. Izolația sintetică medie o face bună pentru zilele reci de tranziție și iernile blânde.</p>'
   '<p>Croiala e regulară, cu lungimea până la șolduri, deci nu încurcă la joacă. Gluga integrată apără capul de vânt și frig, iar fermoarul se trage repede la îmbrăcat.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce mai are, pe lângă croială:</p>'
   + L(('Fețe', 'matlasată și din imitație de blană.'), ('Izolație', 'sintetică, medie.'), ('Material', '100% poliamidă.'))
   + '<p>Mărimile 74-104 sunt pentru cei mici, de la cam 9 luni până la 4 ani.</p>',
   [('model', 'Mayoral Jachetă reversibilă pentru copii roz 2439'), ('reversibil', 'Designul reversibil permite purtarea jachetei în două moduri'),

@@ -106,7 +106,7 @@ w(10007,
 w(10013,
   f'<p>Pantofii {A("/brand/wheat/", "Wheat")} WF626-02 sunt {A("/categorie/incaltaminte-pantofi/", "pantofi casual pentru fete")}, roz, ușori, din pânză imprimată cu model floral, pentru primăvară și vară. Interiorul e din bumbac imprimat, iar branțul moale din latex e acoperit cu piele fără crom.</p>'
   '<p>Velcro-ul se închide repede și se reglează pe picior, iar vârful rotund, întărit, lasă degetele să se miște. Contrafortul și gulerul sunt ușor rigidizate.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Restul construcției arată așa:</p>'
   + L(('Partea de sus', 'pânză (material textil).'), ('Interior', 'bumbac imprimat.'), ('Talpă', 'din cauciuc, flexibilă.'))
   + '<p>Mărimile 21-28 sunt pentru copii de în jur de 1-5 ani.</p>',
   [('model', 'Wheat Pantofi pentru copii roz WF626-02'), ('ușor', 'încălțăminte ușoară'), ('pânză', 'Partea superioară din pânză imprimată'), ('floral', 'model floral delicat'),

@@ -7,7 +7,7 @@ KS = A('/brand/konges-slojd/', 'Konges Sløjd')
 w(10903,
   f'<p>{GEOX} MACCHIA B164PC sunt {A("/categorie/bebe-incaltaminte-pantofi/", "pantofi pentru bebeluși")} roz, din piele întoarsă, cu interior și branț din piele naturală. Talpa patentată Geox Respira™ scoate umezeala, iar sistemele Softly Cushioned și Flexy fac talpa moale și flexibilă.</p>'
   '<p>Aricii permit încălțatul și descălțatul rapid, chiar de către copil, iar banda se strânge după piciorul lui.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Din ce e făcută încălțămintea:</p>'
   + L(('Partea de sus', 'piele întoarsă.'), ('Interior și branț', 'piele naturală.'), ('Talpă', 'din cauciuc.'))
   + '<p>Numerele 18-26 se potrivesc copiilor de 1-4 ani, de obicei.</p>',
   [('model', 'Geox Încălțăminte pentru copii din piele întoarsă MACCHIA roz B164PC.0BSNF'), ('piele întoarsă', 'Partea superioară din piele întoarsă'),
@@ -19,7 +19,7 @@ w(10903,
 w(10905,
   f'<p>{KS} JAZZ TEDDY JACKET KS104861 este o {A("/categorie/unisex-imbracaminte-geci-jachete/", "geacă din fleece unisex")}, bej, neizolată și necăptușită, cu broderie decorativă. E un strat moale, de purtat pe vreme blândă sau sub o geacă mai groasă.</p>'.replace(' sau sub o geacă mai groasă', '')
   + '<p>Croiala e simplă, dreaptă, iar mânecile raglan lasă brațele să se miște liber. Se închide cu fermoar și nu are glugă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Restul detaliilor:</p>'
   + L(('Material', 'fleece, 100% poliester.'), ('Închidere', 'fermoar.'), ('Detalii', 'broderie decorativă.'))
   + '<p>Mărimile 74 până la 134-140 sunt pentru copii de la aproximativ 9 luni la 10 ani.</p>',
   [('model', 'Konges Sløjd Geacă copii JAZZ TEDDY JACKET GRS culoarea bej, KS104861'), ('fleece', 'Model neizolat confecționat din material fleece'), ('necăptușit', 'Captuseala: necaptusit'),
@@ -53,7 +53,7 @@ w(10915,
 w(10940,
   f'<p>Blugii {A("/brand/tommy-hilfiger/", "Tommy Hilfiger")} BARREL KB0KB10461 sunt {A("/categorie/baieti-imbracaminte-pantaloni-treninguri/", "blugi barrel pentru băieți")}, negri, cu efect prespălat, din bumbac și lyocell, neelastici. Croiala barrel leg e lejeră, rotunjită pe picior, cu aspect modern.</p>'
   '<p>Talia e înaltă și stă stabil la joacă, iar fermoarul cu nasture se închide ușor, chiar și de către copil.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Material și închidere, pe rând:</p>'
   + L(('Buzunare', 'oblice, în față și în spate.'), ('Material', '75% bumbac, 25% lyocell.'), ('Finisaj', 'prespălat.'))
   + '<p>Mărimile 128-176 sunt pentru copii de 8-16 ani, de regulă.</p>',
   [('model', 'Tommy Hilfiger Blugi barrel pentru copii BARREL negri KB0KB10461'), ('barrel', 'Croiala lejeră barrel leg'), ('prespălat', 'Finisaj cu efect prespălat'),
@@ -64,7 +64,7 @@ w(10940,
 w(10943,
   f'<p>{A("/brand/reima/", "Reima")} Proxima 5100099B sunt {A("/categorie/unisex-imbracaminte-pantaloni-treninguri/", "pantaloni de schi unisex")}, roz, pentru sporturi de iarnă, cu impermeabilitate de 10 000 mm și cusături sudate care opresc vântul și umezeala. Materialul rezistă și la murdărie.</p>'
   '<p>Bretelele se detașează și sunt reglabile, deci pantalonii se potrivesc pe un copil slab și stau sus în zăpadă. Croiala e simplă, dreaptă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce merită știut în plus:</p>'
   + L(('Închidere', 'fermoar.'), ('Respirabilitate', '7 000 g/m2/24h.'), ('Material', '100% poliester reciclat, Bluesign®.'), ('Finisaj', 'BIONIC-FINISH® ECO.'))
   + '<p>Mărimile 92-164 se potrivesc copiilor de 2-14 ani, în general.</p>',
   [('model', 'Reima Proxima roz 5100099B'), ('schi', 'Pantaloni de schi copii'), ('iarnă', 'Tip de activitate: Sporturi de iarnă'), ('impermeabil', 'Impermeabilitate: 10 000 mm/m2/24h'),
@@ -77,7 +77,7 @@ w(10943,
 w(10947,
   f'<p>{GEOX} CIUFCIUF Looney Tunes B665QA sunt {A("/categorie/bebe-incaltaminte-adidasi/", "adidași pentru bebeluși")} roz, cu logo și licență, din piele întoarsă, material textil și sintetic. Membrana microporoasă Geox Respira™ din talpă scoate umezeala și ține apa afară.</p>'
   '<p>Aricii permit încălțatul și descălțatul rapid, de către copil, iar branțurile textile se scot, pentru curățat sau verificat mărimea.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Restul construcției arată așa:</p>'
   + L(('Talpă', 'plată, din spumă, ușoară.'), ('Călcâi', 'ușor întărit.'), ('Interior', 'căptușit cu material textil.'))
   + '<p>Numerele 20-27 sunt pentru cei mici de aproximativ 1-4 ani.</p>',
   [('model', 'Geox CIUFCIUF Looney Tunes sneakers pentru copii roz B665QA.05422'), ('logo', 'Model cu logo și licență'), ('material', 'Piele întoarsă, Material textil, Material sintetic'),
@@ -105,7 +105,7 @@ w(10955,
 w(10958,
   f'<p>{KS} LUC OVERALLS GOTS KS104956 este o {A("/categorie/unisex-imbracaminte-salopete-compleuri/", "salopetă cu bretele unisex")}, albastră, cu imprimeu, din bumbac organic certificat GOTS, în stil casual. Se poartă peste un body sau un tricou.</p>'
   '<p>Croiala e simplă, dreaptă, iar bretelele țin salopeta pe umeri. Se închide cu nasturi, care se desfac ușor când copilul trebuie schimbat.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Alte detalii utile:</p>'
   + L(('Închidere', 'nasturi.'), ('Buzunar', 'în față.'), ('Material', '100% bumbac organic.'))
   + '<p>Mărimile 74-116 sunt pentru copii mici, de cam 9 luni până la 6 ani.</p>',
   [('model', 'Konges Sløjd Salopetă copii LUC OVERALLS GOTS cu imprimeu, KS104956'), ('organic', 'bumbac organic certificat'), ('material', '100% Bumbac organic'),
@@ -117,7 +117,7 @@ w(10958,
 w(10960,
   f'<p>{A("/brand/columbia/", "Columbia")} Helvetia 2087831 este un {A("/categorie/unisex-imbracaminte-bluze-tricouri-hanorace/", "hanorac polar unisex")} albastru, uni, din polar moale de poliester, care ține de cald în zilele mai reci, cu o aplicație decorativă. E făcut pentru joacă și activități în aer liber.</p>'
   '<p>Croiala e regulară, iar materialul neelastic își păstrează forma. Benzile elastice de la manșete și bază strâng hanoracul pe corp, iar decolteul cu închidere se deschide când copilul se încălzește.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>La purtat, contează și:</p>'
   + L(('Material', '100% poliester, polar.'), ('Căptușeală', 'nu are.'), ('Decolteu', 'cu închidere.'))
   + '<p>Mărimile 104-164 sunt pentru copii de 4-14 ani, aproximativ.</p>',
   [('model', 'Columbia Hanorac pentru copii din polar Helvetia albastru 2087831'), ('uni', 'Modelul uni'), ('polar', 'Confecționat din polar moale , care ajută la menținerea căldurii în zilele mai reci'),

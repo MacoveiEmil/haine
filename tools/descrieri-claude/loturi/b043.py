@@ -33,7 +33,7 @@ w(10542,
 w(10543,
   f'<p>{A("/brand/donsje/", "Donsje")} 3048502 este o {A("/categorie/unisex-imbracaminte-geci-jachete/", "geacă bomber unisex")}, bleumarin, ușoară, din bumbac și poliester, fără izolație termică, cu aplicații și broderii decorative. E pentru vremea schimbătoare din sezonul de tranziție.</p>'
   '<p>Croiala e regulară, cu lungimea până la șolduri, iar bordurile elastice de la bază și manșete strâng bomberul pe corp. Fără izolație, se poartă ușor peste alte straturi.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Pentru zi de zi, are:</p>'
   + L(('Închidere', 'capse.'), ('Buzunare', 'laterale.'), ('Căptușeală', 'parțială, din bumbac.'), ('Material', '57% bumbac, 43% poliester.'))
   + '<p>Mărimile 98-140 sunt pentru copii de în jur de 3-10 ani.</p>',
   [('model', 'Donsje Geacă bomber pentru copii cu bumbac bleumarin 3048502'), ('ușor', 'Construcția ușoară'), ('neizolat', 'Fără izolație termică permite stratificarea liberă a hainelor'),
@@ -45,7 +45,7 @@ w(10543,
 w(10547,
   f'<p>{GEOX} GISLI Hello Kitty B661MC sunt {A("/categorie/bebe-incaltaminte-adidasi/", "adidași pentru bebeluși")} roz, cu profil înalt și imprimeu Hello Kitty, din imitație de piele și material textil, ușor de întreținut. Membrana Geox Respira™ scoate umezeala spre exterior.</p>'
   '<p>Aricii îl lasă pe copil să se încalțe singur, iar gulerul ușor întărit cuprinde glezna. Branțurile se scot, pentru curățat sau pentru verificat mărimea.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Detaliile de material și talpă:</p>'
   + L(('Călcâi', 'întărit.'), ('Interior', 'piele naturală și material textil.'), ('Talpă', 'din cauciuc.'))
   + '<p>Numerele 20-27 se poartă cam între 1 și 4 ani.</p>',
   [('model', 'Geox GISLI Hello Kitty sneakers pentru copii roz B661MC.05402'), ('profil', 'sneakerși cu profil înalt'), ('Hello Kitty', 'Imprimeul adorabil Hello Kitty'),
@@ -81,7 +81,7 @@ w(10563,
 w(10572,
   f'<p>{TH} KG0KG09265 este o {A("/categorie/bluze-tricouri-hanorace/", "cămașă din denim pentru fete")}, albastră, cu mânecă lungă, din denim cu 1% elastan, în stil casual. Se închide cu capse, iar la piept are un buzunar cu fermoar.</p>'
   '<p>Fasonul e oversize, cu linia umerilor lăsată, deci cămașa stă larg și se poate purta și deschisă, peste un tricou. Manșetele se încheie cu nasturi.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Mai sunt câteva detalii:</p>'
   + L(('Închidere', 'capse.'), ('Buzunar', 'la piept, cu fermoar.'), ('Material', '99% bumbac, 1% elastan.'))
   + '<p>Mărimile 128-176 sunt pentru copii de cam 8-16 ani.</p>',
   [('model', 'Tommy Hilfiger Cămașă din denim pentru copii KG0KG09265'), ('denim', 'confecționat din denim'), ('mânecă', 'Maneca: lung'), ('casual', 'Ocazie: casual'),
@@ -93,7 +93,7 @@ w(10572,
 w(10576,
   f'<p>Cardiganul {TH} KG0KG09503 este o {A("/categorie/bluze-tricouri-hanorace/", "bluză cardigan pentru fete")}, albă, uni, din bumbac 100% tricotat elastic, subțire, cu nasturi și decolteu rotund. E ușor, pentru sezoanele de tranziție și zilele mai reci.</p>'
   '<p>Croiala e relaxată, cu mâneca lungă și umerii coborâți, deci stă lejer și se poartă peste o rochie sau un tricou fără să strângă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Construcția, în câteva puncte:</p>'
   + L(('Închidere', 'nasturi.'), ('Material', '100% bumbac, tricot subțire.'), ('Decolteu', 'rotund.'))
   + '<p>Mărimile 116-176 sunt pentru copii de aproximativ 6-16 ani.</p>',
   [('model', 'Tommy Hilfiger Cardigan pentru copii din bumbac alb KG0KG09503'), ('uni', 'Modelul uni'), ('bumbac', 'Confecționat 100% din bumbac'),
@@ -105,7 +105,7 @@ w(10576,
 w(10578,
   f'<p>{A("/brand/reima/", "Reima")} Rantaan 5400067C sunt {A("/categorie/unisex-incaltaminte-sandale/", "sandale sport unisex")}, roz, ușoare, cu partea de sus din material textil, pentru jocurile și activitățile de vară în aer liber. Construcția sandalei susține postura naturală a piciorului.</p>'
   '<p>Calapodul e pentru o lățime standard a piciorului, dar cu spațiu suplimentar la degete. Branțurile detașabile Happy Fit ajută la alegerea mărimii, iar velcro-ul se ajustează repede.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Din ce e făcută încălțămintea:</p>'
   + L(('Talpă', 'flexibilă, din cauciuc.'), ('Interior', 'căptușit cu material textil.'), ('Închidere', 'velcro.'))
   + '<p>Numerele 22-40 acoperă copiii de la aproximativ 1 an în sus.</p>',
   [('model', 'Reima Sandale sport pentru copii Rantaan roz 5400067C'), ('sport', 'Sandale sport pentru copii'), ('ușor', 'încălțăminte ușoară'),

@@ -71,7 +71,7 @@ w(10116,
 w(10118,
   f'<p>Pantofii {PRIMIGI} PTR 24112 sunt {A("/categorie/unisex-incaltaminte-pantofi/", "pantofi unisex")} bleumarin, din piele nubuc, cu interior și branț din piele naturală, în stil casual, pentru purtat zi de zi. Tehnologia Primigi × SIPeP a fost creată împreună cu podologi italieni.</p>'
   '<p>Vârful e lat și moale, de tip barefoot, și lasă degetele să se miște liber, deci pantoful vine bine și pe un picior mai lat. Aricii permit încălțatul fără ajutor, iar călcâiul moale nu strânge.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Câteva detalii de construcție:</p>'
   + L(('Partea de sus', 'piele nubuc.'), ('Interior și branț', 'piele naturală.'), ('Talpă', 'din cauciuc, flexibilă.'))
   + '<p>Numerele 20-29 sunt, în general, pentru copii de 1-5 ani.</p>',
   [('model', 'Primigi Pantofi pentru copii din nubuck bleumarin PTR 24112'), ('nubuc', 'Partea superioară din piele nubuc'), ('interior', 'Interior din piele naturală'),

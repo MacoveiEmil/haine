@@ -8,7 +8,7 @@ TH = A('/brand/tommy-hilfiger/', 'Tommy Hilfiger')
 w(10777,
   f'<p>{PRIMIGI} PSNGT 23500 sunt {A("/categorie/bebe-incaltaminte-ghete-cizme/", "cizme de zăpadă pentru bebeluși")}, bej, cu motiv animal, din piele întoarsă și material textil. Membrana GORE-TEX® ține picioarele uscate, deci sunt pentru jocurile de iarnă în zăpadă.</p>'
   '<p>Aricii permit încălțatul și descălțatul ușor, iar partea de sus se potrivește flexibil pe picior. Vârful rigidizat apără degetele, iar călcâiul întărit ține piciorul stabil.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Mai sunt câteva lucruri de știut:</p>'
   + L(('Shock Absorber', 'tehnologie în talpă care reduce șocurile.'), ('Primigi × SIPeP', 'pentru dezvoltarea corectă a piciorului.'), ('Interior', 'material textil.'))
   + '<p>Numerele 19-24 sunt pentru cei mici de 1-3 ani, de regulă.</p>',
   [('model', 'Primigi Cizme de zăpadă pentru copii bej PSNGT 23500'), ('motiv', 'Modelul cu motiv animal'), ('material', 'Partea superioară din piele întoarsă și material textil'),
@@ -21,7 +21,7 @@ w(10777,
 w(10783,
   f'<p>{A("/brand/guess/", "Guess")} J6YL18 D1169 este o {A("/categorie/geci-jachete/", "geacă de blugi pentru fete")}, albastră, din denim de bumbac 100% cu efect prespălat, decorată cu pietre de paiete. Fără căptușeală, e ușoară, pentru zilele mai calde de tranziție.</p>'
   '<p>Croiala e relaxed fit, cu umerii coborâți pe mânecă, deci stă lejer și încape o bluză dedesubt. Gulerul e clasic.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>La purtat, contează și:</p>'
   + L(('Închidere', 'nasturi.'), ('Buzunare', 'în față, tip slip-on.'), ('Material', '100% bumbac.'))
   + '<p>Mărimile 122-125 până la 167 sunt pentru copii de 7-14 ani, în general.</p>',
   [('model', 'Guess Jachetă pentru copii din denim albastră J6YL18 D1169'), ('bumbac', 'Confecționată din bumbac 100%'), ('prespălat', 'Efectul prespălat al materialului'),
@@ -33,7 +33,7 @@ w(10783,
 w(10790,
   f'<p>{A("/brand/ea7-emporio-armani/", "EA7 Emporio Armani")} 7B000033 AF12873 este o {A("/categorie/baieti-imbracaminte-geci-jachete/", "geacă bomber pentru băieți")}, bej, din țesătură ușoară de poliamidă, fără izolație termică, pentru anotimpurile de tranziție. Căptușeala e din bumbac.</p>'
   '<p>Croiala e regulară, cu lungimea până la șolduri, iar baza și manșetele cu nervuri elastice strâng bomberul pe corp, ca să stea aproape de corp și pe un copil mai slab.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Pentru zi de zi, are:</p>'
   + L(('Închidere', 'fermoar.'), ('Glugă', 'nu are.'), ('Material', '100% poliamidă, căptușeală 100% bumbac.'))
   + '<p>Mărimile 110-176 sunt pentru copii de 5-16 ani, cu aproximație.</p>',
   [('model', 'EA7 Emporio Armani Geacă bomber pentru copii bej 7B000033 AF12873'), ('ușor', 'Confecționată din țesătură ușoară'), ('neizolat', 'Designul fără izolație termică'),
@@ -44,7 +44,7 @@ w(10790,
 w(10795,
   f'<p>{TH} KB0KB10509 este un {A("/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/", "hanorac pentru băieți")} albastru, uni, din bumbac pur, fără glugă și fără fermoar, cu logo brodat discret. Se îmbracă peste cap și merge la ieșirile de zi cu zi.</p>'
   '<p>Croiala e relaxed fit, cu umerii coborâți pe mânecă, deci stă lejer. Bordurile elastice de la bază, manșete și decolteu țin hanoracul în formă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Mai sunt câteva detalii:</p>'
   + L(('Material', '100% bumbac.'), ('Decolteu', 'rotund, cu bordură elastică.'), ('Model', 'uni, cu logo brodat.'))
   + '<p>Mărimile 128-176 se potrivesc copiilor de 8-16 ani, de obicei.</p>',
   [('model', 'Tommy Hilfiger Hanorac pentru copii din bumbac albastru KB0KB10509'), ('uni', 'Model uni cu logo brodat'), ('bumbac', 'Materialul din bumbac pur'),
@@ -56,7 +56,7 @@ w(10795,
 w(10805,
   f'<p>{A("/brand/colmar/", "Colmar")} CAPTION 3472.2XX este o {A("/categorie/geci-jachete/", "geacă de puf pentru fete")}, bej, matlasată, umplută cu puf de rață și pene (90/10), cu rezistență sporită la apă. E pentru iarnă și frig.</p>'
   '<p>Croiala e simplă, dreaptă, deci încape un pulover dedesubt, iar mânecile se termină cu bandă elastică, care strânge la încheieturi. Nu are glugă, deci merge cu o căciulă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Construcția, în câteva puncte:</p>'
   + L(('Închidere', 'fermoar și capse.'), ('Căptușeală', '100% poliester.'), ('Material', '100% poliester.'))
   + '<p>Mărimile 130-172 sunt pentru copii de 8-15 ani, aproximativ.</p>',
   [('model', 'Colmar Geacă de puf pentru copii CAPTION culoarea bej, 3472.2XX'), ('matlasat', 'Matlasare'), ('puf', '90% Puf de rata, 10% Pene de rață'),

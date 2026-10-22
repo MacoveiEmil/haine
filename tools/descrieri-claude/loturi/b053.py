@@ -31,7 +31,7 @@ w(11181,
 w(11183,
   f'<p>Cămașa {TH} KB0KB10601 este o {A("/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/", "cămașă albă pentru băieți")}, simplă, din bumbac moale cu puțin elastan, cu mânecă lungă clasică și logo brodat discret. Stilul e casual-elegant, deci merge și la ocazii, și la purtat obișnuit.</p>'
   '<p>Croiala e regulară, cu aspect clasic, iar elastanul o lasă să se miște ușor la joacă. Gulerul e moale și clasic.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce merită știut în plus:</p>'
   + L(('Material', '97% bumbac, 3% elastan.'), ('Guler', 'moale, clasic.'), ('Logo', 'brodat.'))
   + '<p>Mărimile 128-176 sunt pentru copii de 8-16 ani, de regulă.</p>',
   [('model', 'Tommy Hilfiger Cămașă pentru copii cu bumbac albă simplă KB0KB10601'), ('bumbac', 'Confecționată din bumbac moale'), ('material', '97% Bumbac, 3% Elastan'),
@@ -41,7 +41,7 @@ w(11183,
 w(11194,
   f'<p>Geaca {TH} KB0KB10451 este o {A("/categorie/baieti-imbracaminte-geci-jachete/", "geacă de tranziție pentru băieți")}, bleumarin, cu izolație sintetică ușoară și căptușeală completă, pentru zilele mai reci și vremea schimbătoare. Gulerul înalt apără gâtul de vânt.</p>'
   '<p>Croiala e regular fit, cu lungimea până la șolduri, iar manșetele și tivul elastic strâng geaca pe corp și opresc aerul rece. Nu are glugă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Alte detalii utile:</p>'
   + L(('Închidere', 'fermoar.'), ('Buzunare', 'laterale, deschise.'), ('Material', '100% poliamidă.'))
   + '<p>Mărimile 116-122 sunt pentru copii de în jur de 6-7 ani.</p>',
   [('model', 'Tommy Hilfiger Geacă de tranziție pentru copii bleumarin KB0KB10451'), ('izolație', 'Izolație sintetică ușoară'), ('căptușeală', 'Căptușeală completă din material sintetic'),
@@ -53,7 +53,7 @@ w(11194,
 w(11198,
   f'<p>{KS} EVI THERMO SET KS105198 este un {A("/categorie/unisex-imbracaminte-salopete-compleuri/", "compleu termo unisex")}, verde, uni, ușor izolat, din material neted, cu rezistență sporită la apă datorită finisajului BIONIC-FINISH® ECO. E pentru vreme nefavorabilă, ploaie ușoară și răcoare.</p>'
   '<p>Croiala e simplă, dreaptă, iar talia are bandă elastică, care se strânge pe un copil mai slab. Mânecile se termină cu manșetă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>La purtat, contează și:</p>'
   + L(('Închidere', 'fermoar.'), ('Talie', 'bandă elastică.'), ('Material', '100% bumbac.'))
   + '<p>Mărimile 74 până la 134-140 sunt pentru copii de la cam 9 luni la 10 ani.</p>',
   [('model', 'Konges Sløjd Compleu copii EVI THERMO SET culoarea verde, KS105198'), ('uni', 'Model: uni'), ('izolat', 'Model usor cu izolatie'), ('neted', 'material neted'),
@@ -65,7 +65,7 @@ w(11198,
 w(11212,
   f'<p>Vesta {KS} JODY TEDDY VEST KS103481 este o {A("/categorie/unisex-imbracaminte-geci-jachete/", "vestă din fleece unisex")}, bej, din poliester reciclat certificat GRS, fără căptușeală. Gulerul ridicat apără gâtul de frig, iar fără mâneci lasă brațele libere.</p>'
   '<p>Croiala e simplă, dreaptă, deci se poartă peste un tricou sau un hanorac. Se închide cu fermoar și nu are glugă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Pentru zi de zi, are:</p>'
   + L(('Material', 'fleece, 100% poliester reciclat.'), ('Închidere', 'fermoar.'), ('Guler', 'ridicat.'))
   + '<p>Mărimile 74 până la 134-140 sunt pentru copii de aproximativ 9 luni - 10 ani.</p>',
   [('model', 'Konges Sløjd Vestă copii JODY TEDDY VEST GRS culoarea bej, KS103481'), ('fleece', 'material fleece'), ('reciclat', '100% Poliester reciclat'),
@@ -77,7 +77,7 @@ w(11212,
 w(11220,
   f'<p>{TH} KG0KG08520 este un {A("/categorie/bluze-tricouri-hanorace/", "hanorac cu glugă pentru fete")}, bleumarin, cu imprimeu, din tricot moale de bumbac 100%, cu mânecă lungă și buzunar cangur în față.</p>'
   '<p>Croiala e lejeră, cu umerii coborâți pe mânecă, deci stă larg și vine comod și peste o bluză. Mânecile și tivul au bandă elastică, care strânge la încheieturi și jos.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Mai sunt câteva detalii:</p>'
   + L(('Glugă', 'da.'), ('Buzunar', 'cangur, în față.'), ('Material', '100% bumbac.'))
   + '<p>Mărimile 128-176 sunt pentru copii de 8-16 ani, aproximativ.</p>',
   [('model', 'Tommy Hilfiger Hanorac de bumbac pentru copii culoarea bleumarin, cu glugă, cu imprimeu, KG0KG08520'), ('imprimeu', 'Model cu imprimeu'),
@@ -88,7 +88,7 @@ w(11220,
 w(11225,
   f'<p>{A("/brand/liewood/", "Liewood")} Runa Jacket LW20841 este o {A("/categorie/unisex-imbracaminte-geci-jachete/", "geacă de tranziție unisex")}, bleumarin, din fleece moale, cu izolație la mâneci, pentru zilele mai reci și vremea schimbătoare. Fără glugă, se poartă ușor și sub o geacă mai groasă.</p>'
   '<p>Croiala e regulară, cu mâneci raglan și lungimea până la șolduri. Manșetele cu nervuri strâng la încheieturi și țin aerul rece afară.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Construcția, în câteva puncte:</p>'
   + L(('Închidere', 'fermoar.'), ('Buzunare', 'laterale, tip slip-on.'), ('Material', '100% poliester (fleece).'))
   + '<p>Mărimile 80-140 sunt pentru copii de în jur de 1-10 ani.</p>',
   [('model', 'Liewood Geacă de tranziție pentru copii Runa Jacket bleumarin LW20841'), ('fleece', 'Materialul fleece ajută la menținerea căldurii'), ('izolație', 'Izolația la mâneci'),
@@ -100,7 +100,7 @@ w(11225,
 w(11237,
   f'<p>Blugii {TH} FLARE KG0KG09419 sunt {A("/categorie/pantaloni-treninguri/", "blugi evazați pentru fete")}, albaștri, din denim elastic de bumbac, în stil casual și vintage. Cracii se lărgesc de la genunchi în jos, pentru un aspect modern.</p>'
   '<p>Talia e normală și stă bine pe șolduri, iar denimul elastic se adaptează la corp, deci se mișcă odată cu copilul.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Elementele practice:</p>'
   + L(('Închidere', 'fermoar și nasture.'), ('Buzunare', 'aplicate și cu închidere.'), ('Material', '99% bumbac, 1% elastan.'))
   + '<p>Mărimile 128-176 sunt pentru copii de 8-16 ani, de obicei.</p>',
   [('model', 'Tommy Hilfiger Blugi flared pentru copii FLARE albaștri KG0KG09419'), ('denim', 'Denim elastic'), ('vintage', 'Stil casual și vintage'),

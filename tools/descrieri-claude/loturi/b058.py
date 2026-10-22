@@ -9,7 +9,7 @@ RESPIRA = ('Respira', 'talpei in trei straturi cu sistemul de perforari')
 w(11631,
   f'<p>{TH} KB0KB10603 este o {A("/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/", "bluză polo pentru băieți")}, albă, din tricot moale de bumbac cu puțin elastan, cu design clasic polo, potrivit pentru zilele calde, de la ieșiri cu prietenii la mese în familie.</p>'
   '<p>Croiala e regulară și se adaptează corpului, iar materialul elastic nu încurcă la joacă. Decolteul are guler și închidere, care se poate desface când e cald.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Pentru zi de zi, are:</p>'
   + L(('Material', '96% bumbac, 4% elastan.'), ('Decolteu', 'cu guler și închidere.'), ('Stil', 'casual, universal.'))
   + '<p>Mărimile 128-176 sunt pentru copii de în jur de 8-16 ani.</p>',
   [('model', 'Tommy Hilfiger Polo pentru copii, cu bumbac alb KB0KB10603'), ('tricot', 'Tricot moale din bumbac'), ('cald', 'ideal pentru zilele calde'), ('polo', 'Design clasic polo'),
@@ -20,7 +20,7 @@ w(11631,
 w(11634,
   f'<p>{A("/brand/adidas-originals/", "adidas Originals")} KT4366 este o {A("/categorie/unisex-imbracaminte-geci-jachete/", "geacă de blugi unisex")}, albastră, din bumbac pur, cu efect prespălat și logo discret, pentru sezonul de tranziție. Gulerul ridicat apără gâtul de vânt.</p>'
   '<p>Croiala e regulară, cu lungimea până la șolduri, iar tivul are șnur, care strânge geaca jos. Manșetele cu nervuri se potrivesc pe încheietura unui copil mic.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Mai sunt câteva detalii:</p>'
   + L(('Închidere', 'fermoar.'), ('Buzunare', 'laterale, tip slip-on.'), ('Material', '100% bumbac.'))
   + '<p>Mărimile 62-104 sunt pentru cei mici, de cam 3 luni până la 4 ani.</p>',
   [('model', 'adidas Originals Geacă de blugi pentru copii albastră KT4366'), ('bumbac', 'Realizată din bumbac pur'), ('prespălat', 'Efectul prespălat'), ('logo', 'Logo-ul subtil adidas Originals'),
@@ -32,7 +32,7 @@ w(11634,
 w(11637,
   f'<p>{GEOX} FLEXYPER FAST x Superman J65N1D sunt {A("/categorie/baieti-incaltaminte-adidasi/", "adidași pentru băieți")} bleumarin, ușori, cu profil scurt, din material sintetic și textil, cu motiv Superman, pentru purtat zilnic. Talpa are sistemul Geox Respira, perforat în trei straturi.</p>'
   '<p>Bucla de la spate ajută copilul să tragă pantoful pe picior și să-l scoată singur. Vârful e rotund, cu loc pentru degete.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Înăuntru și dedesubt, contează:</p>'
   + L(('Talpă exterioară', 'din cauciuc, cu caneluri.'), ('Interior', 'material textil.'), ('Partea de sus', 'material sintetic și textil.'))
   + '<p>Numerele 28-35 sunt pentru copii de în jur de 4-11 ani.</p>',
   [('model', 'Geox Sneakers pentru copii FLEXYPER FAST x Superman culoarea bleumarin, J65N1D.02ABC'), ('ușor', 'Model ușor'), ('profil', 'Înălțime: mic de statură'),
@@ -44,7 +44,7 @@ w(11637,
 w(11650,
   f'<p>Vesta {LIEWOOD} Vada Pile Vest LW14942 este o {A("/categorie/geci-jachete/", "vestă din polar pentru fete")}, roz, cu imprimeu vegetal, din polar moale, căptușită complet, pentru zilele mai reci din sezoanele de tranziție. Gulerul ridicat apără gâtul de frig și vânt.</p>'
   '<p>Croiala e regulară, cu lungimea până la șolduri, deci acoperă trunchiul și lasă brațele libere. Se poartă peste un tricou sau un hanorac.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Construcția, în câteva puncte:</p>'
   + L(('Închidere', 'fermoar pe toată lungimea.'), ('Buzunare', 'laterale, plus unul la piept, cu fermoar.'), ('Material', '100% poliester.'))
   + '<p>Mărimile 92-128 sunt pentru copii de în jur de 2-8 ani.</p>',
   [('model', 'Liewood Vestă pentru copii din polar Vada Pile Vest roz LW14942'), ('vegetal', 'Imprimeul vegetal'), ('polar', 'Confecționat din polar moale'),
@@ -57,7 +57,7 @@ w(11650,
 w(11651,
   f'<p>{TH} KB0KB10634 este un {A("/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/", "hanorac cu fermoar pentru băieți")}, roz, din polar cu uscare rapidă, care ține căldura în zilele mai reci, cu steagul Tommy Hilfiger pe spate și broderie pe piept.</p>'
   '<p>Croiala e relaxed fit, cu umerii coborâți, iar materialul elastic se adaptează la corp. Tivul și manșetele cu nervuri strâng ușor, iar gulerul înalt cu fermoar apără gâtul.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Elementele practice:</p>'
   + L(('Închidere', 'fermoar pe toată lungimea.'), ('Buzunare', 'laterale, tip slip-on.'), ('Material', '100% poliester (polar).'))
   + '<p>Mărimile 104-176 sunt pentru copii de 4-16 ani, de regulă.</p>',
   [('model', 'Tommy Hilfiger Hanorac cu fermoar pentru copii din polar roz KB0KB10634'), ('uscare', 'Țesătură cu uscare rapidă'), ('polar', 'Confecția din polar asigură menținerea căldurii, fiind potrivită pentru zilele mai reci'),
@@ -69,7 +69,7 @@ w(11651,
 w(11661,
   f'<p>{A("/brand/konges-slojd/", "Konges Sløjd")} FRANKIE OVERALL KS105393 este o {A("/categorie/bebe-imbracaminte-salopete-compleuri/", "salopetă cu bretele pentru bebeluși")}, multicoloră, cu dungi, din bumbac 100% certificat GOTS, cu broderie decorativă pe piept. Se poartă peste un body sau un tricou.</p>'
   '<p>Bretelele nu se scot, dar se reglează după înălțimea copilului, deci salopeta crește puțin cu el. Materialul neelastic își păstrează forma și după multe spălări și zile de joacă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce mai are, pe lângă croială:</p>'
   + L(('Închidere', 'nasturi.'), ('Material', '100% bumbac.'), ('Detalii', 'broderie pe piept.'))
   + '<p>Mărimile 80-116 sunt pentru copii de aproximativ 1-6 ani.</p>',
   [('model', 'Konges Sløjd Salopetă pentru copii FRANKIE OVERALL GOTS multicolor KS105393'), ('dungi', 'Acest model cu dungi'), ('bumbac', 'Confecționată din bumbac 100%'),
@@ -81,7 +81,7 @@ w(11661,
 w(11663,
   f'<p>{GEOX} WASHIBA x Disney Princess J65HXC sunt {A("/categorie/adidasi/", "adidași pentru fete")} turcoaz, cu profil scurt, din material textil și piele ecologică, cu prințese Disney. Talpa are sistemul Geox Respira, în trei straturi perforate.</p>'
   '<p>Șireturile elastice cu cârlig permit încălțatul fără nod, iar contrafortul rigidizat ține călcâiul în pantof. Vârful e rotund.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Materialele și talpa, pe rând:</p>'
   + L(('Interior', 'textil, ușor de ținut curat.'), ('Talpă', 'din cauciuc, rezistentă la uzură.'), ('Partea de sus', 'material textil și piele ecologică.'))
   + '<p>Numerele 28-35 sunt pentru copii de 4-11 ani, în general.</p>',
   [('model', 'Geox Sneakers pentru copii WASHIBA x Disney Princess culoarea turcoaz, J65HXC.054AJ'), ('profil', 'Înălțime: mic de statură'),
@@ -93,7 +93,7 @@ w(11663,
 w(11672,
   f'<p>Geaca de blugi {TH} KB0KB10397 este o {A("/categorie/baieti-imbracaminte-geci-jachete/", "geacă de blugi pentru băieți")}, albastră, cu croială trucker, din denim rezistent de bumbac și lyocell, cu broderia wavy flag pe toată suprafața. Fără căptușeală, e pentru sezonul de tranziție.</p>'
   '<p>Croiala e regulară, iar lungimea e scurtă. Manșetele se închid cu un nasture și se strâng pe încheietură.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Detaliile de închidere și material:</p>'
   + L(('Închidere', 'nasturi pe toată lungimea.'), ('Buzunare', 'două aplicate la piept, două laterale.'), ('Material', '61% bumbac, 39% lyocell.'))
   + '<p>Mărimile 128-176 sunt pentru copii de în jur de 8-16 ani.</p>',
   [('model', 'Tommy Hilfiger Geacă de blugi pentru copii, din bumbac albastră KB0KB10397'), ('trucker', 'Croiala de tip trucker'), ('denim', 'Confecționată din denim rezistent din bumbac'),
@@ -105,7 +105,7 @@ w(11672,
 w(11673,
   f'<p>Paltonul {A("/brand/maxco/", "Max&amp;Co.")} MAXJ35F JACKET MX0229 este un {A("/categorie/geci-jachete/", "palton de lână pentru fete")}, negru, din lână 100%, moale, neizolat, pentru sezonul de tranziție. Are revere clasice și se închide cu nasturi pe două rânduri.</p>'
   '<p>Croiala e lejeră, deci paltonul stă larg și se poartă comod peste un pulover. Nu are glugă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Câteva detalii practice:</p>'
   + L(('Închidere', 'nasturi pe două rânduri.'), ('Buzunare', 'două, în față.'), ('Material', '100% lână.'))
   + '<p>Mărimile 156-175 sunt pentru adolescente de 13-16 ani, aproximativ. Mărimile sunt italiene, deci ajută tabelul producătorului.</p>',
   [('model', 'Max&Co. Palton de lână pentru copii MAXJ35F JACKET culoare neagră MX0229'), ('lână', '100% Lână'), ('moale', 'confecționată dintr-un material moale'),
@@ -118,7 +118,7 @@ w(11673,
 w(11714,
   f'<p>{LIEWOOD} Orson Sweatshirt LW20900 este un {A("/categorie/unisex-imbracaminte-bluze-tricouri-hanorace/", "hanorac unisex")} verde, clasic, fără fermoar și fără glugă, din bumbac 100% ușor elastic, cu imprimeu jucăuș și broderii. Stilul e casual, fără buzunare.</p>'
   '<p>Croiala e lejeră, cu mâneci raglan, deci brațele se mișcă liber la joacă. Decolteul rotund nu strânge la gât, iar hanoracul se trage repede peste cap.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Restul detaliilor:</p>'
   + L(('Material', '100% bumbac.'), ('Mâneci', 'raglan.'), ('Detalii', 'imprimeu și broderii.'))
   + '<p>Mărimile 86-92 până la 134-140 sunt pentru copii de aproximativ 1-10 ani.</p>',
   [('model', 'Liewood Hanorac pentru copii din bumbac Orson Sweatshirt verde LW20900'), ('clasic', 'Un hanorac clasic fără fermoar și fără glugă'),

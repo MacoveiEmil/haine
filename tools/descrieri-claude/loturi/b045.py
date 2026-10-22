@@ -21,7 +21,7 @@ w(10644,
 w(10663,
   f'<p>{GEOX} ACTIVART ILLUMINUS Batman J66LYA sunt {A("/categorie/baieti-incaltaminte-adidasi/", "adidași pentru băieți")} negri, cu motiv Batman și lumini încorporate, care îl fac pe copil vizibil la joacă. Tehnologia Geox Respira™ scoate umiditatea și ține picioarele uscate.</p>'
   '<p>Șireturile elastice și velcro-ul se strâng repede pe picior, deci pantoful se pune fără nod. Gulerul ușor întărit cuprinde glezna.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce mai are, de la vârf la călcâi:</p>'
   + L(('Talpă', 'din spumă, ușoară și flexibilă.'), ('Călcâi', 'întărit.'), ('Partea de sus', 'imitație de piele și material textil.'))
   + '<p>Numerele 24-31 se poartă cam între 2 și 7 ani.</p>',
   [('model', 'Geox ACTIVART ILLUMINUS Batman sneakers pentru copii negri J66LYA.014CE'), ('Batman', 'dedicat micilor fani Batman'),
@@ -33,7 +33,7 @@ w(10663,
 w(10666,
   f'<p>{A("/brand/tommy-hilfiger/", "Tommy Hilfiger")} KS0KS00709 este un {A("/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/", "hanorac pentru băieți")}, bleumarin, fără glugă și fără fermoar, din tricot moale de bumbac 100%, cu aplicație cu logo Tommy Hilfiger. Se poartă casual, zi de zi.</p>'
   '<p>Croiala e regulară, iar materialul elastic nu încurcă la mișcare. Decolteul rotund are bordură elastică, iar benzile de la manșete și bază țin hanoracul în formă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce mai are, pe lângă croială:</p>'
   + L(('Material', '100% bumbac.'), ('Decolteu', 'rotund, cu bordură elastică.'), ('Căptușeală', 'nu are.'))
   + '<p>Mărimile 128-176 sunt pentru copii de 8-16 ani, în general.</p>',
   [('model', 'Tommy Hilfiger Hanorac pentru copii din bumbac bleumarin KS0KS00709'), ('fără fermoar', 'model fără fermoar'), ('fără glugă', 'Lipsa glugii și a închiderii'),
@@ -91,7 +91,7 @@ w(10694,
 w(10706,
   f'<p>{REIMA} Terrie 5100053B sunt {A("/categorie/unisex-imbracaminte-pantaloni-treninguri/", "pantaloni de schi unisex")}, roz, uni, izolați și căptușiți, cu tehnologia ReimaTec împotriva ploii și vântului și impermeabilitate de 12000 mm. Sunt pentru zăpadă, pârtie și joacă afară iarna.</p>'
   '<p>Talia e reglabilă și se strânge pe un copil mai slab, iar bretelele incluse țin pantalonii sus când copilul se rostogolește prin zăpadă. Croiala e simplă, dreaptă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Detaliile de închidere și material:</p>'
   + L(('Buzunare', 'două, laterale.'), ('Respirabilitate', '7000 g/m2/24h.'), ('Material', '100% poliester reciclat, certificat Bluesign®.'))
   + '<p>Mărimile 104-164 merg, în mare, la 4-14 ani.</p>',
   [('model', 'Reima Pantaloni de schi pentru copii Terrie culoarea roz, 5100053B'), ('schi', 'Pantaloni de schi copii'), ('uni', 'Model: uni'), ('izolat', 'Model izolat cu captuseala'),
@@ -104,7 +104,7 @@ w(10706,
 w(10707,
   f'<p>{A("/brand/donsje/", "Donsje")} 3048501 este o {A("/categorie/geci-jachete/", "geacă bomber pentru fete")}, bej, din bumbac și poliester, cu finisaj neted și matlasat și detalii brodate, pentru sezonul de tranziție. Căptușeala e completă, din bumbac.</p>'
   '<p>Croiala e relaxată, cu mâneci raglan și lungimea până la șolduri, iar tivul și manșetele cu nervuri strâng bomberul pe corp. Gulerul ridicat apără gâtul.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Câteva detalii practice:</p>'
   + L(('Închidere', 'capse pe toată lungimea.'), ('Buzunare', 'laterale, tip slip-on.'), ('Material', '57% bumbac, 43% poliester.'))
   + '<p>Mărimile 98-140 sunt pentru copii de 3-10 ani, aproximativ.</p>',
   [('model', 'Donsje Geacă bomber pentru copii, cu bumbac bej 3048501'), ('material', '57% Bumbac, 43% Poliester'), ('finisaj', 'Combinația de finisaj neted și matlasat'),
@@ -116,7 +116,7 @@ w(10707,
 w(10723,
   f'<p>{A("/brand/colmar/", "Colmar")} LUSH 3440.5YM este o {A("/categorie/geci-jachete/", "geacă de puf pentru fete")}, roz, matlasată, izolată cu puf de rață și pene (90/10), cu impermeabilitate de 5000 mm. E pentru iarnă, inclusiv pe ninsoare.</p>'
   '<p>Croiala e simplă, dreaptă, iar elastanul din material o face să se miște cu copilul. Gulerul ridicat are protecție pentru bărbie, iar gluga lipsește.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Restul detaliilor:</p>'
   + L(('Închidere', 'fermoar.'), ('Respirabilitate', '5000 g/m2/24h.'), ('Material', '90% poliester, 10% elastan; căptușeală nailon.'))
   + '<p>Mărimile 106-172 se potrivesc, în general, copiilor de 4-15 ani.</p>',
   [('model', 'Colmar Geaca de puf pentru copii LUSH culoarea roz, 3440.5YM'), ('matlasat', 'Matlasare'), ('puf', '90% Puf de rata, 10% Pene'), ('izolat', 'Model izolat cu captuseala'),

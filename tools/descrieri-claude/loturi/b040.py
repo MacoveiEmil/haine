@@ -34,7 +34,7 @@ w(10375,
 w(10383,
   f'<p>Geaca bomber {TH} KG0KG09410 este o {A("/categorie/geci-jachete/", "geacă bomber pentru fete")}, albastră, cu izolație sintetică ușoară și căptușeală completă, pentru zilele mai răcoroase din anotimpurile de tranziție. Materialul textil e rezistent și se întreține ușor.</p>'
   '<p>Croiala e regulară, cu lungimea până la șolduri. Tivul și manșetele cu nervuri strâng geaca la încheieturi și jos, ca bomberul să stea aproape de corp.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Material și închidere, pe rând:</p>'
   + L(('Închidere', 'capse.'), ('Buzunare', 'laterale.'), ('Glugă', 'nu are.'), ('Material', '100% poliester.'))
   + '<p>Mărimile 128-176 sunt pentru copii de în jur de 8-16 ani.</p>',
   [('model', 'Tommy Hilfiger Geacă bomber pentru copii albastră KG0KG09410'), ('izolație', 'Izolație sintetică ușoară'), ('căptușeală', 'Căptușeala completă'),
@@ -98,7 +98,7 @@ w(10413,
 w(10417,
   f'<p>Cardiganul {TH} KB0KB10491 este o {A("/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/", "bluză cardigan pentru băieți")}, bleumarin, uni, din tricot de bumbac 100% cu model torsadat și o broderie discretă cu logo. Stilul e casual, cu nasturi în față.</p>'
   '<p>Croiala e relaxed fit, deci vine comod și peste o cămașă, iar materialul elastic nu încurcă la joacă. Bordurile elastice de la bază și manșete țin forma și strâng ușor.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce merită știut în plus:</p>'
   + L(('Închidere', 'nasturi.'), ('Material', '100% bumbac.'), ('Model', 'torsadat, uni.'))
   + '<p>Mărimile 104-176 sunt pentru copii de, cu aproximație, 4-16 ani.</p>'.replace('de, cu aproximație, 4-16 ani', 'de 4-16 ani, cu aproximație'),
   [('model', 'Tommy Hilfiger Cardigan pentru copii din bumbac bleumarin KB0KB10491'), ('uni', 'Modelul uni cu model torsadat'), ('bumbac', '100% Bumbac'),

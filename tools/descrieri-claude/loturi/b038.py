@@ -57,7 +57,7 @@ w(10229,
 w(10230,
   f'<p>{A("/brand/mini-rodini/", "Mini Rodini")} Ritzratz 26220110 este o {A("/categorie/unisex-imbracaminte-geci-jachete/", "geacă de tranziție unisex")}, neagră, neizolată, din țesătură netedă de poliester, căptușită. E pentru zilele blânde, nu pentru frig.</p>'
   '<p>Croiala e lejeră, oversize, cu umerii coborâți pe mânecă, deci lasă loc unui hanorac dedesubt. Mânecile și tivul au bordură, care strânge la încheieturi și jos.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Detaliile de închidere și material:</p>'
   + L(('Închidere', 'fermoar.'), ('Glugă', 'nu are.'), ('Material', '100% poliester.'))
   + '<p>Mărimile 80-86 până la 140-146 sunt pentru copii de pe la 1 până pe la 11 ani.</p>',
   [('model', 'Mini Rodini Geacă copii Ritzratz culoarea negru, 26220110'), ('neizolat', 'Model neizolat confecționat din tesatura neteda'), ('tranziție', 'Izolare: tranzitional'),
@@ -69,7 +69,7 @@ w(10230,
 w(10236,
   f'<p>{A("/brand/guess/", "Guess")} J6YL04 W2610 este o {A("/categorie/geci-jachete/", "geacă bomber reversibilă pentru fete")}, neagră, cu inscripție decorativă, fără izolație, deci un strat ușor pentru sezonul de tranziție. Se poartă pe oricare față, iar căptușeala e completă.</p>'
   '<p>Croiala e lejeră, cu mâneci raglan și lungimea până la șolduri. Baza și manșetele cu bandă elastică strâng jacheta pe corp, ca să nu se ridice la mișcare.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Câteva detalii practice:</p>'
   + L(('Închidere', 'fermoar.'), ('Glugă', 'nu are.'), ('Material', '100% poliester.'))
   + '<p>Mărimile 122-125 până la 167 sunt, în general, pentru 7-14 ani.</p>',
   [('model', 'Guess Jachetă reversibilă pentru copii neagră J6YL04 W2610'), ('bomber', 'Jacheta bomber neagră Guess'), ('inscripție', 'Inscripția decorativă'),

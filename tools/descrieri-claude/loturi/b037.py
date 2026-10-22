@@ -22,7 +22,7 @@ w(10158,
 w(10161,
   f'<p>{GEOX} BISLI B461MA sunt {A("/categorie/adidasi/", "adidași pentru fete")} roz, neizolați, din piele ecologică și material textil, cu talpa Geox Respira, în trei straturi cu perforații. Sunt pentru zilele în care nu e nevoie de încălțăminte de iarnă.</p>'
   '<p>Șireturile elastice și velcro-ul îi lasă pe cei mici să se încalțe și să se descalțe repede, iar vârful e rotund și întărit.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Înăuntru și dedesubt, contează:</p>'
   + L(('Interior', 'textil, ușor de întreținut.'), ('Talpă exterioară', 'din cauciuc, rezistentă la uzură.'), ('Partea de sus', 'material textil și piele artificială.'))
   + '<p>Numerele 24-27 sunt pentru copii de, aproximativ, 2-4 ani.</p>'.replace('de, aproximativ, 2-4 ani', 'de aproximativ 2-4 ani'),
   [('model', 'Geox Sneakers pentru copii BISLI culoarea roz, B461MA.5402'), ('neizolat', 'Model neizolat'), ('material', 'combinație de piele ecologică și material textil'),
@@ -70,7 +70,7 @@ w(10174,
 w(10183,
   f'<p>{REIMA} Enkkari 5400152C sunt {A("/categorie/unisex-incaltaminte-adidasi/", "adidași unisex")} albaștri, ușori, din material textil și piele ecologică, cu tehnologia ReimaTec, care apără de ploaie și vânt. Sunt pentru purtat zilnic, inclusiv pe vreme umedă.</p>'
   '<p>Cutia lată a degetelor nu le ciupește, iar inserțiile detașabile Happy Fit ajută la alegerea mărimii potrivite. Șireturile elastice cu cârlig și bucla permit încălțatul fără legat.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Materialele și talpa, pe rând:</p>'
   + L(('Talpă exterioară', 'din cauciuc, rezistentă la uzură.'), ('Interior', 'material sintetic și textil.'), ('Rezistență la apă', 'sporită, nu impermeabilitate completă.'))
   + '<p>Numerele 28-38 sunt pentru copii de la, în general, 4 ani în sus.</p>',
   [('model', 'Reima Sneakers pentru copii Enkkari 5400152C'), ('culoare', 'albastru'), ('ușor', 'Model ușor'), ('material', 'combinația materialului textil cu pielea ecologică'),
@@ -96,7 +96,7 @@ w(10186,
 w(10196,
   f'<p>{GEOX} ECLYPER B555MA sunt {A("/categorie/adidasi/", "adidași pentru fete")} galbeni, cu profil scurt, din material textil și piele ecologică, cu detalii decorative. Talpa are sistemul Geox Respira, în trei straturi perforate, iar căptușeala e textilă.</p>'
   '<p>Scaiul se închide repede și se strânge după picior. Călcâiul întărit are o umplutură moale, care îl ferește de frecare, iar partea de sus rigidizată ține forma.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce mai are, de la vârf la călcâi:</p>'
   + L(('Branț', 'textil, detașabil.'), ('Vârf', 'cutie rotundă, ușor întărită.'), ('Talpă', 'din cauciuc.'))
   + '<p>Mărimile 20-27 sunt pentru cei mici de aproximativ 1-4 ani.</p>',
   [('model', 'Geox Sneakers pentru copii ECLYPER culoarea galben, B555MA.000BC'), ('profil', 'Înălțime: mic de statură'), ('material', 'combinatia materialului textil cu pielea ecologica'),

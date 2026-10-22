@@ -59,7 +59,7 @@ w(9908,
 w(9914,
   f'<p>{GEOX} PUFFYPOP J55MRA sunt {A("/categorie/adidasi/", "adidași pentru fete")} albi, cu profil scurt și detalii decorative, cu interior din piele naturală. Branțul detașabil din piele e făcut fără crom, iar talpa are sistemul Geox Respira, în trei straturi perforate.</p>'
   '<p>Șiretul clasic se reglează după piciorul fiecărui copil, mai îngust sau mai plin. Călcâiul întărit are o umplutură moale, care îl ferește de frecare.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Din ce e făcută încălțămintea:</p>'
   + L(('Vârf', 'cutie rotundă, întărită.'), ('Branț', 'detașabil, se scoate la uscat.'), ('Talpă', 'din cauciuc.'))
   + '<p>Numerele 28-39 sunt pentru copii de la, în general, 4 ani în sus.</p>',
   [('model', 'Geox Sneakers pentru copii PUFFYPOP culoarea alb, J55MRA.000BC'), ('profil', 'Înălțime: mic de statură'), ('decor', 'Detalii decorative'),

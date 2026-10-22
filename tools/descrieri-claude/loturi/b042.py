@@ -21,7 +21,7 @@ w(10471,
 w(10476,
   f'<p>{TH} KG0KG09439 este un {A("/categorie/bluze-tricouri-hanorace/", "hanorac pentru fete")}, alb, tip pulover, din tricot moale cu bumbac, poliester și elastan, cu logo Tommy Hilfiger și decolteu rotund. Stilul e casual, pentru purtat zi de zi.</p>'
   '<p>Croiala e lejeră, cu umerii coborâți pe mânecă, deci hanoracul stă larg. Benzile elastice de la bază și manșete îl țin în formă și strâng ușor la încheieturi.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Alte detalii utile:</p>'
   + L(('Material', '78% bumbac, 18% poliester, 4% elastan.'), ('Căptușeală', 'nu are.'), ('Decolteu', 'rotund.'))
   + '<p>Mărimile 128-176 sunt pentru copii de în jur de 8-16 ani.</p>',
   [('model', 'Tommy Hilfiger Hanorac pentru copii cu bumbac alb KG0KG09439'), ('pulover', 'Hanoracul tip pulover'), ('tricot', 'Tricot moale'), ('material', '78% Bumbac, 18% Poliester, 4% Elastan'),
@@ -32,7 +32,7 @@ w(10476,
 w(10480,
   f'<p>{GEOX} NASHIK B465NA sunt {A("/categorie/bebe-incaltaminte-adidasi/", "adidași pentru bebeluși")} bleumarin, cu profil înalt, din piele naturală, piele întoarsă și material textil, în stil casual. Branțul are imprimeu pentru verificarea mărimii, deci se vede ușor când piciorul a crescut.</p>'
   '<p>Aricii îl lasă pe copil să se încalțe și să se descalțe singur, iar gulerul ușor întărit cuprinde glezna fără să o strângă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Pe dinăuntru și pe dinafară:</p>'
   + L(('Călcâi', 'întărit.'), ('Interior', 'piele naturală și material textil.'), ('Talpă', 'plată, din cauciuc.'))
   + '<p>Numerele 20-27 sunt pentru copii de, de regulă, 1-4 ani.</p>'.replace('de, de regulă, 1-4 ani', 'de 1-4 ani, de regulă'),
   [('model', 'Geox NASHIK sneakers pentru copii din piele bleumarin B465NA.0CL22'), ('profil', 'profilul înalt'),
@@ -69,7 +69,7 @@ w(10491,
 w(10494,
   f'<p>Geaca de blugi {TH} KG0KG08752 este o {A("/categorie/geci-jachete/", "geacă de blugi pentru fete")}, bleumarin, din denim rigid de bumbac, care își păstrează forma, cu aspect spălăcit decorativ. E neizolată și necăptușită, deci pentru zilele blânde de tranziție.</p>'
   '<p>Croiala e simplă, dreaptă, iar mânecile au manșete care se încheie, deci se strâng pe încheietură. Are guler și nu are glugă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>La purtat, contează și:</p>'
   + L(('Închidere', 'nasturi.'), ('Buzunare', 'în față.'), ('Material', '100% bumbac.'))
   + '<p>Mărimile 128-176 sunt pentru copii de, aproximativ, 8-16 ani.</p>'.replace('de, aproximativ, 8-16 ani', 'de aproximativ 8-16 ani'),
   [('model', 'Tommy Hilfiger Geacă de blugi pentru copii culoarea bleumarin, KG0KG08752'), ('denim', 'Model neizolat confecționat din denim'),
@@ -106,7 +106,7 @@ w(10520,
 w(10522,
   f'<p>Pantofii {GEOX} TUTIM B9440B sunt {A("/categorie/bebe-incaltaminte-pantofi/", "pantofi pentru bebeluși")} roz, ușori, din piele năbuc, cu interior din piele naturală, pentru purtat zilnic. Branțul din piele previne frecarea și mirosul neplăcut.</p>'
   '<p>Velcro-ul se închide repede și se strânge după picior, iar contrafortul rigid ține călcâiul pe loc, ca piciorul să nu alunece în pantof.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Construcția, în câteva puncte:</p>'
   + L(('Vârf', 'rotund.'), ('Geox Respira', 'talpă în trei straturi, perforată.'), ('Talpă exterioară', 'din cauciuc, rezistentă la uzură.'))
   + '<p>Numerele 18-23 sunt pentru copii de 1-3 ani, în mare.</p>',
   [('model', 'Geox Pantofi năbuc pentru copii TUTIM culoarea roz, B9440B.007NF'), ('năbuc', 'Model confectionat din piele nabuc'), ('ușor', 'Model ușor'),

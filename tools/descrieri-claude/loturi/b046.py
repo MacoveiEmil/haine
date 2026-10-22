@@ -9,7 +9,7 @@ RESPIRA = ('Respira', 'talpei in trei straturi cu sistemul de perforari')
 w(10724,
   f'<p>{TH} KG0KG09447 este un {A("/categorie/bluze-tricouri-hanorace/", "hanorac pentru fete")}, roz, fără fermoar, din tricot moale și subțire cu bumbac, cu model geometric. E lejer, pentru ținute casual în zilele mai calde.</p>'
   '<p>Croiala e lejeră, cu umerii coborâți pe mânecă, iar bordurile elastice de la bază, manșete și decolteu țin hanoracul în formă. Materialul elastic se îmbracă ușor.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Material și închidere, pe rând:</p>'
   + L(('Decolteu', 'rotund.'), ('Material', '78% bumbac, 18% poliester, 4% elastan.'), ('Model', 'geometric.'))
   + '<p>Mărimile 104-122 sunt pentru copii de 4-7 ani, cu aproximație.</p>',
   [('model', 'Tommy Hilfiger Hanorac pentru copii cu bumbac roz KG0KG09447'), ('fără fermoar', 'Construcție fără fermoar cu decolteu rotund'), ('tricot', 'Tricot moale cu bumbac'),
@@ -34,7 +34,7 @@ w(10736,
 w(10744,
   f'<p>{GEOX} WASHIBA Hello Kitty J66HXH sunt {A("/categorie/adidasi/", "adidași pentru fete")} roz, cu profil înalt și imprimeu Hello Kitty, din imitație de piele și material textil. Membrana microporoasă Geox Respira™ scoate umiditatea și ține picioarele uscate.</p>'
   '<p>Au șireturi și fermoar: șiretul se reglează o dată după picior, iar fermoarul ajută la încălțat repede. Branțurile textile se scot, pentru curățat sau pentru verificat mărimea.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Pentru purtat zilnic, contează și:</p>'
   + L(('Călcâi', 'ușor întărit.'), ('Guler', 'ușor întărit, în jurul gleznei.'), ('Interior', 'căptușit cu material textil.'), ('Talpă', 'plată, din cauciuc.'))
   + '<p>Numerele 24-31 sunt pentru copii de în jur de 2-7 ani.</p>',
   [('model', 'Geox WASHIBA Hello Kitty sneakers pentru copii roz J66HXH.054AS'), ('profil', 'Profilul înalt al părții superioare'), ('Hello Kitty', 'Imprimeul adorabil Hello Kitty'),
@@ -46,7 +46,7 @@ w(10744,
 w(10749,
   f'<p>{TH} KB0KB10473 este o {A("/categorie/baieti-imbracaminte-bluze-tricouri-hanorace/", "bluză polo pentru băieți")}, bleumarin, cu dungi și logo brodat, din bumbac 100% cu material elastic. Croiala clasică de polo merge și la ținute casual, și la ocazii mai elegante.</p>'
   '<p>Croiala e regulară și nu strânge pe corp, iar materialul elastic urmează mișcarea. Decolteul are guler și închidere.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce merită știut în plus:</p>'
   + L(('Material', '100% bumbac.'), ('Decolteu', 'cu guler și închidere.'), ('Detalii', 'dungi și logo brodat.'))
   + '<p>Mărimile 128-176 sunt pentru copii de cam 8-16 ani.</p>',
   [('model', 'Tommy Hilfiger Polo pentru copii din bumbac bleumarin KB0KB10473'), ('dungi', 'Modelul cu dungi precum și logo-ul brodat al mărcii'), ('bumbac', '100% Bumbac'),
@@ -57,7 +57,7 @@ w(10749,
 w(10753,
   f'<p>{GEOX} IUPIDOO Hello Kitty B6658A sunt {A("/categorie/bebe-incaltaminte-adidasi/", "adidași pentru bebeluși")} roz, cu motiv Hello Kitty, din imitație de piele ușor de întreținut și cu interior căptușit cu piele naturală. Membrana microporoasă Geox Respira™ scoate umiditatea.</p>'
   '<p>Aricii permit încălțatul și descălțatul rapid, iar banda se strânge după cât de lat e piciorul. Gulerul ușor întărit cuprinde glezna fără să o strângă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Alte detalii utile:</p>'
   + L(('Călcâi', 'ușor întărit.'), ('Interior', 'piele naturală.'), ('Talpă', 'plată, din cauciuc.'))
   + '<p>Numerele 18-26 sunt pentru cei mici de aproximativ 1-4 ani.</p>',
   [('model', 'Geox IUPIDOO Hello Kitty sneakers pentru copii roz B6658A.05402'), ('material', 'Partea superioară din imitație de piele constituie un strat exterior rezistent, ușor de întreținut'),
@@ -69,7 +69,7 @@ w(10753,
 w(10755,
   f'<p>Geaca {TH} KS0KS00652 este o {A("/categorie/baieti-imbracaminte-geci-jachete/", "geacă cu puf pentru băieți")}, bleumarin, matlasată, cu izolație ușoară din puf natural de rață și pene, pentru sezonul de tranziție și zilele mai reci. Gulerul ridicat apără gâtul de frig și vânt.</p>'
   '<p>Croiala e regulară, cu lungimea până la șolduri, iar manșetele cu bordură elastică strâng la încheieturi. Căptușeala completă o face ușor de purtat peste alte straturi.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Alte detalii utile:</p>'
   + L(('Închidere', 'fermoar.'), ('Buzunare', 'laterale.'), ('Material', '100% nailon; umplutură 90% puf, 10% pene de rață.'))
   + '<p>Mărimile 104-176 sunt pentru copii de 4-16 ani, în mare.</p>',
   [('model', 'Tommy Hilfiger Geacă cu puf pentru copii bleumarin KS0KS00652'), ('matlasat', 'Construcția matlasată'), ('puf', 'Izolație termică din puf natural'),

@@ -9,7 +9,7 @@ RESPIRA = ('Respira', 'talpei in trei straturi cu sistemul de perforari')
 w(10585,
   f'<p>{BIO} 221002 sunt {A("/categorie/bebe-incaltaminte-pantofi/", "pantofi pentru bebeluși")} bleumarin, ușori, din piele naturală și piele întoarsă, pentru purtat zilnic. Au fost creați împreună cu medici pediatri și ingineri de la Institutul de Biomecanică din Valencia.</p>'
   '<p>Velcro-ul îi face ușor de încălțat și îi strânge bine pe picior. Vârful rotund, ușor rigid, lasă degetele să se așeze liber, iar călcâiul întărit are o umplutură moale.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Restul construcției arată așa:</p>'
   + L(('Interior', 'textil, ușor de ținut curat.'), ('Talpă exterioară', 'din cauciuc, rezistentă la uzură.'), ('Partea de sus', 'piele naturală și piele întoarsă.'))
   + '<p>Numerele 18-25 sunt pentru copii de în jur de 1-3 ani.</p>',
   [('model', 'Biomecanics bleumarin 221002'), ('material', 'combinatia pielii naturale cu pielea intoarsa'), ('ușor', 'Model ușor'), ('zilnic', 'purtarea zilnică'),
@@ -35,7 +35,7 @@ w(10588,
 w(10597,
   f'<p>{BIO} 261133 sunt {A("/categorie/bebe-incaltaminte-ghete-cizme/", "ghete de iarnă pentru bebeluși")}, bleumarin, înalte, din piele naturală și imitație, cu interior din lână și membrana impermeabilă BioTEX, care păstrează picioarele uscate. Sunt pentru joaca de iarnă, pe frig și umezeală.</p>'
   '<p>Aricii cu curea reglabilă se strâng după piciorul copilului și permit încălțatul ușor. Gulerul moale nu irită glezna.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Câteva detalii de construcție:</p>'
   + L(('Călcâi', 'întărit.'), ('Talpă', 'flexibilă, din cauciuc.'), ('Parteneriat', 'Biomecanics Podology, proiectat cu podologi.'))
   + '<p>Numerele 18-25 se potrivesc copiilor de cam 1-3 ani.</p>',
   [('model', 'Biomecanics Încălțăminte de iarnă pentru copii bleumarin 261133'), ('înalt', 'Partea superioară înaltă din piele naturală și imitație'), ('lână', 'Lână'),
@@ -59,7 +59,7 @@ w(10608,
 w(10616,
   f'<p>Pantofii {PRIMIGI} PDE 24031 sunt {A("/categorie/bebe-incaltaminte-pantofi/", "pantofi pentru bebeluși")} bej, din piele nubuc netedă, cu interior și branț detașabil din piele naturală. Stilul e casual, pentru jocurile zilnice.</p>'
   '<p>Vârful lat, de tip barefoot, dă degetelor spațiu, deci pantoful merge și pe un picior mai lat. Aricii se ajustează repede, iar călcâiul moale nu irită.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Înăuntru și dedesubt, contează:</p>'
   + L(('Talpă', 'din cauciuc, joasă, flexibilă.'), ('Interior', 'piele naturală.'), ('Branț', 'detașabil, din piele naturală.'))
   + '<p>Numerele 19-26 se potrivesc la 1-4 ani, în general.</p>',
   [('model', 'Primigi Pantofi pentru copii din nubuck bej PDE 24031'), ('nubuc', 'Partea superioară din piele nubuc'), ('neted', 'Textura netedă de nubuc'),
@@ -84,7 +84,7 @@ w(10617,
 w(10621,
   f'<p>{GEOX} ASSISTER J45DZC sunt {A("/categorie/baieti-incaltaminte-adidasi/", "adidași pentru băieți")} verzi, cu profil scurt, din material textil și sintetic, cu lumini încorporate care se aprind dintr-un buton. Luminile îl fac pe copil mai ușor de văzut când se întunecă.</p>'
   '<p>Scaiul se închide repede și strânge pantoful după picior. Călcâiul întărit are o umplutură moale, care îl ferește de frecare.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Materialele și talpa, pe rând:</p>'
   + L(('Talpă', 'din spumă.'), ('Geox Respira', 'talpă în trei straturi, cu perforări.'), ('Vârf', 'cutie rotundă, ușor întărită.'), ('Interior', 'textil.'))
   + '<p>Numerele 32-35 sunt pentru copii de în jur de 8-11 ani.</p>',
   [('model', 'Geox Sneakers pentru copii ASSISTER culoarea verde, J45DZC.014CE'), ('profil', 'Înălțime: mic de statură'), ('material', 'combinația materialului textil cu cel sintetic'),
@@ -97,7 +97,7 @@ w(10621,
 w(10623,
   f'<p>Vesta {A("/brand/tommy-hilfiger/", "Tommy Hilfiger")} KS0KS00755 este o {A("/categorie/baieti-imbracaminte-geci-jachete/", "vestă de puf pentru băieți")}, bleumarin, uni, matlasată, umplută cu puf de rață și pene, cu căptușeală completă și un logo discret. E un strat ușor pentru zilele mai reci din sezoanele de tranziție.</p>'
   '<p>Croiala e regulară, cu lungimea până la șolduri. Gulerul ridicat apără gâtul, iar fără glugă și fără mâneci, vesta se poartă ușor peste un hanorac sau sub o geacă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Elementele practice:</p>'
   + L(('Închidere', 'fermoar pe toată lungimea.'), ('Buzunare', 'laterale, tip fentă.'), ('Material', '100% nailon; umplutură 90% puf de rață, 10% pene.'))
   + '<p>Mărimile 104-176 sunt pentru copii de 4-16 ani, aproximativ.</p>',
   [('model', 'Tommy Hilfiger Vestă de puf pentru copii bleumarin KS0KS00755'), ('uni', 'Model uni cu logo subtil al mărcii'), ('matlasat', 'Confecționată din țesătură matlasată'),

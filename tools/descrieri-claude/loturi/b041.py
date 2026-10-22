@@ -45,7 +45,7 @@ w(10434,
 w(10440,
   f'<p>{A("/brand/ugg/", "UGG")} LO LOWMEL 1166490K sunt {A("/categorie/unisex-incaltaminte-adidasi/", "adidași unisex")} negri, ușori, cu profil scurt, din material textil și piele întoarsă, pentru purtat zilnic. Talpa e din spumă, iar interiorul textil se ține ușor curat.</p>'
   '<p>Vârful rotund, ușor rigid, lasă degetele să se așeze liber. Șireturile plate nu apasă pe arcada piciorului, iar bucla de la spate ajută la tras pantoful pe picior.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Alte detalii utile:</p>'
   + L(('Călcâi', 'contrafort rigidizat.'), ('Talpă', 'din spumă.'), ('Partea de sus', 'material textil și piele întoarsă.'))
   + '<p>Numerele 31-36 sunt pentru copii de la, aproximativ, 6 ani în sus.</p>',
   [('model', 'UGG Sneakers pentru copii LO LOWMEL culoarea negru, 1166490K'), ('ușor', 'Model ușor'), ('profil', 'Înălțime: mic de statură'),
@@ -97,7 +97,7 @@ w(10460,
 w(10461,
   f'<p>Pantofii {BIO} 262100 sunt {A("/categorie/bebe-incaltaminte-pantofi/", "pantofi pentru bebeluși")} albi, din piele naturală netedă, în stil casual, pentru primăvară și vară. Tehnologia ANTI-ODOR limitează formarea mirosurilor, iar modelul e făcut în parteneriatul Biomecanics Podology.</p>'
   '<p>Scaiul se închide repede și se strânge după piciorul copilului. Branțurile se scot, deci se curăță ușor și se poate măsura piciorul pe ele.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Mai sunt câteva lucruri de știut:</p>'
   + L(('Vârf', 'cauciucat, apără degetele.'), ('Interior', 'material textil.'), ('Talpă', 'din cauciuc, flexibilă.'))
   + '<p>Numerele 19-25 sunt pentru cei mici de cam 1-3 ani.</p>',
   [('model', 'Biomecanics Pantofi pentru copii din piele albi 262100'), ('piele', 'Partea superioară din piele naturală netedă'), ('casual', 'caracter casual'),

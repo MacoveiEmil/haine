@@ -7,7 +7,7 @@ REIMA = A('/brand/reima/', 'Reima')
 w(11514,
   f'<p>{TH} KG0KG09441 este un {A("/categorie/bluze-tricouri-hanorace/", "hanorac cu glugă pentru fete")}, bleumarin, din tricot moale cu bumbac, cu imprimeu cu logo Tommy Hilfiger și buzunar cangur. Nu e căptușit, deci e ușor, bun pentru zilele mai calde.</p>'
   '<p>Croiala e lejeră, relaxed fit, cu umerii coborâți pe mânecă, deci stă larg și vine comod și peste o bluză. Manșetele și baza cu nervuri țin hanoracul la locul lui.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Material și închidere, pe rând:</p>'
   + L(('Glugă', 'integrată.'), ('Buzunar', 'cangur, pentru mâini.'), ('Material', '78% bumbac, 18% poliester, 4% elastan.'))
   + '<p>Mărimile 128-176 sunt pentru copii de în jur de 8-16 ani.</p>',
   [('model', 'Tommy Hilfiger Hanorac cu glugă pentru copii cu bumbac bleumarin KG0KG09441'), ('tricot', 'Tricot moale cu bumbac'), ('logo', 'Imprimeu expresiv cu logo-ul Tommy Hilfiger'),
@@ -19,7 +19,7 @@ w(11514,
 w(11529,
   f'<p>{A("/brand/konges-slojd/", "Konges Sløjd")} JUNO BOMBER JACKET KS105725 este o {A("/categorie/unisex-imbracaminte-geci-jachete/", "geacă bomber unisex")}, verde, matlasată, ușor izolată, cu motiv animalier și membrană impermeabilă, pentru anotimpurile de tranziție. Finisajul BIONIC-FINISH® ECO o face rezistentă la apă și vânt.</p>'
   '<p>Croiala e lejeră, iar tivul are șnur elastic, care se strânge ca să nu intre aerul rece. Manșetele cu bordură elastică țin căldura în mâneci.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Ce merită știut în plus:</p>'
   + L(('Închidere', 'fermoar.'), ('Căptușeală', '100% bumbac.'), ('Material', '100% nailon.'))
   + '<p>Mărimile 74 până la 134-140 sunt pentru copii de aproximativ 9 luni - 10 ani.</p>',
   [('model', 'Konges Sløjd Geacă bomber pentru copii JUNO BOMBER JACKET verde KS105725'), ('matlasat', 'Finisajul matlasat'), ('izolație', 'Izolația termică ușoară'),
@@ -45,7 +45,7 @@ w(11538,
 w(11547,
   f'<p>{A("/brand/geox/", "Geox")} ACTIVART ILLUMINUS x Looney Tunes J65LYA sunt {A("/categorie/bebe-incaltaminte-adidasi/", "adidași pentru bebeluși")} negri, ușori, cu profil scurt, din material textil și sintetic, cu personaje Looney Tunes și lumini încorporate pe care le pornește copilul dintr-un buton.</p>'
   '<p>Talpa exterioară din cauciuc are caneluri, deci prinde bine pe asfalt și rezistă mult. Vârful e rotund și lasă loc degetelor.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Detaliile de material și talpă:</p>'
   + L(('Partea de sus', 'material sintetic și textil.'), ('Interior', 'material textil.'), ('Talpă', 'din cauciuc, cu caneluri.'))
   + '<p>Numerele 24-35 sunt pentru copii de 2-11 ani, de obicei.</p>',
   [('model', 'Geox Sneakers pentru copii ACTIVART ILLUMINUS x Looney Tunes culoarea negru, J65LYA.011CE'), ('ușor', 'Model ușor'), ('profil', 'Înălțime: mic de statură'),
@@ -70,7 +70,7 @@ w(11578,
 w(11592,
   f'<p>Cardiganul {TH} KG0KG09361 este o {A("/categorie/bluze-tricouri-hanorace/", "bluză cardigan pentru fete")}, bleumarin, din bumbac pur, cu model ajurat pointelle pe toată suprafața și volănașe, pentru zilele mai reci. Decolteul în V are logo brodat.</p>'
   '<p>Croiala e regulară, cu umerii ușor coborâți, iar mânecile lungi, mulate, au manșete elastice. Materialul elastic se adaptează la corp și nu încurcă la joacă.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Alte detalii utile:</p>'
   + L(('Închidere', 'nasturi.'), ('Material', '100% bumbac.'), ('Model', 'ajurat pointelle, volănașe.'))
   + '<p>Mărimile 128-176 sunt pentru copii de în jur de 8-16 ani.</p>',
   [('model', 'Tommy Hilfiger Cardigan pentru copii, din bumbac Bleumarin KG0KG09361'), ('bumbac', 'Bumbac pur'), ('ajurat', 'Model ajurat tip pointelle pe toată suprafața'),
@@ -82,7 +82,7 @@ w(11592,
 w(11597,
   f'<p>{A("/brand/united-colors-of-benetton/", "United Colors of Benetton")} 2WU0CN017 este o {A("/categorie/baieti-imbracaminte-geci-jachete/", "geacă de puf pentru băieți")}, neagră, matlasată, umplută cu puf și pene (50/50), cu rezistență sporită la apă. E din linia Dress Safely, fără metale grele sau coloranți nocivi.</p>'
   '<p>Croiala e simplă, dreaptă, iar mânecile lungi au manșetă elastică. Gulerul ridicat și gluga detașabilă apără de frig, iar fermoarul are clapă împotriva vântului.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>La purtat, contează și:</p>'
   + L(('Buzunare', 'două, laterale, cu capse.'), ('Certificări', 'RCS și ICEA.'), ('Material', '100% poliester.'))
   + '<p>Mărimile 120-170 sunt pentru copii de 7-15 ani, de obicei.</p>',
   [('model', 'United Colors of Benetton Geacă de puf pentru copii culoarea negru, 2WU0CN017'), ('matlasat', 'material matlasat'), ('puf', '50% Pene, 50% Puf'),
@@ -96,7 +96,7 @@ w(11597,
 w(11601,
   f'<p>{A("/brand/primigi/", "Primigi")} PNL 24001 sunt {A("/categorie/bebe-incaltaminte-ghete-cizme/", "ghete de iarnă pentru bebeluși")}, bleumarin, din piele întoarsă, cu interior textil izolat, care ține căldura în zilele reci. Sunt făcute după tehnologia Primigi × SIPeP, creată cu podologii.</p>'
   '<p>Scaiul permite încălțatul rapid și ajustarea pe picior, iar vârful rotund, moale, lasă degetele să se miște liber. Călcâiul întărit ține piciorul stabil.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Din ce e făcută încălțămintea:</p>'
   + L(('Talpă', 'din cauciuc, pentru zăpadă și gheață.'.replace(', pentru zăpadă și gheață', '')), ('Interior', 'material textil, izolat.'), ('Partea de sus', 'piele întoarsă.'))
   + '<p>Numerele 19-30 sunt pentru copii de în jur de 1-7 ani.</p>',
   [('model', 'Primigi Încălțăminte de iarnă pentru copii din piele întoarsă bleumarin PNL 24001'), ('piele întoarsă', 'Partea superioară din piele întoarsă'),
@@ -108,7 +108,7 @@ w(11601,
 w(11604,
   f'<p>Ghetele de iarnă {A("/brand/geox/", "Geox")} OMAR B462DC sunt {A("/categorie/bebe-incaltaminte-ghete-cizme/", "ghete pentru bebeluși")} negre, ușor izolate, din piele naturală și piele întoarsă rezistente la înmuiere, cu interior din lână. Talpa Geox Respira, în trei straturi perforate, ventilează gheata.</p>'
   '<p>Velcro-ul se închide repede, iar partea de sus ridicată rigidizează glezna pe teren denivelat. Contrafortul rigid ține piciorul în gheată.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Restul construcției arată așa:</p>'
   + L(('Vârf', 'cutie rotundă, întărită.'), ('Light Flexy', 'branț care lasă piciorul să se miște.'), ('Talpă', 'exterioară, din cauciuc, rezistentă la uzură.'))
   + '<p>Numerele 20-27 sunt pentru copii de în jur de 1-4 ani.</p>',
   [('model', 'Geox Ghete de iarnă pentru copii din piele OMAR culoarea negru, B462DC.04322'), ('izolare', 'Izolare ușoară'), ('material', 'combinația pielii naturale cu pielea intoarsa'),
@@ -121,7 +121,7 @@ w(11604,
 w(11616,
   f'<p>Sandalele {REIMA} Talsi 5400132B sunt {A("/categorie/unisex-incaltaminte-sandale/", "sandale cu degetele acoperite unisex")}, negre, din piele sintetică și material textil. Vârful închis apără degetele la joacă și la explorări, iar talpa din spumă e ușoară și flexibilă.</p>'
   '<p>Se închid cu șnur elastic cu opritor, care se ajustează repede și precis pe picior. Branțul anatomic ține piciorul bine așezat.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Câteva detalii de construcție:</p>'
   + L(('Partea de sus', '50% textil, 50% sintetic.'), ('Interior', 'căptușit cu material textil.'), ('Talpă', 'din spumă.'))
   + '<p>Numerele 29-38 sunt pentru copii de la 4 ani în sus, în general.</p>',
   [('model', 'Reima Sandale cu degetele acoperite pentru copii Talsi negre 5400132B'), ('material', 'Partea superioară din piele sintetică și material textil'),

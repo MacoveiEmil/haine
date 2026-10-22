@@ -33,7 +33,7 @@ w(10306,
 w(10316,
   f'<p>{GEOX} STEPPIEUP B6563A sunt {A("/categorie/bebe-incaltaminte-adidasi/", "adidași pentru bebeluși")} albi, ușori, cu profil scurt, din material textil și piele naturală, pentru purtat zi de zi. Inserția din piele e făcută fără crom, iar talpa are sistemul Geox Respira.</p>'
   '<p>Cutia lată a degetelor nu le ciupește, deci pantoful vine bine și pe un picior mai plin. Scaiul se închide repede, iar contrafortul rigidizat ține călcâiul.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Pentru purtat zilnic, contează și:</p>'
   + L(('Geox Respira', 'talpă în trei straturi, perforată.'), ('Interior', 'material textil.'), ('Partea de sus', 'textil și piele naturală.'))
   + '<p>Numerele 20-27 sunt pentru copii de pe la 1 până pe la 4 ani.</p>',
   [('model', 'Geox Sneakers pentru copii STEPPIEUP culoarea alb, B6563A.08514'), ('ușor', 'Model ușor'), ('profil', 'Înălțime: mic de statură'),
@@ -94,7 +94,7 @@ w(10353,
 w(10355,
   f'<p>{A("/brand/united-colors-of-benetton/", "United Colors of Benetton")} 41EXCT01C este o {A("/categorie/salopete-compleuri/", "salopetă pentru fete")}, verde, din material textil ușor, neted, cu finisaj plisat. Merge la întâlniri casual și la evenimente mai festive, inclusiv vara.</p>'
   '<p>Croiala e cambrată, cu șnur elastic în talie, care se strânge pe un copil mai slab. Mânecile sunt scurte și căzute, iar cracii sunt lungi și drepți, fără elastic.</p>'
-  '<p>Pe scurt:</p>'
+  '<p>Restul detaliilor:</p>'
   + L(('Închidere', 'nasture.'), ('Căptușeală', 'parțială, sintetică.'), ('Material', '100% poliester.'))
   + '<p>Mărimile 122-168 sunt pentru copii de pe la 7 până pe la 15 ani.</p>',
   [('model', 'United Colors of Benetton Salopetă copii verde 41EXCT01C'), ('ușor', 'Confecționat dintr-un material textil ușor , cu textură netedă și finisaj plisat'),

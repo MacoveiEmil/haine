@@ -1,0 +1,79 @@
+{
+ "id": 11769,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/konges-slojd/\">Konges Sløjd</a> COLLETTE DRESS KS104750 este o <a href=\"/categorie/rochii-fuste/\">rochie de lână pentru fete</a>, bej, mini, fără mâneci, din tricot de lână merinos, ușoară, cu imprimeu, broderie și finisaje decorative. Decolteul e clasic, rotund.</p><p>Croiala e dreaptă, simplă, deci se poartă singură sau peste o bluză cu mânecă lungă în zilele mai reci. Are două buzunare în față.</p><p>Construcția, în câteva puncte:</p><ul><li><strong>Material</strong>: 100% lână.</li><li><strong>Lungime</strong>: mini.</li><li><strong>Detalii</strong>: broderie și finisaje decorative.</li></ul><p>Mărimile 98 până la 134-140 sunt pentru copii de aproximativ 3-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Konges Sløjd Rochie de lână pentru copii COLLETTE DRESS culoarea bej, mini, drept, KS104750"
+  },
+  {
+   "fapt": "mini",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Lungime: mini"
+  },
+  {
+   "fapt": "fără mâneci",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Maneca: fara maneci"
+  },
+  {
+   "fapt": "merinos",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Lâna merinos este ușoară"
+  },
+  {
+   "fapt": "tricot",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Material: tricotaj"
+  },
+  {
+   "fapt": "imprimeu",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Model: imprimeu"
+  },
+  {
+   "fapt": "broderie",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Broderie decorativa"
+  },
+  {
+   "fapt": "finisaje",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Finisaje decorative"
+  },
+  {
+   "fapt": "decolteu",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Decolteu clasic, rotund"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Fit: drept"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "Două buzunare în față"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/konges-slojd-rochie-de-lana-pentru-copii-collette-dress-culoarea-bej-mini-drept-ks104750-1701158",
+   "fragment": "100% Lana"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Konges Sløjd COLLETTE DRESS",
+  "Material": "100% lână (merinos)",
+  "Caracteristici": "mini, fără mâneci, croială dreaptă, buzunare",
+  "Cod produs": "KS104750"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "3-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "„Peste o bluză cu mânecă lungă” e dedus din faptul că rochia e fără mâneci."
+ ]
+}
