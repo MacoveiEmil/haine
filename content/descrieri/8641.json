@@ -1,84 +1,77 @@
 {
  "id": 8641,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> KN0KN01485 este un <a href=\"/categorie/bebe-imbracaminte-pantaloni-treninguri/\">trening pentru bebeluși</a> bleumarin, din tricot subțire și flexibil. Bluza are mânecă lungă și decolteu rotund, iar pantalonii se strâng cu șnur în talie.</p><ul><li><strong>Material</strong>: 95% bumbac, 5% elastan, cu cel puțin 50% bumbac organic.</li><li><strong>Fason</strong>: drept, cu manșete la margini.</li><li><strong>Buzunare</strong>: oblice.</li><li><strong>Model</strong>: cu print.</li></ul><p>Mărimile merg de la 56 la 92, orientativ pentru bebeluși de până la 2 ani.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/tommy-hilfiger/\">Tommy Hilfiger</a> are aici un <a href=\"/categorie/bebe-imbracaminte-pantaloni-treninguri/\">trening pentru bebeluși</a> bleumarin, din tricot subțire și flexibil, cu bluză cu mânecă lungă și pantaloni. Bumbacul e cel puțin pe jumătate organic, iar compoziția are 5% elastan.</p><p>Fasonul e drept, iar pantalonii au șnururi în talie, deci se strâng pe un bebeluș mai slab; mânecile și picioarele se termină cu manșete.</p><p>Pentru îmbrăcat și dezbrăcat des, contează:</p><ul><li><strong>Decolteu</strong>: rotund.</li><li><strong>Buzunare</strong>: oblice.</li><li><strong>Material</strong>: 95% bumbac, 5% elastan, cu imprimeu.</li></ul><p>Treningul se găsește în mărimile 56-92, de la aproximativ o lună până la 2 ani.</p>",
  "surse": [
   {
    "fapt": "tip",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
-   "fragment": "Trening copii"
-  },
-  {
-   "fapt": "cod",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
-   "fragment": "KN0KN01485"
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
+   "fragment": "Compleu de trening pentru copii"
   },
   {
    "fapt": "culoare",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
    "fragment": "culoarea albastru marin"
   },
   {
    "fapt": "tricot",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
    "fragment": "Material tricot flexibil si subtire"
   },
   {
-   "fapt": "mânecă",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
-   "fragment": "Maneca lunga"
-  },
-  {
-   "fapt": "decolteu",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
-   "fragment": "Decolteu rotund"
-  },
-  {
-   "fapt": "șnur",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
-   "fragment": "In talie snururi"
+   "fapt": "organic",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
+   "fragment": "cel putin 50% bumbac organic"
   },
   {
    "fapt": "compoziție",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
    "fragment": "95% Bumbac, 5% Elastan"
   },
   {
-   "fapt": "bumbac organic",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
-   "fragment": "fabricat din cel putin 50% bumbac organic"
-  },
-  {
    "fapt": "fason",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
    "fragment": "Fason drept"
   },
   {
-   "fapt": "manșete",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "fapt": "mânecă",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
+   "fragment": "Maneca lunga"
+  },
+  {
+   "fapt": "șnururi",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
+   "fragment": "In talie snururi"
+  },
+  {
+   "fapt": "manșetă",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
    "fragment": "Finisaj din manseta"
   },
   {
+   "fapt": "decolteu",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
+   "fragment": "Decolteu rotund"
+  },
+  {
    "fapt": "buzunare",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
    "fragment": "Buzunare oblice"
   },
   {
    "fapt": "print",
-   "url": "answear.ro/p/…tommy-hilfiger-trening-copii…",
+   "url": "answear.ro/p/tommy-hilfiger-trening-copii-culoarea-albastru-marin-800954",
    "fragment": "Model: print"
   }
  ],
  "specificatii_tehnice": {
-  "Model": "Tommy Hilfiger KN0KN01485",
-  "Material": "95% bumbac (minim 50% organic), 5% elastan, tricot",
-  "Caracteristici": "bluză cu mânecă lungă și decolteu rotund, pantaloni cu șnur, buzunare oblice, manșete",
-  "Cod produs": "KN0KN01485"
+  "Model": "Tommy Hilfiger, trening bebe",
+  "Material": "95% bumbac (cel puțin 50% organic), 5% elastan",
+  "Caracteristici": "bluză și pantaloni, șnur în talie, manșete, buzunare oblice",
+  "Cod produs": ""
  },
  "categorie_complementara": null,
- "varsta_orientativa": "0-2 ani",
+ "varsta_orientativa": "1 lună - 2 ani",
  "date_insuficiente": false,
- "confidence_notes": [
-  "Answear marchează produsul ca „fete” (sex G); pe site e la Bebe, unde nu se mută după gen."
- ]
+ "confidence_notes": []
 }

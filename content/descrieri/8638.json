@@ -1,0 +1,79 @@
+{
+ "id": 8638,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/kenzo-kids/\">Kenzo Kids</a> K60631 este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă de blugi unisex</a>, albastră, din denim 100% bumbac, fără izolație și fără căptușeală. E o geacă de tranziție pentru copiii mici, de purtat primăvara și toamna.</p><p>Croiala e simplă, iar manșetele se încheie, deci mânecile se strâng la încheietură și pe un copil cu brațe subțiri.</p><p>Ca orice geacă de blugi, se încheie în față:</p><ul><li><strong>Închidere</strong>: nasturi.</li><li><strong>Buzunare</strong>: două la piept, cu nasturi.</li><li><strong>Guler</strong>: clasic.</li><li><strong>Glugă</strong>: nu are.</li></ul><p>Mărimile 86-108 se potrivesc copiilor de aproximativ 1-5 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "K60631"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "albastru"
+  },
+  {
+   "fapt": "denim",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "denim de bumbac"
+  },
+  {
+   "fapt": "bumbac",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "100% Bumbac"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "Model neizolat"
+  },
+  {
+   "fapt": "necăptușit",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "Captuseala: necaptusit"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "Mansete incheiate"
+  },
+  {
+   "fapt": "buton",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "Închiderea convenabilă cu buton"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "Două buzunare la piept cu nasturi"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "Model cu guler"
+  },
+  {
+   "fapt": "fără glugă",
+   "url": "answear.ro/p/kenzo-kids-geaca-copii-k60631-1317021",
+   "fragment": "Gluga: fara gluga"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Kenzo Kids K60631",
+  "Material": "denim, 100% bumbac",
+  "Caracteristici": "fără izolație și căptușeală, nasturi, două buzunare la piept, manșete încheiate",
+  "Cod produs": "K60631"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-5 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site nu are culoare; pagina magazinului dă albastru."
+ ]
+}

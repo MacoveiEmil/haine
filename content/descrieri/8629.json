@@ -1,0 +1,82 @@
+{
+ "id": 8629,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/wheat/\">Wheat</a> 7350-972R este un compleu de ploaie roz, cu o <a href=\"/categorie/geci-jachete/\">geacă de ploaie pentru fete</a> și pantaloni cu bretele, din poliester cu poliuretan pe bază de apă și impermeabilitate de 8000 mm. Nu are izolație, deci e pentru ploile de primăvară și toamnă.</p><p>Bretelele pantalonilor se reglează, iar lamelele de la călcâi țin crăcii jos, peste <a href=\"/categorie/ghete-cizme/\">ghetele și cizmele pentru fete</a>, ca să nu urce când copilul sare prin bălți.</p><p>Geaca are câteva detalii pentru ploaie:</p><ul><li><strong>Glugă</strong>: detașabilă.</li><li><strong>Mâneci</strong>: cu elastic la capăt.</li><li><strong>Închidere</strong>: fermoar.</li><li><strong>Margine</strong>: cu manșetă.</li></ul><p>Compleul vine în mărimile 98-128, cam pentru 3-8 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "7350-972R GRS"
+  },
+  {
+   "fapt": "compleu",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "Compleu pentru copii"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "culoarea roz"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "55% Poliester , 45% Poliuretan pe bază de apă"
+  },
+  {
+   "fapt": "impermeabilitate",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "Impermeabilitate: 8000 mm/m2/24h"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "Izolare: neizolat"
+  },
+  {
+   "fapt": "bretele",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "Model cu bretele nedetasabile, reglabile"
+  },
+  {
+   "fapt": "lamele",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "Lamelele pentru călcâi împiedică picioarele să alunece în sus"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "Gluga detasabila"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "Mâneci finisate cu o coadă elastică"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "Închiderea convenabilă cu fermoar"
+  },
+  {
+   "fapt": "margine",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-roz-7350-972r-grs-1733201",
+   "fragment": "Marginea de jos finisata cu manseta"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Wheat 7350-972R",
+  "Material": "55% poliester, 45% poliuretan pe bază de apă",
+  "Caracteristici": "compleu de ploaie: geacă și pantaloni cu bretele, impermeabilitate 8000 mm, glugă detașabilă",
+  "Cod produs": "7350-972R"
+ },
+ "categorie_complementara": {
+  "slug": "/categorie/ghete-cizme/",
+  "motiv": "compleu de ploaie, se poartă cu cizme"
+ },
+ "varsta_orientativa": "3-8 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pe site e listat ca geacă; magazinul vinde un compleu de ploaie (geacă + pantaloni cu bretele)."
+ ]
+}
