@@ -1,0 +1,67 @@
+{
+ "id": 8740,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> J16FAB sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> maro, din piele naturală și piele ecologică, cu sistemul Geox Respira. Magazinul îi trece la încălțămintea de iarnă, dar nu au izolație, așa că se potrivesc mai ales toamna și primăvara.</p><p>Se închid cu șnur și fermoar: fermoarul deschide pantoful la încălțat, iar șnurul rămâne reglat pe picior.</p><p>Construcția pantofului:</p><ul><li><strong>Vârf</strong>: rotund, întărit.</li><li><strong>Călcâi</strong>: rigidizat la spate.</li><li><strong>Interior</strong>: sintetic și textil.</li></ul><p>Pe site sunt numerele 28-35, pentru copii de aproximativ 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/geox-pantofi-copii-culoarea-maro-524806",
+   "fragment": "Geox maro J16FAB.032BC"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-pantofi-copii-culoarea-maro-524806",
+   "fragment": "combinatia pielii naturale cu pielea ecologica"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-pantofi-copii-culoarea-maro-524806",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "iarnă",
+   "url": "answear.ro/p/geox-pantofi-copii-culoarea-maro-524806",
+   "fragment": "Pantofi de iarna pentru copii"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/geox-pantofi-copii-culoarea-maro-524806",
+   "fragment": "Izolare: neizolat"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/geox-pantofi-copii-culoarea-maro-524806",
+   "fragment": "Fixare: cu fermoar"
+  },
+  {
+   "fapt": "șnur",
+   "url": "answear.ro/p/geox-pantofi-copii-culoarea-maro-524806",
+   "fragment": "Fixare: cu snur"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-pantofi-copii-culoarea-maro-524806",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-pantofi-copii-culoarea-maro-524806",
+   "fragment": "Spatele calcaiului rigidizat"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-pantofi-copii-culoarea-maro-524806",
+   "fragment": "Interiorul: Material sintetic, Material textil"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox J16FAB",
+  "Material": "piele naturală și piele ecologică, interior sintetic și textil",
+  "Caracteristici": "Geox Respira, șnur și fermoar, neizolați",
+  "Cod produs": "J16FAB.032BC"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

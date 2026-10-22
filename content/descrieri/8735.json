@@ -1,0 +1,79 @@
+{
+ "id": 8735,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/guess/\">GUESS</a> N6YL03 este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă matlasată pentru băieți</a>, deschisă la culoare (bej pe site, albă la magazin), cu izolație sintetică medie, pentru zilele mai reci de tranziție. Matlasarea are model geometric, iar logo-ul Guess e la vedere.</p><p>Croiala e regulară, iar tivul cu șnur și manșetele cu nervuri strâng geaca jos și la încheieturi, ca să rămână caldă și pe un copil mai slab.</p><p>Ce mai are geaca:</p><ul><li><strong>Glugă</strong>: integrată, pentru vânt și ploaie ușoară.</li><li><strong>Căptușeală</strong>: completă.</li><li><strong>Buzunare</strong>: false, decorative.</li><li><strong>Material</strong>: 100% poliester.</li></ul><p>Mărimile duble, de la 88-96 până la 122-125, sunt pentru copii de cam 1-7 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "Jachetă pentru copii albă N6YL03 W2661"
+  },
+  {
+   "fapt": "izolație",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "Izolație sintetică medie"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "zilele mai reci de tranziție"
+  },
+  {
+   "fapt": "matlasare",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "Construcție matlasată cu model geometric"
+  },
+  {
+   "fapt": "logo",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "Model cu logo Guess"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "Croială regulară"
+  },
+  {
+   "fapt": "tiv",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "Tiv cu șnur"
+  },
+  {
+   "fapt": "manșete",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "Manșete cu nervuri"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "Glugă integrată oferă protecție suplimentară împotriva vântului și ploii ușoare"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "Căptușeală completă"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "Buzunare false"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/guess-jacheta-pentru-copii-alba-n6yl03-w2661-1828613",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "GUESS N6YL03",
+  "Material": "100% poliester, izolație sintetică medie",
+  "Caracteristici": "matlasată geometric, glugă integrată, tiv cu șnur, manșete cu nervuri",
+  "Cod produs": "N6YL03.W2661"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-7 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site spune bej; magazinul o descrie ca albă."
+ ]
+}

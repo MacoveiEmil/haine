@@ -1,0 +1,74 @@
+{
+ "id": 8722,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> J45HXB sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> albi, din material textil și piele ecologică, cu interior textil și tehnologia Geox Respira. Sunt tăiați sub gleznă și au o deschidere largă, ușor de încălțat.</p><p>Vârful e rotund și ușor rigid, cu loc ca degetele să stea liber, iar inserția textilă detașabilă se scoate pentru curățat și pentru verificat lungimea piciorului.</p><p>La încălțat contează:</p><ul><li><strong>Închidere</strong>: arici.</li><li><strong>Călcâi</strong>: contor rigid.</li><li><strong>Deschidere</strong>: largă.</li><li><strong>Inserție</strong>: textilă, detașabilă.</li></ul><p>Numerele 28-39 acoperă copii de la aproximativ 4 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "J45HXB.000BC"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "combinația materialului textil cu pielea ecologică"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "interior textil"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "sub gleznă",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "Pantoful de sub gleznă"
+  },
+  {
+   "fapt": "deschidere",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "Deschidere larga"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "Degetul rotund, ușor rigid"
+  },
+  {
+   "fapt": "degete",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "degetele se pot aranja liber"
+  },
+  {
+   "fapt": "inserție",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "Inserție textilă detașabilă, ușor de curățat"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "Închiderea cu velcro"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-sneakers-pentru-copii-j45hxb-000bc-1711583",
+   "fragment": "Contorul de călcâi rigid"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox J45HXB",
+  "Material": "textil și piele ecologică, interior textil",
+  "Caracteristici": "Geox Respira, arici, deschidere largă, inserție detașabilă",
+  "Cod produs": "J45HXB.000BC"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 4 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site spune alb; pagina magazinului din link dă culoarea roz."
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": 8750,
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele <a href=\"/brand/geox/\">Geox</a> de aici sunt <a href=\"/categorie/ghete-cizme/\">cizme de zăpadă pentru fete</a>, roz, izolate, din material textil și piele ecologică, cu sistemul Geox Tex Waterproof pentru rezistență la apă. Magazinul precizează că nu garantează impermeabilitate completă.</p><p>Partea de sus se strânge cu șnur, deci cizma se închide pe gambă și ține zăpada afară pe sus.</p><p>Pentru zăpadă, contează și:</p><ul><li><strong>Talpă</strong>: sculptată.</li><li><strong>Vârf</strong>: rotund, întărit.</li><li><strong>Călcâi</strong>: rigidizat.</li><li><strong>Geox Respira</strong>: talpă în trei straturi.</li></ul><p>Numerele 36-39 sunt pentru copii mari, de obicei de la 12 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "tip",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "Cizme de zapada pentru copii"
+  },
+  {
+   "fapt": "izolat",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "Model izolat"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "combinatia materialului textil cu pielea ecologica"
+  },
+  {
+   "fapt": "Geox Tex",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "Geox Tex Waterproof"
+  },
+  {
+   "fapt": "nu complet",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "nu garantează impermeabilitatea completă"
+  },
+  {
+   "fapt": "șnur",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "Partea superioara este cu snur"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "Talpa sculptata"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "Cutie rotunda, intarita"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "Spatele calcaiului rigidizat"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/geox-cizme-de-iarna-copii-1631089",
+   "fragment": "roz"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox, cizme de zăpadă",
+  "Material": "textil și piele ecologică, interior textil",
+  "Caracteristici": "izolate, Geox Tex Waterproof, șnur la gambă, Geox Respira",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 12 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site nu are culoare; magazinul arată roz."
+ ]
+}

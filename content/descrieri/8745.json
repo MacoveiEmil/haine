@@ -1,0 +1,62 @@
+{
+ "id": 8745,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/liewood/\">Liewood</a> Denisa sunt <a href=\"/categorie/unisex-incaltaminte-adidasi/\">adidași unisex</a> roz, din material textil, cu design simplu și neted. Magazinul îi propune pentru jocurile în aer liber și pentru activitățile de la grădiniță.</p><p>Aricii le permit copiilor să se încalțe singuri, iar gulerul și călcâiul întărite țin piciorul în pantof.</p><p>Din ce e făcut:</p><ul><li><strong>Exterior</strong>: textil.</li><li><strong>Căptușeală</strong>: textilă, moale.</li><li><strong>Talpă</strong>: din cauciuc.</li></ul><p>Cu numere de la 22 la 35, modelul se găsește pentru copii de cam 1 an până la 11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/liewood-denisa-sneakers-pentru-copii-roz-lw20059-1819819",
+   "fragment": "Liewood Denisa Sneakers pentru copii roz LW20059"
+  },
+  {
+   "fapt": "exterior",
+   "url": "answear.ro/p/liewood-denisa-sneakers-pentru-copii-roz-lw20059-1819819",
+   "fragment": "Exteriorul din material textil"
+  },
+  {
+   "fapt": "neted",
+   "url": "answear.ro/p/liewood-denisa-sneakers-pentru-copii-roz-lw20059-1819819",
+   "fragment": "design simplu, neted"
+  },
+  {
+   "fapt": "utilizare",
+   "url": "answear.ro/p/liewood-denisa-sneakers-pentru-copii-roz-lw20059-1819819",
+   "fragment": "jocurilor în aer liber și al activităților preșcolare"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/liewood-denisa-sneakers-pentru-copii-roz-lw20059-1819819",
+   "fragment": "Sistemul practic de închidere cu arici"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/liewood-denisa-sneakers-pentru-copii-roz-lw20059-1819819",
+   "fragment": "Gulerul întărit"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/liewood-denisa-sneakers-pentru-copii-roz-lw20059-1819819",
+   "fragment": "Călcâi întărit"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "answear.ro/p/liewood-denisa-sneakers-pentru-copii-roz-lw20059-1819819",
+   "fragment": "Căptușeala textilă moale"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/liewood-denisa-sneakers-pentru-copii-roz-lw20059-1819819",
+   "fragment": "Talpa din cauciuc"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Liewood Denisa",
+  "Material": "textil, căptușeală textilă, talpă din cauciuc",
+  "Caracteristici": "arici, guler și călcâi întărite",
+  "Cod produs": "LW20059"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}
