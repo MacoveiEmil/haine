@@ -48,3 +48,4 @@
 12667 | Adidași Geox BISLI B461NA: titlul pe site spune Negru, magazinul dă culoarea bleumarin
 12689 | Adidași Geox CIUFCIUF B455QB bej: titlul pe site spune Bej, magazinul dă culoarea violet
 12698 | Pantofi Biomecanics 261242 bleumarin: magazinul îi descrie drept ghete înalte de iarnă, izolate; categoria Pantofi
+12716 | Bluză Tommy Jeans DW0DW22023 (cardigan negru): același cod de damă ca 8668 și 12393, mărimi XS-L; produs pentru adulți
