@@ -1,78 +1,98 @@
 {
  "id": 13508,
- "versiune": "v5",
- "descriere_html": "<p><a href=\"/brand/reima/\">Reima</a> Hiipien sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">ghete unisex</a> de iarnă din material textil și piele ecologică, în culoarea maro. Au izolație ușoară și membrană rezistentă la apă, fiind proiectate pentru zile reci cu temperaturi de până la -10°C.</p><ul><li><strong>Protecție la apă</strong>: membrană în partea superioară și rezistență sporită la acțiunea apei.</li><li><strong>Izolație termică</strong>: model ușor izolat, potrivit la temperaturi de până la -10°C.</li><li><strong>Material</strong>: textil și piele ecologică, fără PVC, potrivit pentru vegani.</li><li><strong>Închidere</strong>: șireturi elastice și bandă tip scai, ușor de încălțat fără ajutor.</li><li><strong>Branț</strong>: inserții detașabile Happy Fit, ușor de scos.</li><li><strong>Siguranță</strong>: elemente reflectorizante pentru vizibilitate pe timp de întuneric.</li></ul><p>Mărimile merg de la 28 la 38, orientativ pentru copii de la 4 ani în sus.</p>",
+ "versiune": "v7",
+ "descriere_html": "<p>Cizmele de iarnă <a href=\"/brand/reima/\">Reima</a> Hiipien maro sunt <a href=\"/categorie/unisex-incaltaminte-ghete-cizme/\">cizme unisex</a> ușor izolate, vegane, fără PVC, din material textil și piele ecologică, confortabile până la -10°C. Membrana din partea de sus apără de umezeală și lasă aerul să circule, fără garanția impermeabilității complete.</p><p>Șireturile elastice cu cârlig, scaiul și bucla de la spate fac încălțatul rapid. Partea de sus ridicată sprijină glezna.</p><p>Talpa și interiorul:</p><ul><li><strong>Talpă</strong>: spumă moale și cauciuc durabil.</li><li><strong>Inserții Happy Fit</strong>: detașabile, pentru mărime.</li><li><strong>Interior</strong>: textil.</li><li><strong>Reflectorizante</strong>: pentru seară.</li></ul><p>Numerele 28-38 se poartă de pe la 4 ani în sus.</p>",
  "surse": [
   {
-   "fapt": "brand și model",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "Reima cizme de iarna pentru copii Hiipien"
+   "fapt": "model",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Reima Cizme de iarna pentru copii Hiipien culoarea maro, 5400018B"
   },
   {
-   "fapt": "culoare",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "culoarea maro"
-  },
-  {
-   "fapt": "materiale",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "combinatia materialului textil cu pielea ecologica"
-  },
-  {
-   "fapt": "membrană",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "Membrana conținută în partea superioară"
-  },
-  {
-   "fapt": "rezistență la apă",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "Model cu rezistenta sporita la apa"
-  },
-  {
-   "fapt": "izolare ușoară",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "Model Izolare usoara"
-  },
-  {
-   "fapt": "temperatură",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "temperaturi de până la -10°C"
-  },
-  {
-   "fapt": "fără PVC",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "Acest produs nu conține PVC."
+   "fapt": "izolat",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Izolare: usor izolat"
   },
   {
    "fapt": "vegan",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "Potrivit pentru vegani."
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Potrivit pentru vegani"
   },
   {
-   "fapt": "șireturi elastice și închidere",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fapt": "PVC",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Acest produs nu conține PVC"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "combinatia materialului textil cu pielea ecologica"
+  },
+  {
+   "fapt": "temperatură",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Modelul asigură confort de utilizare la temperaturi de până la -10°C"
+  },
+  {
+   "fapt": "membrană",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Membrana conținută în partea superioară"
+  },
+  {
+   "fapt": "apă",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "nu garantează impermeabilitatea completă"
+  },
+  {
+   "fapt": "închidere",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
    "fragment": "Șireturile elastice și închiderea cu cârlig"
   },
   {
-   "fapt": "închidere cu scai",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fapt": "scai",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
    "fragment": "Fixare: cu scai"
   },
   {
-   "fapt": "inserții detașabile Happy Fit",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "Inserțiile detașabile Happy Fit"
+   "fapt": "buclă",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Bucla de la spate ușurează alunecarea pantofului peste picior"
   },
   {
-   "fapt": "elemente reflectorizante",
-   "url": "https://answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
-   "fragment": "Elementele reflectorizante sporesc vizibilitatea și siguranța după întuneric."
+   "fapt": "gleznă",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Partea superioară ridicată ajută la rigidizarea gleznei"
+  },
+  {
+   "fapt": "spumă",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Talpa intermediară din spumă oferă o senzație mai moale"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Talpa exterioară din cauciuc este durabilă"
+  },
+  {
+   "fapt": "Happy Fit",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Inserțiile detașabile Happy Fit vă permit să alegeți dimensiunea potrivită"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Interiorul textil este confortabil"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "answear.ro/p/reima-cizme-de-iarna-pentru-copii-hiipien-culoarea-maro-5400018b-1323191",
+   "fragment": "Elementele reflectorizante"
   }
  ],
  "specificatii_tehnice": {
   "Model": "Reima Hiipien",
-  "Material": "material textil și piele ecologică, fără PVC",
-  "Caracteristici": "membrană rezistentă la apă, izolație până la -10°C, șireturi elastice și scai, branț detașabil Happy Fit, detalii reflectorizante",
+  "Material": "textil și piele ecologică, interior textil, talpă din spumă și cauciuc",
+  "Caracteristici": "ușor izolate, -10°C, membrană, Happy Fit, vegane",
   "Cod produs": "5400018B"
  },
  "categorie_complementara": null,
