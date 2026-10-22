@@ -49,3 +49,4 @@
 12689 | Adidași Geox CIUFCIUF B455QB bej: titlul pe site spune Bej, magazinul dă culoarea violet
 12698 | Pantofi Biomecanics 261242 bleumarin: magazinul îi descrie drept ghete înalte de iarnă, izolate; categoria Pantofi
 12716 | Bluză Tommy Jeans DW0DW22023 (cardigan negru): același cod de damă ca 8668 și 12393, mărimi XS-L; produs pentru adulți
+12925 | Pantofi Geox GISLI J465CC verde: magazinul îi descrie drept ghete de iarnă; categoria Pantofi

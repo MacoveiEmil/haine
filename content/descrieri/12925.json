@@ -1,0 +1,74 @@
+{
+ "id": 12925,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> GISLI J465CC verzi sunt <a href=\"/categorie/baieti-incaltaminte-pantofi/\">pantofi pentru băieți</a> descriși de magazin ca ghete de iarnă, din imitație de piele și material textil, care se închid cu arici. Tehnologia GEOX Respira scoate umezeala și ține picioarele uscate chiar și la joacă intensă.</p><p>Gulerul ușor întărit sprijină glezna, iar călcâiul ușor întărit ține piciorul corect în gheată.</p><p>Pe dinăuntru și dedesubt:</p><ul><li><strong>Branț</strong>: material textil.</li><li><strong>Interior</strong>: textil.</li><li><strong>Talpă</strong>: plată, din cauciuc.</li></ul><p>Numerele 28-35 se potrivesc băieților de cam 4-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "Geox Încălțăminte pentru copii GISLI verde J465CC.0MEFU"
+  },
+  {
+   "fapt": "iarnă",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "Ghetele de iarnă pentru copii Geox GISLI"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "Partea superioară din imitație de piele și material textil"
+  },
+  {
+   "fapt": "arici",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "Închiderea practică cu arici"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "Tehnologia GEOX Respira™ contribuie la eliminarea umidității, menținând picioarele uscate"
+  },
+  {
+   "fapt": "joacă",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "chiar și în timpul jocurilor intense"
+  },
+  {
+   "fapt": "guler",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "Gulerul ușor întărit al părții superioare susține stabilizarea gleznei"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "Călcâiul ușor întărit contribuie la poziționarea corectă a piciorului în gheată"
+  },
+  {
+   "fapt": "branț",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "Branțul din material textil"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "Material textil"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-incaltaminte-pentru-copii-gisli-verde-j465cc-0mefu-1839153",
+   "fragment": "Talpa de cauciuc plată"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox GISLI",
+  "Material": "imitație de piele și textil, interior textil, talpă din cauciuc",
+  "Caracteristici": "Geox Respira, arici",
+  "Cod produs": "J465CC.0MEFU"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Magazinul îi descrie drept ghete de iarnă; pe site sunt la Pantofi."
+ ]
+}
