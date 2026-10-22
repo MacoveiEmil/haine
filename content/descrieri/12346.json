@@ -1,0 +1,24 @@
+{
+ "id": 12346,
+ "versiune": "v7",
+ "descriere_html": "<p>Vesta <a href=\"/brand/4f/\">4F</a> neagră e listată la <a href=\"/categorie/geci-jachete/\">geci pentru fete</a>, din poliester, cu umplutură sintetică și guler înalt. Ține de cald pe trunchi și lasă brațele libere, bună peste un hanorac în zilele răcoroase.</p><p>Mărimile 122-164 se potrivesc pe la 7-14 ani. Pagina magazinului nu are alte detalii despre buzunare sau închidere.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/vesta-pentru-fete-poliester-neagra-umplutura-sintetica-guler-inalt-fete-4f-p16891275-7/",
+   "fragment": "Vesta pentru fete poliester, neagra, umplutura sintetica, guler inalt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (vestă)",
+  "Material": "poliester, umplutură sintetică",
+  "Caracteristici": "guler înalt",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-14 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

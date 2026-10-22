@@ -1,0 +1,25 @@
+{
+ "id": 12037,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca din puf sintetic <a href=\"/brand/4f/\">4F</a> violet este o <a href=\"/categorie/geci-jachete/\">geacă ușoară pentru fete</a>, din poliester, cu guler ridicat. Umplutura sintetică ține de cald fără să îngreuneze geaca, bună pentru zilele reci de toamnă sau de iarnă.</p><p>Pe site sunt mărimile 122-164, potrivite cam pentru 7-14 ani. Alte detalii despre glugă sau buzunare nu apar pe pagina magazinului.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/geaca-din-puf-sintetic-pentru-fete-violet-usoara-cu-guler-ridicat-poliester-fete-4f-p16891837-7/",
+   "fragment": "Geaca din puf sintetic pentru fete violet, usoara, cu guler ridicat, poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (geacă din puf sintetic)",
+  "Material": "poliester, puf sintetic",
+  "Caracteristici": "ușoară, guler ridicat",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-14 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu.",
+  "„Toamnă sau iarnă” e dedus din tipul de umplutură."
+ ]
+}

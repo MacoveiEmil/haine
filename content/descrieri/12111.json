@@ -1,0 +1,24 @@
+{
+ "id": 12111,
+ "versiune": "v7",
+ "descriere_html": "<p>Vesta <a href=\"/brand/4f/\">4F</a> 302874620 neagră e listată la <a href=\"/categorie/geci-jachete/\">geci pentru fete</a> și e făcută din poliamidă, o fibră sintetică rezistentă. Fără mâneci, se poartă peste o bluză sau sub o geacă, după cum e vremea.</p><p>Pe site sunt mărimile 128-146, potrivite cam pentru 8-11 ani. Pagina magazinului nu spune dacă vesta e izolată sau ce închidere are.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/vesta-fete-302874620-poliamida-negru-fete-4f-p16829905-7/",
+   "fragment": "Vesta Fete, 302874620, Poliamida, Negru"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F 302874620",
+  "Material": "poliamidă",
+  "Caracteristici": "vestă",
+  "Cod produs": "302874620"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "8-11 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

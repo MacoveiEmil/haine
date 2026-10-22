@@ -1,0 +1,24 @@
+{
+ "id": 12063,
+ "versiune": "v7",
+ "descriere_html": "<p>Pantofii sport <a href=\"/brand/geox/\">Geox</a> 303950194 bej sunt <a href=\"/categorie/adidasi/\">adidași pentru fete</a> din piele ecologică, într-o nuanță deschisă, ușor de purtat cu blugi, colanți sau rochițe, zi de zi.</p><p>Pe site e disponibil doar numărul 24, care se potrivește de obicei pe la 2-3 ani. Pagina magazinului nu dă tipul de închidere sau de talpă.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/pantofi-sport-fete-303950194-piele-ecologica-bej-bej-fete-geox-p16882314-7/",
+   "fragment": "Pantofi sport fete 303950194, Piele ecologica, Bej, Bej"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox 303950194",
+  "Material": "piele ecologică",
+  "Caracteristici": "",
+  "Cod produs": "303950194"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-3 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

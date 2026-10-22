@@ -1,0 +1,24 @@
+{
+ "id": 12343,
+ "versiune": "v7",
+ "descriere_html": "<p>Vesta de puf <a href=\"/brand/4f/\">4F</a> verde e listată la <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geci pentru băieți</a> și are umplutură sintetică și exterior din poliester, pentru primăvară și vară, când dimineața e încă răcoare.</p><p>Mărimile 122-164 de pe site acoperă, cu aproximație, 7-14 ani. Pe pagina magazinului nu apar detalii despre buzunare sau închidere.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/vesta-de-puf-pentru-baieti-umplutura-sintetica-poliester-verde-primavara-vara-fete-4f-p16892106-7/",
+   "fragment": "Vesta de puf pentru baieti, umplutura sintetica, poliester, verde, primavara-vara"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (vestă de puf)",
+  "Material": "poliester, umplutură sintetică",
+  "Caracteristici": "vestă, primăvară-vară",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-14 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

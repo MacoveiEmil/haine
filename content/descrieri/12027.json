@@ -1,0 +1,24 @@
+{
+ "id": 12027,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca <a href=\"/brand/4f/\">4F</a> bleumarin este o <a href=\"/categorie/baieti-imbracaminte-geci-jachete/\">geacă pentru băieți</a> din poliester, cu guler înalt care ține gâtul la adăpost de vânt, într-o culoare închisă, practică pentru zilele de școală și pentru plimbări.</p><p>Mărimile 122-164 de pe site se potrivesc, orientativ, la 7-14 ani. Pagina magazinului nu spune dacă e izolată sau dacă are glugă, așa că e bine de verificat pozele înainte de comandă.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/geaca-pentru-baieti-bleumarin-poliester-guler-inalt-fete-4f-p16892997-7/",
+   "fragment": "Geaca pentru baieti bleumarin, poliester, guler inalt"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (geacă cu guler înalt)",
+  "Material": "poliester",
+  "Caracteristici": "guler înalt",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-14 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

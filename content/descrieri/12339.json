@@ -1,0 +1,24 @@
+{
+ "id": 12339,
+ "versiune": "v7",
+ "descriere_html": "<p>Jacheta de tranziție <a href=\"/brand/4f/\">4F</a> gri este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> de primăvară-vară, din poliester, cu membrană 5000, care ajută la protecția împotriva ploii, potrivită pentru zilele cu vreme schimbătoare.</p><p>Mărimile 122-164 merg orientativ la 7-14 ani. Magazinul nu dă alte detalii, așa că gluga, buzunarele și închiderea se văd doar în pozele de pe pagină.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/jacheta-de-tranzitie-copii-poliester-membrana-5000-unisex-gri-primavara-vara-fete-4f-p16893098-7/",
+   "fragment": "Jacheta de tranzitie copii, Poliester, membrana 5000, unisex, gri, primavara-vara"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (jachetă de tranziție)",
+  "Material": "poliester, membrană 5000",
+  "Caracteristici": "membrană, primăvară-vară",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-14 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}

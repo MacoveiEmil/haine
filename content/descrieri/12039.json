@@ -1,0 +1,25 @@
+{
+ "id": 12039,
+ "versiune": "v7",
+ "descriere_html": "<p>Jacheta <a href=\"/brand/4f/\">4F</a> roz este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> din poliester, cu tehnologia 4FWarm, adică un material gândit să păstreze căldura corpului în zilele mai reci, la școală sau afară.</p><p>Mărimile 122-164 merg, în jur de 7-14 ani. Magazinul nu precizează alte detalii, cum ar fi gluga sau tipul de închidere, deci pozele de pe pagina lui sunt cea mai bună referință.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/jacheta-copii-tehnologia-4fwarm-poliester-roz-fete-4f-p16891556-7/",
+   "fragment": "Jacheta copii Tehnologia 4FWarm, Poliester, Roz"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (jachetă 4FWarm)",
+  "Material": "poliester",
+  "Caracteristici": "4FWarm",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-14 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu.",
+  "Explicația pentru 4FWarm e dedusă din numele tehnologiei."
+ ]
+}

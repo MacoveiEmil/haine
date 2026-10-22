@@ -97,3 +97,6 @@
 11449 Konges Sløjd FUZZIE: titlul site-ului are „FUZZIE” în loc de culoare (la magazin: roșu)
 11605 Calvin Klein Jeans IU0IU00727: titlul site-ului are „blugi” în loc de culoare (la magazin: albastru)
 11323 Burton FROSTNER: magazinul dă „negru” în titlu și „violet” în date
+11633 Liewood Borris: titlul site-ului are „Borris” în loc de culoare (la magazin: albastru)
+11957 4F jachetă trekking: titlul site-ului are „membrana” în loc de culoare (albastră)
+11892 11939 11942 11957 12023 12025 (Fashion Days): pagina nu are descriere, doar titlul; descrieri scurte cu date_insuficiente

@@ -1,0 +1,24 @@
+{
+ "id": 12345,
+ "versiune": "v7",
+ "descriere_html": "<p>Jacheta de puf <a href=\"/brand/4f/\">4F</a> turcoaz este o <a href=\"/categorie/geci-jachete/\">geacă de iarnă pentru fete</a>, cu umplutură sintetică, guler înalt și un design ușor, din poliester. Gulerul înalt apără gâtul de frig, iar umplutura ține de cald.</p><p>Pe site e doar mărimea 128, care se potrivește de obicei pe la 7-8 ani. Magazinul nu precizează dacă are glugă.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.fashiondays.ro/p/jacheta-de-puf-pentru-fete-turcoaz-umplutura-sintetica-guler-inalt-design-usor-poliester-baieti-4f-p16891917-8/",
+   "fragment": "Jacheta de puf pentru fete, turcoaz, umplutura sintetica, guler inalt, design usor, poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "4F (jachetă de puf)",
+  "Material": "poliester, umplutură sintetică",
+  "Caracteristici": "guler înalt, design ușor",
+  "Cod produs": ""
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "7-8 ani",
+ "date_insuficiente": true,
+ "confidence_notes": [
+  "Pagina magazinului (Fashion Days) nu are descriere detaliată; am folosit doar faptele din titlu."
+ ]
+}
