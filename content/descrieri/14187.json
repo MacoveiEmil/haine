@@ -1,0 +1,99 @@
+{
+ "id": 14187,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de iarnă <a href=\"/brand/alpine-pro/\">ALPINE PRO</a> NALANO roz este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> din material cald, impermeabil și rezistent la vânt, cu tratament DWR, umplutură densă, extrem de ușoară, și căptușeală călduroasă. Materialul multicolor are imprimeu în față și un element decorativ pe mânecă.</p><p>Gluga are căptușeală caldă și protecție pentru bărbie, iar fermoarul are cursoare lungi, ușor de prins.</p><p>Restul detaliilor:</p><ul><li><strong>Buzunare</strong>: două laterale, cu fermoar.</li><li><strong>Mâneci</strong>: cu tiv elastic.</li><li><strong>Material</strong>: 100% poliester.</li></ul><p>Mărimile 104-110 până la 152-158 sunt pentru copii de aproximativ 4-13 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "ALPINE PRO NALANO"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "Roz (roz / mov)"
+  },
+  {
+   "fapt": "iarnă",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "Geaca de iarnă pentru copii ALPINE PRO NALANO"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "material impermeabil, permeabil la vapori, rezistent la vânt, călduros"
+  },
+  {
+   "fapt": "DWR",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "material cu tratament DWR"
+  },
+  {
+   "fapt": "umplutură",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "Umplutura extrem de ușoară este călduroasă"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "căptușeală călduroasă"
+  },
+  {
+   "fapt": "multicolor",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "materialul multicolor se remarcă"
+  },
+  {
+   "fapt": "imprimeu",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "imprimeu în partea din față"
+  },
+  {
+   "fapt": "mânecă",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "element decorativ pe mânecă"
+  },
+  {
+   "fapt": "glugă",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "glugă detașabilă cu căptușeală din material călduros"
+  },
+  {
+   "fapt": "bărbie",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "protecție pentru bărbie"
+  },
+  {
+   "fapt": "cursoare",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "cursoare mai lungi pentru manipulare mai ușoară"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "2 (2x laterale cu fermoar)"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "mâneci cu tiv cu elastic"
+  },
+  {
+   "fapt": "poliester",
+   "url": "www.sportisimo.ro/alpine-pro/nalano/812747/",
+   "fragment": "100 % poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "ALPINE PRO NALANO",
+  "Material": "100% poliester, umplutură densă",
+  "Caracteristici": "DWR, glugă cu căptușeală, protecție la bărbie",
+  "Cod produs": "146074"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-13 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Descrierea scurtă spune glugă fixă, lista spune glugă detașabilă; n-am scris dacă se detașează."
+ ]
+}

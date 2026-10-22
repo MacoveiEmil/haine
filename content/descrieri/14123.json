@@ -1,0 +1,56 @@
+{
+ "id": 14123,
+ "versiune": "v7",
+ "descriere_html": "<p>Hanoracul <a href=\"/brand/gap/\">GAP</a> FASHION LOGO este listat la <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geci unisex</a>, dar e un hanorac roz cu logo, cu decolteu rotund și mânecă lungă cu manșetă. Croiala dreaptă e comodă la purtare.</p><p>E din bumbac cu poliester. Pagina magazinului dă puține detalii, iar produsul apare ca vândut.</p><p>Detaliile de bază:</p><ul><li><strong>Material</strong>: 77% bumbac, 23% poliester.</li><li><strong>Decolteu</strong>: rotund.</li><li><strong>Mâneci</strong>: lungi, cu manșetă.</li></ul><p>Mărimile, de la L la XXL, corespund de obicei copiilor mai mari, de aproximativ 10-16 ani; verificați tabelul magazinului.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/gap/fashion-logo/1426028/",
+   "fragment": "GAP FASHION LOGO"
+  },
+  {
+   "fapt": "logo",
+   "url": "www.sportisimo.ro/gap/fashion-logo/1426028/",
+   "fragment": "beneficiază de logo"
+  },
+  {
+   "fapt": "decolteu",
+   "url": "www.sportisimo.ro/gap/fashion-logo/1426028/",
+   "fragment": "Are un decolteu rotund"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "www.sportisimo.ro/gap/fashion-logo/1426028/",
+   "fragment": "mânecă lungă cu manșetă"
+  },
+  {
+   "fapt": "croială",
+   "url": "www.sportisimo.ro/gap/fashion-logo/1426028/",
+   "fragment": "Croiala dreaptă este foarte confortabilă"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/gap/fashion-logo/1426028/",
+   "fragment": "77 % bumbac, 23 % poliester"
+  },
+  {
+   "fapt": "vândut",
+   "url": "www.sportisimo.ro/gap/fashion-logo/1426028/",
+   "fragment": "VÂNDUT"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "GAP FASHION LOGO",
+  "Material": "77% bumbac, 23% poliester",
+  "Caracteristici": "logo, decolteu rotund, croială dreaptă",
+  "Cod produs": "213644"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "10-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului nu dă culoarea și arată produsul ca vândut; culoarea e cea din titlu.",
+  "Mărimile sunt în litere (L-XXL), fără tabel; vârsta e estimată.",
+  "E hanorac, listat la Geci."
+ ]
+}

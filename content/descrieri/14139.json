@@ -1,0 +1,90 @@
+{
+ "id": 14139,
+ "versiune": "v7",
+ "descriere_html": "<p>Ghetele barefoot <a href=\"/brand/reima/\">Reima</a> LOIKKII, maro după titlul de pe site, sunt <a href=\"/categorie/unisex-incaltaminte-pantofi/\">pantofi unisex</a> impermeabili, vegani, cu membrană care ține degetele uscate și detalii reflectorizante. Drop zero și spațiul extins pentru degete lasă piciorul în poziție naturală.</p><p>Talpa flexibilă din cauciuc ține bine pe sol, iar șireturile elastice fac încălțatul rapid. Sunt bune pentru sezoanele de tranziție, pe orice vreme.</p><p>Din ce sunt făcute:</p><ul><li><strong>Față</strong>: cauciuc, poliester, poliuretan.</li><li><strong>Branț</strong>: detașabil, cu materiale reciclate.</li><li><strong>Greutate</strong>: 440 g, fără fluorocarbon și PVC.</li></ul><p>Numerele 32-40 se poartă de pe la 8 ani în sus.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "REIMA LOIKKII"
+  },
+  {
+   "fapt": "barefoot",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "Ghetele barefoot pentru copii Reima LOIKKII sunt impermeabile"
+  },
+  {
+   "fapt": "membrană",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "Au o membrană impermeabilă care menține degetele uscate"
+  },
+  {
+   "fapt": "reflectorizant",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "detalii reflectorizante pentru o vizibilitate mai bună"
+  },
+  {
+   "fapt": "vegan",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "vegane"
+  },
+  {
+   "fapt": "drop",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "drop zero pentru o poziție naturală"
+  },
+  {
+   "fapt": "degete",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "spațiul extins pentru degete"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "talpa din cauciuc asigură o aderență optimă"
+  },
+  {
+   "fapt": "șireturi",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "se fixează cu șireturi elastice"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "Sunt ideale pentru sezoanele de tranziție în orice vreme"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "cauciuc, poliester, poliuretan"
+  },
+  {
+   "fapt": "branț",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "branțul conține materiale reciclate"
+  },
+  {
+   "fapt": "greutate",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "440 g"
+  },
+  {
+   "fapt": "PVC",
+   "url": "www.sportisimo.ro/reima/loikkii/1495542/",
+   "fragment": "fără fluorocarbon și PVC"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima LOIKKII",
+  "Material": "cauciuc, poliester, poliuretan",
+  "Caracteristici": "barefoot, impermeabile, drop zero, șireturi elastice",
+  "Cod produs": "220327"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "de la 8 ani în sus",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Pagina magazinului nu dă culoarea; culoarea e cea din titlul site-ului.",
+  "Magazinul le numește ghete; pe site sunt la Pantofi."
+ ]
+}

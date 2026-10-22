@@ -59,3 +59,5 @@
 13537 | Cizme Columbia SNOWTROT MID 2078911: titlul spune Negru, magazinul dă culoarea bej
 13946 | Tricou Reima VIISAS 5200012B: titlul spune Gri, magazinul dă culoarea Mix; descrierea pomenește lână Merino, dar compoziția e bumbac, viscoză (bambus) și poliamidă
 14091 | Geacă Reima PORTIT 5100155K (Sportisimo): pagina magazinului arată VÂNDUT și nu dă culoarea; specificațiile pomenesc și crac lung, ca la un set
+14123 | Hanorac GAP FASHION LOGO 826982-01 (Sportisimo): pagina arată VÂNDUT, fără culoare; e hanorac listat la Geci; mărimi în litere (L-XXL) fără tabel
+14137 | Salopetă softshell Reima MJOSA 5100006A (Sportisimo): e overal, listat la Geci

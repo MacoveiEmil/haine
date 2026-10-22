@@ -1,0 +1,67 @@
+{
+ "id": 14108,
+ "versiune": "v7",
+ "descriere_html": "<p>Sandalele <a href=\"/brand/reima/\">Reima</a> LOMALLA maro sunt <a href=\"/categorie/unisex-incaltaminte-sandale/\">sandale unisex</a> pentru vară, acoperite la vârf și la călcâi, bune pentru activitățile de zi cu zi. Se prind cu șireturi elastice și bandă velcro, deci se încalță repede.</p><p>Talpa moale din Phylon e ușoară, iar căptușeala elastică e lejeră pe picior. Vârful acoperit apără degetele, iar călcâiul închis ține sandala pe picior.</p><p>Detaliile de bază:</p><ul><li><strong>Branț</strong>: detașabil, cu imprimeu Happy Fit.</li><li><strong>Față</strong>: material sintetic.</li><li><strong>Talpă</strong>: Phylon.</li></ul><p>Numerele 20-26 se potrivesc copiilor de aproximativ 1-4 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/reima/lomalla/1703635/",
+   "fragment": "REIMA LOMALLA"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/reima/lomalla/1703635/",
+   "fragment": "Maro (maro / negru / alb)"
+  },
+  {
+   "fapt": "vară",
+   "url": "www.sportisimo.ro/reima/lomalla/1703635/",
+   "fragment": "model universal pentru sezonul de vară"
+  },
+  {
+   "fapt": "acoperit",
+   "url": "www.sportisimo.ro/reima/lomalla/1703635/",
+   "fragment": "Sunt acoperite în vârf și la călcâi"
+  },
+  {
+   "fapt": "zilnic",
+   "url": "www.sportisimo.ro/reima/lomalla/1703635/",
+   "fragment": "activităților de zi cu zi"
+  },
+  {
+   "fapt": "închidere",
+   "url": "www.sportisimo.ro/reima/lomalla/1703635/",
+   "fragment": "se încheie cu șireturi elastice și bandă velcro"
+  },
+  {
+   "fapt": "talpă",
+   "url": "www.sportisimo.ro/reima/lomalla/1703635/",
+   "fragment": "talpă moale din material Phylon"
+  },
+  {
+   "fapt": "căptușeală",
+   "url": "www.sportisimo.ro/reima/lomalla/1703635/",
+   "fragment": "căptușeală elastică lejeră"
+  },
+  {
+   "fapt": "branț",
+   "url": "www.sportisimo.ro/reima/lomalla/1703635/",
+   "fragment": "branț detașabil cu imprimeu Happy Fit"
+  },
+  {
+   "fapt": "față",
+   "url": "www.sportisimo.ro/reima/lomalla/1703635/",
+   "fragment": "material sintetic"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Reima LOMALLA",
+  "Material": "sintetic, talpă Phylon",
+  "Caracteristici": "șireturi elastice și velcro, vârf acoperit, Happy Fit",
+  "Cod produs": "240080"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "1-4 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

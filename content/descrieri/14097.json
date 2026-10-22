@@ -1,0 +1,90 @@
+{
+ "id": 14097,
+ "versiune": "v7",
+ "descriere_html": "<p>Geaca de schi <a href=\"/brand/spyder/\">Spyder</a> IMPULSE albastră este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă unisex</a> cu umplutură din puf sintetic, bună și în oraș, și pe pârtie. Țesătura elastică Exo Shield, din poliester reciclat, are membrană și tratament DWR, coloană de apă de 10.000 mm și cusături lipite.</p><p>Gluga e compatibilă cu casca, iar centura de zăpadă elastică oprește zăpada. Mânecile se reglează cu benzi și au manșete interioare cu orificii pentru degetul mare.</p><p>Buzunarele și închiderea:</p><ul><li><strong>Fermoar</strong>: YKK Arrow Vislon.</li><li><strong>Buzunare</strong>: pentru mâini, ski-pass, interior și pentru ochelari.</li><li><strong>Material</strong>: 55% poliester, 45% poliester reciclat.</li></ul><p>Mărimile 10-16 sunt date în ani, deci pentru copii de aproximativ 10-16 ani.</p>",
+ "surse": [
+  {
+   "fapt": "model",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "Spyder IMPULSE"
+  },
+  {
+   "fapt": "culoare",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "Albastru (albastru / gri / roșu)"
+  },
+  {
+   "fapt": "puf",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "Geaca din puf sintetic Spyder IMPULSE"
+  },
+  {
+   "fapt": "oraș",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "confort optim în oraș și pe pârtii"
+  },
+  {
+   "fapt": "Exo",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "țesătură elastică exo shield fabricată din poliester reciclat cu membrană și peliculă dwr"
+  },
+  {
+   "fapt": "coloană",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "10.000 mm"
+  },
+  {
+   "fapt": "lipite",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "cusături lipite"
+  },
+  {
+   "fapt": "cască",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "glugă fixă compatibilă cu casca"
+  },
+  {
+   "fapt": "centură",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "centură de zăpadă elastică și rezistentă"
+  },
+  {
+   "fapt": "mâneci",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "mâneci reglabile cu benzi și manșete interioare elastice cu orificii pentru degetul mare"
+  },
+  {
+   "fapt": "YKK",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "fermoarul principal ykk® arrow vislon®"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "buzunar pentru permis de schi, buzunar interior și buzunar pentru ochelari de protecție din plasă"
+  },
+  {
+   "fapt": "mâini",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "buzunare cu fermoar pentru mâini"
+  },
+  {
+   "fapt": "material",
+   "url": "www.sportisimo.ro/spyder/impulse/940369/",
+   "fragment": "55 % poliester, 45 % poliester reciclat"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Spyder IMPULSE",
+  "Material": "poliester, parțial reciclat, puf sintetic",
+  "Caracteristici": "10.000 mm, cusături lipite, centură de zăpadă, glugă pentru cască",
+  "Cod produs": "157424"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "10-16 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Mărimile sunt date în ani (10-16).",
+  "Descrierea scurtă spune glugă detașabilă, lista spune glugă fixă compatibilă cu casca; n-am scris dacă se detașează."
+ ]
+}
