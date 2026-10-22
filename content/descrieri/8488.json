@@ -1,0 +1,74 @@
+{
+ "id": 8488,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/geox/\">Geox</a> J944GD sunt <a href=\"/categorie/incaltaminte-pantofi/\">pantofi pentru fete</a> negri, din material sintetic, cu interior din textil și piele naturală. Au sistemul Anti Shock în talpă și tehnologia Geox Respira, cu talpă în trei straturi.</p><p>Se leagă cu șireturi, dar au și fermoar, așa că se pot încălța fără să desfaci șiretul de fiecare dată: el rămâne reglat pe piciorul copilului.</p><p>În rest, pantofii au:</p><ul><li><strong>Vârf</strong>: ușor rigidizat.</li><li><strong>Călcâi</strong>: rigidizat la spate.</li><li><strong>Talpă</strong>: din gumă.</li></ul><p>Pe site sunt numerele 24-35, pentru copii de aproximativ 2-11 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "J944GD.000HH"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "Geox negru J944GD"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "Model confectionat din material sintetic"
+  },
+  {
+   "fapt": "interior",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "Interiorul: Material textil, Piele naturala"
+  },
+  {
+   "fapt": "Anti Shock",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "Anti Shock este un sistem de absorbtie a socurilor"
+  },
+  {
+   "fapt": "Respira",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "talpei in trei straturi cu sistemul de perforari"
+  },
+  {
+   "fapt": "șireturi",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "Model legat cu sireturi"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "Incheiere cu fermoar"
+  },
+  {
+   "fapt": "vârf",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "Varful usor rigidizat"
+  },
+  {
+   "fapt": "călcâi",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "Spatele calcaiului rigidizat"
+  },
+  {
+   "fapt": "talpă",
+   "url": "answear.ro/p/geox-pantofi-copii-35033",
+   "fragment": "Talpa din guma"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Geox J944GD",
+  "Material": "sintetic, interior textil și piele naturală, talpă din gumă",
+  "Caracteristici": "Anti Shock, Geox Respira, șireturi și fermoar",
+  "Cod produs": "J944GD.000HH"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "2-11 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site nu are culoare; pagina magazinului arată negru."
+ ]
+}

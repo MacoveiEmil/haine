@@ -1,0 +1,62 @@
+{
+ "id": 8498,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/wheat/\">Wheat</a> 7378-927R este o <a href=\"/categorie/unisex-imbracaminte-geci-jachete/\">geacă subțire unisex</a>, roșie, din poliester, fără izolație și fără căptușeală, făcută pentru zilele mai blânde de primăvară și de toamnă.</p><p>Fasonul e oversize: geaca vine largă și lasă loc de un pulover sau un hanorac dedesubt, iar mânecile se termină cu manșetă.</p><p>Fermoarul e scurt, deci geaca se îmbracă pe jumătate peste cap:</p><ul><li><strong>Închidere</strong>: fermoar scurt.</li><li><strong>Glugă</strong>: fixă.</li><li><strong>Guler</strong>: ridicat.</li><li><strong>Material</strong>: 100% poliester.</li></ul><p>Între 98 și 140, mărimile acoperă cam vârsta de 3-10 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7378-927r-grs-1729690",
+   "fragment": "7378-927R GRS"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7378-927r-grs-1729690",
+   "fragment": "culoarea roșu"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7378-927r-grs-1729690",
+   "fragment": "Model neizolat"
+  },
+  {
+   "fapt": "necăptușit",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7378-927r-grs-1729690",
+   "fragment": "Captuseala: necaptusit"
+  },
+  {
+   "fapt": "oversize",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7378-927r-grs-1729690",
+   "fragment": "Fason oversize"
+  },
+  {
+   "fapt": "fermoar",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7378-927r-grs-1729690",
+   "fragment": "Închiderea cu fermoar scurt"
+  },
+  {
+   "fapt": "glugă, guler",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7378-927r-grs-1729690",
+   "fragment": "Gulerul ridicat și gluga fixă"
+  },
+  {
+   "fapt": "manșetă",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7378-927r-grs-1729690",
+   "fragment": "Finisaj din manseta"
+  },
+  {
+   "fapt": "material",
+   "url": "answear.ro/p/wheat-geaca-copii-culoarea-rosu-7378-927r-grs-1729690",
+   "fragment": "100% Poliester"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Wheat 7378-927R",
+  "Material": "100% poliester",
+  "Caracteristici": "fără izolație și căptușeală, oversize, fermoar scurt, glugă fixă",
+  "Cod produs": "7378-927R"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "3-10 ani",
+ "date_insuficiente": false,
+ "confidence_notes": []
+}

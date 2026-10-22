@@ -1,0 +1,84 @@
+{
+ "id": 8483,
+ "versiune": "v7",
+ "descriere_html": "<p><a href=\"/brand/desigual/\">Desigual</a> 25WGED01 este o <a href=\"/categorie/geci-jachete/\">geacă de blugi pentru fete</a>, albastră, cu motive cu personaje de basm, fără izolație și fără căptușeală. E o geacă de tranziție, pentru primăvară și toamnă.</p><p>Croiala e simplă, iar materialul e mai ales bumbac (86%), cu puțin lyocell, poliester și viscoză, așa că se poartă ușor peste un tricou sau un hanorac subțire.</p><p>Se încheie și se folosește ca o geacă de blugi clasică:</p><ul><li><strong>Închidere</strong>: nasturi.</li><li><strong>Buzunare</strong>: două laterale și două la piept.</li><li><strong>Glugă</strong>: are.</li><li><strong>Bumbac</strong>: Better Cotton, cel puțin 50% din bumbac vine de la producători din această inițiativă.</li></ul><p>Geaca vine în mărimile 104-164, potrivite copiilor de pe la 4 până pe la 14 ani.</p>",
+ "surse": [
+  {
+   "fapt": "cod",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "25WGED01"
+  },
+  {
+   "fapt": "culoare",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "albastru"
+  },
+  {
+   "fapt": "personaje",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "Personaje de basm"
+  },
+  {
+   "fapt": "neizolat",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "Model neizolat"
+  },
+  {
+   "fapt": "necăptușit",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "Captuseala: necaptusit"
+  },
+  {
+   "fapt": "tranziție",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "Izolare: tranzitional"
+  },
+  {
+   "fapt": "jeans",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "Material: jeans"
+  },
+  {
+   "fapt": "croială",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "Tăiere simplă"
+  },
+  {
+   "fapt": "compoziție",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "86% Bumbac, 7% Lyocell, 5% Poliester , 2% Viscoza"
+  },
+  {
+   "fapt": "nasturi",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "Incheiere cu nasturi"
+  },
+  {
+   "fapt": "buzunare",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "Două buzunare laterale și două buzunare la piept"
+  },
+  {
+   "fapt": "glugă",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "Gluga: cu gluga"
+  },
+  {
+   "fapt": "Better Cotton",
+   "url": "answear.ro/p/desigual-geaca-copii-25wged01-1579427",
+   "fragment": "contin cel putin 50% bumbac de la un vanzator sau o marca apartinand initiativei Better Cotton"
+  }
+ ],
+ "specificatii_tehnice": {
+  "Model": "Desigual 25WGED01",
+  "Material": "86% bumbac, 7% lyocell, 5% poliester, 2% viscoză",
+  "Caracteristici": "de tranziție, fără căptușeală, nasturi, patru buzunare, glugă",
+  "Cod produs": "25WGED01"
+ },
+ "categorie_complementara": null,
+ "varsta_orientativa": "4-14 ani",
+ "date_insuficiente": false,
+ "confidence_notes": [
+  "Titlul de pe site nu are culoare; pagina magazinului dă albastru."
+ ]
+}
