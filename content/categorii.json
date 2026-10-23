@@ -1,52 +1,52 @@
 [
     {
         "slug": "/categorie/bebe/",
-        "cale": "Bebe",
+        "cale": "Bebeluși",
         "produse": 0
     },
     {
         "slug": "/categorie/imbracaminte-bebe/",
-        "cale": "Bebe › Îmbrăcăminte",
+        "cale": "Bebeluși › Îmbrăcăminte",
         "produse": 0
     },
     {
         "slug": "/categorie/bebe-imbracaminte-bluze-tricouri-hanorace/",
-        "cale": "Bebe › Îmbrăcăminte › Bluze, tricouri & hanorace",
+        "cale": "Bebeluși › Îmbrăcăminte › Bluze, tricouri & hanorace",
         "produse": 2
     },
     {
         "slug": "/categorie/bebe-imbracaminte-geci-jachete/",
-        "cale": "Bebe › Îmbrăcăminte › Geci & jachete",
+        "cale": "Bebeluși › Îmbrăcăminte › Geci & jachete",
         "produse": 16
     },
     {
         "slug": "/categorie/bebe-imbracaminte-pantaloni-treninguri/",
-        "cale": "Bebe › Îmbrăcăminte › Pantaloni & treninguri",
+        "cale": "Bebeluși › Îmbrăcăminte › Pantaloni & treninguri",
         "produse": 3
     },
     {
         "slug": "/categorie/bebe-imbracaminte-salopete-compleuri/",
-        "cale": "Bebe › Îmbrăcăminte › Salopete & compleuri",
+        "cale": "Bebeluși › Îmbrăcăminte › Salopete & compleuri",
         "produse": 6
     },
     {
         "slug": "/categorie/incaltaminte-bebe/",
-        "cale": "Bebe › Încălțăminte",
+        "cale": "Bebeluși › Încălțăminte",
         "produse": 0
     },
     {
         "slug": "/categorie/bebe-incaltaminte-adidasi/",
-        "cale": "Bebe › Încălțăminte › Adidași",
+        "cale": "Bebeluși › Încălțăminte › Adidași",
         "produse": 59
     },
     {
         "slug": "/categorie/bebe-incaltaminte-ghete-cizme/",
-        "cale": "Bebe › Încălțăminte › Ghete & cizme",
+        "cale": "Bebeluși › Încălțăminte › Ghete & cizme",
         "produse": 14
     },
     {
         "slug": "/categorie/bebe-incaltaminte-pantofi/",
-        "cale": "Bebe › Încălțăminte › Pantofi",
+        "cale": "Bebeluși › Încălțăminte › Pantofi",
         "produse": 39
     },
     {
@@ -95,11 +95,6 @@
         "produse": 0
     },
     {
-        "slug": "/categorie/baieti-incaltaminte-adidasi/",
-        "cale": "Băieți › Încălțăminte › Adidași",
-        "produse": 101
-    },
-    {
         "slug": "/categorie/baieti-incaltaminte-ghete-cizme/",
         "cale": "Băieți › Încălțăminte › Ghete & cizme",
         "produse": 20
@@ -108,6 +103,11 @@
         "slug": "/categorie/baieti-incaltaminte-pantofi/",
         "cale": "Băieți › Încălțăminte › Pantofi",
         "produse": 16
+    },
+    {
+        "slug": "/categorie/baieti-incaltaminte-adidasi/",
+        "cale": "Băieți › Încălțăminte › Pantofi Sport",
+        "produse": 101
     },
     {
         "slug": "/categorie/baieti-incaltaminte-papuci/",
