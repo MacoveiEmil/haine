@@ -567,6 +567,17 @@ function hainute_the_product_schema( $product_id ) {
 	// ofertele magazinelor care o au (InStock) sau au epuizat-o (OutOfStock).
 	$variants = hainute_schema_size_variants( $product_id, $schema['name'], $by_store );
 	if ( $variants ) {
+		// Google (Merchant listings) cere poză și descriere pe fiecare variantă, nu doar
+		// pe grup: aceeași culoare, deci aceleași poze și aceeași descriere.
+		foreach ( $variants as &$v ) {
+			if ( ! empty( $schema['image'] ) ) {
+				$v['image'] = $schema['image'];
+			}
+			if ( ! empty( $schema['description'] ) ) {
+				$v['description'] = $schema['description'];
+			}
+		}
+		unset( $v );
 		unset( $schema['offers'], $schema['size'], $schema['gtin'] );
 		$schema['@type']          = 'ProductGroup';
 		$schema['productGroupID'] = ! empty( $schema['mpn'] ) ? $schema['mpn'] : (string) $product_id;
