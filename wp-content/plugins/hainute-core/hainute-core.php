@@ -18,6 +18,7 @@ define( 'HAINUTE_CORE_URL', plugin_dir_url( __FILE__ ) );
 
 require_once HAINUTE_CORE_DIR . 'includes/config.php';
 require_once HAINUTE_CORE_DIR . 'includes/login-guard.php';
+require_once HAINUTE_CORE_DIR . 'includes/seo-compat.php';
 require_once HAINUTE_CORE_DIR . 'includes/install.php';
 require_once HAINUTE_CORE_DIR . 'includes/post-types.php';
 require_once HAINUTE_CORE_DIR . 'includes/stores.php';

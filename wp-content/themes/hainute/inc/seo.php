@@ -607,13 +607,8 @@ add_filter( 'rest_endpoints', function ( $endpoints ) {
  * ce contează: categoriile, brandurile și magazinele active în sitemap (setarea lui de
  * taxonomii e oprită implicit) și noindex pe paginile subțiri, ca înainte.
  */
-add_filter( 'option_rank-math-options-sitemap', function ( $opt ) {
-	$opt = is_array( $opt ) ? $opt : array();
-	foreach ( array( 'product_cat', 'product_brand', 'store' ) as $tax ) {
-		$opt[ 'tax_' . $tax . '_sitemap' ] = 'on';
-	}
-	return $opt;
-} );
+// Setarea de taxonomii a sitemap-ului: în hainute-core/includes/seo-compat.php (Rank Math
+// își citește setările înaintea temei).
 
 /** Termen subțire: categorie cu sub 3 produse sau magazin inactiv/dublură. */
 function hainute_term_is_thin( $term ) {
