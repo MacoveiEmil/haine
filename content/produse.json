@@ -10,12 +10,7 @@
         "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "baieti",
-        "marimi": [
-            "L",
-            "M",
-            "S",
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-jdb-ess-draft-jacket/"
@@ -4971,6 +4966,14 @@
         "tip": "Pantofi",
         "gen": "baieti",
         "marimi": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
             36,
             37,
             38,
@@ -17585,7 +17588,7 @@
             122,
             128
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/donsje-geaca-de-tranzitie-pentru-copii-damian-jacket/"
     },
@@ -19635,7 +19638,7 @@
             152,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/columbia-parka-pentru-copii-2090241/"
     },
@@ -23424,7 +23427,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/tommy-hilfiger-sneakers-pentru-copii-34369/"
     },
@@ -23771,7 +23774,7 @@
             29,
             30
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-88835/"
     },
@@ -28119,7 +28122,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-cizme-de-iarna-pentru-copii-4/"
     },
@@ -32280,13 +32283,9 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
-            "104-110",
-            "116-122",
-            "128-134",
-            "140-146",
-            "152-158"
+            "116-122"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/alpine-pro-nurga-geaca-pentru-copii-roz-marime/"
     },
