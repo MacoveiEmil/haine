@@ -1,5 +1,8 @@
 # Raport publicare
 
+## 2026-10-24 19:15 (e4dd9e7, Macovei Emil)
+- cod/configurație actualizate: wp-content/plugins/hainute-core/hainute-core.php wp-content/plugins/hainute-core/includes/seo-compat.php wp-content/themes/hainute/inc/seo.php 
+
 ## 2026-10-24 19:13 (1758cb9, Macovei Emil)
 - cod/configurație actualizate: wp-content/themes/hainute/inc/seo.php 
 
