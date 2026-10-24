@@ -1,5 +1,8 @@
 # Raport publicare
 
+## 2026-10-24 19:09 (eaefddb, Macovei Emil)
+- cod/configurație actualizate: wp-content/themes/hainute/inc/template-tags.php 
+
 ## 2026-10-22 21:17 (5806ed4, Macovei Emil)
 - containerele au fost repornite (configurație Docker modificată)
 - cod/configurație actualizate: PROJECT_ROADMAP.md docker/gate.php docker/secrets.env.example wp-content/plugins/hainute-core/hainute-core.php wp-content/plugins/hainute-core/includes/engagement.php wp-content/plugins/hainute-core/includes/login-guard.php 
