@@ -601,3 +601,42 @@ add_filter( 'rest_endpoints', function ( $endpoints ) {
 	}
 	return $endpoints;
 } );
+
+/*
+ * Rank Math (instalat pe 23.10.2026) are sitemap-ul și titlurile lui; tema păstrează doar
+ * ce contează: categoriile, brandurile și magazinele active în sitemap (setarea lui de
+ * taxonomii e oprită implicit) și noindex pe paginile subțiri, ca înainte.
+ */
+add_filter( 'option_rank-math-options-sitemap', function ( $opt ) {
+	$opt = is_array( $opt ) ? $opt : array();
+	foreach ( array( 'product_cat', 'product_brand', 'store' ) as $tax ) {
+		$opt[ 'tax_' . $tax . '_sitemap' ] = 'on';
+	}
+	return $opt;
+} );
+
+/** Termen subțire: categorie cu sub 3 produse sau magazin inactiv/dublură. */
+function hainute_term_is_thin( $term ) {
+	if ( ! $term instanceof WP_Term ) {
+		return false;
+	}
+	if ( 'product_cat' === $term->taxonomy ) {
+		return function_exists( 'hainute_cat_is_thin' ) && hainute_cat_is_thin( $term );
+	}
+	if ( 'store' === $term->taxonomy ) {
+		return function_exists( 'hainute_store_term_indexable' ) && ! hainute_store_term_indexable( $term );
+	}
+	return false;
+}
+
+add_filter( 'rank_math/sitemap/entry', function ( $url, $type, $object ) {
+	return ( 'term' === $type && hainute_term_is_thin( $object ) ) ? false : $url;
+}, 10, 3 );
+
+add_filter( 'rank_math/frontend/robots', function ( $robots ) {
+	if ( is_tax() && hainute_term_is_thin( get_queried_object() ) ) {
+		$robots['index']  = 'noindex';
+		$robots['follow'] = 'follow';
+	}
+	return $robots;
+} );
