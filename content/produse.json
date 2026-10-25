@@ -89,16 +89,17 @@
     },
     {
         "id": 5123,
-        "titlu": "Geacă Nike Băieți Synthetic Jacket",
+        "titlu": "Geacă Nike Unisex Synthetic Jacket",
         "brand": "Nike",
         "brand_slug": "/brand/nike/",
         "magazin": "various-brands.ro",
         "link_afiliat": "https://www.various-brands.ro/y-nk-syn-fl-rpl-park20-sdf-jkt-nike-cw6158-010.html",
-        "categorie_principala": "/categorie/imbracaminte-baieti/",
-        "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
+        "categorie_principala": "/categorie/imbracaminte-unisex/",
+        "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
-        "gen": "baieti",
+        "gen": "unisex",
         "marimi": [
+            "M",
             "XL"
         ],
         "cu_stoc": true,
@@ -5750,11 +5751,6 @@
             28,
             29,
             30,
-            31,
-            32,
-            33,
-            34,
-            35,
             36,
             37,
             38,
@@ -6053,6 +6049,14 @@
         "tip": "Pantofi",
         "gen": "baieti",
         "marimi": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
             36,
             37,
             38,
@@ -9691,7 +9695,7 @@
             29,
             30
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-8888322/"
     },
@@ -11668,7 +11672,7 @@
             164,
             168
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/patrizia-pepe-geaca-copii-e066/"
     },
@@ -22757,7 +22761,7 @@
             35,
             36
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-sneakers-pentru-copii-hiivin/"
     },
@@ -22997,7 +23001,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/calvin-klein-jeans-geaca-copii-11/"
     },
@@ -26066,9 +26070,7 @@
             "32.5",
             "33.5",
             35,
-            36,
-            37,
-            38
+            36
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -30632,10 +30634,7 @@
         "tip": "Pantofi",
         "gen": "fete",
         "marimi": [
-            20,
-            21,
-            22,
-            23
+            20
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
