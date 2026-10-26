@@ -10,7 +10,12 @@
         "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "baieti",
-        "marimi": [],
+        "marimi": [
+            "L",
+            "M",
+            "S",
+            "XL"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-jdb-ess-draft-jacket/"
@@ -345,7 +350,7 @@
             "158-166",
             167
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-copii/"
     },
@@ -1889,7 +1894,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/adidas-geaca-copii-jw2396/"
     },
@@ -18011,7 +18016,7 @@
             23,
             24
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/froddo-ghete-de-iarna-pentru-copii-din-piele-basco-tex/"
     },
@@ -18805,7 +18810,7 @@
             38,
             39
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-bocanci-copii-4/"
     },
@@ -19197,7 +19202,7 @@
             116,
             122
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kb0kb09852/"
     },
@@ -19376,7 +19381,7 @@
             38,
             39
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-bocanci-copii-34025/"
     },
@@ -20819,7 +20824,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-perth-sneakers-pentru-copii-0mems/"
     },
@@ -21167,7 +21172,7 @@
             166,
             172
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/colmar-geaca-copii-glower-2/"
     },
@@ -22100,7 +22105,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-16/"
     },
@@ -27935,7 +27940,7 @@
             116,
             122
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-cardigan-pentru-copii-din-bumbac-3/"
     },
@@ -30636,7 +30641,7 @@
         "marimi": [
             20
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-willaboom-girl-b-incaltaminte-copii-roz-marime/"
     },
@@ -30869,7 +30874,7 @@
             "52-54",
             "56-58"
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-pampula-caciula-copii-gri-inchis-marime/"
     },
@@ -31229,17 +31234,9 @@
         "tip": "Ghete & cizme",
         "gen": "unisex",
         "marimi": [
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38
+            35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-konkari-incaltaminte-de-iarna-copii-negru-marime/"
     },
