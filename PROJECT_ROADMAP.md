@@ -104,8 +104,8 @@ Comanda e în CLAUDE.md, secțiunea „Snapshot DB". Exportul trebuie sanitizat 
 - Parola de admin WordPress (o setează proprietarul):
   `ssh … root@89.37.212.245` apoi `cd /opt/beestyle && COMPOSE_FILE=docker-compose.prod.yml bash docker/set-admin-password.sh`.
 - Verificarea stocului: serviciul `beestyle-worker` (Node + Chrome, utilizator `crawler`,
-  prioritate scăzută, max 2,5 GB RAM). **Oprit până la decizia proprietarului.** Pornire:
-  `systemctl enable --now beestyle-worker`; log: `journalctl -u beestyle-worker -f`.
+  prioritate scăzută, max 2,5 GB RAM). **Pornit din 22.10.2026** (activ la pornirea serverului),
+  ciclu complet la 6 ore. Oprire: `systemctl disable --now beestyle-worker`; log: `journalctl -u beestyle-worker -f`.
 - **Publicare automată din git** (`tools/server/sync-content.sh`, la fiecare minut): orice push în
   `main` se aplică pe server în 1–2 minute (cod temă/plugin, configurație Docker, crawlere, descrieri
   din `content/descrieri/`), cu raport în `content/raport-publicare.md`. Colaboratorii au mână liberă

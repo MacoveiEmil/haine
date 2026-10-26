@@ -47,5 +47,6 @@ Lipește asta ca prim mesaj:
 > Descrierile v7 sunt gata (1300). Vreau să [ce urmează: ex. corectăm problemele din probleme-catalog.txt /
 > scriem cele 55 de duplicate canonice / reverificăm produsele sărite].
 
-Reguli de reținut: repo public (fără secrete), fără force-push, fără SSH pe server, nu se schimbă textele legale,
+Reguli de reținut: repo public (fără secrete), fără force-push, SSH pe server doar pentru verificări (permis din
+24.10.2026; codul se schimbă tot prin git), nu se schimbă textele legale,
 poarta de pre-lansare sau codul fără acord; fără em-dash, diacritice corecte, fără „compară”, preț sau promoții în texte.
