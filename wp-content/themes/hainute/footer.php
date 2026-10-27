@@ -3,7 +3,7 @@
 <footer class="site-footer">
 	<div class="container footer-inner">
 		<div class="footer-brand">
-			<span class="site-logo"><?php bloginfo( 'name' ); ?></span>
+			<span class="site-logo"><img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/logo.png' ); ?>" width="242" height="88" alt="<?php bloginfo( 'name' ); ?>" loading="lazy"></span>
 			<p><?php esc_html_e( 'Haine și încălțăminte pentru copii. Vezi unde sunt disponibile și cumperi direct de la magazinul partener.', 'hainute' ); ?></p>
 		</div>
 

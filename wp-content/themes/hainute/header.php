@@ -11,7 +11,7 @@
 <header class="site-header">
 	<div class="container header-inner">
 		<a class="site-logo" href="<?php echo esc_url( home_url( '/' ) ); ?>">
-			<?php bloginfo( 'name' ); ?>
+			<img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/logo.png' ); ?>" width="242" height="88" alt="<?php bloginfo( 'name' ); ?>">
 		</a>
 
 		<button class="search-toggle" type="button" aria-expanded="false" aria-controls="header-search" aria-label="<?php esc_attr_e( 'Caută', 'hainute' ); ?>">

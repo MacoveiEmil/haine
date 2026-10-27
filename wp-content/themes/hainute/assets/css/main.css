@@ -94,11 +94,15 @@ h1, h2, h3 { line-height: 1.2; font-weight: 800; }
 }
 
 .site-logo {
-	font-weight: 800;
-	font-size: 1.4rem;
-	letter-spacing: -0.02em;
+	display: flex;
+	flex-shrink: 0;
 	text-decoration: none;
-	white-space: nowrap;
+}
+
+.site-logo img {
+	display: block;
+	width: auto;
+	height: 40px;
 }
 
 .site-nav { flex: 1; }
@@ -926,7 +930,8 @@ body { display: flex; flex-direction: column; min-height: 100vh; }
 
 @media (max-width: 820px) {
 	.header-inner { flex-wrap: wrap; align-items: center; gap: 0.5rem 0.6rem; padding-top: 0.55rem; padding-bottom: 0.55rem; }
-	.site-logo { order: 1; font-size: 1.25rem; }
+	.site-logo { order: 1; }
+	.site-logo img { height: 34px; }
 	.nav-toggle { display: flex; order: 2; margin-left: auto; }
 	.header-search { order: 3; flex-basis: 100%; margin: 0; }
 	.header-search .search-form { width: 100%; }
