@@ -71,7 +71,10 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            "L",
+            "XL"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geaca-nike-k-nsw-tf-swsh-pfr-jkt/"
@@ -2428,7 +2431,7 @@
             152,
             "164-166"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/burton-geaca-copii-crown/"
     },
@@ -7245,7 +7248,12 @@
             27,
             28,
             29,
-            30
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -8557,7 +8565,7 @@
             "118-122",
             "122-125"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-reversibila-pentru-copii-k5bl08/"
     },
@@ -11086,12 +11094,7 @@
             27,
             28,
             29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
+            30
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -14986,10 +14989,7 @@
         "gen": "baieti",
         "marimi": [
             130,
-            142,
-            154,
-            166,
-            172
+            142
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -17231,7 +17231,7 @@
             134,
             140
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/liewood-jeans-copii-borris-printed-denim-pants/"
     },
@@ -20824,7 +20824,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-perth-sneakers-pentru-copii-0mems/"
     },
@@ -22789,7 +22789,7 @@
             "128-134",
             "140-146"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/mini-rodini-geaca-copii-ritzratz-4/"
     },
@@ -26498,7 +26498,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-88950/"
     },
@@ -30871,10 +30871,9 @@
         "tip": "Căciuli, mănuși & alte accesorii",
         "gen": "unisex",
         "marimi": [
-            "52-54",
-            "56-58"
+            "52-54"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-pampula-caciula-copii-gri-inchis-marime/"
     },
@@ -31234,9 +31233,17 @@
         "tip": "Ghete & cizme",
         "gen": "unisex",
         "marimi": [
-            35
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-konkari-incaltaminte-de-iarna-copii-negru-marime/"
     },
@@ -31826,9 +31833,16 @@
         "tip": "Pantofi",
         "gen": "unisex",
         "marimi": [
-            29
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-j-washiba-a-incaltaminte-pentru-copii-negru-marime/"
     },
