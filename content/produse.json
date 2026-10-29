@@ -212,7 +212,8 @@
             36,
             37,
             38,
-            39
+            39,
+            40
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -355,7 +356,7 @@
             "158-166",
             167
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-copii/"
     },
@@ -519,7 +520,7 @@
             29,
             30
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-pantofi-copii/"
     },
@@ -2542,13 +2543,7 @@
             32,
             33,
             34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41
+            35
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -8271,7 +8266,7 @@
             164,
             170
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/adidas-geaca-petrecuta-pentru-copii/"
     },
@@ -14993,7 +14988,7 @@
             130,
             142
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/colmar-geaca-de-puf-pentru-copii-weightless/"
     },
@@ -16351,6 +16346,7 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
+            106,
             120,
             132,
             144,
@@ -22791,7 +22787,7 @@
             "128-134",
             "140-146"
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/mini-rodini-geaca-copii-ritzratz-4/"
     },
@@ -23194,7 +23190,7 @@
             40,
             41
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-sneakers-pentru-copii-26/"
     },
@@ -24368,7 +24364,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-blugi-pentru-copii-barrel/"
     },
@@ -24834,7 +24830,7 @@
             "158-166",
             167
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-15/"
     },
@@ -27069,7 +27065,7 @@
             25,
             26
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-pantofi-pentru-copii-din-piele-8/"
     },
