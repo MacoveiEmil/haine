@@ -424,6 +424,19 @@ function hainute_valid_gtin( $code ) {
 }
 
 /**
+ * Politica de retur din oferte: dreptul legal de retragere de 14 zile la vânzările la distanță
+ * (OUG 34/2014); magazinele pot oferi mai mult, dar nu mai puțin. Nu inventăm taxe sau costuri.
+ */
+function hainute_schema_return_policy() {
+	return array(
+		'@type'                => 'MerchantReturnPolicy',
+		'applicableCountry'    => 'RO',
+		'returnPolicyCategory' => 'https://schema.org/MerchantReturnFiniteReturnWindow',
+		'merchantReturnDays'   => 14,
+	);
+}
+
+/**
  * Schema.org (JSON-LD): ProductGroup cu o variantă per mărime (variesBy size),
  * fiecare cu ofertele magazinelor (seller = magazinul) și stocul acelei mărimi;
  * fără mărimi cunoscute → Product cu câte o ofertă per magazin. Google cere ca datele să corespundă
@@ -556,6 +569,7 @@ function hainute_the_product_schema( $product_id ) {
 			'priceCurrency' => 'RON',
 			'availability'  => $l['in_stock'] ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
 			'itemCondition' => 'https://schema.org/NewCondition',
+			'hasMerchantReturnPolicy' => hainute_schema_return_policy(),
 			'seller'        => array( '@type' => 'Organization', 'name' => $store ),
 		);
 	}
@@ -662,6 +676,7 @@ function hainute_schema_size_variants( $product_id, $name, $by_store ) {
 				'priceCurrency' => 'RON',
 				'availability'  => $has ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
 				'itemCondition' => 'https://schema.org/NewCondition',
+				'hasMerchantReturnPolicy' => hainute_schema_return_policy(),
 				'seller'        => array( '@type' => 'Organization', 'name' => $st ),
 			);
 		}

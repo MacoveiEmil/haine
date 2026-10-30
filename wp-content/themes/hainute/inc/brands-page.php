@@ -63,7 +63,7 @@ add_filter(
  * @return array[] { slug, name, count, url }
  */
 function hainute_all_brands() {
-	$cached = get_transient( 'hainute_all_brands_v1' );
+	$cached = get_transient( 'hainute_all_brands_v2' );
 	if ( is_array( $cached ) ) {
 		return $cached;
 	}
@@ -84,10 +84,49 @@ function hainute_all_brands() {
 		if ( is_wp_error( $link ) ) {
 			continue;
 		}
-		$brands[] = array( 'slug' => $r->slug, 'name' => html_entity_decode( $r->name ), 'count' => (int) $r->n, 'url' => $link );
+		$brands[] = array( 'slug' => $r->slug, 'name' => html_entity_decode( $r->name ), 'count' => (int) $r->n, 'url' => $link, 'img' => hainute_brand_image( (int) $r->term_id ) );
 	}
-	set_transient( 'hainute_all_brands_v1', $brands, HOUR_IN_SECONDS );
+	set_transient( 'hainute_all_brands_v2', $brands, HOUR_IN_SECONDS );
 	return $brands;
+}
+
+/** Poza brandului = poza produsului cel mai nou al brandului care are poză. */
+function hainute_brand_image( $term_id ) {
+	$ids = get_posts(
+		array(
+			'post_type'        => 'product',
+			'post_status'      => 'publish',
+			'posts_per_page'   => 8,
+			'fields'           => 'ids',
+			'no_found_rows'    => true,
+			'suppress_filters' => true,
+			'tax_query'        => array( array( 'taxonomy' => 'product_brand', 'terms' => $term_id ) ),
+		)
+	);
+	foreach ( $ids as $id ) {
+		$img = hainute_product_image( $id, 'medium' );
+		if ( $img ) {
+			return $img;
+		}
+	}
+	return '';
+}
+
+/** Cardul unui brand: poza, numele, numărul de produse. */
+function hainute_brand_card( $b ) {
+	?>
+	<a class="brand-card" href="<?php echo esc_url( $b['url'] ); ?>" data-name="<?php echo esc_attr( $b['name'] ); ?>">
+		<span class="brand-card-img">
+			<?php if ( ! empty( $b['img'] ) ) : ?>
+				<img src="<?php echo esc_url( hainute_img_resize( $b['img'], 300 ) ); ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+			<?php else : ?>
+				<span class="brand-card-ph"><?php echo esc_html( hainute_brand_letter( $b['name'] ) ); ?></span>
+			<?php endif; ?>
+		</span>
+		<span class="brand-card-name"><?php echo esc_html( $b['name'] ); ?></span>
+		<span class="brand-count"><?php echo esc_html( sprintf( _n( '%d produs', '%d produse', $b['count'], 'hainute' ), $b['count'] ) ); ?></span>
+	</a>
+	<?php
 }
 
 /** Litera de grupare: fără diacritice, majusculă; cifrele și simbolurile merg la „#". */
