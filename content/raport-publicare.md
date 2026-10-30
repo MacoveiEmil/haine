@@ -1,5 +1,9 @@
 # Raport publicare
 
+## 2026-10-30 10:28 (a366805, Macovei Emil)
+- worker-ul de verificare a stocului a fost repornit
+- cod/configurație actualizate: tools/crawler/brand-search.js 
+
 ## 2026-10-27 09:13 (e117f5c, Macovei Emil)
 - cod/configurație actualizate: wp-content/themes/hainute/assets/css/main.css wp-content/themes/hainute/assets/img/apple-touch-icon.png wp-content/themes/hainute/assets/img/favicon-32.png wp-content/themes/hainute/assets/img/icon-512.png wp-content/themes/hainute/assets/img/logo.png wp-content/themes/hainute/footer.php wp-content/themes/hainute/header.php 
 
