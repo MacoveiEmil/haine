@@ -2543,7 +2543,13 @@
             32,
             33,
             34,
-            35
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -4024,7 +4030,7 @@
             "150-161",
             "163-174"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/polo-ralph-lauren-geaca-copii/"
     },
@@ -5756,6 +5762,11 @@
             28,
             29,
             30,
+            31,
+            32,
+            33,
+            34,
+            35,
             36,
             37,
             38,
@@ -7480,7 +7491,7 @@
             152,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/columbia-geaca-copii-nordic-strider/"
     },
@@ -10553,7 +10564,7 @@
             152,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/columbia-geaca-copii-hikebound-2115921/"
     },
@@ -11091,7 +11102,12 @@
             27,
             28,
             29,
-            30
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -13769,7 +13785,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-balerini-din-piele-pentru-copii/"
     },
@@ -14166,7 +14182,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261255/"
     },
@@ -18586,6 +18602,7 @@
         "gen": "unisex",
         "marimi": [
             38,
+            39,
             40
         ],
         "cu_stoc": true,
@@ -26655,7 +26672,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261257/"
     },
@@ -32416,7 +32433,6 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
-            "104-110",
             "116-122",
             "128-134",
             "140-146",
