@@ -276,6 +276,22 @@ function hainute_term_path_label( $term, $sep = ' › ' ) {
 }
 
 /**
+ * Categoria curentă e în arborele Fete, Băieți sau Unisex? Atunci genul e deja stabilit
+ * de pagină (Bebe rămâne cu filtru de gen: acolo produsele au genuri diferite).
+ */
+function hainute_gender_fixed_by_category() {
+	if ( ! is_tax( 'product_cat' ) || ! function_exists( 'hainute_cat_path_names' ) ) {
+		return false;
+	}
+	$term = get_queried_object();
+	if ( ! $term ) {
+		return false;
+	}
+	list( $top ) = hainute_cat_path_names( $term->term_id );
+	return in_array( $top, array( 'fete', 'baieti', 'unisex' ), true );
+}
+
+/**
  * Render the filter bar (GET form, keeps the current URL as action).
  */
 function hainute_the_filter_bar() {
@@ -296,6 +312,12 @@ function hainute_the_filter_bar() {
 		'cross'     => ! empty( $_GET['cross'] ),
 		'marime'    => isset( $_GET['marime'] ) ? sanitize_text_field( wp_unslash( $_GET['marime'] ) ) : '',
 	);
+
+	// Pe categoriile Fete / Băieți / Unisex genul e deja ales de categorie: filtrul de gen n-are sens.
+	if ( hainute_gender_fixed_by_category() ) {
+		$genders        = array();
+		$current['gen'] = '';
+	}
 
 	$sizes  = hainute_available_sizes();
 	$brands = is_tax( 'product_brand' ) ? array() : hainute_listing_brands();
