@@ -1,7 +1,7 @@
 <?php
 /**
  * Listing filters & sorting (Faza 4) — plain GET params on archive pages:
- *   gen, varsta, categorie, pret_min, pret_max, sortare (pret-asc | pret-desc | nou)
+ *   gen, varsta, categorie, brand, pret_min, pret_max, sortare (pret-asc | pret-desc | nou)
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -36,6 +36,9 @@ function hainute_apply_listing_filters( $query ) {
 		'gen'       => 'product_gender',
 		'varsta'    => 'product_age',
 	);
+	if ( ! $query->is_tax( 'product_brand' ) ) { // pe pagina unui brand filtrul de brand nu are sens
+		$tax_params['brand'] = 'product_brand';
+	}
 	foreach ( $tax_params as $param => $taxonomy ) {
 		if ( ! empty( $_GET[ $param ] ) ) {
 			$tax_query[] = array(
@@ -204,6 +207,58 @@ function hainute_group_sizes( array $sizes ) {
 }
 
 /**
+ * Brandurile care au produse PUBLICATE în listarea curentă, cu numărul de produse
+ * (pentru dropdown-ul de brand). Contextul = categoria / genul / vârsta / magazinul
+ * paginii (categoria include subcategoriile); pe arhivă și căutare, toate brandurile.
+ * Cache 1h în transient.
+ *
+ * @return array[] { slug, name, count }
+ */
+function hainute_listing_brands() {
+	$obj = is_tax( array( 'product_cat', 'product_gender', 'product_age', 'store' ) ) ? get_queried_object() : null;
+	$key = 'hainute_brands_v1_' . ( $obj ? $obj->taxonomy . '_' . (int) $obj->term_id : 'all' );
+	$cached = get_transient( $key );
+	if ( is_array( $cached ) ) {
+		return $cached;
+	}
+
+	global $wpdb;
+	$join = '';
+	if ( $obj ) {
+		$tt_ids = array( (int) $obj->term_taxonomy_id );
+		if ( is_taxonomy_hierarchical( $obj->taxonomy ) ) {
+			foreach ( get_term_children( $obj->term_id, $obj->taxonomy ) as $child_id ) {
+				$child = get_term( $child_id, $obj->taxonomy );
+				if ( $child && ! is_wp_error( $child ) ) {
+					$tt_ids[] = (int) $child->term_taxonomy_id;
+				}
+			}
+		}
+		$join = "INNER JOIN {$wpdb->term_relationships} rc ON rc.object_id = p.ID AND rc.term_taxonomy_id IN (" . implode( ',', array_map( 'intval', $tt_ids ) ) . ')';
+	}
+
+	$rows = $wpdb->get_results(
+		"SELECT t.slug, t.name, COUNT(DISTINCT p.ID) AS n
+		 FROM {$wpdb->posts} p
+		 INNER JOIN {$wpdb->term_relationships} rb ON rb.object_id = p.ID
+		 INNER JOIN {$wpdb->term_taxonomy} tb ON tb.term_taxonomy_id = rb.term_taxonomy_id AND tb.taxonomy = 'product_brand'
+		 INNER JOIN {$wpdb->terms} t ON t.term_id = tb.term_id
+		 {$join}
+		 WHERE p.post_type = 'product' AND p.post_status = 'publish'
+		 GROUP BY t.term_id, t.slug, t.name
+		 ORDER BY t.name ASC"
+	);
+
+	$brands = array();
+	foreach ( (array) $rows as $r ) {
+		$brands[] = array( 'slug' => $r->slug, 'name' => $r->name, 'count' => (int) $r->n );
+	}
+
+	set_transient( $key, $brands, HOUR_IN_SECONDS );
+	return $brands;
+}
+
+/**
  * Etichetă de categorie dezambiguizată: „Fete › Geci & jachete".
  * Fiindcă aceeași subcategorie există sub Fete/Băieți/Bebe, numele simplu apare
  * duplicat în liste — prefixăm cu strămoșul de nivel 1 ca să fie distinct.
@@ -234,6 +289,7 @@ function hainute_the_filter_bar() {
 		'categorie' => isset( $_GET['categorie'] ) ? sanitize_title( wp_unslash( $_GET['categorie'] ) ) : '',
 		'gen'       => isset( $_GET['gen'] ) ? sanitize_title( wp_unslash( $_GET['gen'] ) ) : '',
 		'varsta'    => isset( $_GET['varsta'] ) ? sanitize_title( wp_unslash( $_GET['varsta'] ) ) : '',
+		'brand'     => isset( $_GET['brand'] ) ? sanitize_title( wp_unslash( $_GET['brand'] ) ) : '',
 		'pret_min'  => isset( $_GET['pret_min'] ) && (float) $_GET['pret_min'] > 0 ? (float) $_GET['pret_min'] : '',
 		'pret_max'  => isset( $_GET['pret_max'] ) && (float) $_GET['pret_max'] > 0 ? (float) $_GET['pret_max'] : '',
 		'sortare'   => isset( $_GET['sortare'] ) ? sanitize_key( wp_unslash( $_GET['sortare'] ) ) : '',
@@ -241,10 +297,14 @@ function hainute_the_filter_bar() {
 		'marime'    => isset( $_GET['marime'] ) ? sanitize_text_field( wp_unslash( $_GET['marime'] ) ) : '',
 	);
 
-	$sizes = hainute_available_sizes();
+	$sizes  = hainute_available_sizes();
+	$brands = is_tax( 'product_brand' ) ? array() : hainute_listing_brands();
+	if ( is_tax( 'product_brand' ) ) {
+		$current['brand'] = '';
+	}
 
 	// Câte filtre sunt active (sortarea nu se numără) → afișat pe butonul de pe mobil.
-	$active = count( array_filter( array( $current['categorie'], $current['gen'], $current['varsta'], $current['pret_min'], $current['pret_max'], $current['cross'], $current['marime'] ) ) );
+	$active = count( array_filter( array( $current['categorie'], $current['gen'], $current['varsta'], $current['brand'], $current['pret_min'], $current['pret_max'], $current['cross'], $current['marime'] ) ) );
 	?>
 	<button type="button" class="filter-toggle" aria-expanded="false" aria-controls="filter-bar">
 		<?php esc_html_e( 'Filtre și sortare', 'hainute' ); ?>
@@ -286,6 +346,17 @@ function hainute_the_filter_bar() {
 				<?php foreach ( $ages as $term ) : ?>
 					<option value="<?php echo esc_attr( $term->slug ); ?>" <?php selected( $current['varsta'], $term->slug ); ?>>
 						<?php echo esc_html( $term->name ); ?>
+					</option>
+				<?php endforeach; ?>
+			</select>
+		<?php endif; ?>
+
+		<?php if ( $brands ) : ?>
+			<select name="brand" aria-label="<?php esc_attr_e( 'Brand', 'hainute' ); ?>">
+				<option value=""><?php esc_html_e( 'Brand: toate', 'hainute' ); ?></option>
+				<?php foreach ( $brands as $b ) : ?>
+					<option value="<?php echo esc_attr( $b['slug'] ); ?>" <?php selected( $current['brand'], $b['slug'] ); ?>>
+						<?php echo esc_html( $b['name'] . ' (' . $b['count'] . ')' ); ?>
 					</option>
 				<?php endforeach; ?>
 			</select>
