@@ -59,3 +59,30 @@ const combos = {};
 cross.forEach((g) => { const k = hostsOf(g).join(' + '); combos[k] = (combos[k] || 0) + 1; });
 console.log(combos);
 console.log('Scris în', OUT);
+
+// ---- CSV cu TOATE produsele (și cele fără pereche), pentru verificare și lens match ----
+const gid = new Map(); // item -> {nr, grad}
+cross.forEach((g, n) => g.forEach((it) => gid.set(it, { nr: n + 1, grad: 'sigur' })));
+let extra = cross.length;
+const seenPair = new Set();
+for (const [k, n] of Object.entries(overlap)) {
+  if (n !== 1) continue;
+  const [i, j] = k.split('-').map(Number);
+  if (gid.has(items[i]) || gid.has(items[j])) continue; // doar produse încă fără grup: potrivire probabilă (1 EAN)
+  extra++;
+  gid.set(items[i], { nr: extra, grad: 'probabil (1 EAN comun)' });
+  gid.set(items[j], { nr: extra, grad: 'probabil (1 EAN comun)' });
+}
+const ALL = path.join(__dirname, `brand-${SLUG}-produse.csv`);
+const head = ['id', 'brand', 'magazin', 'grup_cross', 'potrivire', 'titlu', 'culoare', 'preț', 'mărimi pe stoc', 'epuizate', 'poza', 'url'];
+const sorted = [...items].sort((a, b) => a.host.localeCompare(b.host));
+const prefix = { 'zalando.ro': 'Z', 'aboutyou.ro': 'A', '4kidspoint.ro': 'K' };
+const cnt = {};
+const lines = sorted.map((it) => {
+  cnt[it.host] = (cnt[it.host] || 0) + 1;
+  const g = gid.get(it) || {};
+  const img = it.image || (it.images || [])[0] || '';
+  return [`EF-${prefix[it.host] || 'X'}${String(cnt[it.host]).padStart(3, '0')}`, BRAND.toUpperCase(), it.host, g.nr || '', g.grad || '', it.name, it.color || '', it.price ? `${it.price} ${it.currency || ''}`.trim() : '', (it.sizes || []).join(' '), (it.unavailable || []).join(' '), img, it.url];
+});
+fs.writeFileSync(ALL, '﻿' + [head, ...lines].map((r) => r.map(q).join(',')).join('\n'));
+console.log(`CSV cu toate produsele: ${lines.length} rânduri → ${ALL}`);
