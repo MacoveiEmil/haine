@@ -148,7 +148,7 @@ async function lensFor(page, imageUrl) {
       try { host = new URL(dest[k]).hostname.replace(/^www\./, ''); } catch (e) { return; }
       if (seenHost.has(host)) return; // un rezultat / magazin
       seenHost.add(host);
-      out.push({ href: dest[k], host, txt: r.txt, in_stock: r.in_stock, img: r.img });
+      out.push({ href: dest[k], host, txt: r.txt, in_stock: r.in_stock, img: r.img, poz: out.length + 1 });
     });
   }
   return out;
@@ -172,7 +172,7 @@ async function main() {
   console.log(`Produse de procesat: ${items.length} (din publish)`);
 
   const header = IN_CSV
-    ? ['id', 'brand', 'magazin_sursa', 'titlu_sursa', 'grup_cross', 'poza_mea', 'poza_gasita', 'site', 'url_produs', 'titlu', 'in_stoc', 'safe', 'bifa']
+    ? ['id', 'brand', 'magazin_sursa', 'titlu_sursa', 'grup_cross', 'poza_mea', 'poza_gasita', 'site', 'url_produs', 'titlu', 'in_stoc', 'safe', 'pozitie', 'bifa']
     : ['id', 'brand', 'poza_mea', 'poza_gasita', 'site', 'url_produs', 'titlu', 'in_stoc', 'safe'];
   // Scriem header doar dacă fișierul nu există (permite reluare cu START).
   if (!fs.existsSync(OUT) || fs.statSync(OUT).size === 0) {
@@ -208,11 +208,11 @@ async function main() {
     }
     if (process.env.DEBUG) console.log('   brut:', matches.length, matches.map((m) => m.host).join(' '));
     if (IN_CSV) matches = matches.filter((m) => !m.host.endsWith(it.src_host)); // magazinul sursă nu e o variantă nouă
-    const ranked = rank(matches).slice(0, MATCHES);
+    const ranked = IN_CSV ? matches.map((m) => ({ ...m, safe: isSafe(m.host) })).slice(0, MATCHES) : rank(matches).slice(0, MATCHES);
     if (ranked.length) withMatches++;
     for (const m of ranked) {
       const line = (IN_CSV
-        ? [it.id, it.brand, it.src_host, it.src_title, it.grup, it.image, m.img, m.host, m.href, m.txt, m.in_stock ? '1' : '', m.safe ? '1' : '', '']
+        ? [it.id, it.brand, it.src_host, it.src_title, it.grup, it.image, m.img, m.host, m.href, m.txt, m.in_stock ? '1' : '', m.safe ? '1' : '', m.poz, '']
         : [it.id, it.brand, it.image, m.img, m.host, m.href, m.txt, m.in_stock ? '1' : '', m.safe ? '1' : ''])
         .map(csvCell).join(',');
       fs.appendFileSync(OUT, line + '\n');
