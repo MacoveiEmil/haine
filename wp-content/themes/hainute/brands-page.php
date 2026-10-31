@@ -36,7 +36,12 @@ $popular = array_slice( $popular, 0, 12 );
 
 	<div class="brands-search">
 		<label class="screen-reader-text" for="brands-q"><?php esc_html_e( 'Caută un brand', 'hainute' ); ?></label>
-		<input type="search" id="brands-q" placeholder="<?php esc_attr_e( 'Caută un brand…', 'hainute' ); ?>" autocomplete="off">
+		<input type="search" id="brands-q" placeholder="<?php esc_attr_e( 'Caută un brand…', 'hainute' ); ?>" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="brands-suggest" aria-autocomplete="list" enterkeyhint="search">
+		<ul class="brands-suggest" id="brands-suggest" role="listbox" hidden>
+			<?php foreach ( $brands as $b ) : ?>
+				<li role="option"><a href="<?php echo esc_url( $b['url'] ); ?>" data-name="<?php echo esc_attr( $b['name'] ); ?>"><span><?php echo esc_html( $b['name'] ); ?></span><span class="brand-count"><?php echo (int) $b['count']; ?></span></a></li>
+			<?php endforeach; ?>
+		</ul>
 	</div>
 
 	<?php if ( $popular ) : ?>
@@ -74,6 +79,29 @@ $popular = array_slice( $popular, 0, 12 );
 	var cards = document.querySelectorAll('.brands-group .brand-card');
 	var groups = document.querySelectorAll('.brands-group');
 	var hide = [document.getElementById('brands-popular'), document.getElementById('brands-letters')];
+	var box = document.getElementById('brands-suggest');
+	var opts = box.querySelectorAll('li');
+	var open = function (on) { box.hidden = !on; q.setAttribute('aria-expanded', on ? 'true' : 'false'); };
+	var suggest = function () {
+		var v = norm(q.value.trim()), n = 0;
+		opts.forEach(function (li) {
+			var ok = !v || norm(li.firstElementChild.getAttribute('data-name')).indexOf(v) !== -1;
+			li.hidden = !ok;
+			if (ok) { n++; }
+		});
+		open(n > 0);
+	};
+	q.addEventListener('focus', suggest);
+	q.addEventListener('click', suggest);
+	q.addEventListener('input', suggest);
+	q.addEventListener('keydown', function (e) {
+		if (e.key === 'Escape') { open(false); q.blur(); }
+		if (e.key === 'Enter') {
+			var first = box.querySelector('li:not([hidden]) a');
+			if (first && q.value.trim()) { window.location = first.href; }
+		}
+	});
+	document.addEventListener('click', function (e) { if (!e.target.closest('.brands-search')) { open(false); } });
 	q.addEventListener('input', function () {
 		var v = norm(q.value.trim()), shown = 0;
 		cards.forEach(function (c) {

@@ -1369,3 +1369,9 @@ html { scroll-behavior: smooth; }
 .brands-empty { margin: 2rem 0; color: var(--muted); }
 .brands-group[hidden], .brand-card[hidden], .brands-popular[hidden], .brands-letters[hidden] { display: none; }
 @media (max-width: 600px) { .brand-cards { grid-template-columns: repeat(2, 1fr); gap: 0.6rem; } }
+
+.brands-search { position: relative; max-width: 420px; }
+.brands-suggest { position: absolute; z-index: 20; left: 0; right: 0; top: calc(100% + 0.3rem); margin: 0; padding: 0.3rem 0; list-style: none; max-height: min(50vh, 340px); overflow-y: auto; overscroll-behavior: contain; background: #fff; border: 1px solid var(--border); border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12); }
+.brands-suggest[hidden], .brands-suggest li[hidden] { display: none; }
+.brands-suggest a { display: flex; justify-content: space-between; gap: 1rem; padding: 0.6rem 1rem; color: var(--ink); text-decoration: none; }
+.brands-suggest a:hover, .brands-suggest a:focus { background: #f4f1ec; }
