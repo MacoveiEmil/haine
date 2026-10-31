@@ -17,4 +17,5 @@ require_once HAINUTE_THEME_DIR . '/inc/template-tags.php';
 require_once HAINUTE_THEME_DIR . '/inc/seo.php';
 require_once HAINUTE_THEME_DIR . '/inc/filters.php';
 require_once HAINUTE_THEME_DIR . '/inc/how-it-works.php';
+require_once HAINUTE_THEME_DIR . '/inc/brands-page.php';
 require_once HAINUTE_THEME_DIR . '/inc/category-seo.php';

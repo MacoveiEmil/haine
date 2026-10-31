@@ -1333,3 +1333,45 @@ html { scroll-behavior: smooth; }
 .home-cat-group a:hover { color: var(--link); text-decoration: underline; }
 .home-cat-group .home-cat-mid { flex-basis: 100%; color: var(--ink); font-weight: 700; }
 .home-seo { max-width: 760px; margin-top: 2.5rem; }
+
+/* Pagina „Branduri" (/branduri/) */
+.brands-popular h2, .brands-group h2 { font-size: 1.15rem; margin: 1.6rem 0 0.4rem; }
+.brand-count { color: var(--muted); font-weight: 500; font-size: 0.85em; margin-left: 0.15rem; }
+.brands-letters { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 1.6rem 0 0.4rem; }
+.brands-letters a {
+	display: inline-flex; align-items: center; justify-content: center;
+	min-width: 2.2rem; height: 2.2rem; padding: 0 0.4rem;
+	border: 1px solid var(--border); border-radius: 8px; background: #fff;
+	font-weight: 700; color: var(--ink); text-decoration: none;
+}
+.brands-letters a:hover { border-color: var(--accent); color: var(--link); }
+.brands-group { scroll-margin-top: 5rem; border-top: 1px solid var(--border); margin-top: 1rem; }
+.brands-list { list-style: none; margin: 0 0 0.6rem; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 0.35rem 1.2rem; }
+.brands-list a { display: block; padding: 0.3rem 0; color: var(--ink); text-decoration: none; }
+.brands-list a:hover { color: var(--link); text-decoration: underline; }
+@media (max-width: 600px) {
+	.brands-list { grid-template-columns: 1fr 1fr; gap: 0.2rem 0.8rem; }
+	.brands-group { scroll-margin-top: 4rem; }
+}
+
+/* Pagina Branduri: carduri cu poză + căutare */
+.brands-search { margin: 1rem 0 0.4rem; }
+.brands-search input { width: 100%; max-width: 420px; padding: 0.7rem 1rem; border: 1px solid var(--border); border-radius: 999px; font: inherit; background: #fff; }
+.brands-search input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.brand-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.9rem; margin-top: 0.8rem; }
+.brand-card { display: flex; flex-direction: column; gap: 0.15rem; text-decoration: none; color: var(--ink); border: 1px solid var(--border); border-radius: 12px; padding: 0.6rem; background: #fff; transition: box-shadow 0.15s, border-color 0.15s; }
+.brand-card:hover { border-color: var(--accent); box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08); }
+.brand-card-img { display: block; aspect-ratio: 1 / 1; border-radius: 8px; overflow: hidden; background: #f4f1ec; margin-bottom: 0.4rem; }
+.brand-card-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.brand-card-ph { display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 2.4rem; font-weight: 700; color: var(--muted); }
+.brand-card-name { font-weight: 600; line-height: 1.25; }
+.brand-card .brand-count { margin-left: 0; }
+.brands-empty { margin: 2rem 0; color: var(--muted); }
+.brands-group[hidden], .brand-card[hidden], .brands-popular[hidden], .brands-letters[hidden] { display: none; }
+@media (max-width: 600px) { .brand-cards { grid-template-columns: repeat(2, 1fr); gap: 0.6rem; } }
+
+.brands-search { position: relative; max-width: 420px; }
+.brands-suggest { position: absolute; z-index: 20; left: 0; right: 0; top: calc(100% + 0.3rem); margin: 0; padding: 0.3rem 0; list-style: none; max-height: min(50vh, 340px); overflow-y: auto; overscroll-behavior: contain; background: #fff; border: 1px solid var(--border); border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12); }
+.brands-suggest[hidden], .brands-suggest li[hidden] { display: none; }
+.brands-suggest a { display: flex; justify-content: space-between; gap: 1rem; padding: 0.6rem 1rem; color: var(--ink); text-decoration: none; }
+.brands-suggest a:hover, .brands-suggest a:focus { background: #f4f1ec; }
