@@ -10,12 +10,7 @@
         "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "baieti",
-        "marimi": [
-            "L",
-            "M",
-            "S",
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-jdb-ess-draft-jacket/"
@@ -977,20 +972,12 @@
         "tip": "Ghete & cizme",
         "gen": "fete",
         "marimi": [
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
             36,
             37,
             38,
             39
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-bocanci-copii-phaolae/"
     },
@@ -1900,7 +1887,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/adidas-geaca-copii-jw2396/"
     },
@@ -8277,7 +8264,7 @@
             164,
             170
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/adidas-geaca-petrecuta-pentru-copii/"
     },
@@ -11693,7 +11680,7 @@
             164,
             168
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/patrizia-pepe-geaca-copii-e066/"
     },
@@ -12494,7 +12481,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-geaca-de-tranzitie-pentru-copii-salmi/"
     },
@@ -12832,7 +12819,7 @@
             "144-154",
             "155-159"
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/polo-ralph-lauren-jacheta-pentru-copii/"
     },
@@ -12990,7 +12977,7 @@
             140,
             152
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/jack-wolfskin-geaca-copii-3in1-canvey-kids/"
     },
@@ -13832,7 +13819,7 @@
             134,
             140
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/liewood-geaca-copii-anemone-long-jacket/"
     },
@@ -14182,7 +14169,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261255/"
     },
@@ -17245,7 +17232,7 @@
             134,
             140
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/liewood-jeans-copii-borris-printed-denim-pants/"
     },
@@ -21187,7 +21174,7 @@
             166,
             172
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/colmar-geaca-copii-glower-2/"
     },
@@ -25727,7 +25714,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-ghete-din-piele-pentru-copii-shaylax/"
     },
@@ -27910,7 +27897,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-cizme-de-iarna-pentru-copii-34087/"
     },
@@ -32192,7 +32179,7 @@
             130,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/didriksons-neptun-geaca-de-iarna-copii-mov-marime/"
     },
