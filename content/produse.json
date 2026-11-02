@@ -10,7 +10,12 @@
         "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "baieti",
-        "marimi": [],
+        "marimi": [
+            "L",
+            "M",
+            "S",
+            "XL"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-jdb-ess-draft-jacket/"
@@ -103,7 +108,6 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
-            "L",
             "M",
             "XL"
         ],
@@ -2654,7 +2658,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/calvin-klein-jeans-geaca-copii/"
     },
@@ -10275,7 +10279,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-8879811/"
     },
@@ -12977,7 +12981,7 @@
             140,
             152
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jack-wolfskin-geaca-copii-3in1-canvey-kids/"
     },
@@ -13819,7 +13823,7 @@
             134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/liewood-geaca-copii-anemone-long-jacket/"
     },
@@ -14989,9 +14993,12 @@
         "gen": "baieti",
         "marimi": [
             130,
-            142
+            142,
+            154,
+            166,
+            172
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/colmar-geaca-de-puf-pentru-copii-weightless/"
     },
@@ -17598,7 +17605,7 @@
             122,
             128
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/donsje-geaca-de-tranzitie-pentru-copii-damian-jacket/"
     },
@@ -18216,7 +18223,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-bomber-de-tranzitie-fete-croiala-supradimensionata-fara-gluga/"
     },
@@ -18241,7 +18248,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-bomber-pentru-fete-neagra-croiala-oversize-fara-gluga/"
     },
@@ -18404,7 +18411,7 @@
             116,
             128
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-baieti/"
     },
@@ -18428,7 +18435,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-softshell-pentru-fete-rezistenta-la-vant-gluga-hidrofob/"
     },
@@ -18515,7 +18522,7 @@
             152,
             158
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/vesta-fete-302874682/"
     },
@@ -28131,7 +28138,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-cizme-de-iarna-pentru-copii-4/"
     },
@@ -30089,7 +30096,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-proxima-pantaloni-izolati-copii-mov-marime/"
     },
@@ -31530,7 +31537,7 @@
             152,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/picture-seady-geaca-pentru-copii-bej-marime-6y/"
     },
@@ -32179,7 +32186,7 @@
             130,
             140
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/didriksons-neptun-geaca-de-iarna-copii-mov-marime/"
     },
