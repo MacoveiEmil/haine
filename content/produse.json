@@ -33,7 +33,6 @@
         "gen": "unisex",
         "marimi": [
             4,
-            5,
             6
         ],
         "cu_stoc": true,
@@ -164,9 +163,7 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-adidasi/",
         "tip": "Adidași",
         "gen": "unisex",
-        "marimi": [
-            40
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/pantofi-sport-tommy-hilfiger-logo-high-top-lace-up-sneaker/"
@@ -402,7 +399,7 @@
             "166-175",
             175
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-copii-l6rl05/"
     },
@@ -1341,7 +1338,13 @@
             31,
             32,
             33,
-            34
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -2875,7 +2878,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/adidas-geaca-copii-jl7433/"
     },
@@ -3292,7 +3295,13 @@
             26,
             27,
             28,
-            29
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -4969,14 +4978,6 @@
         "tip": "Pantofi",
         "gen": "baieti",
         "marimi": [
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
             36,
             37,
             38,
@@ -7482,7 +7483,7 @@
             152,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/columbia-geaca-copii-nordic-strider/"
     },
@@ -14430,7 +14431,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261252/"
     },
@@ -15020,7 +15021,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-de-puf-pentru-copii/"
     },
@@ -15504,7 +15505,7 @@
             166,
             172
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/colmar-geaca-de-puf-pentru-copii-polished/"
     },
@@ -17356,7 +17357,7 @@
             23,
             24
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/froddo-cizme-de-iarna-pentru-copii-minni-suede/"
     },
@@ -18223,7 +18224,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-bomber-de-tranzitie-fete-croiala-supradimensionata-fara-gluga/"
     },
@@ -18248,7 +18249,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-bomber-pentru-fete-neagra-croiala-oversize-fara-gluga/"
     },
@@ -18411,7 +18412,7 @@
             116,
             128
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-baieti/"
     },
@@ -18435,7 +18436,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-softshell-pentru-fete-rezistenta-la-vant-gluga-hidrofob/"
     },
@@ -18522,7 +18523,7 @@
             152,
             158
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/vesta-fete-302874682/"
     },
@@ -18775,7 +18776,7 @@
             "166-175",
             175
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/guess-geaca-copii-w4210/"
     },
@@ -20742,7 +20743,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-sneakers-pentru-copii-27/"
     },
@@ -26666,7 +26667,7 @@
             33,
             34
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261257/"
     },
@@ -27523,7 +27524,7 @@
             33,
             34
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-sneakers-pentru-copii-din-piele-261212/"
     },
@@ -29420,7 +29421,7 @@
             "122-128",
             "134-140"
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/konges-slojd-geaca-copii-magnum-down-jacket-solid-grs/"
     },
@@ -29531,7 +29532,7 @@
             24,
             25
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-din-piele-5/"
     },
@@ -30423,7 +30424,7 @@
             134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-portit-geaca-iarna-copii-albastru-marime/"
     },
@@ -31531,11 +31532,7 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
-            116,
-            128,
-            140,
-            152,
-            164
+            116
         ],
         "cu_stoc": false,
         "descriere_versiune": "v7",
@@ -32427,6 +32424,7 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
+            "104-110",
             "116-122",
             "128-134",
             "140-146",
