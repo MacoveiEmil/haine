@@ -67,7 +67,8 @@ const isRo = (host) => /\.ro$/i.test(host);
 // paginile de catalog / brand / căutare nu sunt produse; URL-ul se curăță de parametri (cupoane etc.)
 const notProduct = (u) => /\/(catalog|brand|marca|marci|collections?|search|cauta|cautare|c|categorie)\//i.test(u.replace(/^https?:\/\/[^/]+/, '')) || /[?&](q|search|s)=/i.test(u);
 const clean = (u) => u.split('?')[0].split('#')[0];
-const hasBrand = (m) => /\ben[ -]?fant\b/.test(norm(m.titlu) + ' ' + norm(decodeURIComponent(m.url_produs).replace(/[-_/]/g, ' ')));
+const BRAND_RE = new RegExp('\\b' + norm(BRAND).split(' ').join('[ -]?') + '\\b');
+const hasBrand = (m) => BRAND_RE.test(norm(m.titlu) + ' ' + norm(decodeURIComponent(m.url_produs).replace(/[-_/]/g, ' ')));
 
 const cands = [];
 for (const m of lens) {
