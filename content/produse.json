@@ -1529,7 +1529,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii/"
     },
@@ -4751,7 +4751,11 @@
             24,
             25,
             26,
-            27
+            27,
+            28,
+            29,
+            30,
+            31
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -4978,6 +4982,14 @@
         "tip": "Pantofi",
         "gen": "baieti",
         "marimi": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
             36,
             37,
             38,
@@ -5478,7 +5490,7 @@
             116,
             122
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kg0kg08927/"
     },
@@ -5873,7 +5885,7 @@
             138,
             150
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/karl-lagerfeld-geaca-copii/"
     },
@@ -12289,7 +12301,7 @@
             130,
             140
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/didriksons-geaca-copii-falken-kids-jkt/"
     },
@@ -14278,15 +14290,9 @@
         "tip": "Geci & jachete",
         "gen": "baieti",
         "marimi": [
-            110,
-            120,
-            130,
             140,
-            150,
             152,
-            160,
             164,
-            170,
             176
         ],
         "cu_stoc": true,
@@ -14431,7 +14437,7 @@
             33,
             34
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261252/"
     },
@@ -14994,12 +15000,9 @@
         "gen": "baieti",
         "marimi": [
             130,
-            142,
-            154,
-            166,
-            172
+            142
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/colmar-geaca-de-puf-pentru-copii-weightless/"
     },
@@ -15021,7 +15024,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-de-puf-pentru-copii/"
     },
@@ -15459,7 +15462,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-camasa-de-bumbac-pentru-copii/"
     },
@@ -15959,7 +15962,7 @@
             130,
             140
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/didriksons-geaca-copii-neptun-kids-jkt-505985/"
     },
@@ -17240,7 +17243,7 @@
             134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/liewood-jeans-copii-borris-printed-denim-pants/"
     },
@@ -19212,7 +19215,7 @@
             116,
             122
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kb0kb09852/"
     },
@@ -19326,7 +19329,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-sneakers-pentru-copii-14200/"
     },
@@ -19589,7 +19592,7 @@
             39,
             40
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-bocanci-copii-34028/"
     },
@@ -22115,7 +22118,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-16/"
     },
@@ -22776,7 +22779,7 @@
             35,
             36
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-sneakers-pentru-copii-hiivin/"
     },
@@ -29153,11 +29156,6 @@
         "tip": "Ghete & cizme",
         "gen": "fete",
         "marimi": [
-            30,
-            31,
-            32,
-            33,
-            34,
             35,
             36,
             37,
@@ -30631,7 +30629,7 @@
             39,
             40
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-loikkii-incaltaminte-barefoot-pentru-copii-maro-marime/"
     },
@@ -30858,12 +30856,9 @@
         "tip": "Salopete & compleuri",
         "gen": "unisex",
         "marimi": [
-            100,
-            110,
-            120,
             150
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-taitoa-set-termo-pentru-copii-roz-marime/"
     },
