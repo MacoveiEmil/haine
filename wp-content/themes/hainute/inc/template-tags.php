@@ -28,6 +28,9 @@ function hainute_stock_badge( $status ) {
  * Format a price for display.
  */
 function hainute_format_price( $price, $currency = 'RON' ) {
+	if ( (float) $price <= 0 ) {
+		return ''; // preț încă necunoscut (magazin neverificat): nu afișăm „0,00 lei"
+	}
 	$formatted = number_format( (float) $price, 2, ',', '.' );
 	$suffix    = 'RON' === $currency ? 'lei' : $currency;
 	return $formatted . '&nbsp;' . esc_html( $suffix );
@@ -985,6 +988,46 @@ function hainute_shop_listings_build( $product_id ) {
 	);
 
 	return $out;
+}
+
+/**
+ * Magazine partenere cu program de afiliere, pentru produsele cu puține magazine (marcate la import cu
+ * `_hainute_partner_block`): link afiliat către pagina principală, ca părintele să poată căuta și alte
+ * modele în mărimea copilului. Se arată ca bloc separat, nu ca ofertă: nu pretindem că produsul e acolo.
+ * Un magazin intră doar dacă linkul lui chiar trece prin rețeaua de afiliere (altfel n-ar aduce nimic).
+ */
+function hainute_the_partner_block( $product_id ) {
+	if ( ! get_post_meta( $product_id, '_hainute_partner_block', true ) || ! function_exists( 'hainute_cross_affiliate_url' ) ) {
+		return;
+	}
+	$leaf     = hainute_product_leaf_cat( $product_id );
+	$anc      = $leaf ? array_merge( array( $leaf->term_id ), get_ancestors( $leaf->term_id, 'product_cat' ) ) : array();
+	$footwear = false;
+	foreach ( $anc as $a ) {
+		$t = get_term( $a, 'product_cat' );
+		if ( $t && ! is_wp_error( $t ) && 0 === strpos( $t->slug, 'incaltaminte' ) ) {
+			$footwear = true;
+		}
+	}
+	$partners = $footwear
+		? array( 'Answear.ro' => 'https://answear.ro/', 'Sportisimo.ro' => 'https://www.sportisimo.ro/' )
+		: array( 'Answear.ro' => 'https://answear.ro/', 'FashionDays.ro' => 'https://www.fashiondays.ro/' );
+	$links    = array();
+	foreach ( $partners as $name => $home ) {
+		$aff = hainute_cross_affiliate_url( $home );
+		if ( $aff && $aff !== $home ) {
+			$links[ $name ] = hainute_out_url( $aff );
+		}
+	}
+	if ( ! $links ) {
+		return;
+	}
+	echo '<aside class="partner-block"><h2 class="partner-block-title">' . esc_html__( 'Cauți alte variante?', 'hainute' ) . '</h2>';
+	echo '<p>' . esc_html__( 'Dacă nu găsești mărimea potrivită aici, poți căuta alte modele pentru copil la magazinele partenere:', 'hainute' ) . '</p><p class="partner-links">';
+	foreach ( $links as $name => $url ) {
+		echo '<a class="partner-link" href="' . esc_url( $url ) . '" target="_blank" rel="sponsored nofollow noopener">' . esc_html( $name ) . ' &rarr;</a> ';
+	}
+	echo '</p></aside>';
 }
 
 /** Categoria-frunză (cea mai adâncă) a produsului, sau null. */

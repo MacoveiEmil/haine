@@ -35,6 +35,7 @@ require_once HAINUTE_CORE_DIR . 'includes/sync/matching.php';
 require_once HAINUTE_CORE_DIR . 'includes/sync/categories.php';
 require_once HAINUTE_CORE_DIR . 'includes/sync/importer.php';
 require_once HAINUTE_CORE_DIR . 'includes/sync/log.php';
+require_once HAINUTE_CORE_DIR . 'includes/draft-import.php';
 require_once HAINUTE_CORE_DIR . 'includes/sync/runner.php';
 require_once HAINUTE_CORE_DIR . 'includes/sync/sources/mock.php';
 require_once HAINUTE_CORE_DIR . 'includes/sync/sources/2performant.php';

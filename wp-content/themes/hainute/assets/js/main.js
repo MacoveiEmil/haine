@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		var altDefault = alt ? !alt.hidden : false;
 		rows.forEach(function (li, i) { li._idx = i; li._rank = 0; });
 
-		function fmt(p) { return (Math.round(p * 100) / 100).toFixed(2).replace('.', ',') + ' lei'; }
+		function fmt(p) { if (!(p > 0)) { return ''; } return (Math.round(p * 100) / 100).toFixed(2).replace('.', ',') + ' lei'; }
 		function variantsOf(li) { try { return JSON.parse(li.getAttribute('data-variants') || '[]'); } catch (e) { return []; } }
 		// Activează/dezactivează butonul „Vezi în magazin": fără link funcțional când
 		// mărimea aleasă nu e disponibilă la acel magazin.

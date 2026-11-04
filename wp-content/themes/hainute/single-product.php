@@ -67,6 +67,8 @@ get_header();
 					<?php hainute_the_recheck_box( $product_id ); ?>
 
 					<?php hainute_the_shop_matrix( $product_id ); ?>
+
+					<?php hainute_the_partner_block( $product_id ); ?>
 				</div>
 
 			</div>

@@ -1375,3 +1375,11 @@ html { scroll-behavior: smooth; }
 .brands-suggest[hidden], .brands-suggest li[hidden] { display: none; }
 .brands-suggest a { display: flex; justify-content: space-between; gap: 1rem; padding: 0.6rem 1rem; color: var(--ink); text-decoration: none; }
 .brands-suggest a:hover, .brands-suggest a:focus { background: #f4f1ec; }
+
+/* Bloc „Cauți alte variante?": link afiliat către magazine partenere (produse cu puține magazine) */
+.partner-block { margin: 1rem 0; padding: 0.9rem 1rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--cream); }
+.partner-block-title { margin: 0 0 0.3rem; font-size: 1rem; }
+.partner-block p { margin: 0 0 0.5rem; font-size: 0.92rem; }
+.partner-links { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0; }
+.partner-link { display: inline-block; padding: 0.4rem 0.85rem; border: 1px solid var(--accent); border-radius: 999px; background: #fff; font-weight: 600; color: var(--link); text-decoration: none; }
+.partner-link:hover { background: var(--accent); color: #fff; }
