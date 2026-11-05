@@ -2788,7 +2788,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/lego-geaca-copii/"
     },
@@ -2878,7 +2878,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/adidas-geaca-copii-jl7433/"
     },
@@ -10429,7 +10429,7 @@
             40,
             41
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-bocanci-copii-d04hrc/"
     },
@@ -11106,12 +11106,7 @@
             27,
             28,
             29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
+            30
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -11697,7 +11692,7 @@
             164,
             168
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/patrizia-pepe-geaca-copii-e066/"
     },
@@ -11740,7 +11735,7 @@
             "150-161",
             "163-174"
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/polo-ralph-lauren-palton-copii/"
     },
@@ -13462,7 +13457,7 @@
             166,
             172
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/colmar-geaca-de-puf-pentru-copii-deluxe/"
     },
@@ -14597,7 +14592,7 @@
             39,
             40
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-ghete-din-piele-pentru-copii/"
     },
@@ -18580,9 +18575,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-nike-y-nk-thermal-rpl-park20-fall-jacket/"
@@ -19306,7 +19299,7 @@
             22,
             23
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-sneakers-pentru-copii-20/"
     },
@@ -24043,7 +24036,7 @@
             26,
             27
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii/"
     },
@@ -24908,7 +24901,7 @@
             "150-161",
             "163-174"
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/polo-ralph-lauren-palton-copii-323970093001/"
     },
@@ -28070,7 +28063,7 @@
             160,
             170
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/ea7-emporio-armani-geaca-bomber-pentru-copii-3/"
     },
