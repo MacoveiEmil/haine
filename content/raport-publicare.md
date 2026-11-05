@@ -1,5 +1,9 @@
 # Raport publicare
 
+## 2026-11-05 13:21 (fdf0714, Macovei Emil)
+- containerele au fost repornite (configurație Docker modificată)
+- cod/configurație actualizate: docker-compose.prod.yml docker/Caddyfile tools/partner-sftp-setup.sh 
+
 ## 2026-11-04 12:16 (50281ee, beestyle-server)
 - cod/configurație actualizate:  
 
