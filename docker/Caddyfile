@@ -16,3 +16,25 @@ beestyle.ro {
 		-X-Powered-By
 	}
 }
+
+# Site static al unui partener (fișiere urcate prin SFTP în /srv/partner/site, montate doar-citire).
+# Nu are legătură cu WordPress; o eroare aici nu afectează beestyle.ro.
+www.fairclickagency.com {
+	redir https://fairclickagency.com{uri} permanent
+}
+
+fairclickagency.com {
+	encode zstd gzip
+	root * /srv/fairclick
+	file_server
+	handle_errors {
+		rewrite * /404.html
+		file_server
+	}
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		-Server
+	}
+}
