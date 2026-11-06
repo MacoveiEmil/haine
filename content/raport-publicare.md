@@ -1,5 +1,8 @@
 # Raport publicare
 
+## 2026-11-06 09:53 (49f6cda, Macovei Emil)
+- cod/configurație actualizate: wp-content/themes/hainute/assets/css/main.css wp-content/themes/hainute/page-black-friday.php 
+
 ## 2026-11-05 13:21 (fdf0714, Macovei Emil)
 - containerele au fost repornite (configurație Docker modificată)
 - cod/configurație actualizate: docker-compose.prod.yml docker/Caddyfile tools/partner-sftp-setup.sh 
