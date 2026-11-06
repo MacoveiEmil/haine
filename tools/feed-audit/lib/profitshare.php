@@ -37,7 +37,9 @@ function fa_ps_get( $user, $key, $api, $params = array() ) {
 	fa_ps_throttle();
 	$qs   = $params ? urldecode( http_build_query( $params ) ) : '';
 	$date = gmdate( 'D, d M Y H:i:s T', time() );
-	$auth = hash_hmac( 'sha1', 'GET' . $api . '/?' . $qs . '/' . $user . $date, $key );
+	// Fără parametri, Profitshare semnează ruta fără „/?” (cu parametri: GET{ruta}/?{qs}/{user}{data}).
+	$sig  = '' === $qs ? 'GET' . $api . '/' . $user . $date : 'GET' . $api . '/?' . $qs . '/' . $user . $date;
+	$auth = hash_hmac( 'sha1', $sig, $key );
 
 	list( $st, $h, $b ) = fa_http(
 		'GET',
