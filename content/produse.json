@@ -31,10 +31,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            4,
-            6
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-nkg-club-hbr-woven-jacket/"
@@ -145,8 +142,7 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
-            "S",
-            "XL"
+            "S"
         ],
         "cu_stoc": true,
         "descriere_versiune": "",
@@ -2109,7 +2105,7 @@
             134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-pantaloni-copii-alppi/"
     },
@@ -2537,13 +2533,7 @@
             32,
             33,
             34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41
+            35
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -5179,7 +5169,7 @@
             98,
             104
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/lego-geaca-copii-lwjeri-11010977/"
     },
@@ -7011,7 +7001,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kb0kb09814/"
     },
@@ -9745,7 +9735,7 @@
             "118-122",
             "122-125"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-n6yl01/"
     },
@@ -9767,7 +9757,7 @@
             164,
             170
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/calvin-klein-jeans-palton-copii/"
     },
@@ -14859,7 +14849,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-pantaloni-de-schi-pentru-copii-proxima/"
     },
@@ -20253,7 +20243,7 @@
             "118-122",
             "122-125"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-w2656/"
     },
@@ -20830,7 +20820,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-perth-sneakers-pentru-copii-0mems/"
     },
@@ -26504,7 +26494,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-88950/"
     },
@@ -29412,7 +29402,7 @@
             "122-128",
             "134-140"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/konges-slojd-geaca-copii-magnum-down-jacket-solid-grs/"
     },
@@ -31239,7 +31229,7 @@
             37,
             38
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-konkari-incaltaminte-de-iarna-copii-negru-marime/"
     },

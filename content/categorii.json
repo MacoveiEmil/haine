@@ -12,22 +12,22 @@
     {
         "slug": "/categorie/bebe-imbracaminte-bluze-tricouri-hanorace/",
         "cale": "Bebeluși › Îmbrăcăminte › Bluze, tricouri & hanorace",
-        "produse": 2
+        "produse": 16
     },
     {
         "slug": "/categorie/bebe-imbracaminte-geci-jachete/",
         "cale": "Bebeluși › Îmbrăcăminte › Geci & jachete",
-        "produse": 16
+        "produse": 17
     },
     {
         "slug": "/categorie/bebe-imbracaminte-pantaloni-treninguri/",
         "cale": "Bebeluși › Îmbrăcăminte › Pantaloni & treninguri",
-        "produse": 3
+        "produse": 5
     },
     {
         "slug": "/categorie/bebe-imbracaminte-salopete-compleuri/",
         "cale": "Bebeluși › Îmbrăcăminte › Salopete & compleuri",
-        "produse": 6
+        "produse": 23
     },
     {
         "slug": "/categorie/incaltaminte-bebe/",
@@ -37,7 +37,7 @@
     {
         "slug": "/categorie/bebe-incaltaminte-adidasi/",
         "cale": "Bebeluși › Încălțăminte › Adidași",
-        "produse": 59
+        "produse": 60
     },
     {
         "slug": "/categorie/bebe-incaltaminte-ghete-cizme/",
@@ -142,7 +142,7 @@
     {
         "slug": "/categorie/bluze-tricouri-hanorace/",
         "cale": "Fete › Îmbrăcăminte › Bluze, tricouri & hanorace",
-        "produse": 33
+        "produse": 34
     },
     {
         "slug": "/categorie/geci-jachete/",
@@ -152,12 +152,12 @@
     {
         "slug": "/categorie/pantaloni-treninguri/",
         "cale": "Fete › Îmbrăcăminte › Pantaloni & treninguri",
-        "produse": 10
+        "produse": 11
     },
     {
         "slug": "/categorie/rochii-fuste/",
         "cale": "Fete › Îmbrăcăminte › Rochii & fuste",
-        "produse": 2
+        "produse": 4
     },
     {
         "slug": "/categorie/salopete-compleuri/",
@@ -207,7 +207,7 @@
     {
         "slug": "/categorie/unisex-accesorii-caciuli-manusi-accesorii/",
         "cale": "Unisex › Accesorii › Căciuli, mănuși & alte accesorii",
-        "produse": 17
+        "produse": 68
     },
     {
         "slug": "/categorie/imbracaminte-unisex/",
@@ -217,22 +217,22 @@
     {
         "slug": "/categorie/unisex-imbracaminte-bluze-tricouri-hanorace/",
         "cale": "Unisex › Îmbrăcăminte › Bluze, tricouri & hanorace",
-        "produse": 25
+        "produse": 79
     },
     {
         "slug": "/categorie/unisex-imbracaminte-geci-jachete/",
         "cale": "Unisex › Îmbrăcăminte › Geci & jachete",
-        "produse": 177
+        "produse": 203
     },
     {
         "slug": "/categorie/unisex-imbracaminte-pantaloni-treninguri/",
         "cale": "Unisex › Îmbrăcăminte › Pantaloni & treninguri",
-        "produse": 27
+        "produse": 55
     },
     {
         "slug": "/categorie/unisex-imbracaminte-salopete-compleuri/",
         "cale": "Unisex › Îmbrăcăminte › Salopete & compleuri",
-        "produse": 12
+        "produse": 26
     },
     {
         "slug": "/categorie/incaltaminte-unisex/",
@@ -242,26 +242,26 @@
     {
         "slug": "/categorie/unisex-incaltaminte-adidasi/",
         "cale": "Unisex › Încălțăminte › Adidași",
-        "produse": 84
+        "produse": 96
     },
     {
         "slug": "/categorie/unisex-incaltaminte-ghete-cizme/",
         "cale": "Unisex › Încălțăminte › Ghete & cizme",
-        "produse": 62
+        "produse": 85
     },
     {
         "slug": "/categorie/unisex-incaltaminte-pantofi/",
         "cale": "Unisex › Încălțăminte › Pantofi",
-        "produse": 55
+        "produse": 68
     },
     {
         "slug": "/categorie/unisex-incaltaminte-papuci/",
         "cale": "Unisex › Încălțăminte › Papuci",
-        "produse": 3
+        "produse": 45
     },
     {
         "slug": "/categorie/unisex-incaltaminte-sandale/",
         "cale": "Unisex › Încălțăminte › Sandale",
-        "produse": 10
+        "produse": 11
     }
 ]
