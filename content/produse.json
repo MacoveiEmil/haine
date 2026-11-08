@@ -31,10 +31,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            4,
-            6
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-nkg-club-hbr-woven-jacket/"
@@ -162,7 +159,9 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-adidasi/",
         "tip": "Adidași",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            40
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/pantofi-sport-tommy-hilfiger-logo-high-top-lace-up-sneaker/"
@@ -2301,7 +2300,7 @@
             38,
             39
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-cizme-de-iarna-copii/"
     },
@@ -2865,7 +2864,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/adidas-geaca-copii-jl7433/"
     },
@@ -7241,12 +7240,7 @@
             27,
             28,
             29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
+            30
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -11204,7 +11198,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kb0kb10093/"
     },
@@ -12277,7 +12271,7 @@
             130,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/didriksons-geaca-copii-falken-kids-jkt/"
     },
@@ -13765,7 +13759,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-balerini-din-piele-pentru-copii/"
     },
@@ -14413,7 +14407,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261252/"
     },
@@ -15346,7 +15340,7 @@
             166,
             172
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/colmar-geaca-de-puf-pentru-copii-repunk/"
     },
@@ -18556,7 +18550,9 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            "XL"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-nike-y-nk-thermal-rpl-park20-fall-jacket/"
@@ -20811,7 +20807,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-perth-sneakers-pentru-copii-0mems/"
     },
