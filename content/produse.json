@@ -31,7 +31,10 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            4,
+            6
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-nkg-club-hbr-woven-jacket/"
@@ -955,7 +958,7 @@
             "166-175",
             175
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-copii-l6rl09/"
     },
@@ -2148,7 +2151,7 @@
             24,
             25
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-pantofi-copii/"
     },
@@ -6991,7 +6994,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kb0kb09814/"
     },
@@ -7782,7 +7785,7 @@
             "150-161",
             "163-174"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/polo-ralph-lauren-geaca-copii-323p02021001/"
     },
@@ -8186,13 +8189,9 @@
             32,
             33,
             34,
-            35,
-            36,
-            37,
-            38,
-            39
+            35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-pentru-copii/"
     },
@@ -8529,7 +8528,7 @@
             134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/liewood-geaca-copii-kalle-jacket/"
     },
@@ -9649,7 +9648,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-2354711/"
     },
@@ -10314,7 +10313,7 @@
             26,
             27
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-eclyper-sneakers-pentru-copii-b555la/"
     },
@@ -17648,7 +17647,7 @@
             "122-128",
             "134-140"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/konges-slojd-rochie-de-lana-pentru-copii-collette-dress/"
     },
@@ -19050,7 +19049,7 @@
             24,
             25
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-pantofi-copii-262103/"
     },
@@ -20807,7 +20806,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-perth-sneakers-pentru-copii-0mems/"
     },
@@ -22749,7 +22748,7 @@
             35,
             36
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-sneakers-pentru-copii-hiivin/"
     },
@@ -23308,7 +23307,7 @@
             38,
             39
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-pentru-copii-89346/"
     },
@@ -24815,7 +24814,7 @@
             "158-166",
             167
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-15/"
     },
@@ -26058,7 +26057,9 @@
             "32.5",
             "33.5",
             35,
-            36
+            36,
+            37,
+            38
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -26640,7 +26641,7 @@
             33,
             34
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261257/"
     },
@@ -27071,7 +27072,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/ea7-emporio-armani-geaca-bomber-pentru-copii-af12873/"
     },
