@@ -1339,7 +1339,13 @@
             31,
             32,
             33,
-            34
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -1364,7 +1370,7 @@
             "158-166",
             "166-175"
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-copii-wcfm0/"
     },
@@ -5479,7 +5485,7 @@
             116,
             122
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kg0kg08927/"
     },
@@ -7096,14 +7102,9 @@
             32,
             33,
             34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
+            35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-8884033/"
     },
@@ -9064,6 +9065,11 @@
         "tip": "Ghete & cizme",
         "gen": "fete",
         "marimi": [
+            31,
+            32,
+            33,
+            34,
+            35,
             36,
             37,
             38,
@@ -10403,7 +10409,7 @@
             40,
             41
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-bocanci-copii-d04hrc/"
     },
@@ -14155,7 +14161,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261255/"
     },
@@ -15431,7 +15437,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-camasa-de-bumbac-pentru-copii/"
     },
@@ -19561,7 +19567,7 @@
             39,
             40
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-bocanci-copii-34028/"
     },
@@ -19584,7 +19590,7 @@
             "158-166",
             "166-175"
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/guess-geaca-copii-27/"
     },
@@ -22748,7 +22754,7 @@
             35,
             36
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-sneakers-pentru-copii-hiivin/"
     },
@@ -24791,7 +24797,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-88753/"
     },
@@ -26057,9 +26063,7 @@
             "32.5",
             "33.5",
             35,
-            36,
-            37,
-            38
+            36
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -26524,7 +26528,7 @@
             30,
             31
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-sneakers-pentru-copii-washiba-0bckn/"
     },
@@ -26641,7 +26645,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261257/"
     },
@@ -28113,7 +28117,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-cizme-de-iarna-pentru-copii-4/"
     },
@@ -29501,7 +29505,7 @@
             24,
             25
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-din-piele-5/"
     },
@@ -30418,15 +30422,9 @@
         "tip": "Bluze, tricouri & hanorace",
         "gen": "unisex",
         "marimi": [
-            104,
-            110,
-            116,
-            122,
-            128,
-            134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-vauhdikas-tricou-pentru-copii-roz-marime/"
     },
@@ -30792,8 +30790,7 @@
             34,
             35,
             36,
-            37,
-            38
+            37
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -31316,19 +31313,9 @@
         "tip": "Ghete & cizme",
         "gen": "unisex",
         "marimi": [
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38
+            28
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-sophis-incaltaminte-de-iarna-copii-negru-marime/"
     },
