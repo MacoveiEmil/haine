@@ -185,6 +185,65 @@ function hainute_the_brand_links( $product_id ) {
 }
 
 /**
+ * Linkuri interne lângă matricea de magazine: „Vezi altele din aceeași categorie"
+ * (cea mai specifică, apoi părintele ei) și „Toate produsele {brand}". Ținem
+ * vizitatorul pe site, mai ales pe produsele cu un singur magazin. Nu afirmă nimic
+ * despre magazine, doar duce spre paginile de categorie/brand ale site-ului.
+ */
+function hainute_the_more_links( $product_id ) {
+	$items = array();
+
+	$cats = get_the_terms( $product_id, 'product_cat' );
+	if ( $cats && ! is_wp_error( $cats ) ) {
+		$best       = null;
+		$best_depth = -1;
+		foreach ( $cats as $c ) {
+			if ( 0 === strcasecmp( $c->name, 'Diverse' ) ) {
+				continue;
+			}
+			$depth = count( get_ancestors( $c->term_id, 'product_cat' ) );
+			if ( $depth > $best_depth ) {
+				$best       = $c;
+				$best_depth = $depth;
+			}
+		}
+		if ( $best ) {
+			$link = get_term_link( $best );
+			if ( ! is_wp_error( $link ) && (int) $best->count > 1 ) {
+				$items[] = array( $link, sprintf( __( 'Vezi altele din aceeași categorie: %s', 'hainute' ), $best->name ) );
+			}
+			if ( $best->parent ) {
+				$parent = get_term( $best->parent, 'product_cat' );
+				$plink  = $parent && ! is_wp_error( $parent ) ? get_term_link( $parent ) : '';
+				if ( $plink && ! is_wp_error( $plink ) && 0 !== strcasecmp( $parent->name, 'Diverse' ) ) {
+					$items[] = array( $plink, sprintf( __( 'Mai mult din %s', 'hainute' ), $parent->name ) );
+				}
+			}
+		}
+	}
+
+	$brands = get_the_terms( $product_id, 'product_brand' );
+	if ( $brands && ! is_wp_error( $brands ) ) {
+		$b = reset( $brands );
+		if ( $b && (int) $b->count > 1 ) {
+			$link = get_term_link( $b );
+			if ( ! is_wp_error( $link ) ) {
+				$items[] = array( $link, sprintf( __( 'Toate produsele %s', 'hainute' ), $b->name ) );
+			}
+		}
+	}
+
+	if ( ! $items ) {
+		return;
+	}
+	echo '<nav class="more-links" aria-label="' . esc_attr__( 'Mai multe pe site', 'hainute' ) . '">';
+	foreach ( $items as $it ) {
+		echo '<a class="more-link" href="' . esc_url( $it[0] ) . '">' . esc_html( $it[1] ) . ' &rarr;</a>';
+	}
+	echo '</nav>';
+}
+
+/**
  * Etichetă „acum X" în română (relativ, scurt).
  */
 function hainute_ago_ro( $ts ) {

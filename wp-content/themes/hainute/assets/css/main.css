@@ -1384,6 +1384,11 @@ html { scroll-behavior: smooth; }
 .partner-link { display: inline-block; padding: 0.4rem 0.85rem; border: 1px solid var(--accent); border-radius: 999px; background: #fff; font-weight: 600; color: var(--link); text-decoration: none; }
 .partner-link:hover { background: var(--accent); color: #fff; }
 
+/* „Vezi altele din aceeași categorie" lângă matrice. */
+.more-links { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 0; }
+.more-link { display: inline-block; padding: 0.45rem 0.9rem; border: 1px solid var(--border); border-radius: 999px; background: #fff; font-size: 0.9rem; font-weight: 600; color: var(--ink); text-decoration: none; }
+.more-link:hover { border-color: var(--ink); }
+
 /* ---------- Pagina de campanie: Black Friday ---------- */
 .bf-lp { overflow-x: clip; }
 .bf-hero { background: var(--ink); color: #fff; }
