@@ -162,9 +162,7 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-adidasi/",
         "tip": "Adidași",
         "gen": "unisex",
-        "marimi": [
-            40
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/pantofi-sport-tommy-hilfiger-logo-high-top-lace-up-sneaker/"
@@ -1895,7 +1893,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/adidas-geaca-copii-jw2396/"
     },
@@ -2656,7 +2654,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/calvin-klein-jeans-geaca-copii/"
     },
@@ -4977,14 +4975,6 @@
         "tip": "Pantofi",
         "gen": "baieti",
         "marimi": [
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
             36,
             37,
             38,
@@ -5361,7 +5351,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii/"
     },
@@ -8272,12 +8262,6 @@
         "tip": "Ghete & cizme",
         "gen": "baieti",
         "marimi": [
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
             36,
             37,
             38
@@ -8648,7 +8632,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-8856400/"
     },
@@ -12043,7 +12027,7 @@
             23,
             24
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-zapada-pentru-copii-2363211/"
     },
@@ -14412,7 +14396,7 @@
             33,
             34
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261252/"
     },
@@ -15937,7 +15921,7 @@
             130,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/didriksons-geaca-copii-neptun-kids-jkt-505985/"
     },
@@ -18798,7 +18782,7 @@
             38,
             39
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-bocanci-copii-4/"
     },
@@ -19281,7 +19265,7 @@
             22,
             23
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-sneakers-pentru-copii-20/"
     },
@@ -20538,7 +20522,7 @@
             "118-122",
             "122-125"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-8/"
     },
@@ -20766,7 +20750,7 @@
             "158-166",
             167
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-w2607/"
     },
@@ -20812,7 +20796,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-perth-sneakers-pentru-copii-0mems/"
     },
@@ -22671,7 +22655,7 @@
             "118-122",
             "122-125"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-jacheta-pentru-copii-4/"
     },
@@ -23655,7 +23639,7 @@
             25,
             26
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-sneakers-pentru-copii-din-piele-10/"
     },
@@ -24354,7 +24338,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-blugi-pentru-copii-barrel/"
     },
@@ -24753,7 +24737,7 @@
             39,
             40
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-88840/"
     },
@@ -30781,18 +30765,9 @@
         "tip": "Ghete & cizme",
         "gen": "unisex",
         "marimi": [
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37
+            28
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-ehtii-incaltaminte-outdoor-pentru-copii-maro-marime/"
     },
