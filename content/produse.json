@@ -10,12 +10,7 @@
         "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "baieti",
-        "marimi": [
-            "L",
-            "M",
-            "S",
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-jdb-ess-draft-jacket/"
@@ -31,10 +26,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            4,
-            6
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-nkg-club-hbr-woven-jacket/"
@@ -50,11 +42,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            "L",
-            "M",
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-k-nsw-rpl-wr-hd-jkt/"
@@ -5351,7 +5339,7 @@
             28,
             29
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii/"
     },
@@ -5751,11 +5739,6 @@
             28,
             29,
             30,
-            31,
-            32,
-            33,
-            34,
-            35,
             36,
             37,
             38,
@@ -10642,15 +10625,7 @@
             24,
             25,
             26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
+            27
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -14210,7 +14185,7 @@
             23,
             24
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-zapada-pentru-copii-2350033/"
     },
@@ -16925,7 +16900,7 @@
             134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/lego-jacheta-si-pantaloni-pentru-copii-lwsaku-11010985/"
     },
@@ -20750,7 +20725,7 @@
             "158-166",
             167
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-w2607/"
     },
@@ -20796,7 +20771,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-perth-sneakers-pentru-copii-0mems/"
     },
@@ -27198,7 +27173,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-cizme-de-iarna-pentru-copii-adelhide/"
     },
@@ -28511,7 +28486,7 @@
             24,
             25
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-din-piele-261133/"
     },
@@ -29162,7 +29137,7 @@
         "marimi": [
             156
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/marc-jacobs-geaca-de-blugi-pentru-copii-din-bumbac/"
     },
@@ -30357,6 +30332,8 @@
         "tip": "Ghete & cizme",
         "gen": "unisex",
         "marimi": [
+            28,
+            29,
             30,
             31,
             32,
