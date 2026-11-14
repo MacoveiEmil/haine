@@ -1337,13 +1337,7 @@
             31,
             32,
             33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
+            34
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -1594,7 +1588,7 @@
             38,
             39
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-bocanci-copii-casey/"
     },
@@ -19540,7 +19534,7 @@
             39,
             40
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-bocanci-copii-34028/"
     },
@@ -31770,16 +31764,9 @@
         "tip": "Pantofi",
         "gen": "unisex",
         "marimi": [
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
+            29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-j-washiba-a-incaltaminte-pentru-copii-negru-marime/"
     },
