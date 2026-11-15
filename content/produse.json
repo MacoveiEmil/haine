@@ -1337,7 +1337,13 @@
             31,
             32,
             33,
-            34
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -1522,7 +1528,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii/"
     },
@@ -2650,7 +2656,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/calvin-klein-jeans-geaca-copii/"
     },
@@ -2867,7 +2873,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/adidas-geaca-copii-jl7433/"
     },
@@ -7193,11 +7199,6 @@
         "tip": "Ghete & cizme",
         "gen": "fete",
         "marimi": [
-            20,
-            21,
-            22,
-            23,
-            24,
             25,
             26,
             27,
@@ -17551,7 +17552,7 @@
             122,
             128
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/donsje-geaca-de-tranzitie-pentru-copii-damian-jacket/"
     },
@@ -19534,7 +19535,7 @@
             39,
             40
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-bocanci-copii-34028/"
     },
@@ -28151,7 +28152,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-ghete-scurte-pentru-copii-din-piele-intoarsa/"
     },
