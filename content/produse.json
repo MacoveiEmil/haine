@@ -31,7 +31,10 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            4,
+            6
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-nkg-club-hbr-woven-jacket/"
@@ -2115,8 +2118,6 @@
         "tip": "Geci & jachete",
         "gen": "baieti",
         "marimi": [
-            "68-76",
-            "77-88",
             "88-96",
             "96-104",
             "105-112",
@@ -19146,7 +19147,7 @@
             116,
             122
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kb0kb09852/"
     },
@@ -19523,7 +19524,7 @@
             39,
             40
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-bocanci-copii-34028/"
     },
@@ -22049,7 +22050,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-16/"
     },
@@ -26667,7 +26668,7 @@
             86,
             92
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/donsje-geaca-bomber-pentru-copii-cu-bumbac-3/"
     },
