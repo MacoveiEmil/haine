@@ -10,12 +10,7 @@
         "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "baieti",
-        "marimi": [
-            "L",
-            "M",
-            "S",
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-jdb-ess-draft-jacket/"
@@ -31,7 +26,10 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            4,
+            6
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-nkg-club-hbr-woven-jacket/"
@@ -421,7 +419,7 @@
             140,
             152
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/wheat-geaca-copii/"
     },
@@ -2772,7 +2770,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/lego-geaca-copii/"
     },
@@ -5350,7 +5348,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii/"
     },
@@ -5474,7 +5472,7 @@
             116,
             122
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kg0kg08927/"
     },
@@ -9263,7 +9261,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-2354700/"
     },
@@ -11297,7 +11295,7 @@
             164,
             168
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/patrizia-pepe-geaca-copii-k103/"
     },
@@ -14703,7 +14701,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-2350000/"
     },
@@ -14841,7 +14839,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/ea7-emporio-armani-geaca-de-schi-pentru-copii/"
     },
@@ -18158,7 +18156,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-bomber-de-tranzitie-fete-croiala-supradimensionata-fara-gluga/"
     },
@@ -18183,7 +18181,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-bomber-pentru-fete-neagra-croiala-oversize-fara-gluga/"
     },
@@ -18346,7 +18344,7 @@
             116,
             128
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-baieti/"
     },
@@ -18370,7 +18368,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-softshell-pentru-fete-rezistenta-la-vant-gluga-hidrofob/"
     },
@@ -18457,7 +18455,7 @@
             152,
             158
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/vesta-fete-302874682/"
     },
@@ -21957,7 +21955,7 @@
             22,
             23
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-sneakers-pentru-copii-ciufciuf-0fu22/"
     },
@@ -23358,7 +23356,7 @@
             92,
             98
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-salopeta-pentru-copii-mjosa-3/"
     },
