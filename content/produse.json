@@ -10,7 +10,12 @@
         "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "baieti",
-        "marimi": [],
+        "marimi": [
+            "L",
+            "M",
+            "S",
+            "XL"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-jdb-ess-draft-jacket/"
@@ -2525,7 +2530,13 @@
             32,
             33,
             34,
-            35
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -6380,7 +6391,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-pantaloni-copii/"
     },
@@ -7217,7 +7228,12 @@
             27,
             28,
             29,
-            30
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -9261,7 +9277,7 @@
             28,
             29
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-2354700/"
     },
@@ -13264,7 +13280,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-blugi-pentru-copii-baggy-kb0kb10417/"
     },
@@ -13438,7 +13454,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-2379111/"
     },
@@ -14180,7 +14196,7 @@
             23,
             24
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-zapada-pentru-copii-2350033/"
     },
@@ -15696,7 +15712,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-camasa-pentru-copii-cu-bumbac/"
     },
@@ -20766,7 +20782,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-perth-sneakers-pentru-copii-0mems/"
     },
@@ -22115,7 +22131,7 @@
             38,
             39
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-cizme-de-iarna-copii-3/"
     },
