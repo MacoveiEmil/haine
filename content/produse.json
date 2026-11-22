@@ -10,12 +10,7 @@
         "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "baieti",
-        "marimi": [
-            "L",
-            "M",
-            "S",
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-jdb-ess-draft-jacket/"
@@ -31,10 +26,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            4,
-            6
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-nkg-club-hbr-woven-jacket/"
@@ -50,11 +42,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            "L",
-            "M",
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-k-nsw-rpl-wr-hd-jkt/"
@@ -70,11 +58,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            "L",
-            "M",
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geaca-nike-k-nsw-tf-swsh-pfr-jkt/"
@@ -107,7 +91,6 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
-            "M",
             "XL"
         ],
         "cu_stoc": true,
@@ -125,10 +108,7 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-ghete-cizme/",
         "tip": "Ghete & cizme",
         "gen": "unisex",
-        "marimi": [
-            31,
-            "32.5"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/ghete-ugg-classic-ultra-mini/"
@@ -144,9 +124,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            "S"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geaca-ea7-m-down-medium-hooded-jacket-camou/"
@@ -202,14 +180,7 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-ghete-cizme/",
         "tip": "Ghete & cizme",
         "gen": "unisex",
-        "marimi": [
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/ghete-tommy-hilfiger-lace-up-bootie/"
@@ -2654,7 +2625,7 @@
             164,
             176
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/calvin-klein-jeans-geaca-copii/"
     },
@@ -10392,7 +10363,7 @@
             40,
             41
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-bocanci-copii-d04hrc/"
     },
@@ -15407,7 +15378,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-camasa-de-bumbac-pentru-copii/"
     },
@@ -18505,11 +18476,7 @@
         "categorie_frunza": "/categorie/geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "fete",
-        "marimi": [
-            "L",
-            "M",
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-g-nsw-flc-jkt-dance/"
@@ -18525,9 +18492,7 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [
-            "XL"
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-nike-y-nk-thermal-rpl-park20-fall-jacket/"
@@ -18543,11 +18508,7 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-adidasi/",
         "tip": "Adidași",
         "gen": "unisex",
-        "marimi": [
-            38,
-            39,
-            40
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/pantofi-sport-tommy-hilfiger-low-cut-lace-up-sneaker/"
@@ -18563,10 +18524,7 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-adidasi/",
         "tip": "Adidași",
         "gen": "unisex",
-        "marimi": [
-            40,
-            41
-        ],
+        "marimi": [],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/pantofi-sport-tommy-hilfiger-logo-low-cut-lace-up-sneaker/"
@@ -22747,7 +22705,7 @@
             "128-134",
             "140-146"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/mini-rodini-geaca-copii-ritzratz-4/"
     },
