@@ -10,7 +10,12 @@
         "categorie_frunza": "/categorie/baieti-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "baieti",
-        "marimi": [],
+        "marimi": [
+            "L",
+            "M",
+            "S",
+            "XL"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-jdb-ess-draft-jacket/"
@@ -26,7 +31,10 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            4,
+            6
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-nkg-club-hbr-woven-jacket/"
@@ -42,7 +50,11 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            "L",
+            "M",
+            "XL"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-k-nsw-rpl-wr-hd-jkt/"
@@ -58,7 +70,11 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            "L",
+            "M",
+            "XL"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geaca-nike-k-nsw-tf-swsh-pfr-jkt/"
@@ -91,6 +107,7 @@
         "tip": "Geci & jachete",
         "gen": "unisex",
         "marimi": [
+            "M",
             "XL"
         ],
         "cu_stoc": true,
@@ -108,7 +125,10 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-ghete-cizme/",
         "tip": "Ghete & cizme",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            31,
+            "32.5"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/ghete-ugg-classic-ultra-mini/"
@@ -124,7 +144,9 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            "S"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geaca-ea7-m-down-medium-hooded-jacket-camou/"
@@ -180,7 +202,14 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-ghete-cizme/",
         "tip": "Ghete & cizme",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/ghete-tommy-hilfiger-lace-up-bootie/"
@@ -7172,6 +7201,11 @@
         "tip": "Ghete & cizme",
         "gen": "fete",
         "marimi": [
+            20,
+            21,
+            22,
+            23,
+            24,
             25,
             26,
             27,
@@ -10637,11 +10671,7 @@
             32,
             33,
             34,
-            35,
-            36,
-            37,
-            38,
-            39
+            35
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -12910,7 +12940,7 @@
             140,
             152
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/jack-wolfskin-geaca-copii-3in1-canvey-kids/"
     },
@@ -14688,7 +14718,7 @@
             28,
             29
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-2350000/"
     },
@@ -18476,7 +18506,11 @@
         "categorie_frunza": "/categorie/geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "fete",
-        "marimi": [],
+        "marimi": [
+            "L",
+            "M",
+            "XL"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-nike-g-nsw-flc-jkt-dance/"
@@ -18492,7 +18526,9 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            "XL"
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-nike-y-nk-thermal-rpl-park20-fall-jacket/"
@@ -18508,7 +18544,11 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-adidasi/",
         "tip": "Adidași",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            38,
+            39,
+            40
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/pantofi-sport-tommy-hilfiger-low-cut-lace-up-sneaker/"
@@ -18524,7 +18564,10 @@
         "categorie_frunza": "/categorie/unisex-incaltaminte-adidasi/",
         "tip": "Adidași",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            40,
+            41
+        ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/pantofi-sport-tommy-hilfiger-logo-low-cut-lace-up-sneaker/"
@@ -20854,7 +20897,7 @@
             122,
             128
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/donsje-geaca-copii-suzan-jacket/"
     },
@@ -25339,7 +25382,7 @@
             23,
             24
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-23547/"
     },
@@ -28112,7 +28155,7 @@
             34,
             35
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-ghete-scurte-pentru-copii-din-piele-intoarsa/"
     },
@@ -29106,7 +29149,7 @@
         "marimi": [
             156
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/marc-jacobs-geaca-de-blugi-pentru-copii-din-bumbac/"
     },
@@ -29129,7 +29172,7 @@
             160,
             170
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/united-colors-of-benetton-geaca-de-puf-pentru-copii-2wu0cn04z/"
     },
