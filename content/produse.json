@@ -2654,7 +2654,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/calvin-klein-jeans-geaca-copii/"
     },
@@ -5359,7 +5359,7 @@
             28,
             29
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii/"
     },
@@ -8636,7 +8636,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-8856400/"
     },
@@ -9713,7 +9713,7 @@
             "118-122",
             "122-125"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-n6yl01/"
     },
@@ -12296,7 +12296,12 @@
             104,
             110,
             116,
-            122
+            122,
+            128,
+            140,
+            152,
+            164,
+            176
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -14279,13 +14284,11 @@
         "tip": "Geci & jachete",
         "gen": "fete",
         "marimi": [
-            130,
-            142,
             154,
             166,
             172
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/colmar-geaca-de-puf-pentru-copii-caption/"
     },
@@ -17189,7 +17192,7 @@
             134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/liewood-jeans-copii-borris-printed-denim-pants/"
     },
@@ -18173,7 +18176,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-bomber-de-tranzitie-fete-croiala-supradimensionata-fara-gluga/"
     },
@@ -18198,7 +18201,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-bomber-pentru-fete-neagra-croiala-oversize-fara-gluga/"
     },
@@ -18361,7 +18364,7 @@
             116,
             128
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-baieti/"
     },
@@ -18385,7 +18388,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-softshell-pentru-fete-rezistenta-la-vant-gluga-hidrofob/"
     },
@@ -18472,7 +18475,7 @@
             152,
             158
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/vesta-fete-302874682/"
     },
@@ -18491,7 +18494,7 @@
             128,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/copii-78645/"
     },
@@ -20206,7 +20209,7 @@
             "118-122",
             "122-125"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-w2656/"
     },
@@ -24922,7 +24925,7 @@
             23,
             24
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-23500/"
     },
@@ -27473,7 +27476,7 @@
             33,
             34
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-sneakers-pentru-copii-din-piele-261212/"
     },
@@ -30350,8 +30353,6 @@
         "tip": "Ghete & cizme",
         "gen": "unisex",
         "marimi": [
-            28,
-            29,
             30,
             31,
             32,
