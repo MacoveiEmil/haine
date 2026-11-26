@@ -90,7 +90,9 @@
         "categorie_frunza": "/categorie/unisex-imbracaminte-geci-jachete/",
         "tip": "Geci & jachete",
         "gen": "unisex",
-        "marimi": [],
+        "marimi": [
+            5
+        ],
         "cu_stoc": true,
         "descriere_versiune": "",
         "pagina": "/produs/geaca-nike-nkn-seamless-quilt-puffer-jkt/"
@@ -8636,7 +8638,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii-8856400/"
     },
@@ -9642,7 +9644,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-2354711/"
     },
@@ -11691,7 +11693,7 @@
             "150-161",
             "163-174"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/polo-ralph-lauren-palton-copii/"
     },
@@ -14716,7 +14718,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-2350000/"
     },
@@ -16655,7 +16657,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-rochie-din-denim-pentru-copii/"
     },
@@ -19536,7 +19538,7 @@
             39,
             40
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-bocanci-copii-34028/"
     },
@@ -20735,7 +20737,7 @@
             "158-166",
             167
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-w2607/"
     },
@@ -20781,7 +20783,7 @@
             34,
             35
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geox-perth-sneakers-pentru-copii-0mems/"
     },
@@ -24852,7 +24854,7 @@
             "150-161",
             "163-174"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/polo-ralph-lauren-palton-copii-323970093001/"
     },
@@ -29759,7 +29761,7 @@
             104,
             110
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-pantaloni-pentru-sporturi-de-iarna-pentru-copii-matias/"
     },
@@ -30462,9 +30464,6 @@
         "tip": "Pantaloni & treninguri",
         "gen": "unisex",
         "marimi": [
-            92,
-            98,
-            104,
             110,
             116,
             122,
