@@ -2120,6 +2120,8 @@
         "tip": "Geci & jachete",
         "gen": "baieti",
         "marimi": [
+            "68-76",
+            "77-88",
             "88-96",
             "96-104",
             "105-112",
@@ -3502,7 +3504,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kb0kb09882/"
     },
@@ -5485,7 +5487,7 @@
             116,
             122
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-geaca-copii-kg0kg08927/"
     },
@@ -17784,7 +17786,7 @@
             "122-128",
             "134-140"
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/konges-slojd-pulover-de-lana-pentru-copii-billi-sweater/"
     },
@@ -17974,7 +17976,7 @@
             23,
             24
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/froddo-ghete-de-iarna-pentru-copii-din-piele-basco-tex/"
     },
@@ -18056,7 +18058,7 @@
         "marimi": [
             37
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/cizme-youth-snowtrot-mid-material-pentru-baieti/"
     },
@@ -18173,7 +18175,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-bomber-de-tranzitie-fete-croiala-supradimensionata-fara-gluga/"
     },
@@ -18198,7 +18200,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-bomber-pentru-fete-neagra-croiala-oversize-fara-gluga/"
     },
@@ -18298,7 +18300,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-din-puf-pentru-fete-usoara-cu-guler-ridicat/"
     },
@@ -18361,7 +18363,7 @@
             116,
             128
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-baieti/"
     },
@@ -18385,7 +18387,7 @@
             158,
             164
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/jacheta-softshell-pentru-fete-rezistenta-la-vant-gluga-hidrofob/"
     },
@@ -18472,7 +18474,7 @@
             152,
             158
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/vesta-fete-302874682/"
     },
@@ -18491,7 +18493,7 @@
             128,
             140
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/copii-78645/"
     },
@@ -22111,7 +22113,7 @@
             33,
             34
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-pentru-copii-5/"
     },
@@ -24559,7 +24561,7 @@
             35,
             36
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "",
         "pagina": "/produs/ugg-lowmel-sneakers-pentru-copii-3/"
     },
@@ -24922,7 +24924,7 @@
             23,
             24
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-23500/"
     },
