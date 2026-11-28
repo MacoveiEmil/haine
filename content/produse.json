@@ -2534,13 +2534,7 @@
             32,
             33,
             34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41
+            35
         ],
         "cu_stoc": true,
         "descriere_versiune": "v7",
@@ -2736,7 +2730,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/pinko-geaca-copii/"
     },
@@ -3672,7 +3666,7 @@
             37,
             38
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-sneakers-pentru-copii-262277/"
     },
@@ -5363,7 +5357,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-cizme-de-iarna-copii/"
     },
@@ -10494,7 +10488,7 @@
             164,
             176
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/tommy-hilfiger-bluza-copii-ks0ks00707/"
     },
@@ -13392,7 +13386,7 @@
             24,
             25
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-de-iarna-pentru-copii-261133/"
     },
@@ -15783,9 +15777,7 @@
             92,
             98,
             104,
-            110,
             "110-116",
-            116,
             "122-128",
             "134-140"
         ],
@@ -18058,7 +18050,7 @@
         "marimi": [
             37
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/cizme-youth-snowtrot-mid-material-pentru-baieti/"
     },
@@ -18300,7 +18292,7 @@
             158,
             164
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/geaca-din-puf-pentru-fete-usoara-cu-guler-ridicat/"
     },
@@ -20739,7 +20731,7 @@
             "158-166",
             167
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/guess-geaca-petrecuta-pentru-copii-w2607/"
     },
@@ -21065,7 +21057,7 @@
             134,
             140
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/mayoral-jacheta-pentru-copii-3/"
     },
@@ -22113,7 +22105,7 @@
             33,
             34
         ],
-        "cu_stoc": false,
+        "cu_stoc": true,
         "descriere_versiune": "v7",
         "pagina": "/produs/biomecanics-incaltaminte-pentru-copii-5/"
     },
@@ -24924,7 +24916,7 @@
             23,
             24
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-23500/"
     },
@@ -26869,7 +26861,7 @@
             28,
             29
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/primigi-incaltaminte-de-iarna-pentru-copii-18/"
     },
@@ -31192,17 +31184,9 @@
         "tip": "Ghete & cizme",
         "gen": "unisex",
         "marimi": [
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38
+            32
         ],
-        "cu_stoc": true,
+        "cu_stoc": false,
         "descriere_versiune": "v7",
         "pagina": "/produs/reima-konkari-incaltaminte-de-iarna-copii-negru-marime/"
     },
